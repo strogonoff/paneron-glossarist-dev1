@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.47
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 01a48efa-06ab-5398-86eb-a5aea4973e31
+  definition: Datum, das die Beziehung eines parametrischen Koordinatensystems zu
+    einem Objekt beschreibt
+  examples: []
+  notes:
+  - The object is normally the Earth.
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 55219bda-38fa-52a8-b5e6-6d430c07a11e
+status: valid

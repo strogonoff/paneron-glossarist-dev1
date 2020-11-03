@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: e1e646ef-9eaf-5967-a9a7-7f43a99127f8
+  definition: referenssystem för att ange ett läge i den verkliga världen
+  examples: []
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: 4f1a90f8-8d17-53a7-b33f-fa0aaf8455d3
+status: valid

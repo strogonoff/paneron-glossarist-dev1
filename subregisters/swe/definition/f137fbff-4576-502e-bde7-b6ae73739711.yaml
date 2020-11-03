@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44459.html
+    ref: ISO 19110:2005/Amd 1:2011
+  concept: 2652a92f-f61c-59fb-8b6f-1dac72ca7d82
+  definition: objektsamband eller objektarv
+  examples: []
+  notes: []
+dateAccepted: 2011-06-15 00:00:00+00:00
+id: f137fbff-4576-502e-bde7-b6ae73739711
+status: retired

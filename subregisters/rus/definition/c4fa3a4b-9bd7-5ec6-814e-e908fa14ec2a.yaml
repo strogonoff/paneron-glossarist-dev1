@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 5fda04db-9e8a-5b9d-98e3-e94cb04667d3
+  definition: преобразование данных в режиме онлайн и  реальном времени
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: c4fa3a4b-9bd7-5ec6-814e-e908fa14ec2a
+status: valid

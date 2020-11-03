@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 7110c707-269d-59f3-bcf8-c4ea91bc8d56
+  definition: 拓扑对象或几何对象的内部与边界的并集。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c7addd4c-7e17-5122-86c1-6634d2feb310
+status: superseded

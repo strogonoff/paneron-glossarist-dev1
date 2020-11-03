@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: bc2c9549-d983-5ce2-b580-11b40a4345c1
+  definition: замена единицы учета в реестре на одну или несколько новых единиц
+  examples: []
+  notes:
+  - Статус замененной единицы учета изменяется от "действительный" до "устаревший"
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: b9817a9d-0f8e-5a56-934d-b12292b232af
+status: valid

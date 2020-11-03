@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 6b91532d-745c-5b5f-897a-f32dd10c446f
+  definition: 경계가 없는 공간 객체
+  examples: []
+  notes:
+  - 순환은 경계 컴포넌트(외면, 링)의 기술에 사용된다. 순환은 스스로 완결되어 있지만 묶여 있기 때문에 경계가 없다. 예를 들어 원이나 구는
+    경계가 없지만 묶여 있다.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5cac844f-8b91-58cb-9823-c067a35556a7
+status: retired

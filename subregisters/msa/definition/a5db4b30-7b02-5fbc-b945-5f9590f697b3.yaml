@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.26'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 7d8ca166-5a2c-5b94-b14f-4ff35abdecc1
+  definition: bahan atau sesuatu yg menjadi perantara bagi menghasilkan sesuatu kesan
+  examples:
+  - Compact disc, internet [1], radio waves, etc.
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: a5db4b30-7b02-5fbc-b945-5f9590f697b3
+status: valid

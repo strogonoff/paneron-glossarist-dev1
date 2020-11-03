@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.21
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: a22a92db-f56b-51a4-908f-c7a9d3fc42b5
+  definition: lenguaje cuya sintaxis se expresa en términos de símbolos gráficos
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 8646b61d-91a5-596f-98f7-b57ca4b56d07
+status: valid

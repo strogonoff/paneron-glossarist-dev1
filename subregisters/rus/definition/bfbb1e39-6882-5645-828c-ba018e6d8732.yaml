@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44459.html
+    ref: ISO 19110:2005/Amd 1:2011
+  concept: 2652a92f-f61c-59fb-8b6f-1dac72ca7d82
+  definition: ассоциация объектов  или наследование объектов
+  examples: []
+  notes: []
+dateAccepted: 2011-06-15 00:00:00+00:00
+id: bfbb1e39-6882-5645-828c-ba018e6d8732
+status: valid

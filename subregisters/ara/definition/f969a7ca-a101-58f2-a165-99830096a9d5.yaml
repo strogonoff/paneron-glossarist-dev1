@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: 5019e6f7-6132-5a2c-b044-ec5746ccbffd
+  definition: قيمة ثابتة ومحددة بوضوح
+  examples: []
+  notes:
+  - هذا على النقيض من القيمة التي يتم تحديدها عن طريق حل سلسلة من التعويضات (مثل متغير
+    مثلا).
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: f969a7ca-a101-58f2-a165-99830096a9d5
+status: valid

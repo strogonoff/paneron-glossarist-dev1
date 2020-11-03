@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 23ec0579-fc3b-5cb8-ae46-d386d8dc7217
+  definition: norma que contiene las definiciones de las clases de ítems que requieren
+    registro
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: b8a94870-e91c-5d46-9691-634b371e37a9
+status: valid

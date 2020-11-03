@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.6'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 65bbe58e-0393-5049-8f3d-c269b3d1b83e
+  definition: operation(er), som indgår i anvendelsen af metoder til kvalitetsvurdering,
+    og benyttes til at rapportere resultaterne heraf
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 589c164c-0a7b-5ac9-bc8c-08aa238f3545
+status: retired

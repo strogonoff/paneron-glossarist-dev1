@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: c3629c38-a578-5c3a-ad62-e55dc1b64011
+  definition: catalogue containing definitions and descriptions of the feature types,
+    feature attributes, and feature relationships occurring in one or more sets of
+    geographic data, together with any feature operations that may be applied
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 34db2d3b-4bf6-5264-972d-efe763a03bce
+status: valid

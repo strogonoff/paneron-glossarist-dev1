@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: e885201d-6086-505e-843e-601934d99480
+  definition: 'Aspekt oder Attribut eines Objekts, referenziert durch einen Namen
+
+    Portele (bei Prüfung von 19109): "benannter Aspekt oder benanntes Attribut eines
+    Objekts", da referenziert verwirrend ist'
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 7f23b23f-a7b5-531a-8c60-8f052d75551a
+status: valid

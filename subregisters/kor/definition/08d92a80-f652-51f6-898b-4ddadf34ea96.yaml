@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.3.10, modified - Note has been deleted.
+    link: https://www.iso.org/standard/34006.html
+    ref: ISO 10303-227:2005
+  concept: da29765c-865d-5a39-8eb5-d95aef5f6955
+  definition: 수집된 품목에 관한 정보를 담고 있는 전자문서, 종이문서 또는 수집 품목 목록
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: 08d92a80-f652-51f6-898b-4ddadf34ea96
+status: valid

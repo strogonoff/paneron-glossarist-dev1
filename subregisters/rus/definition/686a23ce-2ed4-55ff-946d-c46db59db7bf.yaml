@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.1'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: e277c0fe-2c97-5bb7-802f-c035ce8a6a24
+  definition: любые пояснительные метки, размещаемые на иллюстративном материале
+  examples: []
+  notes:
+  - Примерами аннотаций служат цифры, буквы,  обозначения и подписи
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 686a23ce-2ed4-55ff-946d-c46db59db7bf
+status: valid

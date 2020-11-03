@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.58
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: a99ecefd-1c5d-54ab-a990-4bd3b91a4c03
+  definition: związek pomiędzy dwiema dziedzinami (takimi jak dwa kompleksy) taki,
+    że istnieją funkcje jeden-do-jeden z jednej dziedziny w drugą, zachowujące strukturę,
+    a złożenie tych funkcji w dowolnej kolejności jest funkcją identyczności
+  examples: []
+  notes:
+  - 'Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+    $$
+
+    ''UWAGA Złożony element geometryczny jest izomorficzny ze złożonym elementem topologicznym,
+    jeżeli ich elementy odpowiadają sobie nawzajem w stosunku jeden-do-jeden z zachowaniem
+    wymiarów i granic.
+
+    $$
+
+    A geometric complex is isomorphic to a topological complex if their elements are
+    in a 1-to-1, dimension- and boundary-preserving correspondence to one another.
+    \[[A,B \textit{ isomorphic}] \Leftrightarrow [\exists f : A \rightarrow B, g :
+    B \rightarrow A \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]'
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: f1413713-dbfb-5b8d-9539-7feeb755be4c
+status: valid

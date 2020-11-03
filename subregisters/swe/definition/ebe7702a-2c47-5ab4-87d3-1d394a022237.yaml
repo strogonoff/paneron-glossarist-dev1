@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: e2fb1164-683f-593e-9ea9-bf86499a31b0
+  definition: explicit definition of a property as a name-value pair
+  examples: []
+  notes:
+  - In a tagged value, the name is referred as the tag. Certain tags are predefined
+    in the UML; others may be user defined. Tagged values are one of three extensibility
+    mechanisms in UML. The others are constraint and stereotype.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: ebe7702a-2c47-5ab4-87d3-1d394a022237
+status: superseded

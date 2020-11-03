@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.86
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: ab089f4c-0614-5303-852b-5cd48608aea9
+  definition: model using functions whose coefficients are based on a Physical Sensor
+    Model
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 126468d2-23f1-5374-a322-2c4040626a08
+status: valid

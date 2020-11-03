@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: e1e646ef-9eaf-5967-a9a7-7f43a99127f8
+  definition: 실세계에서 위치의 식별을 위한 시스템
+  examples: []
+  notes: []
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: 8a4cfec6-58dc-59c2-ac3a-229aa8cd8e4b
+status: valid

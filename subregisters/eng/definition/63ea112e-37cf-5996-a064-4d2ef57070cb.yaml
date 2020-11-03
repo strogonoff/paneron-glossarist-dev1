@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.102
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: c3047f58-0e93-535a-a256-a8f9a575456a
+  definition: conversion of one type of value to a value of a different type with
+    similar content
+  examples: []
+  notes:
+  - Point and DirectPosition are informationally identical (related to each other
+    in a one to one fashion) in this context. Given a DirectPosition, a Point can
+    be constructed. Given a Point, a DirectPosition can be derived from of its coordinates.
+    If coercion is supported, a Point may be used where a DirectPosition is requested,
+    and vice versa. Most programming languages use coercion, but others use "cast"
+    operators (a type of constructor) requiring the programmer to initiate the coercion.
+    "Strong substantiality" is related in that a subtype instance can always be coerced
+    to any of its supertypes.
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 63ea112e-37cf-5996-a064-4d2ef57070cb
+status: valid

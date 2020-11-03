@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.90
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 06368450-2bbe-59de-83c9-d6223d423454
+  definition: 曲线的第一个点。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 6c3e246a-48f8-5034-bbf2-35b5ed395eea
+status: valid

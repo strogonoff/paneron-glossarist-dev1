@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.18'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 6815c68f-083b-5817-86a3-82bb7fe7539c
+  definition: objekt som används för att identifiera läget av linjeanknutna objekt
+  examples:
+  - A feature “road” may be the locating feature for a feature “pedestrian crossing”
+    [a located feature].
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: db57c57c-5980-5d49-bb8d-abce276eb860
+status: valid

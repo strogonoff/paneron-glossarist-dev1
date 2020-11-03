@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.9
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 0f94560c-b653-563d-a44c-8f31858a373d
+  definition: 包含注册项标识符和相关项说明的文件集合。
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 764462f1-165d-5655-b211-cbf94e341b00
+status: valid

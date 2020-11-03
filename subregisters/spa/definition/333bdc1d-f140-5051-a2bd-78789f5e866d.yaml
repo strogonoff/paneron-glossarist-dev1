@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 1491d0d6-9aaa-539b-9b30-68a114f68ca0
+  definition: prueba para encontrar errores en la implementación
+  examples: []
+  notes:
+  - Si se encuentran errores, se puede dedudir correctamente, que la implementación
+    no es conforme con la norma internacional; sin embargo, la ausencia de errores
+    no implica, necesariamente, lo contrario. La prueba de falsación sólo demuestra
+    la no-conformidad.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 333bdc1d-f140-5051-a2bd-78789f5e866d
+status: valid

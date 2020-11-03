@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '3.8'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 8248101a-7fd7-526e-bfbb-000a1995fba1
+  definition: 피처 연산을 기술하는데 사용되는 언어
+  examples: []
+  notes:
+  - 함수 언어에서 피처 유형은 추상 데이터 유형으로 표현될 수 있다.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 48ed713e-2c00-56dc-baca-d4eb0187c81b
+status: valid

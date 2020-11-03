@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.55
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 46fed6bc-59b7-5ecf-9432-0beff595799d
+  definition: nœud n'étant relié à aucune arête
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ad0f7d52-54f8-58eb-b443-0e65d14457e0
+status: valid

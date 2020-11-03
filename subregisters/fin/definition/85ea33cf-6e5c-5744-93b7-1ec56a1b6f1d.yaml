@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 71236915-e5fd-5c87-982d-7947514d407d
+  definition: testattavana olevan toteutuksen (Implementation Under Test, IUT) oikeellisuuden
+    pitävään osoittamiseen kehitetty testi
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 85ea33cf-6e5c-5744-93b7-1ec56a1b6f1d
+status: valid

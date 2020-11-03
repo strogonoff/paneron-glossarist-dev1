@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: b7159c46-daf0-55a5-a3aa-68a999c47519
+  definition: 모델을 표현하기 위한 언어를 정의하는 모델
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: e41e6006-b1f3-57f4-85cb-c0e25e6a6214
+status: superseded

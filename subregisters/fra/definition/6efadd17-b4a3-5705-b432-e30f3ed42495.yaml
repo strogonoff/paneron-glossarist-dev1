@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.47
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: d6db41d9-71e7-5966-b9af-0b3a6a1409be
+  definition: primitive géographique de dimension 0 représentant une position
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 6efadd17-b4a3-5705-b432-e30f3ed42495
+status: valid

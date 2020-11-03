@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: ecaf590d-e4e9-53c9-938b-42b103d86195
+  definition: nod dalam sempadan bagi suatu pinggir yang bersepadanan dengan titik
+    akhir pinggir itu sebagai lengkung dalam mana-mana realisasi geometri yang sah
+    kepada suatu kompleks topologi di mana pinggir tersebut digunakan
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c677c1d2-e15a-50ba-a084-3fa9b6d8b689
+status: superseded

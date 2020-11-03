@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 01cc734d-fdf1-52e5-a399-d3255e183066
+  definition: sistema de posicionamiento que mide la distancia desde un punto de referencia
+    a lo largo de una ruta (objeto geográfico)
+  examples: []
+  notes:
+  - El sistema incluye el conjunto completo de procedimientos para determinar y retener
+    un bloque de puntos específicos a lo largo de un objeto geográfico lineal así
+    como el método (o métodos) de referencia de localización junto a los procedimientos
+    para el almacenamiento, conservación y recupe¬ración de información de localización
+    sobre puntos y segmentos de la carretera [NCHRP Syntesis 21, 1974].
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 0ee57ee1-0dfe-5c5f-9c8e-a38f036ed068
+status: superseded

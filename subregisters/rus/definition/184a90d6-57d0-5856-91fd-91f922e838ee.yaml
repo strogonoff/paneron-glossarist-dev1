@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44316.html
+    ref: ISO/TS 27790:2009
+  concept: 4c632434-d187-5e1a-b312-e5e278bfa72a
+  definition: логическая структура для классификации и организации сложной информации
+  examples: []
+  notes: []
+dateAccepted: 2012-11-15 00:00:00+00:00
+id: 184a90d6-57d0-5856-91fd-91f922e838ee
+status: valid

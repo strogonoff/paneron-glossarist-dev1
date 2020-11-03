@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.23
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 5ce21ae3-1373-5c00-a1fa-ea88fdbacfab
+  definition: 某点位置由大地纬度,大地经度和椭球高(三维情况)来确定的坐标系。
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: f6d93acd-6d1f-5d3e-8cbc-4df5bfef8b90
+status: valid

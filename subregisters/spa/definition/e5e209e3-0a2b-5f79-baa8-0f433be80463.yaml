@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: fe829ed0-6749-576a-9d19-a3730a859ef8
+  definition: conjunto de geometrías de un parámetro tal que cada punto en el prisma
+    del conjunto está en una y solo una trayectoria y en una y solo una hoja
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: e5e209e3-0a2b-5f79-baa8-0f433be80463
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.53
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 20f08b89-d2c4-58e3-9669-f9fed587d16c
+  definition: colección de componentes de esquema dentro del mismo espacio de nombres
+    destino (target namespace)
+  examples:
+  - Componentes del esquema del XML W3C son los tipos, elementos, atributos, grupos,
+    etc.
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 4506719a-d2ee-5f29-a1b4-5e71c71f76e8
+status: valid

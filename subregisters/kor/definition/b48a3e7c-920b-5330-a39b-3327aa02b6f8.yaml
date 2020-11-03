@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/51789.html
+    ref: ISO/TS 19130:2010
+  concept: 351e3d85-cf58-503c-81c4-a095fd2ad868
+  definition: 개체의 지리적 위치를 결정하는 것
+  examples: []
+  notes:
+  - While there are many methods for geopositioning, this Technical Specification
+    is focused on geopositioning from image coordinates
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: b48a3e7c-920b-5330-a39b-3327aa02b6f8
+status: superseded

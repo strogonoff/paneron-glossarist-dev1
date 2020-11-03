@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.18'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 6815c68f-083b-5817-86a3-82bb7fe7539c
+  definition: feature that is used to identify the location of linearly located features
+  examples:
+  - A feature “road” may be the locating feature for a feature “pedestrian crossing”
+    [a located feature].
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: ed7a027d-f039-5ef5-98d2-214f30639099
+status: valid

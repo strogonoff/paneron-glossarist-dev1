@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 39feecbe-95cc-5d6b-96a2-b9957436d827
+  definition: واحد من سلسلة أعداد (ع) تحدد موقع نقطة في حيز مكاني أبعاده (ع)
+  examples: []
+  notes:
+  - في نظام الإحداثيات المرجعي توصف أعداد الإحداثيات بالوحدات.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 7a8a3440-34be-53cf-b013-c2d0c4f7ba8b
+status: superseded

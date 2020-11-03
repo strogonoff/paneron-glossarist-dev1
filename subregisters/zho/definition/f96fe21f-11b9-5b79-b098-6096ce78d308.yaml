@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: fb262300-c91b-5ece-b2ab-d743f7a3d475
+  definition: 可执行测试用例的集合。
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: f96fe21f-11b9-5b79-b098-6096ce78d308
+status: valid

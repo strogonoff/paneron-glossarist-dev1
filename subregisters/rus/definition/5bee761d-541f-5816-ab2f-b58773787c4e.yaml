@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: ISO/IEC JTC1 Procedures (Adapted from)
+    ref: Annex E
+  concept: 0f94560c-b653-563d-a44c-8f31858a373d
+  definition: набор файлов, содержащий идентификаторы объектов с описаниями объектов
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 5bee761d-541f-5816-ab2f-b58773787c4e
+status: valid

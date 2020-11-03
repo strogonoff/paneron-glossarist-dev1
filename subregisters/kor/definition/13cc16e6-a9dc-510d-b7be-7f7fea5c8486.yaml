@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: 7ef10b9e-9426-5063-9401-c40dbaf535bc
+  definition: 한 개 또는 그 이상의 지형지물 조작 유형으로 명시될 수 있는 개념
+  examples:
+  - A "traffic flow" operation might return the number of persons or vehicles expected
+    to move on or through some kind of transportation feature during a period of time
+    specified as input to the operation.
+  notes: []
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: 13cc16e6-a9dc-510d-b7be-7f7fea5c8486
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.18'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 8056c7ed-7a09-586c-804f-24f3a9e629b1
+  definition: 지리와 관련된 허가증
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: e36bb8e7-994b-5f4a-9398-af5e9da8e4de
+status: valid

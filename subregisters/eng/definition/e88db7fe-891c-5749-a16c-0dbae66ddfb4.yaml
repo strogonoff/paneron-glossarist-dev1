@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 2812f1b3-d22b-5209-920b-8a20c3c312e1
+  definition: polygon that encloses one of a set of points on a plane so as to include
+    all direct positions that are closer to that point than to any other point in
+    the set
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: e88db7fe-891c-5749-a16c-0dbae66ddfb4
+status: valid

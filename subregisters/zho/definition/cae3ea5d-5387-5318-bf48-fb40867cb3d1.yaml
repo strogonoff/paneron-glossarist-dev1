@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: f535d19b-51bc-5153-9881-72f34b5a6f81
+  definition: 通过使用构造的几何单形来表示的几何。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: cae3ea5d-5387-5318-bf48-fb40867cb3d1
+status: valid

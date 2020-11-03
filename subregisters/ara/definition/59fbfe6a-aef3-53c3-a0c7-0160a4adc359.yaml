@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.34
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 01a118c3-6764-5044-a2ae-a09e13654aae
+  definition: تحديد الموقع الجغرافي لكائن باستخدام نموذج حساس مادي أو نموذج مستبدل
+    حقيقي
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 59fbfe6a-aef3-53c3-a0c7-0160a4adc359
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 2812f1b3-d22b-5209-920b-8a20c3c312e1
+  definition: yta i form av en sluten polygon vilken innehåller en observationspunkt
+    och är utformad så att en godtycklig punkt inom ytan alltid befinner sig närmare
+    den egna ytans observationspunkt än en angränsande ytas observationspunkt
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 66ea30ad-85cd-5fe6-83e0-6e3cfb5dc802
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.39
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 68698ab2-aa02-5171-b6c7-9e477e83fe96
+  definition: niiden pisteiden joukko, jotka kuuluvat geometriseen objektiin mutta
+    eivät sen rajaukseen
+  examples: []
+  notes:
+  - Topologisen objektin sisäpuoli on objektin minkä hyvänsä geometrisen ilmentymän
+    sisäpuolen homomorfinen kuva. Tätä ehtoa ei ole tässä yhteydessä otettu käsitteen
+    määritelmäksi, sillä se on seuraus eräästä topologian teoreemasta.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 21c70145-a330-59dd-8531-e3d4aa2923be
+status: valid

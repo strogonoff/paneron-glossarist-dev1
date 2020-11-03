@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 6aaea69a-60be-51b4-857f-111838a27982
+  definition: 어떤 대상이 특정 자원에 대한 명시적 권한을 부여받을 지에 대해 결정하는 것
+  examples: []
+  notes:
+  - Usually, authorization is in the context of authentication. Once a subject is
+    authenticated, it can be authorized to perform different types of access.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 95345839-2b3f-53c3-82a8-1bff543adc7c
+status: valid

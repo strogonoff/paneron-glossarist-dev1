@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: OWL
+  concept: 34c2aeae-8d24-5d45-84a8-4b49364b8a45
+  definition: cardinality restriction that applies to all literals or individuals
+    that are connected by a data property or an object property
+  examples: []
+  notes: []
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 91b5ad3b-9d62-5b2b-baf9-1421badbe8e6
+status: valid

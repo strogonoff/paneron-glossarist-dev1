@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.75'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 035ce261-21e5-5a69-b461-b430b5eac19b
+  definition: Kawasan tanah di mana data dikumpulkan secara berterusan semasa operasi
+    LIDAR.
+  examples: []
+  notes:
+  - A typical mapping mission may consist of multiple adjacent swaths, with some overlap,
+    and the operator will turn off the laser while the aircraft is oriented for the
+    next swath.  This term may also be referred to as a Pass.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 92b6a5bc-434f-53d2-baf3-1a96e873ed05
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.57
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: e4004fa9-7f02-5e50-be8f-b1eb87bab797
+  definition: 局所的に平面領域の連続な像を表す二次元の幾何プリミティブ。
+  examples: []
+  notes:
+  - 曲面の境界は，曲面の限界の輪郭を描く向きをもつ閉曲線である。球面又はn次元トーラス（n次元“把”をもつ位相球面）と同形である曲面は，境界をもたない。このような曲面を輪体と呼ぶ。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 7a6448de-cf67-5e2b-85f7-81cb2286fd18
+status: valid

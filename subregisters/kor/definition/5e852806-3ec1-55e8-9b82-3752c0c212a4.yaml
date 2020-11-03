@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.20'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 85621795-5ef2-50ea-93cd-fb4cd3643ef8
+  definition: 정보를 인간에게 보여주는 것
+  examples: []
+  notes: []
+dateAccepted: 2006-05-01 00:00:00+00:00
+id: 5e852806-3ec1-55e8-9b82-3752c0c212a4
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: bddc7775-973f-56ca-9d11-f9eab6e1ac25
+  definition: information about a resource
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: cc8889b7-36bd-5036-8b48-1f883e297ef5
+status: valid

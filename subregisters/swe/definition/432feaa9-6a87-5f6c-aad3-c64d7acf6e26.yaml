@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 65cd85d7-f5ab-53fd-97c4-2dbf4288057a
+  definition: domänobjekttyp vars domän beskrivs av polygoner
+  examples: []
+  notes:
+  - Domänen kan exempelvis bestå av kvadratiska celler eller av olikformiga trianglar.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 432feaa9-6a87-5f6c-aad3-c64d7acf6e26
+status: valid

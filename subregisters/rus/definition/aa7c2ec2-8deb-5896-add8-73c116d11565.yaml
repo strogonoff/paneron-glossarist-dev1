@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/3626.html
+    ref: 'ISO 31-2:1992 '
+  concept: d2a2dd44-8a3b-52a6-8269-4fbf686e1e5d
+  definition: продолжительность одного цикла
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: aa7c2ec2-8deb-5896-add8-73c116d11565
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: be46792d-05d5-527d-91b0-1269595f584b
+  definition: conjunto de valores de atributos de objetos geográficos asociados mediante
+    una función con los elementos del dominio de una cobertura
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 3856acb5-9c36-51f8-ba8e-d115a4537b0e
+status: valid

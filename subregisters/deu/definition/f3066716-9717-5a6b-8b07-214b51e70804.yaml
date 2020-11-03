@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.39
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 628b8570-5882-5c9c-8a4b-efd3efd717f0
+  definition: eindimensionales Koordinatensystem, dessen Achse durch ein lineares
+    Feature beschrieben wird
+  examples:
+  - Distances along a pipeline; depths down a deviated oil well bore.
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: f3066716-9717-5a6b-8b07-214b51e70804
+status: valid

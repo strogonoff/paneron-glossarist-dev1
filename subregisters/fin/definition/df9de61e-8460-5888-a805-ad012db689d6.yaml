@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: c3b627a5-09ef-5a71-8cd5-e8c87b8cd4b7
+  definition: yleisluonteinen laatumittari, joka toimii pohjana erityisten laatumittareiden
+    luomiselle
+  examples: []
+  notes:
+  - Tiedon peruslaatumittarit ovat abstrakteja tietotyyppejä, eikä niitä voi suoraan
+    käyttää tiedon laadun raportointiin.
+dateAccepted: 2013-07-03 00:00:00+00:00
+id: df9de61e-8460-5888-a805-ad012db689d6
+status: valid

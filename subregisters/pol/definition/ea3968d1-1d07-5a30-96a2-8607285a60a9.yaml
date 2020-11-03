@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 22344b11-73a8-5c14-8ea8-63a74b0c1027
+  definition: siatka związana z transformacją, która może być użyta do konwersji wartości
+    współrzędnych siatki na wartości współrzędnych odnoszących się do zewnętrznego
+    systemu odniesień przestrzennych
+  examples: []
+  notes:
+  - Jeśli ten system odniesień przestrzennych jest powiązany z Ziemią przezukład odniesienia,
+    to siatka jest siatką geotransformowalną.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: ea3968d1-1d07-5a30-96a2-8607285a60a9
+status: valid

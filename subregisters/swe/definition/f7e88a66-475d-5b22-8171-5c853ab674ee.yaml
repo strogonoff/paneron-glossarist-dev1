@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.24'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: c88d1549-edc7-5e4b-8e3b-74afc651d576
+  definition: specification of the range of allowable cardinalities that a set may
+    assume
+  examples: []
+  notes:
+  - 'Multiplicity specifications may be given for roles within associations, parts
+    within composites, repetitions and other purposes. Essentially a multiplicity
+    is a (possibly infinite) subset of the non-negative integers. Contrast: cardinality.'
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: f7e88a66-475d-5b22-8171-5c853ab674ee
+status: valid

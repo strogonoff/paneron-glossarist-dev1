@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.8
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 1d705f07-cdf7-5742-b786-5011e3a7d41c
+  definition: anchura angular útil del haz de energía electromagnética
+  examples: []
+  notes:
+  - La anchura del haz se mide normalmente en radianes y se conoce como la medida
+    angular entre dos puntos que tienen el 50% de la energía (3dB por debajo) del
+    centro del haz. Es una propiedad de la antena. La energía emitida fuera de este
+    ángulo es demasiado pequeña como para proporcionar una respuesta útil.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: bb3ba3be-0101-5d3a-80a1-cb63695980d0
+status: valid

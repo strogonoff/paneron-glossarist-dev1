@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 45e0ef0b-7f48-5bb0-aedf-c4a5dc013205
+  definition: verkko, joka muodostuu kahdesta tai useammasta käyrästöstä, jotka leikkaavat
+    toisiaan määrätyn säännön mukaisesti
+  examples: []
+  notes:
+  - Käyrät jakavat avaruuden ruutuihin.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 64485ac0-92af-5fd1-a21e-1c5a242c71ce
+status: valid

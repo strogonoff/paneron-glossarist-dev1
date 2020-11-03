@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 93634d4c-734e-546e-bfd1-df55647db88d
+  definition: 부호화 규칙을 제공하는 소프트웨어 컴포넌트
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: 80520f3a-a805-5ebf-a41a-030f61e2e4e0
+status: valid

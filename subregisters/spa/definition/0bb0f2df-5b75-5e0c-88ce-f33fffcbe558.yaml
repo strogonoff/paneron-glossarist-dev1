@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: 5cd21fd0-21d9-5b6e-b1e5-db51d103a3af
+  definition: nivel que contiene datos que describen instancias específicas
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 0bb0f2df-5b75-5e0c-88ce-f33fffcbe558
+status: retired

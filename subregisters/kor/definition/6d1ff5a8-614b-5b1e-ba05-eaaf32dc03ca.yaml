@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 2812f1b3-d22b-5209-920b-8a20c3c312e1
+  definition: 집합 내의 어떤 직접 위치에서도 다각형 내부에 위치한 점까지의 거리가 다른 다각형 내에 위치한 거리보다 가까운 다각형
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 6d1ff5a8-614b-5b1e-ba05-eaaf32dc03ca
+status: valid

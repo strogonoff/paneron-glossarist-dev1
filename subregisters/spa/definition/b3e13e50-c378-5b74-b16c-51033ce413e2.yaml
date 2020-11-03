@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.36
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 34a159ac-d539-512c-b042-cce2a4822855
+  definition: subconjunto de un esquema GML
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: b3e13e50-c378-5b74-b16c-51033ce413e2
+status: valid

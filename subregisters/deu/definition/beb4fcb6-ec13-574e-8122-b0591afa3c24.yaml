@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 337e3766-b2fe-5d6f-bcbb-5f8864eea080
+  definition: Daten mit einem impliziten oder expliziten Ortsbezug zur Erde
+  examples: []
+  notes:
+  - Geographic information is also used as a term for information concerning phenomena
+    implicitly or explicitly associated with a location relative to the Earth.
+dateAccepted: 2005-06-15 00:00:00+00:00
+id: beb4fcb6-ec13-574e-8122-b0591afa3c24
+status: valid

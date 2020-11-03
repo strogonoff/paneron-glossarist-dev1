@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.53
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 20f08b89-d2c4-58e3-9669-f9fed587d16c
+  definition: مجموعة مكونات مخطط ما ضمن نفس حيز الأسماء المستهدف
+  examples:
+  - مكونات المخطط الخاصة بمخطط لغة XML المعتمدة لدى ائتلاف الشبكة العنكبوتية الدولية
+    هي الأنواع , والعناصر , والبيانات الوصفية , والمجموعات .. وخلافه.
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: f483eb7a-96d3-58fc-9edc-621b06ca21b8
+status: valid

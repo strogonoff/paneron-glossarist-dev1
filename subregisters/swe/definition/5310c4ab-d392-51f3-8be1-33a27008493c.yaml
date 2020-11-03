@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.11
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: a753afac-d6c0-5014-8b47-687dc4eec9b7
+  definition: korrigerad för lägesförskjutning i förhållande till jordytan
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 5310c4ab-d392-51f3-8be1-33a27008493c
+status: valid

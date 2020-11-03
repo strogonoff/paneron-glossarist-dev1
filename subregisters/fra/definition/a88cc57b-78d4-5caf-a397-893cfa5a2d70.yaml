@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.34
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: ffba2295-ee70-531f-be2f-2b58095499e8
+  definition: dernier point d'une courbe
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: a88cc57b-78d4-5caf-a397-893cfa5a2d70
+status: valid

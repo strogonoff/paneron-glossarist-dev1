@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.11
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: c308d8f2-f7c7-53dd-b113-1139eb0b4265
+  definition: sæt af matematiske regler, der specificerer, hvordan koordinater henføres
+    til punkter
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: def49ea3-7a33-54c9-92f5-791194692bd2
+status: valid

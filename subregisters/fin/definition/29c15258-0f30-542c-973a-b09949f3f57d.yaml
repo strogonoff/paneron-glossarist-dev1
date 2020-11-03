@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 295b96c2-7d12-5f30-ab71-0887e87646a0
+  definition: joukko toisiinsa liittyviä abstrakteja testitapauksia
+  examples: []
+  notes:
+  - Abstrakteja testausmoduuleja voi sijoittaa sisäkkäin hierarkkisesti.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 29c15258-0f30-542c-973a-b09949f3f57d
+status: valid

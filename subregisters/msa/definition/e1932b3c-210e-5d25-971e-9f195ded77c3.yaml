@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 1e546ffc-c909-583d-a5f8-92f7e3c2c06e
+  definition: perihal (proses atau perbuatan) menjejaki (mengesani)
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: e1932b3c-210e-5d25-971e-9f195ded77c3
+status: valid

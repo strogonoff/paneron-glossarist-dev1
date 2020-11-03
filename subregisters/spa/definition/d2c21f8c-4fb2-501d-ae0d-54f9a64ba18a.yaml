@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.81
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 81b425c8-1936-594d-b344-591ebff0ab89
+  definition: plano que pasa por el vector velocidad del sensor y el GRP
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: d2c21f8c-4fb2-501d-ae0d-54f9a64ba18a
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 793d3827-6a1b-5a6a-a28d-76d5cbe083ff
+  definition: именованный набор операций,  характеризующих поведение элемента
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 99cb163e-20e6-5fcd-976c-a436daba03ec
+status: valid

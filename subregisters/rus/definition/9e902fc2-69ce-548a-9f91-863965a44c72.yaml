@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 3.4.23
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: f6eefac7-1acc-5fb6-8e62-94f7d13fd2de
+  definition: Отношение между обозначениями и понятиями на данном языке, в которых
+    одно обозначение относится только к одному понятию
+  examples: []
+  notes:
+  - обозначения в отношении однозначности, называются однозначности
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 9e902fc2-69ce-548a-9f91-863965a44c72
+status: valid

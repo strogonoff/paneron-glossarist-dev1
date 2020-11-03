@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 70365e5b-5e7b-5d22-b757-ccce52cb118a
+  definition: método de evaluación de la calidad de un conjunto de datos basado en
+    la inspección de sus ítems dentro del conjunto de datos
+  examples: []
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 5b55bd1d-cd10-56cf-9bd4-6b8e66f5da15
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: c3629c38-a578-5c3a-ad62-e55dc1b64011
+  definition: كتلوج يشتمل على تعريفات وأوصاف لأنواع المعالم ، وبيانات وصف المعالم،
+    وعلاقات المعالم الموجودة في مجموعة واحدة أو أكثر من البيانات الجغرافية ، بالإضافة
+    إلى أي عمليات يمكن تطبيقها على المعالم
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 167e2b89-e866-5ace-9cbf-8b8e4315d6d6
+status: valid

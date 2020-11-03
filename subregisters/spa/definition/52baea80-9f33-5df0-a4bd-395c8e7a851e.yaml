@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0169da6f-7969-51bc-942f-f87477822a21
+  definition: tipo y subtipo de medio en el cuerpo de un mensaje que indica la representación
+    nativa (forma canónica) de estos datos
+  examples: []
+  notes: []
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 52baea80-9f33-5df0-a4bd-395c8e7a851e
+status: valid

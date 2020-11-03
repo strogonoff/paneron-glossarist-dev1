@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 108b3671-7649-56a5-9029-eb98544dc05d
+  definition: etäisyyden muuttuminen siten, että mitattujen arvojen välillä on aina
+    jatkuvia arvoja
+  examples: []
+  notes:
+  - Jatkuvan muuttumisen interpoloinnissa otetaan huomioon mittauspisteiden (aika1,
+    arvo1) ja (aika2, arvo2) välisen ’käyrän’ rajoitukset. Esimerkiksi ajoneuvon liikkuessa
+    fyysiset rajoitukset ja ajoneuvolle soveltuvat reitit otetaan huomioon.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 93d37a35-11e5-5994-ac87-83159a9cef8d
+status: valid

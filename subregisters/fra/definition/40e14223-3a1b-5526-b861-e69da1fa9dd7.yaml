@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 2e421d4e-625d-5949-828f-6474295009ee
+  definition: règle associant chaque élément d'un domaine (source, ou domaine de la
+    fonction) à un élément unique d'un autre domaine (cible, co-domaine ou gamme)
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 40e14223-3a1b-5526-b861-e69da1fa9dd7
+status: superseded

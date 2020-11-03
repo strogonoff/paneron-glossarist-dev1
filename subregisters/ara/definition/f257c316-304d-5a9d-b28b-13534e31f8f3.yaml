@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.11
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: a753afac-d6c0-5014-8b47-687dc4eec9b7
+  definition: مصحح  فيما يتعلق بالإزاحة المكانية بالنسبة لسطح  الأرض
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: f257c316-304d-5a9d-b28b-13534e31f8f3
+status: valid

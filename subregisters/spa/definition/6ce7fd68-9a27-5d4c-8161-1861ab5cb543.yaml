@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 11.1.1
+    link: https://www.iso.org/standard/55723.html
+    ref: ISO/IEC 10746-2:2009
+  concept: eff055bd-a82f-5064-b21a-86c9bcddefc7
+  definition: propiedad de ocultar a un usuario particular el comportamiento potencial
+    de algunas partes de un sistema distribuido
+  examples: []
+  notes:
+  - La transparencia de la distribución permite ocultar a las aplicaciones, la complejidad
+    asociada con la distribución de sistemas, cuando es irrelevante para las mismas.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 6ce7fd68-9a27-5d4c-8161-1861ab5cb543
+status: valid

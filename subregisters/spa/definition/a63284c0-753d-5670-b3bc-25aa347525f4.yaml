@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.27
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: f5dc2a55-78f4-593f-87e8-d267a8bcd985
+  definition: marcas de identificación, típicamente cuatro u ocho, conectadas rígidamente
+    con el cuerpo de la cámara, que forman imágenes sobre el negativo de la película
+    y definen el sistema de referencia de coordenadas de la imagen
+  examples: []
+  notes:
+  - Cuando una cámara está calibrada, las distancias entre las marcas fiduciales se
+    miden de forma precisa y tienen asignadas unas coordenadas que se usan para la
+    corrección por distorsión de la película.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: a63284c0-753d-5670-b3bc-25aa347525f4
+status: valid

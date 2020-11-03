@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44459.html
+    ref: ISO 19110:2005/Amd 1:2011
+  concept: 2652a92f-f61c-59fb-8b6f-1dac72ca7d82
+  definition: feature association or feature inheritance
+  examples: []
+  notes: []
+dateAccepted: 2011-06-15 00:00:00+00:00
+id: 5d902fc5-cb86-59fc-ad2a-a71ed73e4761
+status: retired

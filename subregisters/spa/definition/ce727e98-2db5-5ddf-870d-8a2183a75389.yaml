@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: Derived from VIM
+  concept: cea517b2-c804-5365-a3fa-6696171d83aa
+  definition: propiedad del resultado de una medición o del valor de un estándar,
+    por la cuál se puede relacionar con referencias establecidas, por lo general normas
+    nacionales o internacionales, mediante una cadena ininterrumpida de comparaciones
+    con incertidumbres establecidas
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: ce727e98-2db5-5ddf-870d-8a2183a75389
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.2
+    link: https://www.iso.org/standard/70742.html
+    ref: ISO 19112:2019
+  concept: 6c98a63c-151a-5594-81ab-7e434a8722e7
+  definition: مرجع مكاني في شكل علامة أو رمز لتعريف موقع
+  examples:
+  - اسبانيا هي مثال لاسم بلد , والرموز "SW 1P  3AD" هي مثال لرمز بريدي.
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: d0c0e1ae-422a-5e4b-a4fa-629daefbe89c
+status: valid

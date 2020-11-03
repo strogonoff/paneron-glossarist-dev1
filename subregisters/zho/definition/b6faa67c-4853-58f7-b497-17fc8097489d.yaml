@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.5
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: b978748c-6dce-591e-941a-a63f0ad243cf
+  definition: <XML>一个元素直接派生的元素。
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: b6faa67c-4853-58f7-b497-17fc8097489d
+status: valid

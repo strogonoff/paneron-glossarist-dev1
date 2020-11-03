@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 917038ce-c219-59d4-a53f-a6a96fd343c2
+  definition: связь между двумя понятиями, где одно из понятий составляет целое, а
+    другое - часть этого целого
+  examples: []
+  notes:
+  - Частичное отношение  существует между понятиями "неделя" и "день", "молекула"
+    и "атом".
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 8e2f7a55-aebd-56a0-9383-29dcb898e567
+status: retired

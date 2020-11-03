@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: a7278adc-c7f8-55f5-8542-aa6302330664
+  definition: meningsfulla uppgifter
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: c0d99a07-243d-5a73-9847-dce5e514a34a
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 38404f30-58f9-502f-9c59-27002e2c4a7f
+  definition: parte de una ruta o red consistente en la posición de un cruce y un
+    enlace de entrada y salida para ese cruce
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f8f979ae-c082-50c0-bcd5-a20b945be495
+status: valid

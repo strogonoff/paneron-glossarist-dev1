@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: cd13cc9c-897d-54d8-aaf8-e99f3480e41a
+  definition: verkostossa oleva yksittäinen topologinen solmupiste ja siihen liittyvät
+    käännökset, sisääntulo- ja poistumislinkit
+  examples: []
+  notes:
+  - Englannin kielessä termi junction on termin node synonyymi.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 21120711-4d18-5ca6-99ad-7ba19c284e3b
+status: valid

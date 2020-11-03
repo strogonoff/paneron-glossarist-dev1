@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '2002'
+    ref: Adapted from Aull et al.
+  concept: 0f376aa8-12d9-5be2-acfa-5badaca892b0
+  definition: 출력 광전도가 입력 광사건 강도에 비례하는 LIDAR시스템
+  examples: []
+  notes:
+  - A LIDAR system which employs this technology typically uses processing techniques
+    to develop the time-of-flight measurements from the full waveform that is reflected
+    from the targets in the illuminated scene of interest. These time-of-flight measurements
+    are then combined with precise platform location/attitude data along with pointing
+    data to produce a three-dimensional product of the illuminated scene of interest.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 995d7d88-4ed5-5a23-bf5b-65274e2a3089
+status: valid

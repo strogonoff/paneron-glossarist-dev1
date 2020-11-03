@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.87
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 3772a84f-b2f8-5709-8456-f595dff12ca8
+  definition: Sensor, der eine einzelne quer zur Flugrichtung liegende Zeile durch
+    Schwenken eines Punkt-Detektors erzeugt und ein Bild durch Aufnahme vieler nebeneinander
+    liegender Zeilen während der Weiterbewegung generiert
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: e9b5f682-bcb8-5c60-881f-7e0fc59dd716
+status: valid

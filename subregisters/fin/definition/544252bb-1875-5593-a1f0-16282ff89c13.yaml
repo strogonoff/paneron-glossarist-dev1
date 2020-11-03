@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 2b60e0e0-8e94-5752-bcb2-8c8263825263
+  definition: käsitteellinen ehto tai rajoitus, joka sisältyy tietomalliin
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 544252bb-1875-5593-a1f0-16282ff89c13
+status: valid

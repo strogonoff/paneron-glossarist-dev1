@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 22755be0-d234-508d-8351-6f6a921387b4
+  definition: 변이 포함된 위상 복합체의 유효한 기하 실현에서, 곡선으로서 그 변의 시작 점에 해당하는 변의 경계 상의 절점
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 9fce699b-1afc-5aec-8130-1b184a65c74c
+status: superseded

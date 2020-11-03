@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.29'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 4ef49e71-81b9-5a52-b9cb-b70a7a99ed65
+  definition: attribut som beskriver en lägesrelaterad aspekt
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 199bf935-49ef-5b56-a83c-cff5b8ba7504
+status: valid

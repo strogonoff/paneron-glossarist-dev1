@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.25
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 305d6704-d521-53e7-b7d4-f08baa62917b
+  definition: sistema de referencia de coordenadas cuyo datum es independiente del
+    objeto que se localiza con él
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 4b596213-f3b9-5fc5-a6e7-18053369beeb
+status: valid

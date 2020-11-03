@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 52f9e8cc-1a92-53ba-87be-ffa55f406c71
+  definition: reitin seuraamisprosessi
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: b9e34a52-c60a-5033-8cf1-c66ab96dcd44
+status: valid

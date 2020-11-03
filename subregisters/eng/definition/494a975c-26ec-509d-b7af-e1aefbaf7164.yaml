@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  concept: 2a46990b-a5c9-585b-a3b8-40780eda76e4
+  definition: strip or lane on the ground scanned by a multi-beam sounder when the
+    survey vessel proceeds along its course
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 494a975c-26ec-509d-b7af-e1aefbaf7164
+status: valid

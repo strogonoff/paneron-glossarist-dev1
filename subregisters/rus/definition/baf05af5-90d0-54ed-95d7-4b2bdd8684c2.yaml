@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.14
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 100f3a75-6540-56a7-90b7-f2e68b66a551
+  definition: представление явлений в виде  изображений, выполненное электронными
+    и/или оптическими методами
+  examples: []
+  notes:
+  - 'In this Technical Specification, it is assumed that the phenomena have been sensed
+    or detected by one or more devices such as radar, cameras, photometers, and infrared
+    and multispectral scanners
+
+    : в настоящей технической спецификации предполагается, что эти явления были обнаружены  одним
+    или несколькими устройствами, такими, как радар, камеры, фотометры и инфракрасные
+    и мультиспектральные сканеры'
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: baf05af5-90d0-54ed-95d7-4b2bdd8684c2
+status: valid

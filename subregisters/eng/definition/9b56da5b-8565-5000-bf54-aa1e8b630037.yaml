@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 1491d0d6-9aaa-539b-9b30-68a114f68ca0
+  definition: test to find errors in the implementation
+  examples: []
+  notes:
+  - If errors are found, one can correctly deduce that the implementation does not
+    conform to the International Standard; however, the absence of errors does not
+    necessarily imply the converse.  The falsification test can only demonstrate non-conformance
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 9b56da5b-8565-5000-bf54-aa1e8b630037
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.5
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: f9634d77-6ebd-5d63-a5a7-2e4a37513a10
+  definition: invertible, continuous and with a continuous inverse
+  examples: []
+  notes: []
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 46c48ba9-104e-575f-888d-ad59d91af94b
+status: valid

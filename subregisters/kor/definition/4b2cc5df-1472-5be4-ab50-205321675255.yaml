@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 43650201-9bb4-5b77-8f13-67d85e1565f9
+  definition: 분할되는 공간과 같은 차원을 갖는 인접한 부분 공간의 집합으로의 공간의 분할
+  examples:
+  - KS X ISO 19123의 그림 11, 13, 20 ,22 참고
+  notes:
+  - 합동 정다각형 또는 정다면체로 구성된 테셀러이션은 정규 테셀러이션이다. 정다각형 또는 정다면체이긴 하지만, 합동이 아닌 것은 반-정규 테셀러이션이다.
+    그렇지 않으면 테셀러이션은 불규칙하다.
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 4b2cc5df-1472-5be4-ab50-205321675255
+status: valid

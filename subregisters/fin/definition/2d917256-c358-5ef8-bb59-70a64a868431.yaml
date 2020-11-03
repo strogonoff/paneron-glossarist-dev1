@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: f436fc79-96b9-5088-ba5d-0abc3fec4863
+  definition: ajan vertausjärjestelmä, joka perustuu intervalliasteikkoon, jossa etäisyys
+    mitataan ajan kerrannaisyksikköinä
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 2d917256-c358-5ef8-bb59-70a64a868431
+status: valid

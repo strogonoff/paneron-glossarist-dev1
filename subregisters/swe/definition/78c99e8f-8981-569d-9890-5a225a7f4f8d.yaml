@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3193a704-dc47-531e-a7a2-64c79a07a744
+  definition: parameter som är förbunden med mätresultatet och som kännetecknar spridningen
+    av värden som rimligen kan tillskrivas mätstorheten
+  examples: []
+  notes:
+  - When the quality of accuracy or precision of measured values, such as coordinates,
+    is to be characterized quantitatively, the quality parameter is an estimate of
+    the uncertainty of the measurement results. Because accuracy is a qualitative
+    concept, one should not use it quantitatively, that is associate numbers with
+    it; numbers should be associated with measures of uncertainty instead.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 78c99e8f-8981-569d-9890-5a225a7f4f8d
+status: valid

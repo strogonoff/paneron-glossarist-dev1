@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 99e33134-c01b-5198-85ce-35210d95024c
+  definition: identificerbar samling af konverteringsregler, der definerer kodningen
+    for en bestemt datastruktur
+  examples:
+  - XML, ISO 10303-21, ISO/IEC 8211.
+  notes:
+  - En kodningsregel specificerer, hvilken type data der skal konverteres, samt den
+    syntaks, struktur og de koder, der anvendes i den resulterende datastruktur.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 530f2dc4-91a7-5283-a653-82192e2efeb8
+status: valid

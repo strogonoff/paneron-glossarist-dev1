@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dd4be28e-95ba-58ca-8065-60b1d86b49f6
+  definition: العملية التي يتم بموجبها تحديد مدى الجودة في أداء تجهيز تحت الاختبار
+    (IUT ) عند معالجته لبيانات تحتوى على أخطاء
+  examples: []
+  notes:
+  - هذا ليس جزءاً من اختبار المطابقة.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 0ea88ab2-70c7-5d88-a795-70a0fa4b6c0f
+status: valid

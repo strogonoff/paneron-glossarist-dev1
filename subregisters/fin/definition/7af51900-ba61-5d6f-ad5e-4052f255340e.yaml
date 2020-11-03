@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: dfa5a731-f5db-5042-8917-04381b494d18
+  definition: koordinaattien avulla ilmaistu paikkatietojatkumon kokoonpano
+  examples: []
+  notes: []
+dateAccepted: 2013-07-03 00:00:00+00:00
+id: 7af51900-ba61-5d6f-ad5e-4052f255340e
+status: valid

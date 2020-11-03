@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 3.2.7
+    link: https://www.iso.org/standard/55723.html
+    ref: ISO/IEC 10746-2
+  concept: c48f29d6-e16a-5f8b-8e78-69ea41374ba4
+  definition: forma de abstracción que se realiza usando un conjunto seleccionado
+    de conceptos arquitectónicos y reglas de estructuración, para centrarse en unos
+    asuntos determinados dentro de un sistema
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 12de50b5-f7c5-5bf5-a521-305bb0aa97aa
+status: valid

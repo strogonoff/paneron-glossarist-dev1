@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.6'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 65bbe58e-0393-5049-8f3d-c269b3d1b83e
+  definition: 品質評価手法を適用し，その結果を報告するときの作業工程。
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: e7955e1a-c554-5b1b-aee6-694a97a44aac
+status: retired

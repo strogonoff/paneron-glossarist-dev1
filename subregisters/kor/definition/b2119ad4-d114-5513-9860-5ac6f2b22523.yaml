@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 5fda04db-9e8a-5b9d-98e3-e94cb04667d3
+  definition: 온라인 및 실시간 자료 변환
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: b2119ad4-d114-5513-9860-5ac6f2b22523
+status: valid

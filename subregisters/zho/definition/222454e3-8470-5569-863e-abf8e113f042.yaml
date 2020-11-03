@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 291bfffa-d9fb-5672-bef0-a3911b779f97
+  definition: 由一组几何数值对组成的对象。
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 222454e3-8470-5569-863e-abf8e113f042
+status: valid

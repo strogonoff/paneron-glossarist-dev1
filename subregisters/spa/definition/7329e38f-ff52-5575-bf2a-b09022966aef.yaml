@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.14
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 100f3a75-6540-56a7-90b7-f2e68b66a551
+  definition: representación de fenómenos mediante imágenes producidas por técnicas
+    electrónicas u ópticas
+  examples: []
+  notes:
+  - En esta especificación técnica, se supone que los fenómenos han sido percibidos
+    o detectados por uno o más dispositivos, tales como radares, cámaras, fotómetros
+    y escáneres de infrarrojos o multiespectrales.
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 7329e38f-ff52-5575-bf2a-b09022966aef
+status: valid

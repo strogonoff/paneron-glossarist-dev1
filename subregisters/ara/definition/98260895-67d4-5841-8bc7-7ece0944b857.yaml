@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: 6737b4e7-dea5-552e-998b-bc587a6ba573
+  definition: نظام مرجع إحداثيات هندسي حيث يكون تمثيل كائن متحرك محدد
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 98260895-67d4-5841-8bc7-7ece0944b857
+status: valid

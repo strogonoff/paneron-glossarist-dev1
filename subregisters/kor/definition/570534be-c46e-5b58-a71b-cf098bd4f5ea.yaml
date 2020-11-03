@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: e885201d-6086-505e-843e-601934d99480
+  definition: 이름에 의해 참조될 수 있는 개체의 특성 또는 양상
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 570534be-c46e-5b58-a71b-cf098bd4f5ea
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 22e67817-b4b8-571b-96c2-6e6d235be635
+  definition: 'aktivitet för att avgöra i vilken grad angivna
+
+    krav uppfylls'
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 7d779d8e-7f19-56a3-8557-d291c10aaba4
+status: valid

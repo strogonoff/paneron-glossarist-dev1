@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: c3629c38-a578-5c3a-ad62-e55dc1b64011
+  definition: catálogo que contiene definiciones y descripciones de los tipos de objeto
+    geográfico, de los atributos de objeto geográfico , y de las asociaciones de objetos
+    geográficos que se dan en uno o más conjuntos de datos geográficos, junto con
+    cualesquiera de las operaciones de objeto geográfico que se puedan aplicar
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: ab0527e2-24cf-5d05-997a-8e89ba20c00a
+status: valid

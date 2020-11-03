@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/30726.html
+    ref: ISO/IEC TR 10000-1:1998
+  concept: c663e0d1-8462-5759-9264-e874de9c2e91
+  definition: conjunto de una o más normas base, o subconjunto de normas base y, cuando
+    sea aplicable, identificación de apartados, clases, opciones y parámetros seleccionados
+    de esas normas base que son necesarios para cumplir una determinada función
+  examples: []
+  notes:
+  - Un perfil procede de normas de base, de modo que, por definición, la conformidad
+    con un perfil implica la conformidad con las normas base de las que deriva.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 8a1ac095-d67b-50ba-9125-06cb3b44ef20
+status: valid

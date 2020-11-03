@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '2.53'
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: e4546db7-625f-57c8-93f7-da81b622ce6a
+  definition: perbuatan atau hal membetulkan.
+  examples: []
+  notes:
+  - See ISO/IEC Guide 98-3:2008, 3.2.3, for an explanation of "systematic effect".
+  - The compensation can take different forms, such as an addend or a factor, or can
+    be deduced from a table.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 95ed2ead-af3b-5895-8f9e-c890b37e220d
+status: valid

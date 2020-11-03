@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.64
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 344cf295-4646-5fc2-b383-593d6f16320f
+  definition: never increasing or never decreasing
+  examples: []
+  notes:
+  - An increasing sequence never gets smaller. A strictly increasing sequence always
+    gets larger. A decreasing sequence never gets larger. A strictly decreasing sequence
+    always gets smaller. `[x(i) "is increasing"] hArr [i < j => x(i) <= x(j)]` `[x(i)
+    "is strickly increasing"] hArr [i < j => x(i) < x(j)]` `[x(i) text( is decreasing)]
+    hArr [i < j => x(i) >= x(j)]` `[x(i) text( is strickly decreasing)] hArr [i <
+    j => x(i) > x(j)]` `[x(i) text( is decreasing)] vv [x(i) text( is increasing)]
+    hArr [x(i) text( is monotonic)]`
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: fe4f4efd-e0b9-5883-a19f-7683002acbfa
+status: valid

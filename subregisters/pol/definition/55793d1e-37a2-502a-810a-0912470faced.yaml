@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.98
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 28955e9c-cd9d-5331-bad9-e49f3371e469
+  definition: kolekcja zorientowanych prostych elementów topologicznych, na której
+    można wykonywać operacje tak jak na wielomianie wielu zmiennych
+  examples: []
+  notes:
+  - Wyrażenia topologiczne są wykorzystywane w wielu obliczeniach w topologii obliczeniowej.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 55793d1e-37a2-502a-810a-0912470faced
+status: valid

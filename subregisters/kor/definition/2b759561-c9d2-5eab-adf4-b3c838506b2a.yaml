@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: a9a87c6f-fda4-5664-9f60-327004bc75dd
+  definition: 클라이언트로부터의 연산 호출
+  examples: []
+  notes: []
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: 2b759561-c9d2-5eab-adf4-b3c838506b2a
+status: valid

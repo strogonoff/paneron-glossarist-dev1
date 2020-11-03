@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 1.7.2, modified
+    link: https://www.iso.org/standard/57284.html
+    ref: ISO 14721:2012
+  concept: 3669cc10-d81b-599e-9ec9-3095dbdf3a47
+  definition: formal repository of terms used to describe data
+  examples: []
+  notes: []
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: 8cd8e3b2-0a01-51b4-9ec6-877d532dadf0
+status: valid

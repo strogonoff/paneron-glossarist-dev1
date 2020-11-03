@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: 3b9ff2a6-ffe7-5df1-819c-13734caa4d0b
+  definition: kaedah, algoritma atau instrumen, atau sistem ini, yang boleh digunakan
+    untuk membuat cerapan
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: c8be2cbe-ee9e-50a2-b223-e0efc8ec2b7a
+status: valid

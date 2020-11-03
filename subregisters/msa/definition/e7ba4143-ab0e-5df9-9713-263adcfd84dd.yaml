@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.61
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: d8fa61ce-daf7-5efb-8365-584a0aadc5f8
+  definition: Sensor yang tidak memerlukan kuasa elektrik seperti sensor gentian optik.
+  examples:
+  - Many optical sensors collect reflected solar energy.
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: e7ba4143-ab0e-5df9-9713-263adcfd84dd
+status: valid

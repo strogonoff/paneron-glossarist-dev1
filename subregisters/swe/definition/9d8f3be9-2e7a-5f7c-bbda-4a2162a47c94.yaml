@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 9a63c2c9-cf35-5484-8bb7-9c2ec5ae27da
+  definition: egenskap hos ett geometriskt objekt vars innanförmängd är isotrop (alla
+    punkter har isomorfa grannskap), och är därigenom överallt lokalt isomorf med
+    en öppen delmängd av ett euklidiskt rum av lämplig dimension
+  examples: []
+  notes:
+  - This implies that no interior direct position is involved in a self-intersection
+    of any kind.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 9d8f3be9-2e7a-5f7c-bbda-4a2162a47c94
+status: superseded

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.53
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 88a1736d-e209-52c5-92a0-d23f40c226a1
+  definition: максимальный радиус эллипсоида
+  examples: []
+  notes:
+  - Для эллипсоида, представляющего Землю, это радиус экватора
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 4f13c05c-1d94-5f15-b857-2d088a1a03e6
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44316.html
+    ref: ISO/TS 27790:2009
+  concept: 4c632434-d187-5e1a-b312-e5e278bfa72a
+  definition: 복잡 정보를  분류 및 조직화 하는데 사용되는 논리구조
+  examples: []
+  notes: []
+dateAccepted: 2012-11-15 00:00:00+00:00
+id: 15b6c01e-d166-5830-a35d-9c9d090d6944
+status: valid

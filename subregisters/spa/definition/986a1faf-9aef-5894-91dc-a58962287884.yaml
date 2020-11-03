@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 71236915-e5fd-5c87-982d-7947514d407d
+  definition: prueba desarrollada para comprobar rigurosamente si una IUT es correcta
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 986a1faf-9aef-5894-91dc-a58962287884
+status: valid

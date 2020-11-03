@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.14
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 100f3a75-6540-56a7-90b7-f2e68b66a551
+  definition: perwakilan fenomena sebagai imej yang dihasilkan oleh teknik elektronik
+    dan  atau optikal
+  examples: []
+  notes:
+  - In this Technical Specification, it is assumed that the phenomena have been sensed
+    or detected by one or more devices such as radar, cameras, photometers, and infrared
+    and multispectral scanners
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: b76ae98d-aa27-558d-b5a4-738306af19f4
+status: valid

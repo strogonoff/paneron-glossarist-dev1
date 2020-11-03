@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 18e33bf9-af28-58a1-b958-5372c4ba7ace
+  definition: lokales Datum, das die Beziehung zu einem Bildkoordinatensystem beschreibt
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: b0db3e0a-882d-5834-9dd9-80fbe8e4a602
+status: valid

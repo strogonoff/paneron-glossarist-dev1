@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.77
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 7154d158-5ea9-5edb-9666-b6e61aae58c3
+  definition: مركب طوبولوجيذو أدراك هندسي يمكن تضمينه  في حيز إقليدي
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5cb6a905-f1a8-5145-8882-d7cada64262e
+status: valid

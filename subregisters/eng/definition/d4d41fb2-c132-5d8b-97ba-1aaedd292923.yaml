@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 01.01.22
+    link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: 44d0042d-97e3-534f-8c4e-b077f3ac11b5
+  definition: information processing system, together with associated organizational
+    resources such as human, technical, and financial resources, that provides and
+    distributes information
+  examples: []
+  notes: []
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: d4d41fb2-c132-5d8b-97ba-1aaedd292923
+status: valid

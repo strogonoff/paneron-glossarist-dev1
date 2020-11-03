@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 291bfffa-d9fb-5672-bef0-a3911b779f97
+  definition: objeto compuesto de un conjunto de pares de valores geométricos
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: ba1eb852-8a15-501d-a6e1-b4966921af92
+status: valid

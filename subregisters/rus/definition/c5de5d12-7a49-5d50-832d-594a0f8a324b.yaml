@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 403a43ef-6178-5e64-95da-a4201e6bcf17
+  definition: конечная, именованная  совокупность взаимосвязанных элементов (объектов
+    или значений)
+  examples: []
+  notes:
+  - Логически, запись есть набор пар < name, item >.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c5de5d12-7a49-5d50-832d-594a0f8a324b
+status: valid

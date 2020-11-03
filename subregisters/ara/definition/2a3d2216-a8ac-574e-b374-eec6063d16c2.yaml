@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: ecaf590d-e4e9-53c9-938b-42b103d86195
+  definition: عقدة في حدود حافة والتي تتوافق مع نقطة النهاية لتلك الحافة كمنحنى في
+    أي تحقق هندسي صحيح لمركَّب طوبولوجي تستخدم فيه الحافة المذكورة
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2a3d2216-a8ac-574e-b374-eec6063d16c2
+status: superseded

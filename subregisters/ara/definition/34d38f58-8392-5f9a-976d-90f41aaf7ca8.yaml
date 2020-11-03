@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.70
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 9de637fe-ea4e-5fde-860b-576aa3acceb3
+  definition: اتجاه متجه المدى
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 34d38f58-8392-5f9a-976d-90f41aaf7ca8
+status: valid

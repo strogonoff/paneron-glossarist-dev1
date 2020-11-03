@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.28
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 934e7be3-14b1-526b-ac92-ee262b4ff74c
+  definition: elemento más pequeño de una imagen digital al cual se asignan atributos
+  examples: []
+  notes:
+  - El término original es una contracción de "elemento de imagen" (picture element)
+  - Relacionado con el concepto de celda de una malla
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 9bdbf3a0-f978-5a60-a47f-8d01e4ba818f
+status: valid

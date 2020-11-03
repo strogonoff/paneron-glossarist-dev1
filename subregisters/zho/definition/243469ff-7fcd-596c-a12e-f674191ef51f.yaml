@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: b6158a50-9ce9-5ffe-affb-4564ff51ded0
+  definition: 单一的、不可再分的拓扑对象。
+  examples: []
+  notes:
+  - 拓扑单形对应于几何实现中一个同维几何单形的内部。
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 243469ff-7fcd-596c-a12e-f674191ef51f
+status: superseded

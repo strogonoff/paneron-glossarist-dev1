@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.20'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 85621795-5ef2-50ea-93cd-fb4cd3643ef8
+  definition: åskådliggörande av data
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: c43ac452-1a8e-551b-9532-78bd6c0e0dc8
+status: valid

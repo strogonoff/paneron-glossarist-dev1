@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.69
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 0abbc036-0b35-5970-abd2-c0d951c52865
+  definition: zdefiniowana wielkość, za pomocą której wyrażamy mierzone parametry
+  examples: []
+  notes:
+  - W niniejszej normie międzynarodowej podtypami jednostek są jednostki długości,
+    jednostki kątowe, jednostki czasu, jednostki skali i jednostki będące wymiarami
+    piksela.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: e52ab5a0-f832-5db4-bf01-e8bf8c4a5a6b
+status: valid

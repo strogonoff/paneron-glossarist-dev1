@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: b6bed773-b213-53f7-848f-fe8b64c44fa0
+  definition: определение, используемое для назначения объектов классам легенды
+  examples: []
+  notes:
+  - Классификаторы могут быть определены алгоритмически или в соответствии с набором
+    правил системы классификации.
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 9fcf1172-f808-5827-8c25-8bdaf17a0953
+status: valid

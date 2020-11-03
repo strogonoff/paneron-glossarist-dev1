@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.4
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: b0c00d10-838b-56ce-a48f-b2066a3d96b1
+  definition: 用于描述概念模型的一组建模概念。
+  examples:
+  - UML元模型,EXPRESS元模型。
+  notes:
+  - 一个概念形式可以用多种概念模式语言表示。
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 2cdf3856-f8ca-5f5f-90ba-4a17278e4311
+status: valid

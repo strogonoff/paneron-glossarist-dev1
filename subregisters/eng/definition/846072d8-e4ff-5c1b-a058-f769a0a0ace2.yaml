@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3d3cffaf-2f01-561e-84af-f9c637e7f0f8
+  definition: topological concepts, structures and algebra that aid, enhance or define
+    operations on topological objects usually performed in computational geometry
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 846072d8-e4ff-5c1b-a058-f769a0a0ace2
+status: retired

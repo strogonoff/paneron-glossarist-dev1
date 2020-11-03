@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: e1e646ef-9eaf-5967-a9a7-7f43a99127f8
+  definition: sistema para identificar posiciones en el mundo real
+  examples: []
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: dde6a644-2f55-558d-809a-4d16204c1342
+status: valid

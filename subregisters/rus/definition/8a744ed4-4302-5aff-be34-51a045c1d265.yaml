@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: cd13cc9c-897d-54d8-aaf8-e99f3480e41a
+  definition: один из топологических узлов (транспортной] сети с соответствующей совокупностью
+    поворотов, входящими и выходящими дугами
+  examples: []
+  notes:
+  - Примыкание является  псевдонимом узла
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 8a744ed4-4302-5aff-be34-51a045c1d265
+status: valid

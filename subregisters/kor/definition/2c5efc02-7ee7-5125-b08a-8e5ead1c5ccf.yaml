@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: '2004'
+    ref: UN/ECE
+  concept: 2d78c69a-6eea-58f9-b5f7-5f74f4a8edc1
+  definition: 지표면, 내부물질과 상공 및 토양에 고정된 모든 사물들
+  examples: []
+  notes: []
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 2c5efc02-7ee7-5125-b08a-8e5ead1c5ccf
+status: valid

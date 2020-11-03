@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 45e0ef0b-7f48-5bb0-aedf-c4a5dc013205
+  definition: 1. Permukaan yang dirintangi silangan garis mendatar dan mengufuk yang
+    sekata. 2. Jadual hamparan elektronik yang terdiri daripada lajur dan baris. 3.
+    Garis paksi-X dan paksi-Y yang berjarak sekata pada carta atau graf untuk membantu
+    pemplotan titik data. 4. Garis yang menyusur keluar dari pusat carta pai.
+  examples: []
+  notes:
+  - The curves partition a space into grid cells.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 9f707b40-6aff-5624-b23f-c92681f2a056
+status: valid

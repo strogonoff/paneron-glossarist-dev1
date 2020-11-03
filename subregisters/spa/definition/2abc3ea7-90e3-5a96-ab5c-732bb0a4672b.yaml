@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 3.4.1.4
+    link: https://www.iso.org/standard/40362.html
+    ref: ISO 10241-1:2011
+  concept: b4c076c4-f4a1-5e30-b7bd-00c7b7ea4a2f
+  definition: designación que tiene la misma forma escrita que otra designación que
+    representa un concepto diferente
+  examples:
+  - El término homógrafico "die" (morir en inglés) como sustantivo representa diferentes
+    conceptos, según se trate del dominio de la fabricación, los circuitos integrados
+    o los juegos de mesa.
+  - El símbolo gráfico homográfico (por ejemplo, en un aeropuerto o estación de tren)
+    puede significar "hacia arriba" (por ejemplo, una escalera eléctrica) o "todo
+    recto" dependiendo del entorno de la ubicación.
+  notes: []
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: 2abc3ea7-90e3-5a96-ab5c-732bb0a4672b
+status: valid

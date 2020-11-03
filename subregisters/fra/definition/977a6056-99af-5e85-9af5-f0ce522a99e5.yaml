@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: f1991022-bb14-5018-aac7-330c677baa7a
+  definition: lieu géographique identifiable
+  examples: []
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: 977a6056-99af-5e85-9af5-f0ce522a99e5
+status: superseded

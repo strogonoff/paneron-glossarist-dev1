@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '3.19'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  concept: 0081e49e-7f7c-5901-9c8f-40f5e08915a9
+  definition: servicio que se ofrece a una persona que demanda un transporte
+  examples: []
+  notes:
+  - Pueden ser servicios que permitan la movilidad (por ejemplo, servícios de transporte
+    público) o servicios tales como la gestión de equipajes, asistencia, etc.
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: 632ef5fc-a6c2-5537-81aa-72a6f08582d9
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 53ce0f2f-c91e-534c-a9e2-9291255878a6
+  definition: zbiór węzłów, spośród których niektóre są połączone krawędziami
+  examples: []
+  notes:
+  - W systemach informacji geograficznej graf może zawierać więcej niż jedną krawędź
+    łączącą dwa węzły, jak również może zawierać krawędź, która ma ten sam węzeł na
+    obu końcach.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 21a8dd23-1e1f-5907-a0f6-b2d71cc2c89c
+status: valid

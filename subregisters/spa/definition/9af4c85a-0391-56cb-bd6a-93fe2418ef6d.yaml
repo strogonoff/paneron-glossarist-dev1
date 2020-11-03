@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: modified
+    ref: Web Service Glossary
+  concept: fd4cfb7d-300f-574b-8270-f747a2c6a821
+  definition: conjunto de acciones unidas en la misma unidad de trabajo, de tal manera
+    que o se completan o fallan todas como un todo
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 9af4c85a-0391-56cb-bd6a-93fe2418ef6d
+status: valid

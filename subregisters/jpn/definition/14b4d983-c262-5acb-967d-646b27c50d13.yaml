@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 6b91532d-745c-5b5f-897a-f32dd10c446f
+  definition: 境界をもたない空間オブジェクト。
+  examples: []
+  notes:
+  - 輪体は境界の構成要素［殻(shell)及び輪(ring)を参照］を記述するために使用する。輪体は，それ自身の上で閉じているため境界をもたないが，有界である（すなわち，範囲は無限ではない）。例えば，円周又は球面は，境界をもたないが有界である。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 14b4d983-c262-5acb-967d-646b27c50d13
+status: retired

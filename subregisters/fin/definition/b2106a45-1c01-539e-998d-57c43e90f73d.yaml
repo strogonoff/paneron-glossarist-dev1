@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 65cd85d7-f5ab-53fd-97c4-2dbf4288057a
+  definition: paikkatietojatkumo, joka koostuu monikulmioista
+  examples: []
+  notes: []
+dateAccepted: 2013-07-03 00:00:00+00:00
+id: b2106a45-1c01-539e-998d-57c43e90f73d
+status: valid

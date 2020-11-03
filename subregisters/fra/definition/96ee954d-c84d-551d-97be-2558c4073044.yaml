@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.23
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 2b00e7f7-51fa-5223-9f90-fd48787c5267
+  definition: système de coordonnées dans lequel la position est spécifiée par la
+    latitude géodésique, la longitude géodésique et (dans le cas tridimensionnel)
+    la hauteur ellipsoïdale
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 96ee954d-c84d-551d-97be-2558c4073044
+status: valid

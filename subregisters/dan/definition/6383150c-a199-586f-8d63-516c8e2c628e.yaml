@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: edc7eadc-38a7-5f10-89e4-38dea1735027
+  definition: fastlæggelse af en coverage’s værdier i en direkte position inden for
+    domænet af denne coverage
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 6383150c-a199-586f-8d63-516c8e2c628e
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 864fdb12-92f3-5e7a-b4d5-f722f525b103
+  definition: specifikation av ett läge som ett avstånd längs, och eventuellt ett
+    avstånd ifrån, en referenslinje
+  examples: []
+  notes:
+  - An alternative to specifying a location as a two- or three- dimensional spatial
+    position.
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 46ca3eae-2ebf-5e6e-89ea-0d3dcfa7023a
+status: valid

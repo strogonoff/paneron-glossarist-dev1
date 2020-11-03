@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 7e79ff25-ee02-5034-8437-2736fa15d58c
+  definition: relation taxonomique entre un élément plus général et un élément plus
+    spécifique qui est entièrement en accord avec l'élément plus général et contient
+    des informations supplémentaires
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 5a69e57d-4848-5262-a9b8-8384954c44cf
+status: superseded

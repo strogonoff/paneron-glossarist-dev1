@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: ec90a670-0f95-560e-9e0f-307276de0d04
+  definition: asignación de un identificador permanente, único y no ambiguo a un ítem
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 3cc80cde-47aa-5bf5-89d0-44dc54beaac9
+status: valid

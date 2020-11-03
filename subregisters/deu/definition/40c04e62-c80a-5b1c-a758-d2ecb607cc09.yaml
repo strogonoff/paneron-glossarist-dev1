@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 7110c707-269d-59f3-bcf8-c4ea91bc8d56
+  definition: Vereinigung des Inneren und der Grenze eines topologischen oder geometrischen
+    Objekts
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 40c04e62-c80a-5b1c-a758-d2ecb607cc09
+status: superseded

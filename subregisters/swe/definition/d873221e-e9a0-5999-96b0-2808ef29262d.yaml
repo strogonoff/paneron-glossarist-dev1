@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/8919.html
+    ref: ISO 3534-1:1993
+  concept: 7372c61f-b1fc-5782-be79-3eb0fbc405b8
+  definition: graden av överensstämmelse mellan ett observerat, beräknat eller skattat
+    värde och ett värde som betraktas som sant
+  examples: []
+  notes:
+  - Ibland talar man hellre om onoggrannhet istället för noggrannhet, om medelfelet
+    ökar, ökar också onoggrannheten.
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: d873221e-e9a0-5999-96b0-2808ef29262d
+status: superseded

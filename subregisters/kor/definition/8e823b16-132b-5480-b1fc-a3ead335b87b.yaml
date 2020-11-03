@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 493a7a22-d7d5-595c-ae3b-02d7aa5ed6e8
+  definition: 선형참조법과 정책, 시행에 필요한 기록 및 절차의 집합
+  examples: []
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 8e823b16-132b-5480-b1fc-a3ead335b87b
+status: valid

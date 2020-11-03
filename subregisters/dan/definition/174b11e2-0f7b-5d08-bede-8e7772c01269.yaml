@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - ref: tilpasset fra ISO 8601:2000
+  concept: 5fce7691-bf4e-50d8-a13c-94d1ee096359
+  definition: almindeligt brugt kalender; indført i 1582 for at definere et år, der
+    lignede det tropiske år mere end den julianske kalender
+  examples: []
+  notes:
+  - Overgangen til den gregorianske kalender medførte, at de akkumulerede unøjagtigheder
+    i det julianske år blev fjernet. I den gregorianske kalender er et kalenderår
+    enten et almindeligt år eller et skudår; hvert år er inddelt i 12 fortløbende
+    måneder.
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 174b11e2-0f7b-5d08-bede-8e7772c01269
+status: valid

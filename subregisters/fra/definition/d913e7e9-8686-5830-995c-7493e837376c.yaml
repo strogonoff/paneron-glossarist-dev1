@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: 52eeaad6-31a4-57a6-a236-e8880fc24696
+  definition: mécanisme d'emploi général permettant d'organiser des éléments en groupes
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: d913e7e9-8686-5830-995c-7493e837376c
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 70365e5b-5e7b-5d22-b757-ccce52cb118a
+  definition: طريقة لتقييم الجودة لمجموعة بيانات تبني على فحص البنود أو المواد التي
+    تحتوي عليها المجموعة .
+  examples: []
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: ba1df804-9bb1-5475-a70b-ce326b05b73a
+status: valid

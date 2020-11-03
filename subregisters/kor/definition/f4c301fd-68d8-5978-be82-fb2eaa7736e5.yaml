@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.21
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: a22a92db-f56b-51a4-908f-c7a9d3fc42b5
+  definition: 그래픽 기호를 통해 문법을 표현하는 언어
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: f4c301fd-68d8-5978-be82-fb2eaa7736e5
+status: valid

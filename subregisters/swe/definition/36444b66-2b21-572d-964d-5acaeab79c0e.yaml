@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: cd13cc9c-897d-54d8-aaf8-e99f3480e41a
+  definition: '<i nät> nod och de
+
+    länkar som är kopplade till denna'
+  examples: []
+  notes:
+  - Junction is an alias for node.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 36444b66-2b21-572d-964d-5acaeab79c0e
+status: valid

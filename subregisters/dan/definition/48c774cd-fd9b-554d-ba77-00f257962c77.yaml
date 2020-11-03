@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: 718ab318-1c4d-5f49-bcf3-b3ae57a5ce72
+  definition: ikke-kvantitativ komponent, der dokumenterer kvaliteten af et datasæt
+  examples: []
+  notes:
+  - Informationer om formål, anvendelse og historik af et datasæt er ikke-kvantitativ
+    information.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 48c774cd-fd9b-554d-ba77-00f257962c77
+status: retired

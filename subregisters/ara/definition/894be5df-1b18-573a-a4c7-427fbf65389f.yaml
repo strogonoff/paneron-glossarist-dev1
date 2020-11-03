@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: cd13cc9c-897d-54d8-aaf8-e99f3480e41a
+  definition: عقدة طوبولوجية مفردة في شبكة مع ما يرتبط بها من منعطفات ووصلات الربط
+    الداخلة والخارجة
+  examples: []
+  notes:
+  - نقطة التقاء هي اسم ثانوي بديل عن "عقدة".
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 894be5df-1b18-573a-a4c7-427fbf65389f
+status: valid

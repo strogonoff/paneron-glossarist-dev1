@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 71236915-e5fd-5c87-982d-7947514d407d
+  definition: 시험 대상(IUT)이 올바른지에 대한 엄격한 증명을 위해 개발된 시험
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 787f1567-4313-5675-9755-726a8b207395
+status: valid

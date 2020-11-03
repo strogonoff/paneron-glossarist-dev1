@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.69
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: b92afda8-6f1e-545e-9edd-e36562f1a8f7
+  definition: nollaulotteinen topologinen primitiivi
+  examples: []
+  notes:
+  - Solmupisteen rajaus on tyhjä joukko.
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: e8c47f2b-e576-5ce4-b911-71b6ef8e46d1
+status: valid

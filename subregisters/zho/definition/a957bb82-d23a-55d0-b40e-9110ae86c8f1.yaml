@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 38404f30-58f9-502f-9c59-27002e2c4a7f
+  definition: 路径或网络的组成部分，由连接点位置及连接点进出的有向路段组成。
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: a957bb82-d23a-55d0-b40e-9110ae86c8f1
+status: valid

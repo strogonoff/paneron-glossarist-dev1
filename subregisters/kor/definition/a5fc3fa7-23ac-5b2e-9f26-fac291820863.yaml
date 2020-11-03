@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.75'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 035ce261-21e5-5a69-b461-b430b5eac19b
+  definition: 지속적 공중 LIDAR 작업 수행 중 회신 자료가 수집되는 지상의 지역
+  examples: []
+  notes:
+  - A typical mapping mission may consist of multiple adjacent swaths, with some overlap,
+    and the operator will turn off the laser while the aircraft is oriented for the
+    next swath.  This term may also be referred to as a Pass.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: a5fc3fa7-23ac-5b2e-9f26-fac291820863
+status: valid

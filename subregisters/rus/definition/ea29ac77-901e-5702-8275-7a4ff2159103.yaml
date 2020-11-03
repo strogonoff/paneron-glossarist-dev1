@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: f0f91892-1133-5b08-b34a-8eb1777cd98f
+  definition: применение классификации в указанной области с использованием определенного
+    масштаба отображения и набора конкретных данных
+  examples: []
+  notes:
+  - Взято из FAO LCCS версия 2 (см. Ссылку [2] в ISO 19144-1:2009).
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: ea29ac77-901e-5702-8275-7a4ff2159103
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.2
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 99e554a4-3b09-50e0-b62f-5f8ff10e3bde
+  definition: schéma conceptuel de données requis pour une ou plusieurs applications
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: b4e8aa8c-c080-5908-b0c8-edfacc9257ef
+status: valid

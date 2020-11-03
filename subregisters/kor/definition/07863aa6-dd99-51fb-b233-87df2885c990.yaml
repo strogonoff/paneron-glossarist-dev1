@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: cd13cc9c-897d-54d8-aaf8-e99f3480e41a
+  definition: 진입 및 진출 링크와 회전의 관련 모음으로 구성된 네트워크상의 단일 위상 절점
+  examples: []
+  notes:
+  - 교차점은 절점의 별칭이다.
+dateAccepted: 2006-12-01 00:00:00+00:00
+id: 07863aa6-dd99-51fb-b233-87df2885c990
+status: valid

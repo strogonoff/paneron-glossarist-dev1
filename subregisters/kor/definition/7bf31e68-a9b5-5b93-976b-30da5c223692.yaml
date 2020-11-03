@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  concept: 636f0c58-a693-50be-a28d-134d0dac2155
+  definition: 멀티빔 원리를 사용하여 해저 매핑 및 조사에서 사용되는 광폭 에코 음향기
+  examples: []
+  notes:
+  - Depths are measured directly below and transverse to the ship's track. The width
+    of the swath is a function of the number of beams and their aperture.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 7bf31e68-a9b5-5b93-976b-30da5c223692
+status: valid

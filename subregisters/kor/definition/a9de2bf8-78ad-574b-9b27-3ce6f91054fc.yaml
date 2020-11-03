@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.83
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 866cac7b-029a-5c24-a04b-336a4d2b5b90
+  definition: 수집 중 안테나 빔이 한 지역을 조명하기 위해 조종이 된 SAR 모드
+  examples: []
+  notes:
+  - Spotlight mode provides the ability to collect higher resolution SAR data over
+    relatively smaller patches of ground surface.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: a9de2bf8-78ad-574b-9b27-3ce6f91054fc
+status: valid

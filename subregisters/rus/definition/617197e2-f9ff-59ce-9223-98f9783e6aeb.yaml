@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - ref: W3C XLink:2001
+  concept: 531d2125-8eca-5ac5-b402-c02afa4391c8
+  definition: использование или следование по ссылке XLink с любой целью
+  examples: []
+  notes: []
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 617197e2-f9ff-59ce-9223-98f9783e6aeb
+status: valid

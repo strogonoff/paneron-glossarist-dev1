@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 6815dba5-f507-5db7-9ba8-a86f390a61b9
+  definition: неупорядоченная совокупность взаимосвязанных неповторяющихся  элементов
+    (объектов или  значений)
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: f3c1842d-5290-55c5-86e7-1c93c8ab0854
+status: valid

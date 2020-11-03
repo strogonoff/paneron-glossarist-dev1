@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.11
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: c308d8f2-f7c7-53dd-b113-1139eb0b4265
+  definition: 给点赋予坐标的数学规则集。
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 23caf602-a50f-5eb7-bce8-7ecfae59df60
+status: valid

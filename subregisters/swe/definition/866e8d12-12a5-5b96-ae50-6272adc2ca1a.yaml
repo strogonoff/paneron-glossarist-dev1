@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: b4099f5a-9301-53e4-b8a6-ef59f7bbb0e4
+  definition: '<mellan programsystem> samverkan  genom
+
+    användande av gemensamma data och programkoder'
+  examples: []
+  notes:
+  - cf. coupling. Integration and coupling are the two major mechanisms for the interoperation
+    of systems.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 866e8d12-12a5-5b96-ae50-6272adc2ca1a
+status: valid

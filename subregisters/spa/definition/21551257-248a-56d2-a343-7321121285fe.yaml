@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44459.html
+    ref: ISO 19110:2005/Amd 1:2011
+  concept: 2652a92f-f61c-59fb-8b6f-1dac72ca7d82
+  definition: asociación o herencia de objetos geográficos
+  examples: []
+  notes: []
+dateAccepted: 2011-06-15 00:00:00+00:00
+id: 21551257-248a-56d2-a343-7321121285fe
+status: retired

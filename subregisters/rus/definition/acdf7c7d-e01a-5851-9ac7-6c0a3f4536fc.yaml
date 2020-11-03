@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 43b00b0d-f426-5227-bfe6-d03bb58c5e37
+  definition: заявление о реализованных опциях спецификации
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: acdf7c7d-e01a-5851-9ac7-6c0a3f4536fc
+status: valid

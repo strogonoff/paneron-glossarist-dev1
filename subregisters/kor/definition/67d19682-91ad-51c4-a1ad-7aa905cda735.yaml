@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: 4.1, modified – The preferred term is "measurement accuracy" rather than
+      "accuracy" and Notes 1 to 3 have been added.
+    link: https://www.iso.org/standard/39242.html
+    ref: ISO 6709:2008
+  concept: 7f7042d6-e117-51b5-b45d-ec2a4746f353
+  definition: 시험결과 혹은 측정결과와 참값 사이의 근사치, 근접성
+  examples: []
+  notes:
+  - The concept "measurement accuracy" is not a quantity and is not given a numerical
+    quantity value. A measurement is said to be more accurate when it offers a smaller
+    measurement error.
+  - The term "measurement accuracy" should not be used for measurement trueness and
+    the term measurement precision should not be used for "measurement accuracy",
+    which, however, is related to both these concepts.
+  - '"Measurement accuracy" is sometimes understood as closeness of agreement between
+    measured quantity values that are being attributed to the measurand.'
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 67d19682-91ad-51c4-a1ad-7aa905cda735
+status: valid

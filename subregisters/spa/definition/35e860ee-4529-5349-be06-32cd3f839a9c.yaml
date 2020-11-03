@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '3.21'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  concept: 52f839c1-e387-5f17-9e42-a8e66425bae0
+  definition: recorrido preestablecido definido por dos o más nodos de transbordo
+    y los enlaces y puntos de paso entre ellos
+  examples: []
+  notes:
+  - Define un camino que debe ser seguido por un servicio de transporte; también llamado
+    ruta.
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: 35e860ee-4529-5349-be06-32cd3f839a9c
+status: valid

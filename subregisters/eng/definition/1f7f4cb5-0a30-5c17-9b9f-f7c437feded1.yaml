@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 22e67817-b4b8-571b-96c2-6e6d235be635
+  definition: testing of a product to determine the extent to which the product is
+    a conforming implementation
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 1f7f4cb5-0a30-5c17-9b9f-f7c437feded1
+status: valid

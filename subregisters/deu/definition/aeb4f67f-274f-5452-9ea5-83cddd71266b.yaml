@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.18
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 3c21971e-80d6-58d8-bd59-c6ca8f683dc9
+  definition: Coverage in Gitterform, dessen Attributwerte eine Beschreibung physikalischer
+    Größen mit Zahlen darstellen
+  examples: []
+  notes:
+  - The physical parameters are the result of measurement by a sensor or a prediction
+    from a model
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: aeb4f67f-274f-5452-9ea5-83cddd71266b
+status: valid

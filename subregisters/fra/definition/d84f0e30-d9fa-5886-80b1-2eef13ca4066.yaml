@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.88
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 696855b3-e083-562d-826b-17dfc70853e1
+  definition: fonction ou procédure qui a au moins un paramètre spatial dans son domaine
+    de définition ou sa gamme de valeurs
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: d84f0e30-d9fa-5886-80b1-2eef13ca4066
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 6815dba5-f507-5db7-9ba8-a86f390a61b9
+  definition: 不重复的相关项（对象或值）的无序集合。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 81624e8b-3a26-5d59-9b3b-10be0637f74d
+status: valid

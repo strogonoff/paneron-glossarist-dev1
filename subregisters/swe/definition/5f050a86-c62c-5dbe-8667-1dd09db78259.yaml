@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: 2f04ddff-330b-5581-b54a-b218a8c2394a
+  definition: när studie, underhåll och bevarande av prov sker på annan plats än i
+    dess normala omgivning
+  examples: []
+  notes:
+  - Opposite of in-situ.
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 5f050a86-c62c-5dbe-8667-1dd09db78259
+status: valid

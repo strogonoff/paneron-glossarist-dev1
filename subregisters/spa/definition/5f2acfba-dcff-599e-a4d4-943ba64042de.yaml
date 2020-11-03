@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.7.1
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 33b7c469-6c53-5267-bb23-12bfa19bc067
+  definition: conjunto de entradas terminológicas que informan acerca de los conceptos
+    o las designaciones de uno o varios campos temáticos
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 5f2acfba-dcff-599e-a4d4-943ba64042de
+status: valid

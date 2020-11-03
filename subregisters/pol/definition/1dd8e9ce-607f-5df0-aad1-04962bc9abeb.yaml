@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.69
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: b92afda8-6f1e-545e-9edd-e36562f1a8f7
+  definition: 0-wymiarowy prosty element topologiczny
+  examples: []
+  notes:
+  - Granicą węzła jest zbiór pusty.
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 1dd8e9ce-607f-5df0-aad1-04962bc9abeb
+status: valid

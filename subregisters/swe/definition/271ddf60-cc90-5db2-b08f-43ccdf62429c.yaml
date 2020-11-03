@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: bdb0c135-bc6f-59bf-9c0d-29caf9ca2499
+  definition: URI som avser en specifik dataförekomst av en objekttyp
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 271ddf60-cc90-5db2-b08f-43ccdf62429c
+status: valid

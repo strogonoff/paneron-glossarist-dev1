@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  concept: 8ba864bc-8c67-50f4-b6e3-d0178f996905
+  definition: tillämpning som, till slutanvändare eller andra tillämpningar, tillhandahåller
+    tjänster som använder PI-referenser
+  examples: []
+  notes: []
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: b1ac4edd-e492-5a46-acff-8b0402eb1e99
+status: valid

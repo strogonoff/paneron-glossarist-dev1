@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 793d3827-6a1b-5a6a-a28d-76d5cbe083ff
+  definition: اسم لمجموعة عمليات تميز سلوك عنصر معين
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 03d1add1-3309-5fce-b98f-ba13c1aa6f4e
+status: superseded

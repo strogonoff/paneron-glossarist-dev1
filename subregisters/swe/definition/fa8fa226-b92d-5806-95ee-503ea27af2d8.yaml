@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: ecaf590d-e4e9-53c9-938b-42b103d86195
+  definition: nod som är avgränsningen av en länk och som motsvarar slutpunkten hos
+    den linje som motsvarar länken i varje giltig geometrisk realisering av ett topologiskt
+    komplex där länken förekommer
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: fa8fa226-b92d-5806-95ee-503ea27af2d8
+status: superseded

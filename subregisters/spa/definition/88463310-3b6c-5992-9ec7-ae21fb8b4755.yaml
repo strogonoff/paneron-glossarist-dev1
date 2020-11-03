@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 4a7b3124-f4e5-540f-a804-0efb4780a046
+  definition: alcance o características de los datos para los que se informa sobre
+    la calidad
+  examples: []
+  notes:
+  - Un ámbito de la calidad relativo a un conjunto de datos puede comprender una serie
+    a la que dicho conjunto pertenece, el propio conjunto o una agrupación más reducida,
+    perteneciente físicamente a dicho conjunto y que comparte características comunes.
+    Estas características comunes pueden ser la identificación de un tipo concreto
+    de objetos geográficos, de atributos o de relaciones entre objetos geográficos,
+    criterios de captura de datos, la fuente original, o una extensión geográfica
+    o temporal específica.
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 88463310-3b6c-5992-9ec7-ae21fb8b4755
+status: retired

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: 1582e72a-dee4-5b51-ad91-76828b5da49d
+  definition: referencia a la procedencia de un ítem que ha sido adoptado de una fuente
+    externa al registro
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 8469739a-f4c6-5928-8f55-1066047e3b6a
+status: retired

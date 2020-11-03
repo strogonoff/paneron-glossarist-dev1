@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3d3cffaf-2f01-561e-84af-f9c637e7f0f8
+  definition: المفاهيم والهياكل والجبر الطوبولوجي التي تساعد أو تعزز أو تعرِّف العمليات
+    الحسابية التي تجرى على الكيانات الطوبولوجية والتي يتم إجراؤها عادة في إطار الهندسة
+    الفراغية الحسابية
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: e6459daf-036e-5efc-8e66-357bd1288c14
+status: retired

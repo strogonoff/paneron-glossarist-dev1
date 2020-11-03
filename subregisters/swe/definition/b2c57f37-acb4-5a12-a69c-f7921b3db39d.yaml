@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 1e546ffc-c909-583d-a5f8-92f7e3c2c06e
+  definition: <av fordon> kontinuerlig bestämning av position
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: b2c57f37-acb4-5a12-a69c-f7921b3db39d
+status: valid

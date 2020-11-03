@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: e1e646ef-9eaf-5967-a9a7-7f43a99127f8
+  definition: reaalimaailmassa olevan sijainnin yksilöintiin tarkoitettu järjestelmä
+  examples: []
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: 01d8657d-5ff3-5e35-9182-a6929867cf49
+status: valid

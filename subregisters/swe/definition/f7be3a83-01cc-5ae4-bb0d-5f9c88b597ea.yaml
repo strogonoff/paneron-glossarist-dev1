@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.5
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  concept: a265cc80-0dcc-55bf-9df2-c17c352b9924
+  definition: perspektiv på ett system och dess omgivning som fokuserar valet av teknik
+    för systemet
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: f7be3a83-01cc-5ae4-bb0d-5f9c88b597ea
+status: valid

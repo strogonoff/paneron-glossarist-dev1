@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 63f2ac26-ad3d-58a7-92e1-25d343351a04
+  definition: positiivisesti painotettu suunnattu verkko, joka on konfiguroitu hakemaan
+    suorin reitti
+  examples: []
+  notes:
+  - Termi on peräisin tunnetuimmasta algoritmista, jonka tarkoituksena on löytää lyhyin
+    reitti positiivisesti painotetussa verkossa, ks. E. Dijkstran artikkeli [7]. Tämä
+    algoritmi ei ole ainoa käytössä oleva, mutta Dijkstran verkkoa koskevat ehdot
+    ovat yhteisiä useimmille algoritmeille. Yleisin ehtoja koskeva lievennys liittyy
+    positiivisiin painoihin; positiivisia painoja ei tarvita Bellman-Ford -algoritmissa
+    [4], [8].
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 77799670-d0f6-573a-af2f-3eba9b3824cc
+status: valid

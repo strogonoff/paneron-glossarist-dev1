@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.2
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 468fd7b6-b1a3-516f-a326-bce26bc60817
+  definition: service that accomplishes compression
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: bf0c174b-88a2-5dc2-846b-bb108441ad4e
+status: valid

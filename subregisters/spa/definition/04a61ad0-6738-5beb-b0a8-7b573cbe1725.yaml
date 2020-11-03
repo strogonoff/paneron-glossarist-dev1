@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  concept: 9b9cc031-0626-5f87-8059-eb67b44830ba
+  definition: promedio de la altura de la superficie del mar en una estación de mareas
+    para todas las etapas de la marea durante un período de 19 años; las alturas se
+    toman, generalmente, a cada hora y se miden a partir de un nivel de referencia
+    previamente determinado
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 04a61ad0-6738-5beb-b0a8-7b573cbe1725
+status: valid

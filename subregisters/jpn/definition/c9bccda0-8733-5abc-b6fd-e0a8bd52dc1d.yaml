@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 22e67817-b4b8-571b-96c2-6e6d235be635
+  definition: 製品の実装の適合の度合を決めるために，その製品に対して行う試験。
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: c9bccda0-8733-5abc-b6fd-e0a8bd52dc1d
+status: valid

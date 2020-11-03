@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: f0ed6608-a06a-5f4e-b2f4-296c08911215
+  definition: número de días julianos, seguido de la fracción decimal del día, transcurridos
+    desde la luna precedente
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: ff7e94c9-20e7-5efa-a22f-b349d3a73f2e
+status: valid

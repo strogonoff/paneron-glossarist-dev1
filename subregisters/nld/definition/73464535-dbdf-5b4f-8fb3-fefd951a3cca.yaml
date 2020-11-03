@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.9
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 0f94560c-b653-563d-a44c-8f31858a373d
+  definition: verzameling van bestanden van identificatiecodes gerelateerd aan items
+    met de beschrijving van de gerelateerde items
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 73464535-dbdf-5b4f-8fb3-fefd951a3cca
+status: valid

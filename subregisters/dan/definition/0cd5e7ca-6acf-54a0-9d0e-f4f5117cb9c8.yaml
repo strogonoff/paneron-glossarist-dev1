@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.23
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 2b00e7f7-51fa-5223-9f90-fd48787c5267
+  definition: koordinatsystem, hvori position er angivet ved geodætisk bredde, geodætisk
+    længde og (hvis 3-dimensionalt) ellipsoidehøjde
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 0cd5e7ca-6acf-54a0-9d0e-f4f5117cb9c8
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.4
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: b0c00d10-838b-56ce-a48f-b2066a3d96b1
+  definition: käsiteskeeman kuvaamiseen käytetty mallinnuskäsitejoukko
+  examples:
+  - UML-metamalli, EXPRESS-metamalli.
+  notes:
+  - Sama käsitteellinen formalismi voidaan ilmaista usealla eri mallinnuskielellä.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 8037fb77-4245-56b4-8980-20b59299ed49
+status: valid

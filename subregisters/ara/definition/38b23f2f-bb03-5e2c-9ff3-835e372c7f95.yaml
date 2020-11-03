@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 6815dba5-f507-5db7-9ba8-a86f390a61b9
+  definition: مجموعة غير مرتبة من البنود ( كائنات أو قيم ) خالية من التكرار
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 38b23f2f-bb03-5e2c-9ff3-835e372c7f95
+status: valid

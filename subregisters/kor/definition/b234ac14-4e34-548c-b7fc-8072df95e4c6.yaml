@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: 45fd36e2-71f5-5c9a-b9f2-aa3a13cf6164
+  definition: 메타데이터를 기술하는 개념적 스키마
+  examples: []
+  notes:
+  - KS X ISO 19115는 메타데이터 스키마를 기술하는 표준이다.
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: b234ac14-4e34-548c-b7fc-8072df95e4c6
+status: retired

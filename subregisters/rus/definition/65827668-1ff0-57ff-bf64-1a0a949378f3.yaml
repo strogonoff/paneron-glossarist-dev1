@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: e885201d-6086-505e-843e-601934d99480
+  definition: аспект или атрибут объекта, на который ссылаются по имени
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 65827668-1ff0-57ff-bf64-1a0a949378f3
+status: valid

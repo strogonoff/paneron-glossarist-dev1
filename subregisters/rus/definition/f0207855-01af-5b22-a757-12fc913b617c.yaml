@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.53
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 20f08b89-d2c4-58e3-9669-f9fed587d16c
+  definition: совокупность компонентов схемы в пределах одного целевого пространства
+    имен
+  examples:
+  - Компонентами схемы W3C XML- схемы являются типы, элементы, атрибуты, группы и
+    т.п.
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: f0207855-01af-5b22-a757-12fc913b617c
+status: valid

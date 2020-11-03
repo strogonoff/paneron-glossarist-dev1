@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 29639377-cf86-5299-b8bb-c8511dbdf270
+  definition: curva simple que es un ciclo
+  examples: []
+  notes:
+  - Los anillos se usan para describir los componentes de los límites de superficies
+    en sistemas de coordenadas de 2 y 3 dimensiones.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 8f4bd910-1916-5339-904e-0b57feb5ce4a
+status: retired

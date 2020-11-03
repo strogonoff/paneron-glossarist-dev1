@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.29'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 4ef49e71-81b9-5a52-b9cb-b70a7a99ed65
+  definition: 좌표, 수학적 함수와/또는 경계 위상 관계 등으로 피처의 공간적 표현을 기술하는 피처 속성
+  examples: []
+  notes: []
+dateAccepted: 2006-05-01 00:00:00+00:00
+id: 329d1f14-3301-5fc8-83a7-7c177961cc88
+status: valid

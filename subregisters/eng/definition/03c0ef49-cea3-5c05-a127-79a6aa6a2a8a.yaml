@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: f65e08b0-46ec-5cca-8896-af6189c231f3
+  definition: summary of the conformance to the International Standard as well as
+    all the details of the testing that supports the given overall summary
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 03c0ef49-cea3-5c05-a127-79a6aa6a2a8a
+status: valid

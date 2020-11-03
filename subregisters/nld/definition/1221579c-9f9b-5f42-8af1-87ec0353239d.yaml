@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '2121317'
+    ref: ISO/IEC 2382:2009
+  concept: 08d2a402-56c4-5d3f-ac5a-6360701502c7
+  definition: mogelijkheid van verschillende autonome, heterogene eenheden, systemen
+    of partijen om met elkaar te communiceren en interacteren
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 1221579c-9f9b-5f42-8af1-87ec0353239d
+status: valid

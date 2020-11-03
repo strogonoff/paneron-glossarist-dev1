@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: '2002'
+    ref: Adapted from Aull et al.
+  concept: 0f376aa8-12d9-5be2-acfa-5badaca892b0
+  definition: sistema lidar cuya corriente fotoeléctrica resultado es proporcional
+    a la insensidad óptica de entrada incidente
+  examples: []
+  notes:
+  - Un sistema lidar que emplea esta tecnología suele utilizar técnicas de procesamiento
+    para desarrollar mediciones de tiempo de vuelo para la onda completa que se refleja
+    desde los objetivos en la escena de interés iluminada. Estas mediciones de tiempo
+    de vuelo se combinan entonces con los datos precisos de localización/altitud de
+    la plataforma, junto con datos de puntos para producir un producto tridimensional
+    de la escena de interés iluminada.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 415c5058-76cd-59f0-9fb4-0ecc61eb23c4
+status: valid

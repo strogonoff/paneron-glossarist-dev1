@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: de325c9f-e99f-5756-a5be-38958ef84c09
+  definition: kolmiulotteinen koordinaatisto, jossa sijainti ilmaistaan kahden kulman
+    ja origosta mitattavan etäisyyden avulla
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 84366076-dd2e-5e93-8f2f-8de28c381c3f
+status: superseded

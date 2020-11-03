@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.2.3
+    ref: OASIS RAF
+  concept: f4434d93-349f-53f5-b189-f1084b8edf37
+  definition: actual result of using a service, rather than merely the capability
+    offered by a service provider
+  examples: []
+  notes:
+  - See 8.3 for a discussion of service.
+dateAccepted: 2016-01-15 00:00:00+00:00
+id: a8269ccd-73c9-566f-8b54-a87e74b4e5cf
+status: valid

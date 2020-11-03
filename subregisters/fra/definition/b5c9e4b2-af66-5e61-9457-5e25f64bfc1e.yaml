@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.15
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: dc70b0b7-0552-502a-9f6f-42d7a2c85526
+  definition: système de positionnement qui mesure la distance à un point de référence
+    le long d'un itinéraire
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: b5c9e4b2-af66-5e61-9457-5e25f64bfc1e
+status: valid

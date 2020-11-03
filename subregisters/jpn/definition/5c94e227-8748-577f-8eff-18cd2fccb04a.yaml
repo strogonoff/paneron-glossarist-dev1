@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 22755be0-d234-508d-8351-6f6a921387b4
+  definition: エッジを含む位相複体の有効な幾何実現において，そのエッジを実現する曲線の始点に対応する，このエッジの境界のノード。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5c94e227-8748-577f-8eff-18cd2fccb04a
+status: superseded

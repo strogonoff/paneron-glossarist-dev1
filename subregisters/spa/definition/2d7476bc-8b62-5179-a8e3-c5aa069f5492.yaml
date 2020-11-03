@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 793d3827-6a1b-5a6a-a28d-76d5cbe083ff
+  definition: conjunto de operaciones con su denominación que caracterizan el comportamiento
+    de un elemento
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 2d7476bc-8b62-5179-a8e3-c5aa069f5492
+status: superseded

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 291bfffa-d9fb-5672-bef0-a3911b779f97
+  definition: объект,  составленный из пар «геометрический элемент – значение»
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 01ffc1f1-ad71-593f-b4c1-05472fd99d58
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: a51a5ce0-b81b-5db8-9a6c-04288a569371
+  definition: exactitud posicional de un conjunto de datos con respecto a un datum
+    horizontal
+  examples: []
+  notes: []
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: 2c068eab-8453-56ab-b319-d39bac53f19c
+status: valid

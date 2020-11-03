@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: fa7bdad4-ba97-57c5-a5dc-abdb01c54453
+  definition: 부적합으로 보고된 시험 판정
+  examples: []
+  notes:
+  - 부적합은 시험목적 또는 최소한 관련 표준의 적합성 요구 사항 중 하나와 관련이 있다.
+dateAccepted: 2007-06-29 00:00:00+00:00
+id: 34aa8224-c12c-5cfa-a032-cebbea6e869a
+status: valid

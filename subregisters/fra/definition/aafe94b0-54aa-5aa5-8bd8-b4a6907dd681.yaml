@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.9
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: b59f7009-0db9-5cf2-a408-07d0ad459306
+  definition: séquence de courbes telle que chaque courbe (sauf la première) commence
+    au point final de la courbe précédente dans la séquence
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: aafe94b0-54aa-5aa5-8bd8-b4a6907dd681
+status: valid

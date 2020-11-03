@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: 840d6e87-6717-5f05-9619-65869570d3cb
+  definition: выражение фильтра, включающее одно или несколько условий, ограничивающих
+    свойства двух различных типов сущностей
+  examples: []
+  notes:
+  - в настоящем стандарте типами сущностей являются типы ресурсов.
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: ad903fe8-fccf-5f42-b32c-806cac45e660
+status: valid

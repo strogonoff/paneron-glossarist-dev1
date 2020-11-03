@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: bc2c9549-d983-5ce2-b580-11b40a4345c1
+  definition: 用一个或多个新注册项置换某一注册项。
+  examples: []
+  notes:
+  - 被置换项目的状态由“有效”变为“被取代”。
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 4639c835-888d-5ed1-add6-36377d616e6b
+status: superseded

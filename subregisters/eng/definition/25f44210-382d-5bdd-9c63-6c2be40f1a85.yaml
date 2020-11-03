@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.45
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 7e833142-706c-507a-9ee0-0ea5fab7fbb1
+  definition: collection of geometric objects that has no internal structure
+  examples: []
+  notes:
+  - No assumptions about the spatial relationships between the elements can be made.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 25f44210-382d-5bdd-9c63-6c2be40f1a85
+status: valid

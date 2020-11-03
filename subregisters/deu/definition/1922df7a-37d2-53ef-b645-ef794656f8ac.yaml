@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.1'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: e277c0fe-2c97-5bb7-802f-c035ce8a6a24
+  definition: jede Kennzeichnung für illustrierendes Material zur Klarstellung
+  examples: []
+  notes:
+  - Numbers, letters, symbols, and signs are examples of annotation
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 1922df7a-37d2-53ef-b645-ef794656f8ac
+status: valid

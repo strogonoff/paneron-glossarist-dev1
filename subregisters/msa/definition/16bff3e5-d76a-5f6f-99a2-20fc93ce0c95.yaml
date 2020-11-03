@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: ISO/IEC JTC1 Procedures (Adapted from)
+    ref: Annex E
+  concept: ec90a670-0f95-560e-9e0f-307276de0d04
+  definition: Tugasan pengenalpastian/pengecaman item yang kekal dan unik.
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 16bff3e5-d76a-5f6f-99a2-20fc93ce0c95
+status: valid

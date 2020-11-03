@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 3.4.23
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: f6eefac7-1acc-5fb6-8e62-94f7d13fd2de
+  definition: relation between designations and concepts in a given language in which
+    one designation only relates to one concept
+  examples: []
+  notes:
+  - The designations in the relation of monosemy are called monosemes.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: c3d8f8e3-742f-5378-8ca9-1ab27cbd7525
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.45
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 22851d22-d8a0-50e9-af24-fb25e344145a
+  definition: 관측의 결과가 물리량인 데이터 유형
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: dd4f8e61-c6ff-5fcc-b8b2-3be759e6eaeb
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 2d8f440e-509d-5fd2-9098-f31342a33029
+  definition: طريقة لاختبار التنفيذ مستقلة عن أي إجراءات اختبار محددة
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 81794a0c-3ea1-5b0d-8c95-586756ca0076
+status: valid

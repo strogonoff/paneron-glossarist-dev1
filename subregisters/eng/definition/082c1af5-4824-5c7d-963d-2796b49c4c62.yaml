@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.18
+    link: https://www.iso.org/standard/64242.html
+    ref: ISO 19160-4:2017
+  concept: c8ac9d49-f642-532b-9ba1-5b6fa0941c3c
+  definition: process in which the rendered address is created
+  examples: []
+  notes: []
+dateAccepted: 2017-11-15 00:00:00+00:00
+id: 082c1af5-4824-5c7d-963d-2796b49c4c62
+status: valid

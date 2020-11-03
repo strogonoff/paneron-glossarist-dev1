@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39965.html
+    ref: ISO 19110:2005
+  concept: 8248101a-7fd7-526e-bfbb-000a1995fba1
+  definition: язык, в котором  формально определены  операции пространственных объектов
+  examples: []
+  notes:
+  - В функциональном языке типы объектов могут быть представлены как типы абстрактных
+    данных
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: d0e47b4a-a4e0-5197-aba4-3ce267b30d2b
+status: valid

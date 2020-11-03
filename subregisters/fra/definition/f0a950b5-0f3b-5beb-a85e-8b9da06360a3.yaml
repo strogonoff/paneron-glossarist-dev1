@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  concept: cd13cc9c-897d-54d8-aaf8-e99f3480e41a
+  definition: noeud topologique simple dans un réseau avec sa collection associée
+    de chemins, de liens d'entrée et de sortie
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f0a950b5-0f3b-5beb-a85e-8b9da06360a3
+status: valid

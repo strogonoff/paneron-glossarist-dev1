@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: a5eda8bb-74e4-57de-9d69-a6cc1b74c806
+  definition: definición de una extensión limitada para un metamodelo de referencia
+    con el propósito de adaptar el metamodelo a una plataforma o dominio específico
+  examples: []
+  notes: []
+dateAccepted: 2015-12-01 00:00:00+00:00
+id: a861e4bd-bd39-5224-9c30-43363dea41b6
+status: valid

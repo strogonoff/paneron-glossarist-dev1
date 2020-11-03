@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.46
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: eb22ee12-b926-59dd-a353-7de97e7f877a
+  definition: 用于定量描述物理现象的量。
+  examples: []
+  notes:
+  - 在GML中，物理量总是使用带有量纲的数或使用标量参考系来描述的值。当测量作为名词使用时，物理量是其同义词。
+dateAccepted: 2005-08-10 00:00:00+00:00
+id: db448e98-311f-5e4a-8ec2-15e4545aa58f
+status: valid

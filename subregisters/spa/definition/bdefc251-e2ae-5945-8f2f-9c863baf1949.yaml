@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: e885201d-6086-505e-843e-601934d99480
+  definition: característica o atributo de un objeto referenciado por un nombre
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: bdefc251-e2ae-5945-8f2f-9c863baf1949
+status: valid

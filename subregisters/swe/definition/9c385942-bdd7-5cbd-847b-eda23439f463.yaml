@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: f65e08b0-46ec-5cca-8896-af6189c231f3
+  definition: redovisning av någots överensstämmelse med en standard samt detaljer
+    som underbygger detta
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 9c385942-bdd7-5cbd-847b-eda23439f463
+status: valid

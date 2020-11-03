@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.3
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: d539c426-96c7-5e63-b0b9-71ccd62aa251
+  definition: преобразование из одного формата в другой
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: ae1b1bd9-9271-5ccb-97ed-dd2b846210cd
+status: valid

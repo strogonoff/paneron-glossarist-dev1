@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: f65e08b0-46ec-5cca-8896-af6189c231f3
+  definition: ملخص مطابقة المعيار الدولي وكذلك جميع تفاصيل الاختبار التي تؤيد الملخص
+    الإجمالي المعطى
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: de5c6f40-9479-550e-a8e6-11ff68c0f3eb
+status: valid

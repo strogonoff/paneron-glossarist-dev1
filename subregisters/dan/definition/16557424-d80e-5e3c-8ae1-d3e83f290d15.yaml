@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: e23c40e5-674d-5544-bb6c-c2bf1232f854
+  definition: 'et mål for hvor meget en ellipsoide afviger fra en kugle, udtrykt matematisk
+    med følgende formel: f = (a-b)/a, hvor a = ellipsoidens halve storakse, b = ellipsoidens
+    halve lilleakse.'
+  examples: []
+  notes:
+  - Under tiden angives omvendt fladtrykning 1/f = a/(a-b) i stedet for; 1/f kaldes
+    også reciprok fladtrykning.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 16557424-d80e-5e3c-8ae1-d3e83f290d15
+status: superseded

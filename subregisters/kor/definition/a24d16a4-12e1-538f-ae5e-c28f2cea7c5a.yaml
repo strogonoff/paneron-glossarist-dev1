@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.2
+    link: https://www.iso.org/standard/70742.html
+    ref: ISO 19112:2019
+  concept: 6c98a63c-151a-5594-81ab-7e434a8722e7
+  definition: 위치 식별을 위한 코드나 라벨 형식의 공간 참조
+  examples:
+  - '"스페인"은 나라 이름의 예이며, "SW1P 3AD"는 우편 번호의 예이다.'
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: a24d16a4-12e1-538f-ae5e-c28f2cea7c5a
+status: valid

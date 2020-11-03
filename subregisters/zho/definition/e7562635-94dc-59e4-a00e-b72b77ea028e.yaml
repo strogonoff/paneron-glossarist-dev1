@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: a4577bb6-890e-53ee-95e3-4e31701020b6
+  definition: 以时间函数定义的要素操作。
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: e7562635-94dc-59e4-a00e-b72b77ea028e
+status: valid

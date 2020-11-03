@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.6'
+    link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  concept: f4d94638-4c6f-54b1-872a-bf74c3969b06
+  definition: output of the quality assessment procedure
+  examples: []
+  notes: []
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: ce0d6222-750a-52e7-b1c8-115d205dcd29
+status: valid

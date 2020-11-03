@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: bdb0c135-bc6f-59bf-9c0d-29caf9ca2499
+  definition: Uniform Resource Identifier (URI), der ein Feature identifiziert
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 32d9ed12-d0af-5d4b-bcc3-bad2bb6135cd
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.11
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: c308d8f2-f7c7-53dd-b113-1139eb0b4265
+  definition: مجموعة من القواعد الرياضية لتحديد كيفية تعيين الإحداثيات للنقاط
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: e4b9c42d-8147-5c6b-ad9b-a012892b29d1
+status: valid

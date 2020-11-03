@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 7e79ff25-ee02-5034-8437-2736fa15d58c
+  definition: 구성 항목의 상속을 표시하는 기법으로, 하나의 구성 요소가 보다 일반화되며 다른 구성 요소는 보다 세분화됨을 표시하는 관계
+  examples: []
+  notes:
+  - 보다 일반적인 요소가 허용되는 곳에 보다 상세 요소의 인스턴스를 사용할 수 있다. 상속을 참조하라.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 319cd751-e7a5-5503-86a8-f263c17ac1fc
+status: superseded

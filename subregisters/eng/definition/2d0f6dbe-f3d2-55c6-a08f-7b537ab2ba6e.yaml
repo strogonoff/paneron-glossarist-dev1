@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.6'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: be205d16-456a-5012-922d-ad886a5eea3c
+  definition: textual information that can be expressed in one or many languages
+  examples: []
+  notes: []
+dateAccepted: 2014-04-01 00:00:00+00:00
+id: 2d0f6dbe-f3d2-55c6-a08f-7b537ab2ba6e
+status: valid

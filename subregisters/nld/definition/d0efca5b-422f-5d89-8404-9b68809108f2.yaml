@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: e1e646ef-9eaf-5967-a9a7-7f43a99127f8
+  definition: model (systeem) voor identificatie van een positie (locatie) in de werkelijkheid
+  examples: []
+  notes:
+  - Identificatie van een positie kan door coördinaten (directe locatie) en door geografische
+    identificatoren (indirecte locatie).
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: d0efca5b-422f-5d89-8404-9b68809108f2
+status: valid

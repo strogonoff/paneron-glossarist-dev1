@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 7dbeebed-7cbf-58ac-a3d8-69ba40779b0f
+  definition: simple surface which is a cycle
+  examples: []
+  notes:
+  - Shells are used to describe boundary components of solids in 3D coordinate systems.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2e092e74-67f6-5d73-b0a4-b2da7dd1124e
+status: retired

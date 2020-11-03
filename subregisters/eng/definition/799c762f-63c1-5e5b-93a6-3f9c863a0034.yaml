@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: f58c7a68-88fc-5431-9f30-644324f0dc08
+  definition: basic unit of geographic information that may be requested as a map
+    from a server
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 799c762f-63c1-5e5b-93a6-3f9c863a0034
+status: valid

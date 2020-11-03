@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108
+  concept: 21ed8515-1c3a-535f-8c2f-23f7be9a2010
+  definition: échelle avec une origine arbitraire qui peut être utilisée pour décrire
+    à la fois l'ordonnancement des valeurs et les distances entre valeurs
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: ad9fc07c-3cbc-50a7-a802-9d90767f2219
+status: valid

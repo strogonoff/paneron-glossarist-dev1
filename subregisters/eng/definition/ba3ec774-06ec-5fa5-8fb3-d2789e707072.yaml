@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.53
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 20f08b89-d2c4-58e3-9669-f9fed587d16c
+  definition: collection of schema components within the same target namespace
+  examples:
+  - Schema components of W3C XML Schema are types, elements, attributes, groups, etc.
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: ba3ec774-06ec-5fa5-8fb3-d2789e707072
+status: valid

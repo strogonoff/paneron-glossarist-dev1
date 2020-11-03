@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 43650201-9bb4-5b77-8f13-67d85e1565f9
+  definition: avaruuden jakaminen joukkoon vierekkäisiä aliavaruuksia, joilla on sama
+    ulottuvuus kuin jaettavalla avaruudella
+  examples:
+  - Piirrosesimerkkejä tesselaatioista löytyy tämän kansainvälisen standardin kuvista
+    11, 13, 20 ja 22.
+  notes:
+  - Yhtenevistä säännöllisistä monikulmioista tai monitahokkaista koostuva tesselaatio
+    on säännöllinen. Säännöllisistä mutta epäyhtenevistä monikulmioista tai monitahokkaista
+    koostuva tesselaatio on puolisäännöllinen. Muunlaiset tesselaatiot ovat epäsäännöllisiä.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: c56b8703-b6a4-50b7-aef6-c194a0375ad7
+status: valid

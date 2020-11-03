@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: b6a474e4-9750-5f63-bccc-d6d87cd6f4ee
+  definition: point in object space (ground) used to estimate the positional accuracy
+    of a geospatial dataset against an independent source of greater accuracy
+  examples: []
+  notes: []
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: 31622f28-b74e-566f-b28e-65f80240d489
+status: valid

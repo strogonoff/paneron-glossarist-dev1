@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 70365e5b-5e7b-5d22-b757-ccce52cb118a
+  definition: метод оценки качества набора данных, основанный на проверке элементов
+    набора данных
+  examples: []
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 513c7ebe-f8b6-5ffb-824f-eb72acf2d679
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 4087c4ff-8435-5492-95c8-88dc6ae34db2
+  definition: grad till vilken inneboende egenskaper uppfyller krav
+  examples: []
+  notes:
+  - 'For the purposes of this Technical Specification the quality characteristics
+    of product include: Data quality (the elements of which are described by ISO 19157),
+    Volume of delivery, Schedule of delivery, and Cost of production and/or update.'
+dateAccepted: 2011-04-27 00:00:00+00:00
+id: 3f2417b7-1de0-5ef6-b786-02855c3fa996
+status: superseded

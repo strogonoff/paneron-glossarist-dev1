@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: f535d19b-51bc-5153-9881-72f34b5a6f81
+  definition: geometrian esittäminen konstruktiivisten geometristen primitiivien avulla
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: e5ad10c6-d3ac-5e3a-af75-e2cea7e1e599
+status: valid

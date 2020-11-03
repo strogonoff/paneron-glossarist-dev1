@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 8bffaf55-5e60-5e4f-b36d-73126661a5e0
+  definition: совокупность кортежей координат в одной и той же координатной системе
+    отсчета
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: a967de95-5091-5930-8594-d70b3ca330a4
+status: superseded

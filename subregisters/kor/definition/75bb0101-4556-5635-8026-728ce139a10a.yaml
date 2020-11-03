@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.34
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 01a118c3-6764-5044-a2ae-a09e13654aae
+  definition: 물리적 센서 모형 또는 실제 대체 모형을 사용하여 개체의 지리위치를 설정하는 것
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 75bb0101-4556-5635-8026-728ce139a10a
+status: valid

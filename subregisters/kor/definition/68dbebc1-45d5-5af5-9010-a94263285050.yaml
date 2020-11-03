@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 3320dfc7-7b80-5984-8526-b02f15bde3c3
+  definition: 타원을 한 개의 주축 주위로 회전했을 때에 생성되는 표면
+  examples: []
+  notes:
+  - 본 표준에서 타원체는 항상 그 회전축이 항상 단축인 회전 타원면이다.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 68dbebc1-45d5-5af5-9010-a94263285050
+status: superseded

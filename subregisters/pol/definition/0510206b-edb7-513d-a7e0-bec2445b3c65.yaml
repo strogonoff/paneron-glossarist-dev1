@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 561d7293-8f8a-5107-af9f-a70e6521b759
+  definition: taka siatka trójkątów, dla której okrąg przechodzący przez wierzchołki
+    dowolnego trójkąta nie zawiera w swoim wnętrzu wierzchołka żadnego innego trójkąta
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 0510206b-edb7-513d-a7e0-bec2445b3c65
+status: valid

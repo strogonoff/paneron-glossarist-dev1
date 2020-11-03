@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: aa77d800-5eb2-51b3-a152-941f1de0d3c6
+  definition: 与论域一致。
+  examples: []
+  notes: []
+dateAccepted: 2006-12-01 00:00:00+00:00
+id: 00bfc721-a8a8-5994-b284-16bdbe561ac6
+status: valid

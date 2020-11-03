@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.67
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 5323e7a6-d499-5914-ab73-53633b6b85b4
+  definition: центр окружностей равного искажения объектива, расположенного в плоскости
+    изображения
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: c670c886-3bca-5073-9eb0-10ab1434b9cd
+status: valid

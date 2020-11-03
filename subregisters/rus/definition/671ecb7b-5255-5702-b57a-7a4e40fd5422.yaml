@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: f65e08b0-46ec-5cca-8896-af6189c231f3
+  definition: резюме соответствия конкретному международному стандарту, а также детальные
+    результаты тестирования, которые подтверждают данное сводное резюме
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 671ecb7b-5255-5702-b57a-7a4e40fd5422
+status: valid

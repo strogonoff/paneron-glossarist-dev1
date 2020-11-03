@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44316.html
+    ref: ISO/TS 27790:2009
+  concept: 4c632434-d187-5e1a-b312-e5e278bfa72a
+  definition: estructura lógica para clasificar y organizar información compleja
+  examples: []
+  notes: []
+dateAccepted: 2012-11-15 00:00:00+00:00
+id: 0fc87299-dc5b-5985-9a63-94fa9939eb20
+status: valid

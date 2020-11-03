@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.69
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 0abbc036-0b35-5970-abd2-c0d951c52865
+  definition: 치수 매개 변수를 표현하는 정의된 양
+  examples: []
+  notes:
+  - KS X ISO 19111 표준에서 단위의 하위 유형은 길이 단위, 각 단위, 시간 단위, 척도 단위 및 픽셀 간격 단위이다.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: afd37242-aeb8-5a34-a132-9bf87438e471
+status: valid

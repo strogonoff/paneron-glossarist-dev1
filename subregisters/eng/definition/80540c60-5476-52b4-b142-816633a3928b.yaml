@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 1.7.2, modified — Supporting content has been relocated to Note 1 to entry.
+    link: https://www.iso.org/standard/57284.html
+    ref: ISO 14721:2012
+  concept: 03268cb6-29a6-5b4c-906c-091442a4a2ac
+  definition: archive, consisting of an organization, which may be part of a larger
+    organization, of people and systems, that has accepted the responsibility to preserve
+    information and make it available for a designated community
+  examples: []
+  notes:
+  - An OAIS Archive meets a set of responsibilities that allows to be distinguished
+    from other uses of the term 'archive'. The term 'open' in OAIS is used to imply
+    that this recommendation and future related recommendations and standards are
+    developed in open forums, and it does not imply that access to the archive is
+    unrestricted.
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: 80540c60-5476-52b4-b142-816633a3928b
+status: valid

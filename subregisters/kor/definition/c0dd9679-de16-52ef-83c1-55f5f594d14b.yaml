@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: 6da82da4-71ed-52b9-9458-21b9f3f09892
+  definition: 지형지물 사례를 고유하게 지정한 식별자
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: c0dd9679-de16-52ef-83c1-55f5f594d14b
+status: valid

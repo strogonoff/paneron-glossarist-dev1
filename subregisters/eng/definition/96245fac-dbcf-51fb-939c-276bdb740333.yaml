@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: ecaf590d-e4e9-53c9-938b-42b103d86195
+  definition: node in the boundary of an edge that corresponds to the end point of
+    that edge as a curve in any valid geometric realization of a topological complex
+    in which the edge is used
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 96245fac-dbcf-51fb-939c-276bdb740333
+status: superseded

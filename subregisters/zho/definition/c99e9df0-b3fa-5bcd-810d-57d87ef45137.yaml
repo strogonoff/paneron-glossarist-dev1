@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 99e622e9-3bf0-5dc0-b1cd-a5b16f2d6808
+  definition: 由三角形组成的镶嵌式分割。
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: c99e9df0-b3fa-5bcd-810d-57d87ef45137
+status: valid

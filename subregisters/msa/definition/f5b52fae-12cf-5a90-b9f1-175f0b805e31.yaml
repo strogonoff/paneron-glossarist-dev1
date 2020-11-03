@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.7.1
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 33b7c469-6c53-5267-bb23-12bfa19bc067
+  definition: Pengumpulan terminologi yang memaparkan maklumat berkaitan konsep atau
+    penandaan dari satu atau lebih bidang subjek tertentu
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: f5b52fae-12cf-5a90-b9f1-175f0b805e31
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: a247c4b5-3b66-57b4-bf07-a97cce4759c5
+  definition: 등록물을 유지, 관리하는 정보 시스템
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 6d624124-f520-53d2-a642-4a0cb1fa07eb
+status: valid

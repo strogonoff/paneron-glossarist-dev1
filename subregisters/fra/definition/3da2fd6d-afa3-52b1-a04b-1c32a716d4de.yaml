@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.11
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 946c702e-dfad-5a47-ae83-dc6ceb81ee2f
+  definition: ensemble connecté de surfaces jointes le long d'une frontière curviligne
+    partagée
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3da2fd6d-afa3-52b1-a04b-1c32a716d4de
+status: valid

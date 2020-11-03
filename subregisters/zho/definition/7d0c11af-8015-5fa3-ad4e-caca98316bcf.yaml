@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: ecaf590d-e4e9-53c9-938b-42b103d86195
+  definition: 在边的边界中对应于边的终结点。在使用该边的拓扑复形的任何有效的几何实现中，边是作为是一条曲线。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 7d0c11af-8015-5fa3-ad4e-caca98316bcf
+status: superseded

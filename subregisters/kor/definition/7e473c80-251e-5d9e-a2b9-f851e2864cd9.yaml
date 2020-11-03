@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 43b00b0d-f426-5227-bfe6-d03bb58c5e37
+  definition: 사양에 규정된 요구 조건에 대한 구현 선택 사항을 기술한 문서
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 7e473c80-251e-5d9e-a2b9-f851e2864cd9
+status: valid

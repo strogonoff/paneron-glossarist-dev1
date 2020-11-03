@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: fe829ed0-6749-576a-9d19-a3730a859ef8
+  definition: one parameter set of geometries such that each point in the prism of
+    the set is in one and only one trajectory and in one and only one leaf
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 85a3c1ef-e3d6-5c36-9c6b-3f3a6ac8a5b5
+status: valid

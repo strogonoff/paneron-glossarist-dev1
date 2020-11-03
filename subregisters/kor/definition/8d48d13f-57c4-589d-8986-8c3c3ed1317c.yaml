@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: 840d6e87-6717-5f05-9619-65869570d3cb
+  definition: 두 개의 다른 실체 유형의 특성을 제한하는 하나 또는 그 이상의 구문을 포함하는 필터 표현
+  examples: []
+  notes:
+  - In this International Standard, the entity types are resource types.
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 8d48d13f-57c4-589d-8986-8c3c3ed1317c
+status: valid

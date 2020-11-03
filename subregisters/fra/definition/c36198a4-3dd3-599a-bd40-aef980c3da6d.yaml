@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.26
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 71d52e98-d7bd-5632-a0d4-59a9d91fff2f
+  definition: objet topologique orienté représentant une association entre un solide
+    topologique et une de ses orientations
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c36198a4-3dd3-599a-bd40-aef980c3da6d
+status: valid

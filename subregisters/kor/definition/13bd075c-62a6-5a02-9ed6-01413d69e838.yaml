@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.26
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 5c083fa2-695f-5616-8e64-e953f27bf242
+  definition: 좌표 체계와 지역 참조와의 관계를 설명하는 공학 데이텀
+  examples:
+  - 참조 점에서 몇 킬로미터 이내에 포함된 상대 위치를 식별하는 체계
+  notes:
+  - 공학 데이텀은 측지 원점 및 수직 데이텀 모두를 포함하지 않는다.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 13bd075c-62a6-5a02-9ed6-01413d69e838
+status: valid

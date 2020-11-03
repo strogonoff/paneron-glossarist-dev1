@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: SOA-RAF
+  concept: 59518a8a-937b-596a-bab4-6c49c5f93356
+  definition: real-world effect that a service provider is able to provide to a service
+    consumer
+  examples: []
+  notes: []
+dateAccepted: 2016-01-15 00:00:00+00:00
+id: b2986cc8-b84f-5e6f-a0fb-683a389efe11
+status: valid

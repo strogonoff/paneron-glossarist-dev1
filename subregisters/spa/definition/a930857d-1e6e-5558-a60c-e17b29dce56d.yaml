@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: a247c4b5-3b66-57b4-bf07-a97cce4759c5
+  definition: sistema de información en el que se mantiene un registro
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: a930857d-1e6e-5558-a60c-e17b29dce56d
+status: valid

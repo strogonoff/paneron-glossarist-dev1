@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.41
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 97493af5-3463-57ab-a703-1e5c9be92109
+  definition: mittlere Meereshöhe, gemittelt über die Gezeitenstufen und saisonalen
+    Schwankungen
+  examples: []
+  notes:
+  - Mean sea level in a local context normally means mean sea level for the region
+    calculated from observations at one or more points over a given period of time.
+    Mean sea level in a global context differs from a global geoid by not more than
+    2 m.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 16e602ea-13b4-5a4c-89b6-7f9e4cf18c42
+status: valid

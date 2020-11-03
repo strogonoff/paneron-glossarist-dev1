@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.23
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 5ce21ae3-1373-5c00-a1fa-ea88fdbacfab
+  definition: układ współrzędnych, w którym położenie jest określone poprzez szerokość
+    geodezyjną, długość geodezyjną oraz (w przypadku układu trójwymiarowego) wysokość
+    elipsoidalną
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 13e99486-4402-56c7-9e0f-02e7ce77e6c7
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.4
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: b0c00d10-838b-56ce-a48f-b2066a3d96b1
+  definition: 개념적 모델을 기술하기 위해 사용된 모델링 개념의 집합
+  examples:
+  - UML 메타모델, EXPRESS 메타모델
+  notes:
+  - 한 개의 개념 형식은 복수의 개념적 스키마 언어로 표현될 수 있다.
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: 89b1fb99-6244-5eba-8882-bcc4c4b78afb
+status: valid

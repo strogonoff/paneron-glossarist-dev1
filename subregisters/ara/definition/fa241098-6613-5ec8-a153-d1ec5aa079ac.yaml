@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  concept: 8ea3763d-ed38-543f-842f-dcd4ae6e8845
+  definition: العلاقة بين عناصر نموذج المحتوى وآليات الترميز والعرض المنفصلة
+  examples: []
+  notes: []
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: fa241098-6613-5ec8-a153-d1ec5aa079ac
+status: valid

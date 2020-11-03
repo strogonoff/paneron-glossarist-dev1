@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.48'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 599b3bce-3f44-56c6-b688-af019288fa0c
+  definition: mampu menguatkuasakan keperluan sistem
+  examples: []
+  notes:
+  - A sufficient DRM system would have to be bypassed if an infringement would be
+    possible. Proof of sufficiency can be difficult because it can be dependent on
+    an "attack model", which describes the sorts of attacks to which the system is
+    immune.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 1c33b22e-8c13-5473-a863-7d6ec0aa9139
+status: valid

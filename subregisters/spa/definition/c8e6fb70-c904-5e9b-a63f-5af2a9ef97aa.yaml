@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.25'
+    link: https://www.iso.org/standard/63541.html
+    ref: ISO 19104:2016
+  concept: c291ecf8-98e6-5d93-8ad5-50693a9abbc2
+  definition: subregistro en un registro terminológico jerárquico multilingüe que
+    contiene sólo entradas terminológicas en el lenguaje de referencia
+  examples: []
+  notes: []
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: c8e6fb70-c904-5e9b-a63f-5af2a9ef97aa
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: ecaf590d-e4e9-53c9-938b-42b103d86195
+  definition: węzeł należący do granicy krawędzi, który odpowiada punktowi końcowemu
+    tej krawędzi jako krzywej w dowolnej poprawnej realizacji geometrycznej złożonego
+    elementu topologicznego, w którym krawędź ta jest użyta
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: a5c3bce4-881c-5a13-815d-c5e8e7bd94b5
+status: valid

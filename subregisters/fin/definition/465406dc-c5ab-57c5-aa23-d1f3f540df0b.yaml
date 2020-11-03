@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: a247c4b5-3b66-57b4-bf07-a97cce4759c5
+  definition: tietojärjestelmä, jossa rekisteriä ylläpidetään
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 465406dc-c5ab-57c5-aa23-d1f3f540df0b
+status: valid

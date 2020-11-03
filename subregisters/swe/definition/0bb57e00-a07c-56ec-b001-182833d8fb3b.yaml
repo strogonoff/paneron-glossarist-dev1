@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: a0cdfe23-c885-5d5f-acbe-c7db92ddec9e
+  definition: "egenskaper hos produkt eller tjänst som är av betydelse för dess förmåga\n\
+    \ att tillgodose ställda krav"
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 0bb57e00-a07c-56ec-b001-182833d8fb3b
+status: superseded

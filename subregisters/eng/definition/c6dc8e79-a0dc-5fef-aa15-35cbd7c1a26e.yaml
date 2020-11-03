@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 20ac2501-fd02-58ac-820b-82ebd35e9971
+  definition: persistent data object reflecting the interal values of all the member
+    attributes or measurable descriptions of a object at a given time
+  examples: []
+  notes:
+  - State is usually associated to an object by its identity and to a time by a timestamp.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: c6dc8e79-a0dc-5fef-aa15-35cbd7c1a26e
+status: valid

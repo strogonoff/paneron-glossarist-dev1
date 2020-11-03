@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.71
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 271a3e34-c6dd-5498-94f0-1f075a46a8ec
+  definition: resolución espacial en la dirección del vector distancia
+  examples: []
+  notes:
+  - Para un sensor SAR, esto se mide normalmente en terminos de la respuesta del impulso
+    del sensor y el sistema de procesamiento. Es función del ancho de banda del pulso.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: b84be8e1-4e53-5c4a-bf1e-f70c18eba612
+status: valid

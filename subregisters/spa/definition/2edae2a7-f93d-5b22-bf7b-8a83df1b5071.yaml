@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3d3cffaf-2f01-561e-84af-f9c637e7f0f8
+  definition: álgebra, estructuras y conceptos topológicos que apoyan, amplian o definen
+    operaciones, normalmente ejecutadas sobre objetos geométricos
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2edae2a7-f93d-5b22-bf7b-8a83df1b5071
+status: retired

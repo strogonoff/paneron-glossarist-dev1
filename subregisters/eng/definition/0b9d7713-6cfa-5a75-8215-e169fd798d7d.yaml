@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: IAG and IUGG resolutions of 1991 and 2007
+  concept: 2986596d-74fc-5ac8-876a-878009c666ec
+  definition: system of geocentric space-time coordinates within the framework of
+    General Relativity, co-rotating with the Earth and related to the Geocentric Celestial
+    Reference System by a spatial rotation which takes into account the Earth's orientation
+    parameters
+  examples: []
+  notes: []
+dateAccepted: 2020-01-24 00:00:00+00:00
+id: 0b9d7713-6cfa-5a75-8215-e169fd798d7d
+status: valid

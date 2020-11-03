@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.69
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 0abbc036-0b35-5970-abd2-c0d951c52865
+  definition: كمية محدده يعبر فيها بعوامل متغيره ذات أبعاد
+  examples: []
+  notes:
+  - 'في هذا المقياس الدولي الأنواع الفرعية للوحدات هي: الوحدات الطولية ، والوحدات
+    الزاوية ، ووحدات الوقت ، ووحدات مقاييس الرسم ، ووحدات المسافات الفاصلة بين النقط
+    الضوئية.'
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: ea73a7fc-f505-528b-bd59-f75db029c4ac
+status: valid

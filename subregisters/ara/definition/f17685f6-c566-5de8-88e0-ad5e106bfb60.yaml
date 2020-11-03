@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: 840d6e87-6717-5f05-9619-65869570d3cb
+  definition: تعبير مفلتر يشتمل على بند أو أكثر مقيِّد للخصائص من نوعين مختلفين من
+    الكيانات.
+  examples: []
+  notes:
+  - في هذا المقياس الدولي أنواع الكيانات هي أنواع من الموارد.
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: f17685f6-c566-5de8-88e0-ad5e106bfb60
+status: valid

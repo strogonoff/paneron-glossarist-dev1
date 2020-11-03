@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: fbd12ec8-ab4a-53d1-8cbb-c2cd8f4f650f
+  definition: ある座標系における位置を記述するために必要な計測値又は座標軸の数。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 8fc18687-9db4-5704-a654-0cc221555211
+status: superseded

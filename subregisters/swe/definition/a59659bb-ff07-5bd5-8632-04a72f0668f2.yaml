@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: e885201d-6086-505e-843e-601934d99480
+  definition: namngiven datauppgift hos en objekttyp
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: a59659bb-ff07-5bd5-8632-04a72f0668f2
+status: valid

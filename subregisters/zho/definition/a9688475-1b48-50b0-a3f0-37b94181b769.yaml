@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: c3629c38-a578-5c3a-ad62-e55dc1b64011
+  definition: 包含对一组或多组地理数据的要素类型、要素属性、要素关系以及可执行的要素操作的定义和描述的目录。
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: a9688475-1b48-50b0-a3f0-37b94181b769
+status: valid

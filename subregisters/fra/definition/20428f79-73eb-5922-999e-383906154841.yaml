@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.41
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 97493af5-3463-57ab-a703-1e5c9be92109
+  definition: niveau moyen de la surface de la mer après avoir éliminé les perturbations
+    liées aux marées et aux variations saisonnières
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 20428f79-73eb-5922-999e-383906154841
+status: valid

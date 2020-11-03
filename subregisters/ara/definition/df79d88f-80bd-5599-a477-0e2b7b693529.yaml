@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  concept: 2984a5cd-f92e-54db-ad36-e82ce6ebfb1a
+  definition: نظام مرجعي يحدد الموقع بالرجوع إلى جزء من معلم جغرافي والمسافة الممتدة
+    بطول ذلك الجزء ابتداءً من نقطة معطاه
+  examples: []
+  notes:
+  - النظم المرجعية الخطية مستخدمة على نطاق واسع في النقل , ومن أمثلتها أسماء الطرق
+    العامة , وعلامات الأميال أو الكيلومترات.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: df79d88f-80bd-5599-a477-0e2b7b693529
+status: retired

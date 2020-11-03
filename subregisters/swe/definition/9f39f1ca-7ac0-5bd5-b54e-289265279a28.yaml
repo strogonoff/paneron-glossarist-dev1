@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.38
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 183b226d-dc90-54c1-ae4d-d346dc0737c9
+  definition: den del av den verkliga värden som är av intresse och som har avgränsats
+    i specifikationen
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 9f39f1ca-7ac0-5bd5-b54e-289265279a28
+status: valid

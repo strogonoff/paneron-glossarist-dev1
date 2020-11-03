@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.91
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 4d31de7a-406a-54ae-bc73-ee6a1aeb2964
+  definition: すべての要素が，より大きな複体の一部でもあるような複体。
+  examples: []
+  notes:
+  - 幾何複体及び位相複体の定義が要求するのは，境界演算について閉じることだけであることから，特定の次元又はそれ以下の任意のプリミティブの集合は，常に元のより大きな複体の部分複体になる。したがって，任意の完全平面位相複体は，部分複体であるエッジノードグラフを含む。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: a0d19ad9-9930-5bfa-b8a2-812340a76c8d
+status: valid

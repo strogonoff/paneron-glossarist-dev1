@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 43650201-9bb4-5b77-8f13-67d85e1565f9
+  definition: 将空间分割成相同维数的相接的一组子空间。
+  examples:
+  - 在标准（ISO 19123）图11，13，20，22可看到镶嵌的图解实例。
+  notes:
+  - 由全等正多边形或正多面体组成的镶嵌称为规则镶嵌，由不全等的正多边形或正多面体组成的镶嵌称为半规则镶嵌，否则称为不规则镶嵌。
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: f2abe4b3-ab93-5650-8c10-c1981d8c8597
+status: valid

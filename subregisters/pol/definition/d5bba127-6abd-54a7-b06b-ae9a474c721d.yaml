@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.20'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 85621795-5ef2-50ea-93cd-fb4cd3643ef8
+  definition: przedstawienie informacji ludziom
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: d5bba127-6abd-54a7-b06b-ae9a474c721d
+status: valid

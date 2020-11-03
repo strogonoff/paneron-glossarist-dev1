@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.14
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 90925aba-7683-5966-aff6-6edc9cbd2285
+  definition: 某一注册项不再适用于新数据生产的声明。
+  examples: []
+  notes:
+  - 停用项目的状态从有效变为停用。停用项目保留在注册表中，以支持对在其停用前生产数据的解释。
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 839f7b58-57e6-5c37-a01a-dbb9dc335efb
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: fc6026e1-d7d3-52df-86f1-6744f8bd8063
+  definition: 'функция f из интервала t ∈ ([a, b] такая, что f (t) является геометрией,
+    и для каждой точки P ∈ (f (a) имеется однопараметрическое множество точек (называемое
+    траекторией P) P (t) : [а, b] →P(t) такое, что P (t)∈ (f (t)'
+  examples:
+  - кривая C с конструктивным параметром t является  набора точек c одним параметром
+    (t).
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: f55c456f-fc23-56db-b5ad-ed3812c818aa
+status: valid

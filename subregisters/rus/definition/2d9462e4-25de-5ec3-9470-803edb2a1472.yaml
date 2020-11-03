@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.32
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 4a17046f-2100-5f83-8052-94353b82f5d8
+  definition: множество точек
+  examples: []
+  notes:
+  - В большинстве случаев это множество является бесконечным
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2d9462e4-25de-5ec3-9470-803edb2a1472
+status: valid

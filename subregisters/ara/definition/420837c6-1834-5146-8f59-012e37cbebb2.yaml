@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.4.19
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 6ed162ef-6c91-5c05-bec0-456267b8bf44
+  definition: علاقة بين او فيما بين المصطلحات في لغة معينة تمثل نفس المفهوم
+  examples: []
+  notes:
+  - علاقة الترادف قائمة بين الدوتريوم والهدروجين الثقيل.
+  - Terms which are interchangeable in all contexts are called synonyms; if they are
+    interchangeable only in some contexts, they are called quasi-synonyms.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 420837c6-1834-5146-8f59-012e37cbebb2
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.55
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 46fed6bc-59b7-5ecf-9432-0beff595799d
+  definition: węzeł nie związany z żadną krawędzią
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: e22519e4-5492-5e63-9153-a0d148e8b3aa
+status: valid

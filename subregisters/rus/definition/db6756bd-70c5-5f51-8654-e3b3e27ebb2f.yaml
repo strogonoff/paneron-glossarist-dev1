@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.2
+    link: https://www.iso.org/standard/70742.html
+    ref: ISO 19112:2019
+  concept: 6c98a63c-151a-5594-81ab-7e434a8722e7
+  definition: пространственная ссылка в форме символьной строки или кода, идентифицирующая
+    местоположение
+  examples:
+  - '"Испания" - пример названия страны, "SW1P 3AD" - пример почтового индекса'
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: db6756bd-70c5-5f51-8654-e3b3e27ebb2f
+status: valid

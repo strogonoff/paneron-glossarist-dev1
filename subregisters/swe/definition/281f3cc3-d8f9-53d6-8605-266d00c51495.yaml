@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.54
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 4244de14-9971-59f4-beb4-4ccbe409eaaf
+  definition: punkt i bilden som unikt motsvarar en punkt i det som avbildas
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 281f3cc3-d8f9-53d6-8605-266d00c51495
+status: valid

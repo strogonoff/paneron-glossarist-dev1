@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.77
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 7154d158-5ea9-5edb-9666-b6e61aae58c3
+  definition: топологический комплекс, имеющий геометрическую реализацию, которая
+    может быть помещена в двумерное Евклидово пространство
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 876c8c2b-7a5a-528e-bd76-290c0dc288be
+status: valid

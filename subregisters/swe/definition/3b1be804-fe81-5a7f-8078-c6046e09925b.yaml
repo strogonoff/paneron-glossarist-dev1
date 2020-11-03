@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: b6bed773-b213-53f7-848f-fe8b64c44fa0
+  definition: definition som används för att tilldela objekt till en indelningsklas
+  examples: []
+  notes:
+  - Classifiers can be defined algorithmically or according to a set of classification
+    system specific rules.
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 3b1be804-fe81-5a7f-8078-c6046e09925b
+status: valid

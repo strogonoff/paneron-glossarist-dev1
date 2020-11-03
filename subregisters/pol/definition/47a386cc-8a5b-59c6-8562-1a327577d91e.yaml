@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 337e3766-b2fe-5d6f-bcbb-5f8864eea080
+  definition: dane, które w sposób jawny lub niejawny odnoszą się do położenia względem
+    Ziemi
+  examples: []
+  notes:
+  - Informacja geograficzna jest także używana jako hasło oznaczające informację dotyczącą
+    zjawisk w sposób jawny lub niejawny związanych z położeniem względem Ziemi.
+dateAccepted: 2005-06-15 00:00:00+00:00
+id: 47a386cc-8a5b-59c6-8562-1a327577d91e
+status: valid

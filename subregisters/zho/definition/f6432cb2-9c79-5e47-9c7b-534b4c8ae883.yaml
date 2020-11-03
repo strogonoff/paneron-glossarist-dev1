@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 9f3d1752-9df4-503d-803c-778fc92812c3
+  definition: 类元的特性，描述该类元的实例可能有的值的范围。
+  examples: []
+  notes:
+  - 一个属性语义上等同于一个组合关联，但是，目的和用途是不同的。
+  - 该定义使用的“特性（feature)”是UML的术语含义，不是本技术规范第4.1章定义的含义。
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: f6432cb2-9c79-5e47-9c7b-534b4c8ae883
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 561d7293-8f8a-5107-af9f-a70e6521b759
+  definition: red de triángulos tal que el círculo que pasa a través de los vértices
+    de cualquier triángulo no contiene, en su interior, el vértice de ningún otro
+    triángulo
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: b30e70b5-b280-5724-9ce3-2bdbbbaddba4
+status: valid

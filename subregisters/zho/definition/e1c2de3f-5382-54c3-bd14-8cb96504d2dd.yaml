@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.25
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: e4edc733-210c-514a-b4b1-10cb6a4eda4e
+  definition: 基于工程基准的坐标参照系。
+  examples:
+  - 地方工程和建筑格网；相对于地方船舶或轨道上的航天器的坐标参照系。
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: e1c2de3f-5382-54c3-bd14-8cb96504d2dd
+status: valid

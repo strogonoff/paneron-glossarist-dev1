@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.71
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 271a3e34-c6dd-5498-94f0-1f075a46a8ec
+  definition: الوضوح المكاني في اتجاه المدى
+  examples: []
+  notes:
+  - بالنسبة لجهاز استشعار الرادار "سار" ، يقاس (الوضوح) عادة من خلال استجابة نبضات
+    جهاز الاستشعار ونظام المعالجة. هو دالة تتعلق بعرض موجة النبضة.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: c1cd23a0-64da-536f-a812-c64f49ab1b0c
+status: valid

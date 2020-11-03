@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 38404f30-58f9-502f-9c59-27002e2c4a7f
+  definition: del av en rutt eller ett nätverk som består av en korsning och en inkommande
+    och utgående länk i korsningen
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 0a579c73-acef-557e-b74e-9485391d5bbc
+status: valid

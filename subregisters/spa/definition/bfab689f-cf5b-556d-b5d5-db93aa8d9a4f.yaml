@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.1
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  concept: 70bc8fd7-690f-5fc2-aa2e-5eeeab018405
+  definition: punto de vista de un sistema ODP (Open Distributed Processing) y su
+    entorno que se centra en el propósito, campo de aplicación y políticas para ese
+    sistema
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: bfab689f-cf5b-556d-b5d5-db93aa8d9a4f
+status: valid

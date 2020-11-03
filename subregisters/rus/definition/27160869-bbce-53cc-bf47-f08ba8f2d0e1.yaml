@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.23
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 5ce21ae3-1373-5c00-a1fa-ea88fdbacfab
+  definition: система координат, в которой положение  описывается геодезическими широтой
+    и долготой, а в трехмерном пространстве - эллипсоидальной высотой
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 27160869-bbce-53cc-bf47-f08ba8f2d0e1
+status: valid

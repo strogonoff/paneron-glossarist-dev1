@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.26
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 5c083fa2-695f-5616-8e64-e953f27bf242
+  definition: даты с местной привязкой начальной точки
+  examples:
+  - Система для определения относительного положения в пределах нескольких километров
+    от начальной точки
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 196b7326-91eb-5278-8dc0-329f5429f9f9
+status: valid

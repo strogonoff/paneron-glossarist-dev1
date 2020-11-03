@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 99e622e9-3bf0-5dc0-b1cd-a5b16f2d6808
+  definition: teselacja złożona z trójkątów
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 77f1e0fb-6dd6-5884-84a2-3bcbf8df5476
+status: valid

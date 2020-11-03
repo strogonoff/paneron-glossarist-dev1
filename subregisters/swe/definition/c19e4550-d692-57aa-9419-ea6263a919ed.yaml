@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 74695135-e1c8-5b86-92cb-27f88af2b189
+  definition: 'typ av fordon i enlighet med angivna
+
+    indelningskriterier'
+  examples: []
+  notes:
+  - Classifications based on construction include automobile, truck, bus, bicycle,
+    etc. Classifications based on purpose include taxi, emergency vehicle, etc. Vehicle
+    classification can be used to determine the application of navigation constraints.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: c19e4550-d692-57aa-9419-ea6263a919ed
+status: valid

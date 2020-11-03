@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 9f3d1752-9df4-503d-803c-778fc92812c3
+  definition: luokittelijaan sisältyvä piirre, joka määrittelee niiden arvojen joukon,
+    joita luokittelijan ilmentymät voivat saada
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 66225631-0121-5213-b07f-8bd80d42f8c0
+status: valid

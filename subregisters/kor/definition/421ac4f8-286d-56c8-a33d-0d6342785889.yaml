@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/32620.html
+    ref: 'ISO/IEC 19501:2005 '
+  concept: dce3b15f-ed8d-58f1-b05d-f3b330346041
+  definition: 이미 일정 상세 수준으로 명세된 것과 보다 완전한 사양 간의 관계
+  examples: []
+  notes:
+  - 예를 들어, 설계 클래스는 분석 클래스의 정제이다.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 421ac4f8-286d-56c8-a33d-0d6342785889
+status: retired

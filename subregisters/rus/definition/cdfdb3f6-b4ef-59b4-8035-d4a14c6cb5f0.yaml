@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.34
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 01a118c3-6764-5044-a2ae-a09e13654aae
+  definition: геопозиционирование объекта с использованием Модели Физического Датчика
+    или Модели Истинной Замены
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: cdfdb3f6-b4ef-59b4-8035-d4a14c6cb5f0
+status: valid

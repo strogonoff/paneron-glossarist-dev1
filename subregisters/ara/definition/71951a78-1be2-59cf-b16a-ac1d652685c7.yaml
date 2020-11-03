@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.9
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 0f94560c-b653-563d-a44c-8f31858a373d
+  definition: مجموعة ملفات تشتمل على رموز تعريف مخصصة لبنود مع وصف لتلك البنود
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 71951a78-1be2-59cf-b16a-ac1d652685c7
+status: valid

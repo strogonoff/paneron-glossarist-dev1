@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 5fda04db-9e8a-5b9d-98e3-e94cb04667d3
+  definition: conversión de datos en línea y en tiempo real
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 7fa1e62f-b715-5063-a3b6-3ebc6b06d118
+status: valid

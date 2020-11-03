@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.23'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 42be7cda-8054-5595-b42d-4147a95b148f
+  definition: representation model for storing data according to an application schema
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 2ff7e171-0797-5352-9cf3-3dac84503c24
+status: valid

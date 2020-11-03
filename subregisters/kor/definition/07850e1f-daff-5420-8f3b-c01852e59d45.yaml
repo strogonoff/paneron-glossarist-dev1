@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - ref: UNFAO LCCS 2:2005
+  concept: 15a84088-62d8-5ba8-abd5-73a1ae7bfd7c
+  definition: 특정 토지 피복 유형에서 변화를 이끌어 내거나 유지하기 위해 사람들이 행하는 준비, 활동 또는 투입
+  examples:
+  - “Recreation area” is a land use term that can be applicable to different land
+    cover types, e.g. sandy surfaces such as a beach; a built-up area such as a pleasure
+    park; woodlands etc.
+  notes:
+  - The definition of land use in this way establishes a direct link between land
+    cover and the actions of people in their environment. Multiple land uses can coexist
+    at the same location (e.g. forestry and recreation), contrary to land cover classes
+    that are mutually exclusive.
+dateAccepted: 2012-07-01 00:00:00+00:00
+id: 07850e1f-daff-5420-8f3b-c01852e59d45
+status: valid

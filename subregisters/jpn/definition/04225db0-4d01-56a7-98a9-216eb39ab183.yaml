@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 7dbeebed-7cbf-58ac-a3d8-69ba40779b0f
+  definition: 輪体である単純曲面。
+  examples: []
+  notes:
+  - 殻は，三次元座標系における立体の境界の要素を記述するために用いる。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 04225db0-4d01-56a7-98a9-216eb39ab183
+status: retired

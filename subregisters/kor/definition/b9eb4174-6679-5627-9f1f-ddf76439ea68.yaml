@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.69
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 9de7cac8-a6e9-5f5b-999e-d528e9774ba2
+  definition: 전부 동일한 범위를 가진 레이더 회신 그룹
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: b9eb4174-6679-5627-9f1f-ddf76439ea68
+status: valid

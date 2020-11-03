@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 9f3d1752-9df4-503d-803c-778fc92812c3
+  definition: 분류자의 특성으로 분류자의 인스턴스가 가질 수 있는 값의 범위를 기술
+  examples: []
+  notes:
+  - 속성은 의미적으로 합성 연관과 동일하다. 그러나 의미와 용법은 일반적으로 다르다.
+  - 정의에 사용된 “특성(Feature)”은 KS X ISO 19103에 정의된 의미가 아닌 UML 용어이다.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: a23ea554-9a6a-5ed1-a731-14d47ad8120d
+status: valid

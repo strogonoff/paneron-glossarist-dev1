@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105
+  concept: 9106e4ec-2a7d-5e92-b7b8-20a9565518e0
+  definition: mesures des caractéristiques de performance d'une implémentation soumise
+    à test, telles que sa sortie, sa réponse etc, dans des conditions diverses
+  examples: []
+  notes: []
+dateAccepted: 2000-11-16 00:00:00+00:00
+id: 3b3a2409-9291-5994-a86e-49834577ae9f
+status: valid

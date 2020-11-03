@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.49
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: d2d09f04-3477-5841-9343-090d8c572bed
+  definition: objet spatial représentant un ensemble géométrique
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: fd60969d-2329-5a49-8d29-4e9bf0ab95ee
+status: valid

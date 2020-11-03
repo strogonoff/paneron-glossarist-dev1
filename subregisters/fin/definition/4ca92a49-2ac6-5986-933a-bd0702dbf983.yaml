@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 4.1.10
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 69af39dc-62b1-5ef8-a70c-b2090a8ff59b
+  definition: muunnos, kysely tai muu tietokoneen suorittama operaatio, joka kuuluu
+    palvelurajapintaan
+  examples: []
+  notes:
+  - Toiminnolla on nimi ja joukko muuttujia.
+  - Katso lisätietoja toiminnon käsitteestä [ISO 19119 -standardin] kohdasta 7.2.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 4ca92a49-2ac6-5986-933a-bd0702dbf983
+status: valid

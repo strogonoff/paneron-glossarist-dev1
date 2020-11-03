@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 256dfd6d-d35e-5188-86cd-c3dd6bbbde50
+  definition: message-based service interface based on a common taxonomic definition
+    and independent of the particulars of message format or representation and of
+    the internal implementation of the service
+  examples: []
+  notes:
+  - cf. coupling
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 867e1d73-a47b-5c4d-b98f-3d9106aa4ac8
+status: valid

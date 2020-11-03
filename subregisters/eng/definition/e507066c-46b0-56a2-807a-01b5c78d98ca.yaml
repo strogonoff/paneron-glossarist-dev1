@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: 1076e37e-cd82-5fd5-9573-c9d7734e2747
+  definition: quantitative component documenting the quality of a dataset
+  examples: []
+  notes:
+  - The applicability of a data quality element to a dataset depends on both the dataset's
+    content and its product specification; the result being that all data elements
+    may not be applicable to all datasets.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: e507066c-46b0-56a2-807a-01b5c78d98ca
+status: retired

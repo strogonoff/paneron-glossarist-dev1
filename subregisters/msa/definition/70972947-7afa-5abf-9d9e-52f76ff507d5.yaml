@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.3.10, modified - Note has been deleted.
+    link: https://www.iso.org/standard/34006.html
+    ref: ISO 10303-227:2005
+  concept: da29765c-865d-5a39-8eb5-d95aef5f6955
+  definition: senarai atau daftar nama buku, barang dll dlm susunan tertentu
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: 70972947-7afa-5abf-9d9e-52f76ff507d5
+status: valid

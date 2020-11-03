@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: 1582e72a-dee4-5b51-ad91-76828b5da49d
+  definition: odwołanie do źródła pozycji, która została przyjęta ze źródła zewnętrznego
+    względem rejestru
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 8868e0bb-d43b-536f-893e-a52121887e95
+status: valid

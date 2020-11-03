@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/32620.html
+    ref: 'ISO/IEC 19501:2005 '
+  concept: f8cda04e-8a98-5cc5-8d05-3680f8c3f1d1
+  definition: efectos observables de una operación o de un evento, incluyendo sus
+    resultados
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 72ffa869-0e1d-53eb-90a0-0d2867f7ed59
+status: retired

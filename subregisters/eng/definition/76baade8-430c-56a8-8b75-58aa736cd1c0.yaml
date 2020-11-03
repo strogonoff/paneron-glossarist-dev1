@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 201cb065-095c-5e2f-b4be-d5fa1a318148
+  definition: manipulation of and calculations with geometric representations for
+    the implementation of geometric operations
+  examples:
+  - Computational geometry operations include testing for geometric inclusion or intersection,
+    the calculation of convex hulls or buffer zones, or the finding of shortest distances
+    between geometric objects.
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 76baade8-430c-56a8-8b75-58aa736cd1c0
+status: retired

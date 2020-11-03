@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.29
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: d860f8f4-ccdb-5a4c-87e1-94612ccb95e5
+  definition: primitiva topológica unidimensional
+  examples: []
+  notes:
+  - La representación geométrica de un arco es una curva. El límite de un arco es
+    el conjunto de uno o dos nodos asociados al arco dentro de un complejo topológico.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 79694a00-85ab-5d34-af00-a6e872604057
+status: valid

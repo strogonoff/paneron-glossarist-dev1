@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.26'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: ad18e552-d773-516d-b1b3-f52f6f449ab4
+  definition: longitud, latitud y altura de un punto en la superficie terrestre o
+    elevado
+  examples: []
+  notes:
+  - las coordenadas geográficas están relacionadas con un sistema de referencia de
+    coordenadas o un sistema de referencia de coordenadas compuesto. La produndidad
+    es la altura negativa.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 04ea2700-455d-5805-87e0-8cbd2c0a805d
+status: valid

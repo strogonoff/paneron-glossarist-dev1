@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.24
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 57c953e1-b2a1-5199-911e-1d024bcc80c9
+  definition: 문자열로 정의된 기호를 통해 표현되는 문법을 갖는 언어
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: d711221e-19aa-5dc1-a7af-afbd8b1f7057
+status: valid

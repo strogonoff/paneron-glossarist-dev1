@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.18
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: b82ffd34-ac62-57fd-8651-f1be98fe3432
+  definition: anordning som indikerar förekomsten av ett visst fenomen
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: c15778dc-4b8b-5c95-a7ec-95ee97464d31
+status: valid

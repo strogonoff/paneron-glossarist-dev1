@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: b8714a86-907b-565a-ac04-b7cfa5d75e02
+  definition: object subject to being navigated or tracked
+  examples: []
+  notes:
+  - Includes pedestrians. See ISO 14825. In this International Standard, vehicle can
+    be replaced by traveller without any change of intent.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 8dc4df9f-764e-5619-8807-73b0c08bc807
+status: valid

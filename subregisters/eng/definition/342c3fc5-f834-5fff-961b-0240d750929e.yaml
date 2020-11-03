@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '2121317'
+    ref: ISO/IEC 2382:2009
+  concept: 08d2a402-56c4-5d3f-ac5a-6360701502c7
+  definition: capability to communicate, execute programs, or transfer data among
+    various functional units in a manner that requires the user to have little or
+    no knowledge of the unique characteristics of those units
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 342c3fc5-f834-5fff-961b-0240d750929e
+status: valid

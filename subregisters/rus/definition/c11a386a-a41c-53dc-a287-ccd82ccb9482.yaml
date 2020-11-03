@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: ISO/IEC JTC1Procedures(Adapted from)
+    ref: Annex E
+  concept: 23ec0579-fc3b-5cb8-ae46-d386d8dc7217
+  definition: стандарт, содержащий определения классов объектов, требующих регистрации
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: c11a386a-a41c-53dc-a287-ccd82ccb9482
+status: valid

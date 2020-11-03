@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.6'
+    link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  concept: f4d94638-4c6f-54b1-872a-bf74c3969b06
+  definition: resultado de un procedimiento de determinación de la calidad
+  examples: []
+  notes: []
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: e0b592c7-9db8-58ef-876a-15f6250fafc1
+status: valid

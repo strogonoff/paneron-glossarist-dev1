@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.47
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 01a48efa-06ab-5398-86eb-a5aea4973e31
+  definition: مرجع إسناد يصف علاقة نظام إحداثيات بارامتري بكيان أو شيء ما.
+  examples: []
+  notes:
+  - الكيان أو الشيء المقصود هنا هو عادة الكرة الأرضية.
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: f89d615c-c0eb-5717-9fb1-2749b944b670
+status: valid

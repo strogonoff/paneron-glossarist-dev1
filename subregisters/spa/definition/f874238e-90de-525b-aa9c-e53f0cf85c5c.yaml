@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: 7ef10b9e-9426-5063-9401-c40dbaf535bc
+  definition: concepto que se puede especificar en detalle como uno o más tipos de
+    operación de objeto geográfico
+  examples:
+  - Una operación "flujo de tráfico" podría devolver el número de personas o vehículos
+    que se prevé que circulen mediante algún tipo de fenómeno de transporte durante
+    el periodo de tiempo especificado como entrada de la operación.
+  notes: []
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: f874238e-90de-525b-aa9c-e53f0cf85c5c
+status: valid

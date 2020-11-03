@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: e23c40e5-674d-5544-bb6c-c2bf1232f854
+  definition: 타원체의 장반경(a)과 단반경과(b)의 차이를 장반경으로 나눈 값; f=(a-b)/a
+  examples: []
+  notes:
+  - 종종 역편평률 1/f=a/(a-b)이 대신한다.  1/f는 역편평률로 알려져 있다.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 1af3fedb-8732-5d5c-a70e-beadcc8b8a4d
+status: superseded

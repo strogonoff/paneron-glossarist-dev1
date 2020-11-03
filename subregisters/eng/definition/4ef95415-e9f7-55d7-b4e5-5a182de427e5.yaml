@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 9999cdbf-bde0-58a2-811f-c3cb64e9e576
+  definition: modular, deployable, and replaceable part of a system that encapsulates
+    implementation and exposes a set of interfaces
+  examples: []
+  notes:
+  - A component represents a physical piece of implementation of a system, including
+    software code (source, binary or executable) or equivalents such as scripts or
+    command files.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 4ef95415-e9f7-55d7-b4e5-5a182de427e5
+status: superseded

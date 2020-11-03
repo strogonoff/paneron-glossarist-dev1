@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.29
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 3dbcb740-bf2e-5d76-82da-eec685014d63
+  definition: conceptual schema defining aspects of quality for geographic data
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: ec3a81f8-c3d6-5a28-8a5f-f2e5c39461a2
+status: valid

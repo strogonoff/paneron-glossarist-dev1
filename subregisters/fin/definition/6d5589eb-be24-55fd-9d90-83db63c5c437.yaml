@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: 45fd36e2-71f5-5c9a-b9f2-aa3a13cf6164
+  definition: metatietoa kuvaava käsiteskeema
+  examples: []
+  notes:
+  - ISO 19115 määrittelee metatietoskeemastandardin.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 6d5589eb-be24-55fd-9d90-83db63c5c437
+status: retired

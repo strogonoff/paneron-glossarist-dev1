@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  concept: 2984a5cd-f92e-54db-ad36-e82ce6ebfb1a
+  definition: 선형 지리 피처의 조각과 그 조각에 위치한 점까지의 거리를 통해 위치를 식별하는 참조 체계
+  examples: []
+  notes:
+  - 선형 참조 체계는 운송(예를 들어 고속도로명과 마일 또는 킬로미터의 이정표)에 널리 사용된다
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 5ced3b33-51de-506d-bb7e-f362e4bcb100
+status: retired

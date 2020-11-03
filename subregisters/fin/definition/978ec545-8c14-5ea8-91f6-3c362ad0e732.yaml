@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/8919.html
+    ref: ISO 3534-1:1993
+  concept: 7372c61f-b1fc-5782-be79-3eb0fbc405b8
+  definition: testituloksen ja hyväksytyn viitearvon yhtäpitävyys
+  examples: []
+  notes:
+  - Testitulos voi olla havainto tai mittaus.
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 978ec545-8c14-5ea8-91f6-3c362ad0e732
+status: superseded

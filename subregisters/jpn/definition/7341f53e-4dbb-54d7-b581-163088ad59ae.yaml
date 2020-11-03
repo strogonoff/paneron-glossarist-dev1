@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: fb262300-c91b-5ece-b2ab-d743f7a3d475
+  definition: 実行可能試験項目の集合。
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 7341f53e-4dbb-54d7-b581-163088ad59ae
+status: valid

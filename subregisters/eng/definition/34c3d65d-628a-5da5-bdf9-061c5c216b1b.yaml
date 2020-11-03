@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.3
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: d4ab0042-f943-51c2-a49b-1f6b28205500
+  definition: orientation of a body, described by the angles between the axes of that
+    body's coordinate system and the axes of an external coordinate system
+  examples: []
+  notes:
+  - In positioning services, this is usually the orientation of the user's platform,
+    such as an aircraft, boat, or automobile.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 34c3d65d-628a-5da5-bdf9-061c5c216b1b
+status: valid

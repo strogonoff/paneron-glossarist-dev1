@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.36
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 34a159ac-d539-512c-b042-cce2a4822855
+  definition: Teilmenge des GML-Schemas
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: b79351aa-c868-563c-99fe-6008f1a5584d
+status: valid

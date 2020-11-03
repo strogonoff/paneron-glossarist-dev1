@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.24
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 57c953e1-b2a1-5199-911e-1d024bcc80c9
+  definition: kieli, jonka syntaksi on ilmaistu merkkijonoiksi määritellyillä symboleilla
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 189259b7-400d-5359-a513-a5a3a5751b4d
+status: valid

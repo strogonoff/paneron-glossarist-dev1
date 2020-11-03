@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: Web Services Glossary
+    ref: W3C
+  concept: 3f00ff3d-aca0-5a03-bb8f-4c60a14c60f8
+  definition: 호출을 회피하여 하위시스템의 목적을 차단하고자 하는 작동원리
+  examples: []
+  notes:
+  - Security systems are bypassed usually by using security faults in the operating
+    system. Such infringements are more an aspect of the operating system than of
+    the security system. To correct this, the relationship between the security system
+    and the operating system shall be modified to prevent bypass mechanisms.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: a93b9df9-daf2-5ab1-a137-b304c48098c6
+status: valid

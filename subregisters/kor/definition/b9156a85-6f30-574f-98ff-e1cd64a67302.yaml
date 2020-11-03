@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '3.7'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 5494a0c6-e28a-5a73-8db7-2cfbcae1b7eb
+  definition: 피처 유형에 해당하는 모든 인스턴스에서 실행 가능한 연산
+  examples:
+  - '"댐"에 대한 피처 연산은 댐을 높이는 것이다. 이 연산 결과 "댐"의 높이와 "저수지"의 수위가 올라간다.'
+  notes:
+  - 종종 피처 연산은 피처 유형의 정의를 위한 기초를 제공한다.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: b9156a85-6f30-574f-98ff-e1cd64a67302
+status: valid

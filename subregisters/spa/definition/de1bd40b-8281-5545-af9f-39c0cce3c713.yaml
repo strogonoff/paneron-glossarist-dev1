@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 117b19cd-f16e-5e18-ac73-26f6ad34d3ff
+  definition: mecanismo por el cual los elementos más específicos incoporan la estructura
+    y comportamento de los elementos más generales relacionados por su comportamiento
+  examples: []
+  notes:
+  - Véase generalización
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: de1bd40b-8281-5545-af9f-39c0cce3c713
+status: superseded

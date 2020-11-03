@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.2.9
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 9dfc3de4-6634-5ff1-80e4-caa624f41613
+  definition: 개념을 구성하는 특성들 집합
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 9a919796-dc0d-5d46-8edd-8622c24f664d
+status: valid

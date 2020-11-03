@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 39feecbe-95cc-5d6b-96a2-b9957436d827
+  definition: getal in een sequentie van n getallen om de positie van een punt in
+    een n-dimensionale ruimte te bepalen
+  examples: []
+  notes:
+  - In een coördinaatreferentiesysteem worden de coördinaatwaarden gekwalificeerd
+    door eenheden.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 2d4cb43b-b7d7-57c3-82f1-54708a01d4a3
+status: superseded

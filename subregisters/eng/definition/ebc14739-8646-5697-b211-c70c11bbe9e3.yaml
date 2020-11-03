@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 1.7.2, modified
+    link: https://www.iso.org/standard/57284.html
+    ref: ISO 14721:2012
+  concept: b5f09778-c332-565d-b810-d5a59fded833
+  definition: role played by those who set overall OAIS policy as one component in
+    a broader policy domain, for example as part of a larger organization
+  examples: []
+  notes: []
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: ebc14739-8646-5697-b211-c70c11bbe9e3
+status: valid

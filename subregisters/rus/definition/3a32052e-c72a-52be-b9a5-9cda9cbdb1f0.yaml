@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  concept: 8ba864bc-8c67-50f4-b6e3-d0178f996905
+  definition: приложение, предоставляющее для конечных пользователей или других приложений
+    сервисы, использующие идентификаторы мест
+  examples: []
+  notes: []
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: 3a32052e-c72a-52be-b9a5-9cda9cbdb1f0
+status: valid

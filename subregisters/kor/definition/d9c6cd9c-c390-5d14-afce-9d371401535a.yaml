@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - ref: Adapted from ASTM E2544
+  concept: 02a438ed-508f-5120-9476-8b80e2d8374a
+  definition: 범위가 나뉘어진 다중 객체에 쏘이는 레이저 빔이 분할된 경우, 방출 펄스에 대한 다중 신호의 회신 및 탐지
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: d9c6cd9c-c390-5d14-afce-9d371401535a
+status: valid

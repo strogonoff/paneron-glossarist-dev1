@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.17
+    link: https://www.iso.org/standard/64242.html
+    ref: ISO 19160-4:2017
+  concept: aeb8d984-bb1f-597d-8148-1bdd4da165ec
+  definition: identifier of either a sub-division of a postal address element value
+    or one of multiple occurrences of an element in a postal address
+  examples: []
+  notes:
+  - Postal address sub-elements are used to facilitate postal address rendering, database
+    storage and related technical needs and should not be considered as specific cases
+    of postal address components.
+  - Postal address sub-elements are further described in 6.5.
+  - For convenience, the preferred term “postal address sub-element” has been shortened
+    to the admitted term “sub-element” throughout this document.
+dateAccepted: 2017-11-15 00:00:00+00:00
+id: f55b27e7-731f-577d-a84f-e856a956681c
+status: valid

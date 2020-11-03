@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.72
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: e286ea04-64c3-59b7-807d-c49bb501858d
+  definition: reference frame describing the relation of gravity-related heights or
+    depths to the Earth
+  examples: []
+  notes:
+  - In most cases, the vertical reference frame will be related to mean sea level.
+    Vertical datums include sounding datums (used for hydrographic purposes), in which
+    case the heights may be negative heights or depths.
+  - Ellipsoidal heights are related to a three-dimensional ellipsoidal coordinate
+    system referenced to a geodetic reference frame.
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: 8a57fde0-5def-5014-b937-f477b5bbc48b
+status: valid

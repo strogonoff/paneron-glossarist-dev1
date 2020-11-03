@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 337e3766-b2fe-5d6f-bcbb-5f8864eea080
+  definition: بيانات ذات مرجعية مكانية صريحة أو ضمنية بالنسبة للأرض
+  examples: []
+  notes:
+  - يستخدم تعبير "المعلومات الجغرافية" أيضاً كمصطلح خاص بالمعلومات التي تتعلق بالظواهر
+    التي ترتبط صراحة أو ضمنا بموقع على الكرة الأرضية.
+dateAccepted: 2005-06-15 00:00:00+00:00
+id: 99a29a31-d944-5173-95ce-fd39842a8880
+status: valid

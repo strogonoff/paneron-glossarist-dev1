@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 48b571a4-0735-5a71-95fa-a812d023adb5
+  definition: registro instantáneo de una imagen en un cuadro determinado
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 1ff58624-d898-5575-9188-277e59a09101
+status: valid

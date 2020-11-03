@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 52ce94bc-5fd3-5548-a7f9-0efbbddfaabc
+  definition: avsnitt i standard om vad som är nödvändigt för att standardens krav
+    ska anses uppfyllda
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 4c7fe389-e191-5a6c-a3b1-7b3d83ea9a2c
+status: valid

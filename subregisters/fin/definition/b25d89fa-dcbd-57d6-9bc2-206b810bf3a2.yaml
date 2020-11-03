@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.27
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: fcad9754-b2d7-5cb2-befe-c42ee2e05cd7
+  definition: paikannusjärjestelmä, joka perustuu satelliittien lähettämien signaalien
+    vastaanottamiseen
+  examples: []
+  notes:
+  - Tässä yhteydessä satelliittipaikannuksella viitataan "aktiivisten", Maata kiertävien
+    keinotekoisten objektien lähettämien ja "passiivisten", Maan pinnalla tai sitä
+    lähellä olevien laitteiden vastaanottamien radiosignaalien käyttämiseen objektin
+    sijainnin, nopeuden ja/tai suuntauksen määrittämisessä. Esimerkkejä satelliittipaikannusjärjestelmistä
+    ovat GPS (Global Positioning System) ja GLONASS.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: b25d89fa-dcbd-57d6-9bc2-206b810bf3a2
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: f58c7a68-88fc-5431-9f30-644324f0dc08
+  definition: grundlegende Einheit von Geoinformation, die als eigenständige Karte
+    von einem Server abgefragt werden kann
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 5131d6a7-0aeb-5779-9851-445c35797757
+status: valid

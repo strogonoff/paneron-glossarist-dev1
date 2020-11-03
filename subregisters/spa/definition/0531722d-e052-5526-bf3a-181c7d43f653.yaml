@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: ecaf590d-e4e9-53c9-938b-42b103d86195
+  definition: nodo en la frontera de un arco que se corresponde con el punto final
+    de tal arco como curva en cualquier realización geométrica válida de un complejo
+    topológico en la que el arco se haya usado
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 0531722d-e052-5526-bf3a-181c7d43f653
+status: superseded

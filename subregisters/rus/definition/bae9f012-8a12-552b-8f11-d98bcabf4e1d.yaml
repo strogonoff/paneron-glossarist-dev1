@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 45e0ef0b-7f48-5bb0-aedf-c4a5dc013205
+  definition: сеть, представленная двумя или более наборами кривых, в которой элементы
+    каждого набора систематически пересекают элементы других наборов
+  examples: []
+  notes:
+  - Кривые разбивают пространство на ячейки
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: bae9f012-8a12-552b-8f11-d98bcabf4e1d
+status: valid

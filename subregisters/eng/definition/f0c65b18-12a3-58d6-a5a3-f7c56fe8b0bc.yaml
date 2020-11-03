@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.93
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 7d2a240b-1dba-56b4-a8fa-9fed4438cd8e
+  definition: projection of the curvature vector of a curve onto the tangent plane
+    to the surface at the point
+  examples: []
+  notes: []
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: f0c65b18-12a3-58d6-a5a3-f7c56fe8b0bc
+status: valid

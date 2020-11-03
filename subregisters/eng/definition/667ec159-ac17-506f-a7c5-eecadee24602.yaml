@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: da60a814-d7a2-5226-8549-cd31d6aff3a5
+  definition: finding of optimal (minimal cost function) routes between locations
+    in a network
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 667ec159-ac17-506f-a7c5-eecadee24602
+status: valid

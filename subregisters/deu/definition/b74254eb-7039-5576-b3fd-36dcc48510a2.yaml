@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: de325c9f-e99f-5756-a5be-38958ef84c09
+  definition: dreidimensionales Koordinatensystem mit einer Abstandskoordinate vom
+    Koordinatenursprung und zwei Winkelkoordinaten, die üblicherweise an ein geodätisches
+    Koordinatenreferenzsystem gekoppelt sind
+  examples: []
+  notes:
+  - Not to be confused with an ellipsoidal coordinate system based on an ellipsoid
+    'degenerated' into a sphere.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: b74254eb-7039-5576-b3fd-36dcc48510a2
+status: superseded

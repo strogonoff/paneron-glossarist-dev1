@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  concept: b8714a86-907b-565a-ac04-b7cfa5d75e02
+  definition: objet soumis à la navigation ou au suivi
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 09dc7850-240d-588c-8a3b-f282c0f48ceb
+status: valid

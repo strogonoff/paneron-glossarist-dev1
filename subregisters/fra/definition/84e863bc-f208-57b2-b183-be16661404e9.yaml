@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 39ace3fc-a409-52bb-8541-3a9972b5bbf1
+  definition: propriété d'un objet géométrique impliquant que tout couple de positions
+    directes de l'objet peut être placé sur une courbe restant totalement dans l'objet
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 84e863bc-f208-57b2-b183-be16661404e9
+status: superseded

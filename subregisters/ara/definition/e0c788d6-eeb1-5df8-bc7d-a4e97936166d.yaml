@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.1'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: e277c0fe-2c97-5bb7-802f-c035ce8a6a24
+  definition: أي كتابة تكتب على مادة توضيحية بقصد التفسير والإيضاح
+  examples: []
+  notes:
+  - الأرقام والحروف والرموز والعلامات كلها أمثلة للحاشية
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: e0c788d6-eeb1-5df8-bc7d-a4e97936166d
+status: valid

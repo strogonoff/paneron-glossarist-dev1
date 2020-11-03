@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.84
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 4f7bd705-47c2-5434-b86b-35840982a9e2
+  definition: زاوية تقاس من متجه اتجاه الجانب العريض إلى متجه اتجاه المدى في المستوى
+    المائل
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 0effdccb-59f5-55e9-9ca3-ac18da578539
+status: valid

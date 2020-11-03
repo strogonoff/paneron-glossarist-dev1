@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: SOA-RAF
+  concept: 59518a8a-937b-596a-bab4-6c49c5f93356
+  definition: acción en el mundo real que un proveedor de servicios puede proporcionar
+    a un usuario
+  examples: []
+  notes: []
+dateAccepted: 2016-01-15 00:00:00+00:00
+id: 230128ee-abf8-5c76-bd80-8caaaacbb652
+status: valid

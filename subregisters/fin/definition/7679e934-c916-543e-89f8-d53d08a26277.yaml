@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: 718ab318-1c4d-5f49-bcf3-b3ae57a5ce72
+  definition: tietotuotteen laatukuvauksen kuvailevaa laatutietoa ilmentävä laatutekijä
+  examples: []
+  notes:
+  - Kuvailevia laatutekijöitä ovat tietoaineiston tarkoitus, käyttö ja historiatiedot.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 7679e934-c916-543e-89f8-d53d08a26277
+status: retired

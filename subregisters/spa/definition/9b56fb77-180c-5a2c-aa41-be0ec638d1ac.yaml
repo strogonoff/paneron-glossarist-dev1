@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 7dbeebed-7cbf-58ac-a3d8-69ba40779b0f
+  definition: superficie simple que es un ciclo
+  examples: []
+  notes:
+  - La corteza se usa para describir los componentes de la frontera de sólidos en
+    sistemas tridimensionales.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 9b56fb77-180c-5a2c-aa41-be0ec638d1ac
+status: retired

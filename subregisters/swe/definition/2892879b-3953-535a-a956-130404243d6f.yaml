@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: fa7bdad4-ba97-57c5-a5dc-abdb01c54453
+  definition: <vid test> resultat som anger att det som testats, i något avseende,
+    inte överensstämmer med angivna krav
+  examples: []
+  notes:
+  - Non-conformance may be with respect to either the test purpose or at least one
+    of the conformance requirements of the relevant standard(s).
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 2892879b-3953-535a-a956-130404243d6f
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/36760.html
+    ref: ISO 19131:2007
+  concept: 9061e5bf-63fa-54ce-9443-37e71118aa6b
+  definition: yhden tai useamman tietoaineiston tai tietoaineistosarjan tiedoista
+    koottu tuote, joka voidaan luovuttaa sellaisenaan tai sisällön perusteella rajattuna
+    tiettyyn käyttötarkoitukseen
+  examples: []
+  notes: []
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 7f60c5d2-68eb-5b4a-9295-c99eaee160dc
+status: valid

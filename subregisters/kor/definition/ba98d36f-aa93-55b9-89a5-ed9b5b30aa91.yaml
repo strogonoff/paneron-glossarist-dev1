@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: da60a814-d7a2-5226-8549-cd31d6aff3a5
+  definition: 네트워크 상의 위치들 사이에 최적(최소 비용 함수) 경로 탐색
+  examples: []
+  notes: []
+dateAccepted: 2006-12-01 00:00:00+00:00
+id: ba98d36f-aa93-55b9-89a5-ed9b5b30aa91
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 793d3827-6a1b-5a6a-a28d-76d5cbe083ff
+  definition: nimetty sarja toimintoja, jotka ovat luonteenomaisia elementin käyttäytymiselle
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 67f7ecd6-9a4a-5ef8-9bc1-3b6dcbea8864
+status: superseded

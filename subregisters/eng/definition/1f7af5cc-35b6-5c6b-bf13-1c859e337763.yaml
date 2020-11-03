@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.22
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 8bc08cfb-459e-5e4e-997d-b62998d28c9d
+  definition: maximum distance between two points in the set of points
+  examples: []
+  notes: []
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 1f7af5cc-35b6-5c6b-bf13-1c859e337763
+status: valid

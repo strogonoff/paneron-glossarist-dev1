@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 00a34f30-7968-540f-a55f-ef281d44c1b2
+  definition: date or range of dates on which a data quality measure is applied
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 2dee3aea-44a5-5162-801b-57579bb4a265
+status: retired

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 77bf2aff-b300-5ad3-b3c0-be3c41eb3e49
+  definition: 공간 객체, 시간 객체, 시공간 객체 및 피처 속성 값의 레코드로 구성된 일련의 값 쌍
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 3599055b-fbb1-5bdd-a13b-ad41db75c6ea
+status: valid

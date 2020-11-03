@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  concept: 764ba45a-deb1-5137-b5f7-f4d85ffea87c
+  definition: 공간을 식별하는 참조
+  examples: []
+  notes:
+  - The same place may be referenced by multiple Place Identifier instances. Each
+    instance will be associated with a different reference system.
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: 91ab300d-ddea-5356-a1fe-78fa375197b6
+status: valid

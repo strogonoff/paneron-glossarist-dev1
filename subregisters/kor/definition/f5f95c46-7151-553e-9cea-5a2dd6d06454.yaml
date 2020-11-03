@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 11.1.1
+    link: https://www.iso.org/standard/55723.html
+    ref: ISO/IEC 10746-2:2009
+  concept: eff055bd-a82f-5064-b21a-86c9bcddefc7
+  definition: 분산 시스템 일부의 잠재적 행태를 특정 사용자에게 숨기는 특성
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: f5f95c46-7151-553e-9cea-5a2dd6d06454
+status: valid

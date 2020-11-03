@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/70742.html
+    ref: ISO 19112
+  concept: e1e646ef-9eaf-5967-a9a7-7f43a99127f8
+  definition: système permettant l'identification de la position dans le monde réel
+  examples: []
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: be7ba048-5002-5494-9df4-07fde9bcdaea
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 864fdb12-92f3-5e7a-b4d5-f722f525b103
+  definition: especificación de una localización relativa a un elemento lineal, como
+    una medición a lo largo de (y opcionalmente un desplazamiento desde) ese elemento
+  examples: []
+  notes:
+  - Una alternativa a especificar una localización como una posición espacial de dos
+    o tres dimensiones
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 4a2d7842-90d7-53a6-a630-4fd4ba94d005
+status: valid

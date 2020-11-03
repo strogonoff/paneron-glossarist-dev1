@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.4
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: b0c00d10-838b-56ce-a48f-b2066a3d96b1
+  definition: set of modelling concepts used to describe a conceptual model
+  examples:
+  - UML meta model, EXPRESS meta model.
+  notes:
+  - One conceptual formalism can be expressed in several conceptual schema languages.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: f9f644d7-713b-5281-ba8a-153ec20bb937
+status: valid

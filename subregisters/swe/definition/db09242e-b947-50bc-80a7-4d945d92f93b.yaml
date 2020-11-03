@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: 6a2e66c5-fed6-5776-9134-4125a99639c1
+  definition: system för indelning av objekt där varje objekt ska tillhöra en och
+    endast en indelningsklass
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: db09242e-b947-50bc-80a7-4d945d92f93b
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: da60a814-d7a2-5226-8549-cd31d6aff3a5
+  definition: إيجاد المسارات المثلى (الأقل تكلفة) بين المواقع على شبكة طرق
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: ad21835a-8b90-5be0-a511-d55996dfc684
+status: valid

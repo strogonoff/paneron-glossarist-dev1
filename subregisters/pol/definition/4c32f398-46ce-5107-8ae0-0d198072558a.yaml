@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.47
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: d6db41d9-71e7-5966-b9af-0b3a6a1409be
+  definition: 0-wymiarowy prosty element geometryczny, reprezentujący położenie
+  examples: []
+  notes:
+  - Granicą punktu jest zbiór pusty.
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 4c32f398-46ce-5107-8ae0-0d198072558a
+status: valid

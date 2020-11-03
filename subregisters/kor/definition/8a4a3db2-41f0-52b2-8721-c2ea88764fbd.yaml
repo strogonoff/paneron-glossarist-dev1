@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.36'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 60cfedfe-53e6-5ee9-9efb-06acfb11309e
+  definition: 소비자와 지불거래 관계를 맺은 관계자
+  examples: []
+  notes:
+  - Payment providers can be telephone and cellular companies, banks, credit card
+    corporations, ISPs, network operators, and utility companies. The payment provider
+    bills the consumer, deducts a fee, and forwards the payment to the content provider.
+    The payment provider is thus responsible for the balancing of accounts.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 8a4a3db2-41f0-52b2-8721-c2ea88764fbd
+status: valid

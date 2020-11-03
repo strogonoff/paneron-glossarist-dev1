@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.29'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 4ef49e71-81b9-5a52-b9cb-b70a7a99ed65
+  definition: خاصية معلم ما تصف التمثيل المكاني للمعلم بناء على الإحداثيات ، والدالات
+    الرياضية و/أو علاقات طوبولوجيا الحدود
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 2d2ded4a-a007-5227-b762-a656e72dd070
+status: valid

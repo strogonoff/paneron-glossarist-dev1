@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 3320dfc7-7b80-5984-8526-b02f15bde3c3
+  definition: powierzchnia utworzona przez obrót elipsy wokół głównej osi
+  examples: []
+  notes:
+  - W tej Normie Międzynarodowej elipsoidy są zawsze spłaszczone, co oznacza, że oś
+    obrotu jest zawsze krótszą osią elipsoidy.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 52ecade5-a103-5bd2-9113-e3922ea02462
+status: valid

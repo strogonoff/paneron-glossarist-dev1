@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 6b7b6506-d4a7-5311-bf16-055cd9c38308
+  definition: symbol sammansatt av andra symboler av samma typ
+  examples:
+  - A point symbol that is composed of two point graphics.
+  notes: []
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: afa71376-24fa-56c2-afde-01ee4f6bc834
+status: valid

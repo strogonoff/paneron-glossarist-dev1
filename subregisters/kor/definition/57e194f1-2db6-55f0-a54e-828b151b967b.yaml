@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.33'
+    link: https://www.iso.org/standard/60080.html
+    ref: ISO/TS 19159-1:2014
+  concept: f568f792-9218-54a3-b5e4-d5a438980a38
+  definition: 광학적 왜곡 현상으로 인한 스펙트럼 채널의 중심 파장 변화
+  examples: []
+  notes:
+  - This distortion is often simply called smile.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 57e194f1-2db6-55f0-a54e-828b151b967b
+status: valid

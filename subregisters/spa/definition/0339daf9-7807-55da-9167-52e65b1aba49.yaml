@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - clause: '2.15'
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: 2f6fe19d-e84e-5276-bc33-132bd1204042
+  definition: nivel de concordancia entre valores obtenidos por repetición de medidas
+    en iguales o similares condiciones de toma
+  examples: []
+  notes:
+  - la precisión de la medida se expresa generalmente de manera numérica por medidas
+    de imprecisión, como la desvisación estándar, la varianza o el coeficiente de
+    variación de las condiciones especificadas en la medida.
+  - Las " condiciones específicadas" pueden ser, por ejemplo, las condiciones de repetibilidad
+    de la medida , las condiciones de precisión intermedia de la medición o las condiciones
+    de reproducibilidad de la medición (véase la norma ISO 5725-3 ) .
+  - La precisión de la medida se utiliza para definir repetibilidad de la medició
+    , la precisión de medición intermedia y la reproducibilidad de la medición.
+  - A veces "precisión de la medida" se utiliza erróneamente en el sentido de exactitud
+    de la medida.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 0339daf9-7807-55da-9167-52e65b1aba49
+status: valid

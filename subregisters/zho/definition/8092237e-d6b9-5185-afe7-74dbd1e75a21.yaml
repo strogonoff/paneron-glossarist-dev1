@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.18'
+    link: https://www.iso.org/standard/40395.html
+    ref: ISO 19117:2005
+  concept: 4fb20d84-7b8d-5ace-9a96-b2a7b11eb981
+  definition: 适用于要素实例图示表达的操作集合。
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 8092237e-d6b9-5185-afe7-74dbd1e75a21
+status: retired

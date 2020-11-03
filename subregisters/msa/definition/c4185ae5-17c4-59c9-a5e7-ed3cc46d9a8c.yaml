@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: 1e9532ba-1c7f-575e-842e-4569bd7a4afa
+  definition: Mendapatkan semula sumber rujukan dan memasukkannya ke dalam dokumen
+    maklum balas yang dijana menerusi pelayan (server-generated response document).
+  examples: []
+  notes:
+  - The insertion may be accomplished by either replacing the reference inline with
+    a copy of the resource or by relocating the reference to point to a copy of the
+    resource that has been placed in the response document.
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: c4185ae5-17c4-59c9-a5e7-ed3cc46d9a8c
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 2b60e0e0-8e94-5752-bcb2-8c8263825263
+  definition: begrænsning af, hvordan et køretøj kan følge et link eller et sving,
+    såsom køretøjsklassifikation, fysisk eller tidsmæssig restriktion
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f0abf994-d83f-55cf-8fb9-3a06c23161e9
+status: valid

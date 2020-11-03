@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: adb193c6-6e6b-5563-888e-ae29cde00be6
+  definition: formell syntax för att ange ett testuttryck
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: ba878299-e897-55c8-8a2d-29fbf7e14ca6
+status: valid

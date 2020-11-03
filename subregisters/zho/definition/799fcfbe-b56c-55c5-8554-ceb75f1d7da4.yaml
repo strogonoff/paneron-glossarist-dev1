@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.1
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  concept: 70bc8fd7-690f-5fc2-aa2e-5eeeab018405
+  definition: 以目的、适用范围和政策为重点的ODP系统及其环境的视角。
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 799fcfbe-b56c-55c5-8554-ceb75f1d7da4
+status: valid

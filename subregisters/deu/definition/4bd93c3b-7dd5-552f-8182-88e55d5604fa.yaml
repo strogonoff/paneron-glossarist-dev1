@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: 1582e72a-dee4-5b51-ad91-76828b5da49d
+  definition: Referenz einer Quelle, die von außerhalb des Registers übernommen wurde
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 4bd93c3b-7dd5-552f-8182-88e55d5604fa
+status: retired

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 2e421d4e-625d-5949-828f-6474295009ee
+  definition: ある領域［この関数の定義域(source, domain)］の各要素を，別の領域［この関数の値域(target, co-domain,
+    range)］の一意な要素に関連づける規則。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: bedb13c5-820e-59fd-8646-8abc904962d1
+status: superseded

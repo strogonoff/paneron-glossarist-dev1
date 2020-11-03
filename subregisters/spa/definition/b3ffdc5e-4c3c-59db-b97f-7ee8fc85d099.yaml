@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 2e232ba7-2447-5193-9226-1b90722d3851
+  definition: sistema de referencia de coordenadas basado en un datum imagen
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: b3ffdc5e-4c3c-59db-b97f-7ee8fc85d099
+status: valid

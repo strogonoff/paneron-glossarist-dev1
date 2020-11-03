@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 117b19cd-f16e-5e18-ac73-26f6ad34d3ff
+  definition: mekanisme, hvorved flere specifikke elementer indeholder struktur og
+    egenskaber fra mere generelle elementer, der er forbundet ved adfærd og egenskaber
+  examples: []
+  notes:
+  - Se generalisering.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: da1cd59f-7002-56e6-bf4e-7c1ee8212eae
+status: superseded

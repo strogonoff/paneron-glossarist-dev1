@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.38
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: c547ac67-d064-5635-b785-e493299dc2e0
+  definition: distance of a point from a chosen reference surface positive upward
+    along a line perpendicular to that surface
+  examples: []
+  notes:
+  - A height below the reference surface will have a negative value.
+  - Generalisation of ellipsoidal height (h) and gravity-related height (H).
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: 53850802-b4ee-591a-9b1f-817e0dab268f
+status: valid

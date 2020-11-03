@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.77
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 7154d158-5ea9-5edb-9666-b6e61aae58c3
+  definition: topological complex that has a geometric realization that can be embedded
+    in Euclidean 2 space
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c89c6c12-bc29-519d-9f7d-0b013e92b747
+status: valid

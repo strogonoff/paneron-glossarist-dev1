@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 3.2.3
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: ba0f9647-d0fa-54e7-a56d-af2b30fed873
+  definition: concept which corresponds to two or more objects which form a group
+    by reason of common properties
+  examples: []
+  notes:
+  - Examples of general concepts are "planet", "tower".
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: cda86621-a153-5148-9560-b3f4fe88e3c0
+status: valid

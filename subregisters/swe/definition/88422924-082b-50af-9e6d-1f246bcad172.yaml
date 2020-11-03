@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.33
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 15e116b3-fa3a-530c-80ea-5e79267f7ee0
+  definition: insamling och tolkning av information om en företeelse utan att vara
+    i fysisk kontakt med densamma
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 88422924-082b-50af-9e6d-1f246bcad172
+status: valid

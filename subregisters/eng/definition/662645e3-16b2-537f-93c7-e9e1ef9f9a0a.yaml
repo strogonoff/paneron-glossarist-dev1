@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: a8c2cd78-2b4f-5c8a-92fb-ceb41fe7ca37
+  definition: set of criteria used at a turn in lieu of a route instruction; default
+    instruction used at a node
+  examples: []
+  notes:
+  - This rule represents what is "most natural" to do at a node (intersection), given
+    the entry link used. The most common version is "as straight as possible", or
+    to exit a turn on the most obvious extension of the entry street, which is usually,
+    but not always, the same named street that was the entry. Every node in a route
+    is either associated with an instruction or can be navigated by the main-road
+    rule.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 662645e3-16b2-537f-93c7-e9e1ef9f9a0a
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 108b3671-7649-56a5-9029-eb98544dc05d
+  definition: <hos attribut> det att attributet kan anta vilket värde som helst mellan
+    två angivna värden
+  examples: []
+  notes:
+  - The interpolation of continuous change is usually done by taking into consideration
+    constraints on the "curve" joining the two data points (time1, value1) and (time2,
+    value2), looking at the value as a function of time. For example, if the continuous
+    change is for the motion of a vehicle, then the constraints of physics and of
+    the paths appropriate for that vehicle must be taken into consideration.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 9ef9027c-7d2b-508d-8c66-d3322f668261
+status: valid

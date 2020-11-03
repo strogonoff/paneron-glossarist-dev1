@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.53
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 88a1736d-e209-52c5-92a0-d23f40c226a1
+  definition: 椭球的最长轴的半径。
+  examples: []
+  notes:
+  - 它等于在赤道平面上量测的椭球的半径。
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: d7f9ee5b-8660-5a69-bd58-219f4b0f165c
+status: valid

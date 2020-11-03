@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 72e7d4ad-bb76-5d09-ae55-f9152c82482d
+  definition: 탐지 기기가 단일 반응을 나타내게 하는 전자파복사의 파장범위
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: ae25267d-ad7e-5811-924f-8cdf13020c65
+status: valid

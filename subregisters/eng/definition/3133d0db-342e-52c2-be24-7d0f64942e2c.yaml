@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: e23c40e5-674d-5544-bb6c-c2bf1232f854
+  definition: ratio of the difference between the semi-major (a) and semi-minor axis
+    (b) of an ellipsoid to the semi-major axis; f = (a - b)/a
+  examples: []
+  notes:
+  - Sometimes inverse flattening 1/f = a/(a-b) is given instead; 1/f is also known
+    as reciprocal flattening.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 3133d0db-342e-52c2-be24-7d0f64942e2c
+status: superseded

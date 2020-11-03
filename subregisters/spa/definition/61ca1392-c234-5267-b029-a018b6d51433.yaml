@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 22344b11-73a8-5c14-8ea8-63a74b0c1027
+  definition: malla asociada con una transformación que puede usarse para convertir
+    valores de coordenadas de la malla a valores de coordenadas referidas a un sistema
+    de referencia de coordenadas externo
+  examples: []
+  notes:
+  - Si el sistema de referencia de coordenadas está relacionado mediante un datum
+    con La Tierra, la malla es una malla georeferenciada.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 61ca1392-c234-5267-b029-a018b6d51433
+status: valid

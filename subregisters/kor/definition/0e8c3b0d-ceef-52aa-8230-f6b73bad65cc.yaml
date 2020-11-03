@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 39a87300-4583-558b-bf5a-9c10b6d73b03
+  definition: 인접된 서비스 쌍에 대하여, 첫 번째 활동이 연속된 다음 활동의 발생을 위해 반드시 필요한 서비스의 연속
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 0e8c3b0d-ceef-52aa-8230-f6b73bad65cc
+status: valid

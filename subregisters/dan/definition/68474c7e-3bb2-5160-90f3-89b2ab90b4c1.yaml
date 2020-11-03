@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: a467318f-d3e5-5815-8424-205e3040638b
+  definition: formelt sprog baseret på en konceptuel formalisme til repræsentation
+    af konceptuelle skemaer
+  examples:
+  - UML, EXPRESS, IDEF1X
+  notes:
+  - Et konceptuelt modelleringssprog kan enten bestå af ord eller være grafisk. Flere
+    forskellige konceptuelle modelleringssprog kan være baseret på den samme konceptuelle
+    formalisme.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 68474c7e-3bb2-5160-90f3-89b2ab90b4c1
+status: valid

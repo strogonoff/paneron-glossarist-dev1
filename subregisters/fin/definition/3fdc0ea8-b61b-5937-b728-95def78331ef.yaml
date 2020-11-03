@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.55
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 46fed6bc-59b7-5ecf-9432-0beff595799d
+  definition: solmupiste, joka ei liity mihinkään linkkiin
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3fdc0ea8-b61b-5937-b728-95def78331ef
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: f58c7a68-88fc-5431-9f30-644324f0dc08
+  definition: podstawowa jednostka informacji geograficznej, jaka może być żądana
+    z serwera w postaci mapy
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 698fe6de-1ae8-5f8c-8380-725f3000157a
+status: valid

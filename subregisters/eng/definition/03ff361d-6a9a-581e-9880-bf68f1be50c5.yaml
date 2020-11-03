@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.53
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 88a1736d-e209-52c5-92a0-d23f40c226a1
+  definition: semi-diameter of the longest axis of an ellipsoid
+  examples: []
+  notes:
+  - This equates to the semi-diameter of the ellipsoid measured in its equatorial
+    plane.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 03ff361d-6a9a-581e-9880-bf68f1be50c5
+status: valid

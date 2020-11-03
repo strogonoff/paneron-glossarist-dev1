@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 63f2ac26-ad3d-58a7-92e1-25d343351a04
+  definition: Dijkstra曲线图是通过适当配置、权值为正的有向图，用于执行最短路径的搜索。
+  examples: []
+  notes:
+  - 这一术语出自于E.Dijkstra论文【7】中最著名的算法，该算法用于在权值为正的有向图中寻找最短路径。尽管这一算法并非是现有算法中惟一的一个，但其对有向图的要求与多数其他算法一样。最宽松的条件就是“正权值”，在Bellman_Ford算法中不需要该条件。
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 63b21828-cdf0-58ed-b57a-5b773c6630c0
+status: valid

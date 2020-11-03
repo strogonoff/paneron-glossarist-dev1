@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: d50a471f-e4a9-5bcc-812b-36cd9667f210
+  definition: samling av definierade symboliseringar för objekttyperna i en objekttypskatalog
+  examples: []
+  notes:
+  - Content of a portrayal catalogue includes portrayal functions, symbols, and portrayal
+    context (optional).
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 9cdc009d-a3bb-58db-ac8b-faeb9aa97873
+status: valid

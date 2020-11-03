@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.2.13
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: a149616e-8086-5e96-9a76-42f372dd5e9d
+  definition: concept which is either a generic concept or a comprehensive concept
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: f679221d-94c4-54cc-932c-4c8a0d58bbe3
+status: valid

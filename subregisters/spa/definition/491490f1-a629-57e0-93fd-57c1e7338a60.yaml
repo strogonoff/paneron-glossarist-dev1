@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.47
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 01a48efa-06ab-5398-86eb-a5aea4973e31
+  definition: datum que describe la relación de un sistema de coordenadas paramétricas
+    con un objeto
+  examples: []
+  notes:
+  - El objeto es normalmente la Tierra.
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 491490f1-a629-57e0-93fd-57c1e7338a60
+status: valid

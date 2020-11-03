@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.39
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 68698ab2-aa02-5171-b6c7-9e477e83fe96
+  definition: ensemble de toutes les positions directes dans un objet géométrique
+    mais qui ne sont pas sur sa frontière
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 4814067f-37dc-56a6-a52f-59c03d7984b8
+status: valid

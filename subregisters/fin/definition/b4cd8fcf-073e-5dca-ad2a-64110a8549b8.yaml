@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    ref: Booch 1999
+  concept: 90a6f76d-eda7-566d-aca8-c99e8b8daad7
+  definition: <UML> specialized abstraction relationship (4.30) between two sets of
+    model elements, one representing a specification (the supplier) and the other
+    representing an implementation of the latter (the client)
+  examples: []
+  notes: []
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: b4cd8fcf-073e-5dca-ad2a-64110a8549b8
+status: valid

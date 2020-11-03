@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.11
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: d2933d15-8f28-5193-b6bb-b853d6c87442
+  definition: 现实世界现象的抽象。
+  examples: []
+  notes:
+  - 要素可以类型或实例的形式出现。当仅表达一种含义时，应使用要素类型或要素实例。
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 7a7b345e-4fe6-57e3-87ef-98dfecdab128
+status: valid

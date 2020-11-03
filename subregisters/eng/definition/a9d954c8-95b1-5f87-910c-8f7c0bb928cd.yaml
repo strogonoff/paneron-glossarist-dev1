@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.48'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: fedfc367-e237-538b-95ac-eea5d4986d97
+  definition: raw radar return signal information after demodulation
+  examples: []
+  notes:
+  - 'Usually stored as a series of range lines, each containing information from a
+    specific range bin.  PHD can be thought of as a table of five columns:  In-phase
+    signal, Quadrature signal, Range, Doppler Angle, and Time.'
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: a9d954c8-95b1-5f87-910c-8f7c0bb928cd
+status: valid

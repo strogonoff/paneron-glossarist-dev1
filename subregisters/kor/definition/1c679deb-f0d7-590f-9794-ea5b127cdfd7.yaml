@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: modified
+    link: https://www.iso.org/standard/36095.html
+    ref: ISO 21000-5
+  concept: e7393215-af96-5a7e-93d3-741fdd584720
+  definition: 허가증 조항에 의거하여 특정 자원의 전체 또는 부분에 대해 관계자에게 권한을 주는 허가 행위
+  examples: []
+  notes:
+  - A right specifies an action (or activity) or a class of actions that a principal
+    can perform on or using the associated resource. A right is essentially a legally
+    recognized entitlement to do something to or with the content of a resource.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 1c679deb-f0d7-590f-9794-ea5b127cdfd7
+status: valid

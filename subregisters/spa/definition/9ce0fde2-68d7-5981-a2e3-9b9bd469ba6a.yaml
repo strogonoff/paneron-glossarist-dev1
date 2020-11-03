@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.22
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 1ab20219-b4c8-5404-a782-372c5fb8ecd6
+  definition: cercanía del valor de unas coordenadas respecto al valor verdadero o
+    al valor aceptado en un sistema de referencia especificado
+  examples: []
+  notes:
+  - La frase "exactitud absoluta" es utilizada a menudo para este concepto para distinguirlo
+    de la exactitud posicional relativa. Cuando el valor verdadero de una coordenada
+    no puede ser perfectamente conocido, la exactitud usualmente se comprueba comparando
+    los valores disponibles que pueden ser mejor aceptados como verdaderos.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 9ce0fde2-68d7-5981-a2e3-9b9bd469ba6a
+status: valid

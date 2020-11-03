@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: 45fd36e2-71f5-5c9a-b9f2-aa3a13cf6164
+  definition: conceptual schema describing metadata
+  examples: []
+  notes:
+  - ISO 19115 describes a standard for a metadata schema.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: cae83095-a246-5d28-aecc-547407eaf402
+status: retired

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.1.16
+    link: https://www.iso.org/standard/37333.html
+    ref: ISO 24619:2011
+  concept: 71cd8136-3464-547d-afad-af5c279686dc
+  definition: information object containing information that directs a reader's or
+    user's attention from one resource to another
+  examples: []
+  notes: []
+dateAccepted: 2014-04-01 00:00:00+00:00
+id: 7e697707-2485-5d1c-b1e3-713ff4bccea9
+status: valid

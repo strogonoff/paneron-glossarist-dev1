@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  concept: 77bf2aff-b300-5ad3-b3c0-be3c41eb3e49
+  definition: paire ordonnée composée d'un objet spatial, temporel ou spatiotemporel
+    et d'un enregistrement de valeurs d'attributs d'entité
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 5124007c-49ca-5cdb-922d-8a3af19d4597
+status: valid

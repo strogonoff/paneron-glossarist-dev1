@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '3.8'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 8248101a-7fd7-526e-bfbb-000a1995fba1
+  definition: lenguaje en el cual se especifican formalmente las operaciones de objeto
+    geográfico
+  examples: []
+  notes:
+  - En un lenguaje funcional, los tipos de objetos geográficos pueden ser representados
+    como tipos abstractos de datos.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 9f4d8219-c5d8-5187-8b8c-6d4750021584
+status: valid

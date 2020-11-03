@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/32581.html
+    ref: ISO/TS 19163-1:2016
+  concept: 650b4be9-bce6-5e31-9f55-fee585a856f4
+  definition: associated with a geopositioning information that can be used to convert
+    grid coordinate values to values of coordinates referenced to an external coordinate
+    reference system related to the Earth by a datum
+  examples: []
+  notes: []
+dateAccepted: 2016-01-15 00:00:00+00:00
+id: c4a8acbd-2018-5ed9-b808-f8a683cd2fde
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 4.1.24
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: edc6e6ba-3db7-502c-aeb7-e693bd4c3500
+  definition: ett antal gränssatta områden som betraktas som en enhet
+  examples:
+  - Spatial units together forming an administrative zone such as a section, a canton,
+    a municipality, a department, a province, or a country. Spatial units within a
+    planning area.
+  notes:
+  - The spatial units in a spatial unit group are not necessarily continuous.
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: f2bbde6b-7f95-5826-b1e1-9a112deba914
+status: valid

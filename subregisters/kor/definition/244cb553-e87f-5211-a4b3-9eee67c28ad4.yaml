@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: f0f91892-1133-5b08-b34a-8eb1777cd98f
+  definition: 지도 축적과 특정 데이터셋을 사용하여 특정 영역을 분류화하는데 적용되는 것
+  examples: []
+  notes:
+  - Taken from FAO LCCS version 2 (see Reference [2] in ISO 19144-1:2009).
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 244cb553-e87f-5211-a4b3-9eee67c28ad4
+status: valid

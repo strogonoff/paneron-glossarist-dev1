@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 4.1.4
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: b0c00d10-838b-56ce-a48f-b2066a3d96b1
+  definition: набор моделирующих понятий, используемых для описания концептуальной
+    модели
+  examples:
+  - UML метамодель, EXPRESS метамодель
+  notes:
+  - Один концептуальный формализм может быть выражен несколькими языками концептуальной
+    схемы
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: da70341e-e83a-51c9-b300-96b47c9aa15e
+status: valid

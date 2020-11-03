@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 99e622e9-3bf0-5dc0-b1cd-a5b16f2d6808
+  definition: tesselering där delarna utgörs av trianglar
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: debb3a62-f4eb-5f51-b557-5e2ad82ebf1c
+status: valid

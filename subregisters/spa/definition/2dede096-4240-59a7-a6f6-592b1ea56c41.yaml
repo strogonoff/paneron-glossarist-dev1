@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/32581.html
+    ref: ISO/TS 19163-1:2016
+  concept: 74c29267-4c8e-577e-90a9-39536bd9b542
+  definition: datos malla que no incluyen ninguna información que pueda utilizarse
+    para determinar los valores de las coordenadas geográficas de una celda
+  examples:
+  - Una fotografía digital sin información de georectificación incluida.
+  notes: []
+dateAccepted: 2016-01-15 00:00:00+00:00
+id: 2dede096-4240-59a7-a6f6-592b1ea56c41
+status: valid

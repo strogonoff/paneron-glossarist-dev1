@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.32
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 4a17046f-2100-5f83-8052-94353b82f5d8
+  definition: Menge von direkten Positionen
+  examples: []
+  notes:
+  - This set in most cases is infinite.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 0101b59c-e200-50a4-861e-aee452b0a2ac
+status: valid

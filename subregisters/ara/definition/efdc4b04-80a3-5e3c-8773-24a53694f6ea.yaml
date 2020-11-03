@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: c246a9b3-727d-5cf0-b6b3-e72d6354fc30
+  definition: مكان على الشبكة يؤدي دوراً في اختيار الطرق المناسبة من بين عدة خيارات
+    محتملة للاستجابة لطلب تحديد مسار معين
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: efdc4b04-80a3-5e3c-8773-24a53694f6ea
+status: valid

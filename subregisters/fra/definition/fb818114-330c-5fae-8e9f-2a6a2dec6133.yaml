@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 793d3827-6a1b-5a6a-a28d-76d5cbe083ff
+  definition: jeu nommé d'opérations caractérisant le comportement d'un élément
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: fb818114-330c-5fae-8e9f-2a6a2dec6133
+status: superseded

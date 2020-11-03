@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.6'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 65bbe58e-0393-5049-8f3d-c269b3d1b83e
+  definition: операция (- и), используемая (-ые) при применении методов оценки и составлении
+    соответствующих отчетов
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 555768d7-1011-54c8-bc00-4f87c2b4b2d2
+status: изъятый

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.45
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 22851d22-d8a0-50e9-af24-fb25e344145a
+  definition: type de données indiquant la grandeur physique résultant d'une observation
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 56e1c5bb-c0bc-5e44-a5f6-b7b6455ca893
+status: valid

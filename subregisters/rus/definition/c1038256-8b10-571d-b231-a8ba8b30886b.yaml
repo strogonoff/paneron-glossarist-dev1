@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.70'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 80610bba-4689-5361-a49e-c80d2f59e3c9
+  definition: Тип SONAR, который производит один узкий луч SONAR непосредственно вниз
+    от источника /приемника и получает ответное эхо от ближайшего объекта
+  examples: []
+  notes:
+  - 'Single beam sonar is commonly called a single beam echosounder (abbr:
+
+    Сонар одиночного луча  обычно называют эхолотом одиночного луча (сокр:SBES).'
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: c1038256-8b10-571d-b231-a8ba8b30886b
+status: valid

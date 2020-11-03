@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.9
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: b59f7009-0db9-5cf2-a408-07d0ad459306
+  definition: سلسلة من المنحنيات  بحيث أن كل منحنى منها (باستثناء المنحنى الأول) يبدأ
+    من النقطة التي ينتهي عندها المنحنى الذي يسبقه
+  examples: []
+  notes:
+  - المنحنى المركب , باعتباره مجموعة مواقع مباشرة ، تتوفر فيه جميع خصائص المنحنى.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ed0bc33c-30ff-5ed1-9923-91b6752bbb4d
+status: valid

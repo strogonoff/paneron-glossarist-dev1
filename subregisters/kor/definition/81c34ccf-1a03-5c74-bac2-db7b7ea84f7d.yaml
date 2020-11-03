@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44459.html
+    ref: ISO 19110:2005/Amd 1:2011
+  concept: 2652a92f-f61c-59fb-8b6f-1dac72ca7d82
+  definition: 지형지물 연관 또는 지형지물 승계
+  examples: []
+  notes: []
+dateAccepted: 2011-06-15 00:00:00+00:00
+id: 81c34ccf-1a03-5c74-bac2-db7b7ea84f7d
+status: retired

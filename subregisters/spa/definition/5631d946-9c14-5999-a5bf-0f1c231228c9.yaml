@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 22e67817-b4b8-571b-96c2-6e6d235be635
+  definition: prueba de un producto para determinar hasta qué punto el producto es
+    una implementación conforme
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 5631d946-9c14-5999-a5bf-0f1c231228c9
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: bc2c9549-d983-5ce2-b580-11b40a4345c1
+  definition: 하나 이상의 새로운 항목에 의한 등록물 항목의 대체
+  examples: []
+  notes:
+  - 대체된 아이템의 상태가 "유효"에서 "교체"로 바뀐다.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 95ee4aeb-ab0f-5a3b-bef9-a808139f44f0
+status: superseded

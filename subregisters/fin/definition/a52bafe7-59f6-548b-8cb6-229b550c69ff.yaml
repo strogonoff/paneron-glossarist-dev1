@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 9106e4ec-2a7d-5e92-b7b8-20a9565518e0
+  definition: testattavana olevan toteutuksen (Implementation Under Test, IUT) suoritusominaisuuksien,
+    kuten suoritustehon, vasteherkkyyden tai muun sellaisen, mittaaminen eri olosuhteissa
+  examples: []
+  notes:
+  - Suorituskykytestaus ei kuulu vaatimuksenmukaisuuden testaukseen.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: a52bafe7-59f6-548b-8cb6-229b550c69ff
+status: valid

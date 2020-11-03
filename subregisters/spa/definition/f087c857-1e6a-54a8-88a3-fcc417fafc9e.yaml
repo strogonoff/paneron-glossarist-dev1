@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 201cb065-095c-5e2f-b4be-d5fa1a318148
+  definition: cálculo y manipulación de representaciones geométricas para la implementación
+    de operaciones geométricas
+  examples:
+  - Las operaciones de geometría computacional incluyen la comprobación de la inclusión
+    geométrica o intersección, el cálculo de la poligonal convexa envolvente o de
+    las áreas de influencia, o la búsqueda del camino más corto entre dos objetos
+    geométricos.
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: f087c857-1e6a-54a8-88a3-fcc417fafc9e
+status: retired

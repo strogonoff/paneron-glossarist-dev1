@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.2.11
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 25c12bd3-c33f-53ba-a1f0-d9c7ca37f989
+  definition: set of concepts structured according to the relations among them
+  examples: []
+  notes: []
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 5d675ca8-3f32-5e74-84e1-2ce3346e1dac
+status: valid

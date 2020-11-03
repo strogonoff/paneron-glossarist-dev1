@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: e23c40e5-674d-5544-bb6c-c2bf1232f854
+  definition: 椭球长半轴(a)与短半轴(b)之差和长半轴之比 即：f=(a-b)/a 。
+  examples: []
+  notes:
+  - 有时用扁率的倒数1/f=a/(a-b)；1/f又称为倒数扁率（reciprocal flattening）。
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: a4e48c2a-2aac-5c30-84ab-723c081e6d59
+status: superseded

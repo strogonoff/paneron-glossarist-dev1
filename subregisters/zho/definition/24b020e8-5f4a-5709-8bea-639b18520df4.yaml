@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 39a87300-4583-558b-bf5a-9c10b6d73b03
+  definition: 服务序列，在每个邻接的服务对中，第一个行为是产生第二个行为的必要条件。
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 24b020e8-5f4a-5709-8bea-639b18520df4
+status: valid

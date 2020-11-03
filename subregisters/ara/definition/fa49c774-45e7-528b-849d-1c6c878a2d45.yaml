@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.45
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 7e833142-706c-507a-9ee0-0ea5fab7fbb1
+  definition: مجموعة كائنات هندسية ليس لها تنظيم داخلي
+  examples: []
+  notes:
+  - لا يمكن تقديم أي افتراضات عن العلاقات المكانية بين العناصر.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: fa49c774-45e7-528b-849d-1c6c878a2d45
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.26
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 1ddd77e9-308f-5258-903c-cd9387bef60c
+  definition: référentiel décrivant la relation entre un système de coordonnées et
+    une référence locale
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: d91782f3-74ae-5aeb-9250-7417712692a2
+status: valid

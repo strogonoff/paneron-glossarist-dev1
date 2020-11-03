@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.10
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: e24e8597-01ba-50aa-8c49-1f07591f2757
+  definition: معلومات تستخدم لتحديد الموقع الجغرافي المتطابق مع موقع الصورة
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: ab222611-7ee5-525d-9a15-77bfbde46ab4
+status: valid

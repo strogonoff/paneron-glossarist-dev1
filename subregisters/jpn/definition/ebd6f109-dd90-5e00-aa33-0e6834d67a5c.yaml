@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/8919.html
+    ref: ISO 3534-1:1993
+  concept: 7372c61f-b1fc-5782-be79-3eb0fbc405b8
+  definition: 品質評価の試験結果得られた値と参照値との近さ。
+  examples: []
+  notes:
+  - 試験結果は，観測値又は測定値として得ることができる。
+  - 参照値は，論議領域を実現するものとして採択された値である。
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: ebd6f109-dd90-5e00-aa33-0e6834d67a5c
+status: superseded

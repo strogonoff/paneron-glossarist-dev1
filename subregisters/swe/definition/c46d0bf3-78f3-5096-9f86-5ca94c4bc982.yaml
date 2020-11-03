@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.62
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 89c91135-bf3e-5953-85c8-35aa02e387cd
+  definition: består av en kompakt sträng av tecken som används för att identifiera
+    eller namnge en resurs.
+  examples: []
+  notes:
+  - 'The general syntax is <scheme>::<scheme-specific-part>. The hierarchical syntax
+    with a namespace is <scheme>://<authority><path>?<query> - see RFC 2396.
+
+    Den huvudsakliga orsaken för denna identifiering är att ge möjlighet att med särskilda
+    protokoll referera till resursen över ett nätverk, typiskt World Wide Web.'
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: c46d0bf3-78f3-5096-9f86-5ca94c4bc982
+status: valid

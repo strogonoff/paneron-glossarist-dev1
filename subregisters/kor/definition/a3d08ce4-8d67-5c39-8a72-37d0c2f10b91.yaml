@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: '2.1'
+    ref: VIM:1993
+  concept: 5eb15f48-1523-5112-8ca0-0c84c82398c3
+  definition: 수량값을 결정하는 개체를 가진 연산자들의 집합
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: a3d08ce4-8d67-5c39-8a72-37d0c2f10b91
+status: valid

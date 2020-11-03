@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.45
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 22851d22-d8a0-50e9-af24-fb25e344145a
+  definition: نوع من البيانات يدل على الكمية العينية كنتيجة للمراقبة والرصد
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: a00030cb-8703-58e4-832e-5eef04be5e71
+status: valid

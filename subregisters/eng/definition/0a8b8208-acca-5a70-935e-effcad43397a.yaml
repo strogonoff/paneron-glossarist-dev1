@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: cd13cc9c-897d-54d8-aaf8-e99f3480e41a
+  definition: single topological node in a network with its associated collection
+    of turns, incoming and outgoing links
+  examples: []
+  notes:
+  - Junction is an alias for node.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 0a8b8208-acca-5a70-935e-effcad43397a
+status: valid

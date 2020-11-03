@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: f1991022-bb14-5018-aac7-330c677baa7a
+  definition: 識別可能な地理的場所。
+  examples:
+  - “東京タワー”，“京都市”，“北海道”。
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: bc2c795b-aad2-56ae-9d3b-1227b95ddc38
+status: superseded

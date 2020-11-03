@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.3
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: d4ab0042-f943-51c2-a49b-1f6b28205500
+  definition: <vid positionering> riktning hos ett objekt, beskrivet som vinklar mellan
+    axlarna hos objektets interna koordinatsystem och axlarna i ett valt referenssystem
+  examples: []
+  notes:
+  - In positioning services, this is usually the orientation of the user's platform,
+    such as an aircraft, boat, or automobile.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 97fc60fe-a4ce-53ea-a303-860b4dc133ab
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.8
+    link: https://www.iso.org/standard/74032.html
+    ref: ISO/TS 19159-3:2018
+  concept: 2f2e7bcb-35a1-5ef3-8bca-86bbf3208e1e
+  definition: ratio of SAR image pixel power to radar cross section without considering
+    additive noise, after the processor gain is normalized to one, and elevation antenna
+    pattern, range and atmospheric attenuation are all corrected
+  examples: []
+  notes: []
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: e62b6720-72b1-54a7-a379-f06117285671
+status: valid

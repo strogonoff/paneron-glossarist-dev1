@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 2e421d4e-625d-5949-828f-6474295009ee
+  definition: sääntö, joka liittää joukon (lähtöjoukko tai funktion määritysjoukko)
+    kunkin alkion toisen joukon (kohdejoukko, rinnakkaisjoukko tai arvoväli) yksikäsitteiseen
+    alkioon
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: abe44acd-84a3-56ec-9d38-20372317013f
+status: superseded

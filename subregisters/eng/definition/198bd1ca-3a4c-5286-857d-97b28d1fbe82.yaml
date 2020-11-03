@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.27
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: f5dc2a55-78f4-593f-87e8-d267a8bcd985
+  definition: index marks, typically four or eight rigidly connected with the camera
+    body, which form images on the film negative and define the image coordinate reference
+    system
+  examples: []
+  notes:
+  - When a camera is calibrated the distances between fiducial marks are precisely
+    measured and assigned coordinates that assist in correcting for film distortion.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 198bd1ca-3a4c-5286-857d-97b28d1fbe82
+status: valid

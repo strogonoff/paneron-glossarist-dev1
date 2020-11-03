@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: c3629c38-a578-5c3a-ad62-e55dc1b64011
+  definition: luettelo, jossa on määritelty käsitemallissa mukana olevat kohdeluokat,
+    niiden ominaisuudet ja kohdeluokkien väliset suhteet
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 73d593fe-46db-5c4b-8d26-2230afba6c16
+status: valid

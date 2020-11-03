@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.2.9
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 9dfc3de4-6634-5ff1-80e4-caa624f41613
+  definition: conjunto de características que constituyen un concepto
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 330dceab-2bdc-5354-a28e-e012d5f5932f
+status: valid

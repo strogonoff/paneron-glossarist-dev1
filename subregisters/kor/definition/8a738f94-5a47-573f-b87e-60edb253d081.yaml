@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 39feecbe-95cc-5d6b-96a2-b9957436d827
+  definition: n차원의 공간에서 점의 위치를 표현하는 n개의 숫자 연속
+  examples: []
+  notes:
+  - 좌표 참조 체계에서 좌표를 나타내는 숫자는 적합한 단위를 사용해야 한다.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 8a738f94-5a47-573f-b87e-60edb253d081
+status: superseded

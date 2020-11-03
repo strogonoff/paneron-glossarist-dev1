@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 20ac2501-fd02-58ac-820b-82ebd35e9971
+  definition: 주어진 시간에 객체의 모든 속성들의 내부 값 또는 측정 가능한 설명을 반영하는 불변의 데이터 객체
+  examples: []
+  notes:
+  - 상태는 보통 식별특성으로 객체와 연관되거나 타임 스탬프에 의해 시간과 연관된다.
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: cc4a6143-8727-55fa-8d4f-ff4ed2fa5971
+status: valid

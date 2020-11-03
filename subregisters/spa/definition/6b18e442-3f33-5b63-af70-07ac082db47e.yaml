@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: modified
+    ref: FindLaw
+  concept: 1d02870e-ae0c-557e-8e58-5686334ccc49
+  definition: acto o instancia de acceso no autorizado o de acceso o uso de un material
+    protegido, patentado o con derechos de autor o de una marca comercial, nombre
+    comercial o imagen comercial
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 6b18e442-3f33-5b63-af70-07ac082db47e
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 53ce0f2f-c91e-534c-a9e2-9291255878a6
+  definition: mængde af knuder, hvoraf nogle er forbundet ved kanterne
+  examples: []
+  notes:
+  - I GIS-systemer kan en graf have mere end én kant, der forbinder to knuder, og
+    have en kant, som har samme knude ved begge ender.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: f81d4b20-485c-533f-94f1-70709fd94b36
+status: retired

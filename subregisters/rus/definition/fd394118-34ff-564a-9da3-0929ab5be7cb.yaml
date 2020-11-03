@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.18'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 6815c68f-083b-5817-86a3-82bb7fe7539c
+  definition: объект, используемый для определения местоположения линейно расположенных
+    объектов
+  examples:
+  - Объект “дорога” может быть размещающим (исходным)  объектом для объекта “пешеходный
+    переход” [позиционируемый объект]
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: fd394118-34ff-564a-9da3-0929ab5be7cb
+status: valid

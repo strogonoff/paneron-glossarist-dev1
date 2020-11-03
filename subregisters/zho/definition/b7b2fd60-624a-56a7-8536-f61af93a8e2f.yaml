@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '3.3'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 9cde52c2-6d33-5a4c-a103-df48884e2e4d
+  definition: 一个要素类型的实例与其他相同的或不同要素类型的实例链接的关系。
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: b7b2fd60-624a-56a7-8536-f61af93a8e2f
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 23ec0579-fc3b-5cb8-ae46-d386d8dc7217
+  definition: standardi, joka sisältää rekisteriin viemistä vaativien tietokohdeluokkien
+    määritelmät
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: a6cf813d-b7e0-5798-9440-6c1491a0b737
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: bc2c9549-d983-5ce2-b580-11b40a4345c1
+  definition: zastąpienie pozycji rejestru co najmniej jedną nową pozycją
+  examples: []
+  notes:
+  - Status zastąpionej pozycji zmienia się z „valid” na „superseded”.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: bae65943-b0b4-5a3f-8c92-d2046920c164
+status: valid

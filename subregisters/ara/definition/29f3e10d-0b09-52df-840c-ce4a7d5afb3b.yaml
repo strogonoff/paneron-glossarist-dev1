@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 917038ce-c219-59d4-a53f-a6a96fd343c2
+  definition: علاقة بين مفهومين أحدهما يشكل الكل والآخر  جزءا من ذلك الكل
+  examples: []
+  notes:
+  - هناك علاقة تبعيض قائمة بين المفهومين "اسبوع" و "يوم" والمفهومين "جزيء" و "ذرة".
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 29f3e10d-0b09-52df-840c-ce4a7d5afb3b
+status: retired

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: aa77d800-5eb2-51b3-a152-941f1de0d3c6
+  definition: grad av överensstämmelse med verklighetsutsnittet
+  examples: []
+  notes: []
+dateAccepted: 2006-12-01 00:00:00+00:00
+id: 11790266-f496-5e19-8070-b20472357b9c
+status: valid

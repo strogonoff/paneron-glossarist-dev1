@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 201cb065-095c-5e2f-b4be-d5fa1a318148
+  definition: bearbetning och beräkning utgående från geometrisk representation för
+    att bestämma geometriska förhållanden
+  examples:
+  - Computational geometry operations include testing for geometric inclusion or intersection,
+    the calculation of convex hulls or buffer zones, or the finding of shortest distances
+    between geometric objects.
+  notes:
+  - Exempel på förhållanden är avstånd mellan punkter och huruvida en punkt ligger
+    inom ett område.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: aa02528d-bb77-5ba1-ad12-4ebea05545c0
+status: retired

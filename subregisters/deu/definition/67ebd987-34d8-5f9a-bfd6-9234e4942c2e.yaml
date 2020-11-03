@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.26
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 1ddd77e9-308f-5258-903c-cd9387bef60c
+  definition: Datum, das die Beziehung eines Koordinatensystems zu einer lokalen Referenz
+    beschreibt
+  examples:
+  - A system for identifying relative positions within a few kilometres of the reference
+    point.
+  notes:
+  - Engineering datum excludes both geodetic and vertical datums.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 67ebd987-34d8-5f9a-bfd6-9234e4942c2e
+status: valid

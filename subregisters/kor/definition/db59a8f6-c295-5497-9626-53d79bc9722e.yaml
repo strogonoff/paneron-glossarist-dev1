@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: edc7eadc-38a7-5f10-89e4-38dea1735027
+  definition: 커버리지 영역 내의 직접 위치에서 커버리지 값의 결정
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: db59a8f6-c295-5497-9626-53d79bc9722e
+status: valid

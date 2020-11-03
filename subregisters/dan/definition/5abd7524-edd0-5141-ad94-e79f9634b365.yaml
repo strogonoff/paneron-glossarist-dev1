@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3d3cffaf-2f01-561e-84af-f9c637e7f0f8
+  definition: topologiske begreber, strukturer og algebra, som hjælper, forstærker
+    eller definerer operationer på topologiske objekter, og som sædvanligvis anvendes
+    i algoritmisk geometri
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5abd7524-edd0-5141-ad94-e79f9634b365
+status: retired

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: ecaf590d-e4e9-53c9-938b-42b103d86195
+  definition: linkin rajauksella oleva solmupiste, joka vastaa kyseisen käyräksi hahmotetun
+    linkin loppupistettä missä hyvänsä sellaisen topologisen kompleksin vaatimukset
+    täyttävässä geometrisessa ilmentymässä, jossa linkkiä käytetään
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 22ed7628-be59-54ac-91bb-3d61dcc604b0
+status: superseded

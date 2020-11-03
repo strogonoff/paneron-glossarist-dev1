@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.20
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: a3af0631-52bb-52cf-bb8d-794a5b730dd2
+  definition: positioning system that determines the position of an object by means
+    of the properties of light
+  examples:
+  - 'Total Station: Commonly used term for an integrated optical positioning system
+    incorporating an electronic theodolite and an electronic distance-measuring instrument
+    into a single unit with an internal microprocessor for automatic computations.'
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 3d6a2a88-dfeb-5e76-9a80-f9b928a3526b
+status: valid

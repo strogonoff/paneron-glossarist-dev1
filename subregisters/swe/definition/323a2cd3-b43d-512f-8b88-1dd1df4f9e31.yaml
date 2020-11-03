@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: fdd1115c-5239-5708-aa1d-c95e1cc05be2
+  definition: klassificering där indelningsklasser och deras klassificeringsdefinitioner
+    skapas genom gruppering av insamlade prov från fältet
+  examples: []
+  notes:
+  - Taken from FAO LCCS version 2 (see Reference [2] in ISO 19144-1)
+  - See Annex B [of ISO 19144-1] for an examination of this and a priori classification
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 323a2cd3-b43d-512f-8b88-1dd1df4f9e31
+status: valid

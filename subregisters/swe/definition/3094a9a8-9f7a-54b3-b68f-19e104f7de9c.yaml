@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: b9892b48-1f9d-5993-93fa-2fea76f84c99
+  definition: yta som ingår i en samling av ytor som tillsammans, och vanligen genom
+    homogen interpolation, representerar en yta
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3094a9a8-9f7a-54b3-b68f-19e104f7de9c
+status: retired

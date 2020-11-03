@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 11.1.1
+    link: https://www.iso.org/standard/55723.html
+    ref: ISO/IEC 10746-2:2009
+  concept: eff055bd-a82f-5064-b21a-86c9bcddefc7
+  definition: propriété de dissimulation vis-à-vis d'un utilisateur particulier du
+    comportement potentiel de parties d'un système distribué
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: fe8dde7a-9ca8-5b73-8a45-8ae6b2e5ae07
+status: valid

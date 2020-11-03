@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  concept: 8ea3763d-ed38-543f-842f-dcd4ae6e8845
+  definition: relación entre los elementos del modelo de contenido y los diferentes
+    mecanismos de codificación y representación
+  examples: []
+  notes: []
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 500ca32e-4b31-5c4f-8af6-9d52db99e155
+status: valid

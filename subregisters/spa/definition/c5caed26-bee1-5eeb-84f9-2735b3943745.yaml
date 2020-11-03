@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.39
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 628b8570-5882-5c9c-8a4b-efd3efd717f0
+  definition: sistema de coordenadas unidimensional en el que un objeto geográfico
+    lineal forma el eje
+  examples:
+  - S Distancias a lo largo de una tubería, profundidades en un pozo de perforación
+    petrolífera.
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: c5caed26-bee1-5eeb-84f9-2735b3943745
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 291bfffa-d9fb-5672-bef0-a3911b779f97
+  definition: objekti, joka koostuu joukosta geometria-arvopareja
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: c903e842-39a0-5f66-bb69-5d7325605fe1
+status: valid

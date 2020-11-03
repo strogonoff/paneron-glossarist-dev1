@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    ref: Booch 1999
+  concept: 90a6f76d-eda7-566d-aca8-c99e8b8daad7
+  definition: 分类器之间的语义关系，其中一个分类器表明约定，另一个类元保证实施。
+  examples: []
+  notes: []
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 1995d841-d0bb-5c1d-a779-cbc51a0f3be6
+status: valid

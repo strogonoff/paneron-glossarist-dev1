@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 6624ce9b-f5ef-5c91-a5f0-805b029b88fd
+  definition: 对现实某些方面的抽象。
+  examples: []
+  notes: []
+dateAccepted: 2005-06-15 00:00:00+00:00
+id: bd64b60c-1d57-549f-ba0d-e5a70d9db831
+status: valid

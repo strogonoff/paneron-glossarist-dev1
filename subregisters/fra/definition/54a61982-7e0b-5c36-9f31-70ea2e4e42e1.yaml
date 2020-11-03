@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '3.15'
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 8928a11e-e471-5979-968e-7e15b605a137
+  definition: plus petit ensemble convexe contenant un objet géométrique donné
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 54a61982-7e0b-5c36-9f31-70ea2e4e42e1
+status: valid

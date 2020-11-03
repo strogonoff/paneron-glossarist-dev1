@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.59'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: f2e99c85-4ca6-54d1-a79d-d2113501d81a
+  definition: del i SONAR som lyssnar och registrerar pulser
+  examples: []
+  notes:
+  - In LIDAR and SONAR systems, the receiver detects and records reflected pulse returns.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 5d339ea5-52e7-5dec-bfab-a887cec70b10
+status: valid

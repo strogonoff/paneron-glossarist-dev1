@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: cd13cc9c-897d-54d8-aaf8-e99f3480e41a
+  definition: node topologi tunggal dalam suatu rangkaian dengan kumpulan terkait
+    bagi belokan, tautan masuk dan keluar
+  examples: []
+  notes:
+  - Junction is an alias for node.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 0e1edbf7-0560-5388-9565-570768fd37b2
+status: valid

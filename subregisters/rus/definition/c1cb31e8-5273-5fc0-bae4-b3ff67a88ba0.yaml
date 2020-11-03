@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/31367.html
+    ref: 'ISO/IEC 11179-3:2003 '
+  concept: a247c4b5-3b66-57b4-bf07-a97cce4759c5
+  definition: информационная система, поддерживающая ведение реестра
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: c1cb31e8-5273-5fc0-bae4-b3ff67a88ba0
+status: valid

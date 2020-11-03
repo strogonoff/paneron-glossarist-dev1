@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: a467318f-d3e5-5815-8424-205e3040638b
+  definition: määrämuotoinen kieli käsiteskeemojen tuottamista varten
+  examples:
+  - UML, EXPRESS ja IDEFIX.
+  notes:
+  - Käsitemallinnuskieli voi olla leksikaalinen tai graafinen. Eri mallinnuskielet
+    saattavat perustua samaan käsitteelliseen formalismiin.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 5d80b3da-a7e6-523a-8b81-aea9adae1316
+status: valid

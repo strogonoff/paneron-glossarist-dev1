@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 38404f30-58f9-502f-9c59-27002e2c4a7f
+  definition: جزء من مسار أو شبكة يتكون من موقع نقطة وصل ومن وصلة دخول وخروج لنقطة
+    الوصل تلك
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 0528f3c3-ca4d-5163-9e5a-c0cbb62b4987
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '2.53'
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: e4546db7-625f-57c8-93f7-da81b622ce6a
+  definition: compensación de un efecto sistemático estimado
+  examples: []
+  notes:
+  - Véase la Guía ISO/EAC 98-3:2008, apartado 3.2.3 para una explicación del "efecto
+    sistemático"
+  - La compensación puede adoptar diferentes formas, como un sumando o un factor,
+    o se puede deducir de una tabla
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 51f230c7-0657-5975-996b-fc9e25b95207
+status: valid

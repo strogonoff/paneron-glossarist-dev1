@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 01.01.22
+    link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: 44d0042d-97e3-534f-8c4e-b077f3ac11b5
+  definition: Sistem yang berkaitan dengan pengumpulan, pemasukan, penyimpanan, pemprosesan,
+    pengeluaran, dan penyebaran maklumat.
+  examples: []
+  notes: []
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: 819a0396-f1e7-59ef-bc85-6803a652a9e4
+status: valid

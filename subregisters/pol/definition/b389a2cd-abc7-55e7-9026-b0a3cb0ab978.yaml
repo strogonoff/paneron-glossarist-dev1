@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.77
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 7154d158-5ea9-5edb-9666-b6e61aae58c3
+  definition: złożony element topologiczny mający realizację geometryczną, która może
+    być osadzona w 2-wymiarowej przestrzeni euklidesowej
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b389a2cd-abc7-55e7-9026-b0a3cb0ab978
+status: valid

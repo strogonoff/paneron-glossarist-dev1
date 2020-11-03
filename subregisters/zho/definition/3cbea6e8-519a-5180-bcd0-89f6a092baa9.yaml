@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.53
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 20f08b89-d2c4-58e3-9669-f9fed587d16c
+  definition: 在同一个目标命名空间内模式组成部分的集合。
+  examples:
+  - W3C XML模式组成部分是类型、元素、属性和组等。
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 3cbea6e8-519a-5180-bcd0-89f6a092baa9
+status: valid

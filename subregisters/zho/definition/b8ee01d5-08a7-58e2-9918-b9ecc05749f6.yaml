@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: 45fd36e2-71f5-5c9a-b9f2-aa3a13cf6164
+  definition: 描述元数据的概念模式。
+  examples: []
+  notes:
+  - ISO 19115是描述元数据模式的标准。
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: b8ee01d5-08a7-58e2-9918-b9ecc05749f6
+status: retired

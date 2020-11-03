@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: 5cd21fd0-21d9-5b6e-b1e5-db51d103a3af
+  definition: 含有描述特定实例数据的层。
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 32004c49-0b5e-59de-9ec5-3355797abc68
+status: retired

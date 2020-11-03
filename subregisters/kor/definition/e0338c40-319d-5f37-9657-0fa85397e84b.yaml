@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.29
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 3dbcb740-bf2e-5d76-82da-eec685014d63
+  definition: 지리 데이터의 품질 측면을 정의하는 개념적 스키마
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: e0338c40-319d-5f37-9657-0fa85397e84b
+status: valid

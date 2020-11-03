@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.46
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: eb22ee12-b926-59dd-a353-7de97e7f877a
+  definition: kuantiti yang digunakan untuk menjelaskan secara kuantitatif fenomena
+    fizikal
+  examples: []
+  notes:
+  - In GML a physical quantity is always a value described using a numeric amount
+    with a scale or using a scalar reference system.  Physical quantity is a synonym
+    for measure when the latter is used as a noun.
+dateAccepted: 2005-08-10 00:00:00+00:00
+id: 5a4f9160-83e3-50f8-b86a-51ec8e15d1e0
+status: valid

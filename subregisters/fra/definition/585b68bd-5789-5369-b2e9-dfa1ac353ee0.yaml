@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: a03e24a2-7141-5e90-9d1b-847acb589b09
+  definition: représentation réinterprétable d’une information de façon formelle et
+    adaptée à la communication, à l’interprétation ou au traitement
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 585b68bd-5789-5369-b2e9-dfa1ac353ee0
+status: valid

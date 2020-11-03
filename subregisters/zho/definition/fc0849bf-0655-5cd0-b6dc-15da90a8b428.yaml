@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: d53e71e2-6818-581a-8722-e9c50a9c4473
+  definition: 高度对曲线长度的变化率。
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: fc0849bf-0655-5cd0-b6dc-15da90a8b428
+status: valid

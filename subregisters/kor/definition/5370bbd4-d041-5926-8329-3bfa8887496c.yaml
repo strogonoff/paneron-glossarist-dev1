@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.21
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 4c1a7901-f448-5057-97d1-541657084452
+  definition: 토지관리(LA) 객체(권리, 제약, 책임, 기본 관리 단위, 관계자 또는 공간 단위)가 기반한 법적, 행정적 사실을 제공하는
+    문서
+  examples: []
+  notes:
+  - Any kind of document may be added as a source according to ISO 19115:2003, B.3.2.
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 5370bbd4-d041-5926-8329-3bfa8887496c
+status: valid

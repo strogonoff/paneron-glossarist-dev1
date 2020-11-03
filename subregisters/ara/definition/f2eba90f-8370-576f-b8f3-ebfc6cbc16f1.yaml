@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: e885201d-6086-505e-843e-601934d99480
+  definition: جانب أو صفة لكيان يشار إليه باسم يعرف به.
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: f2eba90f-8370-576f-b8f3-ebfc6cbc16f1
+status: valid

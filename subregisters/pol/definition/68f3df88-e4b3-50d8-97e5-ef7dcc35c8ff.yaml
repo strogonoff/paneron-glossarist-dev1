@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: d4a6ac7f-b909-5833-8b8d-ca6ae328a99d
+  definition: wartość lub zbiór wartości wynikających z zastosowania miary jakości
+    danych lub rezultat oceny otrzymanej wartości lub zbioru wartości względem określonego
+    wymaganego poziomu jakości
+  examples:
+  - 'Wynik oceny jakości danych o wartości "90" z typem wartości jakości danych "procent"
+    przedstawiony dla elementu jakości danych "kompletność" i jego elementu podrzędnego
+    "nadmiar" jest przykładem wartości wynikającej z zastosowania miary jakości danych
+    określonych przez zakres jakości danych.
+
+    Wynik oceny jakości danych o wartości "prawda" z typem wartości jakości danych
+    "zmienna boolowska" jest przykładem porównania wartości (90) z określonym wymaganym
+    poziomem jakości (85) przedstawiającym ocenę typu:spełniony lub niespełniony.'
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 68f3df88-e4b3-50d8-97e5-ef7dcc35c8ff
+status: valid

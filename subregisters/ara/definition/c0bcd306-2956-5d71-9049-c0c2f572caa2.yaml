@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 7dbeebed-7cbf-58ac-a3d8-69ba40779b0f
+  definition: سطح مبسط على شكل دائري
+  examples: []
+  notes:
+  - تستخدم هيا كل الواجهات لوصف مكونات الحدود الخارجية للمجسمات في نظم الإحداثيات
+    الثلاثية الأبعاد.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c0bcd306-2956-5d71-9049-c0c2f572caa2
+status: retired

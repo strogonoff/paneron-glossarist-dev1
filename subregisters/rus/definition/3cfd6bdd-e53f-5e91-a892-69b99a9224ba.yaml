@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: a9a87c6f-fda4-5664-9f60-327004bc75dd
+  definition: вызов операции клиентом
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 3cfd6bdd-e53f-5e91-a892-69b99a9224ba
+status: valid

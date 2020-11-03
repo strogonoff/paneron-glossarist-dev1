@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.24'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: c88d1549-edc7-5e4b-8e3b-74afc651d576
+  definition: especificación del rango de cardinalidades permisibles que un conjunto
+    puede asumir
+  examples: []
+  notes:
+  - 'Se pueden dar especificaciones de multiplicidad entre roles de asociación, partes
+    dentro de compuestos, repeticiones y otros. Esencialmente, una multiplicidad es
+    un subconjunto (posiblemente finito) de enteros no negativos. Contratar con: cardinalidad.'
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 5c818b91-e85b-58ff-bdea-7f35a34f1d8a
+status: valid

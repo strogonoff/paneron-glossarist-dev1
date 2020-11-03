@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 00a34f30-7968-540f-a55f-ef281d44c1b2
+  definition: dato eller periode hvor et mål for datakvalitet foretages
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 9edbd071-e0aa-5c1a-ad5a-dead96ab6a63
+status: retired

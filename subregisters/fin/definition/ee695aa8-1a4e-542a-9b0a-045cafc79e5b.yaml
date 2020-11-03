@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.3
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: d4ab0042-f943-51c2-a49b-1f6b28205500
+  definition: kappaleen suunta, joka on ilmaistu kappaleen paikallisen koordinaatiston
+    akseleiden ja ulkoisen koordinaatiston akseleiden välisten kulmien avulla
+  examples: []
+  notes:
+  - Paikannuspalveluissa termillä suuntaus viitataan tavallisesti käyttäjän alustan,
+    esimerkiksi lentokoneen, laivan tai auton, suuntaan.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: ee695aa8-1a4e-542a-9b0a-045cafc79e5b
+status: valid

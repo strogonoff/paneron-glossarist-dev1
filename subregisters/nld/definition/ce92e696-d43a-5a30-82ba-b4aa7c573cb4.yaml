@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.9
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: cd1bc0ad-5a39-5d5b-8025-93ffe91dc90f
+  definition: coördinaatsysteem dat aan een object is gerelateerd door een datum
+  examples: []
+  notes:
+  - Voor geodetische en verticale datums is het object de aarde.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: ce92e696-d43a-5a30-82ba-b4aa7c573cb4
+status: valid

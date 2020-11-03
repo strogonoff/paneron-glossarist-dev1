@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/32572.html
+    ref: ISO 19154:2014
+  concept: cedb235f-63d4-54cf-8466-ed3636228170
+  definition: continuous and intuitive access to various information sources and services
+    regardless of protocols, networks, frequency bands, and physical environments
+  examples: []
+  notes: []
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: 0c2e4083-b4f0-5d37-9002-c53a0b97014a
+status: valid

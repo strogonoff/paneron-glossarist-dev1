@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 08e8086f-6ae0-5dcd-97bf-963379c1621f
+  definition: функция, которая устанавливает соответствие между географическим объектом
+    и символом
+  examples: []
+  notes: []
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 8226c415-bd54-5b96-ae52-2a015706344a
+status: valid

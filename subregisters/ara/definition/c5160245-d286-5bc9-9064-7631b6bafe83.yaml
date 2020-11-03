@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: 6da82da4-71ed-52b9-9458-21b9f3f09892
+  definition: معرف يوضح بشكل مميز معلم محدد عن غيره
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: c5160245-d286-5bc9-9064-7631b6bafe83
+status: valid

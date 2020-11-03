@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: '3.18'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  concept: 460986d8-6c75-527b-aa4b-a0bb72b34305
+  definition: Infraestructura de red física para la movilidad de medios de transporte,
+    que contiene la infraestructura y el equipamiento que facilitan la gestión del
+    tráfico
+  examples: []
+  notes:
+  - Una red de transporte está asociada a un modo de transporte específico y a tipos
+    específicos de medios de transporte. La red de carreteras, que en la ciudad se
+    compone de calles puede, por ejemplo, permitir varias redes de transporte, tales
+    como redes de transporte para peatones, bicicletas o coches de uso privado. La
+    red disponible de un servicio de autobuses es también una red de transporte.
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: 5cf337bd-4d2a-5df2-8b37-4cd5571fd208
+status: valid

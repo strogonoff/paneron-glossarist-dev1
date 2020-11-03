@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: 7ef10b9e-9426-5063-9401-c40dbaf535bc
+  definition: concept that may be specified in detail as one or more feature operation
+    types
+  examples:
+  - A "traffic flow" operation might return the number of persons or vehicles expected
+    to move on or through some kind of transportation feature during a period of time
+    specified as input to the operation.
+  notes: []
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: 8e0c552e-b348-5191-8184-af4c91da4a22
+status: valid

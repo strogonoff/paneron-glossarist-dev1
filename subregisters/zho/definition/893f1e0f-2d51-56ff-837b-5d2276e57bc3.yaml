@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 7401305f-b825-5219-ba46-13d487d07173
+  definition: 一个先前存在的要素被两个或多个相同要素类型的不同要素实例取代时的要素更替。
+  examples:
+  - 要素类型为“地块”的一个实例，在该地块被合法细分后，被更替为两个同类实例。
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 893f1e0f-2d51-56ff-837b-5d2276e57bc3
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 889d8014-856f-57ac-ad27-5d2b723ed07e
+  definition: abstrakt testmodul, som specificerer alle krav, der skal opfyldes for,
+    at der er overensstemmelse
+  examples: []
+  notes:
+  - Abstrakte testsuiter er beskrevet i en overensstemmelsesklausul.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 5a0e78c4-cc1c-5b2c-a214-82c518ff2380
+status: valid

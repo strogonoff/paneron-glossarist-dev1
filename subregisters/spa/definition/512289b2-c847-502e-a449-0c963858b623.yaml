@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.72'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 97931b1a-fa76-5ddc-a911-f6fea652120b
+  definition: sensor que permite determinar la distancia de un objeto submarino a
+    través de la medición de la señal sonora
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 512289b2-c847-502e-a449-0c963858b623
+status: valid

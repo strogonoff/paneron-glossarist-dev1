@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: c3629c38-a578-5c3a-ad62-e55dc1b64011
+  definition: catalogue contenant des définitions et descriptions de types d'entités,
+    d'attributs d'entités et de relations d'entités présents dans un ou plusieurs
+    ensembles de données géographiques, ainsi que toute opération pouvant être appliquée
+    à ces entités
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 5658fc6a-e124-519b-b679-b3e696539e01
+status: valid

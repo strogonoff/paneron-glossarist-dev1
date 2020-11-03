@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: dfa5a731-f5db-5042-8917-04381b494d18
+  definition: koordinatbaserad beskrivning av den domän som definieras av ett domänobjekt
+  examples: []
+  notes:
+  - En domän kan definieras med punkter, linjer, plana ytor, tredimensionella ytor
+    eller kroppar. Även tidsdimensionen kan ingå.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 25b1d5cd-9a1a-5e1e-94d1-2d3baafe6ecc
+status: valid

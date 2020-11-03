@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 9999cdbf-bde0-58a2-811f-c3cb64e9e576
+  definition: جزء من نظام  قابل للاستعمال والاستبدال ويغلق عملية التنفيذ ويعض مجموعة
+    من الواجهات التطبيقية
+  examples: []
+  notes:
+  - المكون يمثل جزءاً ملموساً من تنفيذ نظام ما بما في ذلك شفرة البرنامج (سواء كانت
+    مصدرية أو ثنائية أو قابلة للتنفيذ) أو ما يعادلها مثل النصوص الكتابية أو ملفات
+    الأوامر.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: d0d7fe69-9bb4-573c-9c09-ec9e694e708e
+status: superseded

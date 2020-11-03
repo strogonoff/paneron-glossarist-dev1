@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.1
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  concept: 70bc8fd7-690f-5fc2-aa2e-5eeeab018405
+  definition: perspektiv på ett system och dess omgivning som fokuserar på systemets
+    syfte, omfattning och förhållningssätt
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 82822eb5-339d-5d45-96b2-2993f061b159
+status: valid

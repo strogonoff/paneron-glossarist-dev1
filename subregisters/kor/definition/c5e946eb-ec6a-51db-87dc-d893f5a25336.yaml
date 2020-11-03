@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.26'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: ad18e552-d773-516d-b1b3-f52f6f449ab4
+  definition: 지상 또는 상승점의 경위도와 고도
+  examples: []
+  notes:
+  - Geographic coordinates are related to a coordinate reference system or compound
+    coordinate reference system. Depth equals negative height
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: c5e946eb-ec6a-51db-87dc-d893f5a25336
+status: valid

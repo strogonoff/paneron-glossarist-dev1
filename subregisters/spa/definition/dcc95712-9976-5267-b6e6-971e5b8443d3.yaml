@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: 5149d55b-9b06-54d8-aaa8-188082c917e6
+  definition: actualizar la referencia de un recurso que se ha movido o copiado a
+    una nueva ubicación
+  examples:
+  - Cuando un servidor genera una respuesta a una petición GetFeature, tiene que copiar
+    un fenómeno referenciado en el documento de respuesta y el servidor tiene que
+    "relocalizar" el enlace original contenido en el fenómeno que se está referenciando
+    a la copia ubicada en el documento de respuesta.
+  notes: []
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: dcc95712-9976-5267-b6e6-971e5b8443d3
+status: valid

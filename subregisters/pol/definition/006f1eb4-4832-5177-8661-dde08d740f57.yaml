@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.57
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: e4004fa9-7f02-5e50-be8f-b1eb87bab797
+  definition: 2-wymiarowy prosty element geometryczny, lokalnie reprzentujący ciągły
+    obraz części płaszczyzny
+  examples: []
+  notes:
+  - Granicą powierzchni jest zbiór zorientowanych krzywych zamkniętych, które wyznaczają
+    zasięg tej powierzchni.Powierzchnie izomorficzne względem sfery lub n-torusa (sfery
+    topologicznej z n "uchwytami") nie mają granicy. Takie powierzchnie są nazywane
+    cyklami.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 006f1eb4-4832-5177-8661-dde08d740f57
+status: valid

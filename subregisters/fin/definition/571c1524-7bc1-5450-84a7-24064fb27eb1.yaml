@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/40395.html
+    ref: ISO 19117:2005
+  concept: 8e638124-5a72-59e3-8f13-97d7cc8bbfc9
+  definition: toiminto, joka ei ole osa sovellusskeemaa
+  examples: []
+  notes:
+  - Auton paikannusjärjestelmän sähköinen kartta on esitettävä aina siinä suunnassa,
+    johon auto liikkuu. Kartan kiertymisen määrittämiseksi on saatava auton kunkinhetkinen
+    suuntaus ulkoisen paikannuslaitteen avulla käyttäen ulkoista toimintoa.
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 571c1524-7bc1-5450-84a7-24064fb27eb1
+status: retired

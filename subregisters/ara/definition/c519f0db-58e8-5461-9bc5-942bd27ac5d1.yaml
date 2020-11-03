@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 40fe3c8e-f748-5d18-b8c0-e199853b5f8b
+  definition: شبكة معدات وبرامج حاسب آلي واتصالات مطلوبة لمساندة تجهيز تحت الاختبار
+    IUT
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: c519f0db-58e8-5461-9bc5-942bd27ac5d1
+status: valid

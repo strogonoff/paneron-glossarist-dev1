@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 493a7a22-d7d5-595c-ae3b-02d7aa5ed6e8
+  definition: set of Linear Referencing Methods and the policies, records and procedures
+    for implementing them
+  examples: []
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 2bcd2092-156a-53a8-becb-1b1bde1a9469
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.2
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 99e554a4-3b09-50e0-b62f-5f8ff10e3bde
+  definition: informatiemodel dat gegevens beschrijft die worden gebruikt door een
+    of meer applicaties
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: cc5901d6-273e-5514-8e8c-7b0d1a30cfc4
+status: valid

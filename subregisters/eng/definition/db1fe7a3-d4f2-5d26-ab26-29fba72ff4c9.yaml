@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.35'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 7ae682d3-a0ca-5ee8-bd4f-3c2221fd2417
+  definition: collection of symbols
+  examples: []
+  notes:
+  - 'Not 1 to entry: Symbol sets are usually designed for a community of interest
+    to portray information of interest to the community.'
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: db1fe7a3-d4f2-5d26-ab26-29fba72ff4c9
+status: valid

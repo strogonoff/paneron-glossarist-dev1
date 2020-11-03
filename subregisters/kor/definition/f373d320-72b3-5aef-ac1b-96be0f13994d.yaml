@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 18e33bf9-af28-58a1-b958-5372c4ba7ace
+  definition: 영상과 좌표 체계의 관계를 정의하는 공학 데이텀
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: f373d320-72b3-5aef-ac1b-96be0f13994d
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20697.html
+    ref: ISO/IEC 10746-3:1996
+  concept: 70bc8fd7-690f-5fc2-aa2e-5eeeab018405
+  definition: аспект системы ODP и среды ее функционирования, выделяющий назначение,
+    область действия и политику данной системы
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 46ad4b82-6187-5195-8b91-82d1649f35ce
+status: valid

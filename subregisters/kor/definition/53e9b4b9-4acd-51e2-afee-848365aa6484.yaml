@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.59'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: f2e99c85-4ca6-54d1-a79d-d2113501d81a
+  definition: 신호 탐지 및 기록을 위해 사용되는 하드웨어
+  examples: []
+  notes:
+  - In LIDAR and SONAR systems, the receiver detects and records reflected pulse returns.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 53e9b4b9-4acd-51e2-afee-848365aa6484
+status: valid

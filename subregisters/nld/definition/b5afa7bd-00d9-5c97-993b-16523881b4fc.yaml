@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 8bffaf55-5e60-5e4f-b36d-73126661a5e0
+  definition: verzameling coördinaattupels gerelateerd aan hetzelfde coördinaatreferentiesysteem
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: b5afa7bd-00d9-5c97-993b-16523881b4fc
+status: superseded

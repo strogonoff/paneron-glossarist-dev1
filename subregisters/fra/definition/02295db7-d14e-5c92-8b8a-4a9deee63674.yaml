@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132
+  concept: d0e5ebfa-7dde-5e8e-af70-577c1a6ee5b2
+  definition: mesure des paires de valeurs d'un type d'attribut fournissant une valeur
+    numérique positive, symétrique et satisfaisant l'inégalité triangulaire
+  examples: []
+  notes:
+  - Métrique ou mesure de distance sont synonymes dans la définition de ce terme en
+    anglais. Le texte de la norme utilise le terme Mesure plutôt que le terme Métrique.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 02295db7-d14e-5c92-8b8a-4a9deee63674
+status: valid

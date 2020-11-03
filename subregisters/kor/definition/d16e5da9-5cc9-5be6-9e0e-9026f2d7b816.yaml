@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.25
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: e4edc733-210c-514a-b4b1-10cb6a4eda4e
+  definition: 공학 데이텀에 기반한 좌표 참조 체계
+  examples:
+  - 지역적 공학 및 구조적 격자; 항해나 비행을 위한 지역적 좌표 참조 체계
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: d16e5da9-5cc9-5be6-9e0e-9026f2d7b816
+status: valid

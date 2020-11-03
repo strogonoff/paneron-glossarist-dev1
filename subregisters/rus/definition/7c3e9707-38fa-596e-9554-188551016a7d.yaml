@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39891.html
+    ref: ISO 19109:2005
+  concept: 337e3766-b2fe-5d6f-bcbb-5f8864eea080
+  definition: данные о пространственных объектах и их наборах
+  examples: []
+  notes: []
+dateAccepted: 2005-06-15 00:00:00+00:00
+id: 7c3e9707-38fa-596e-9554-188551016a7d
+status: valid

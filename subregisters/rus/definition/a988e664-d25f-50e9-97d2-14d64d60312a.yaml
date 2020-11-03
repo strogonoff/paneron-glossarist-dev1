@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/32620.html
+    ref: 'ISO/IEC 19501:2005 '
+  concept: dce3b15f-ed8d-58f1-b05d-f3b330346041
+  definition: отношение, обозначающее более полное описание того, что уже было ранее
+    описано на определенном уровне детализации
+  examples: []
+  notes:
+  - Например, класс проектирования является уточнением аналитического класса
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: a988e664-d25f-50e9-97d2-14d64d60312a
+status: valid

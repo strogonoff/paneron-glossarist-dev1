@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/32581.html
+    ref: ISO/TS 19163-1:2016
+  concept: 650b4be9-bce6-5e31-9f55-fee585a856f4
+  definition: asociado con información de geoposicionamiento que puede utilizarse
+    para convertir valores de coordenadas de malla en valores de coordenadas referidos
+    a un sistema de referencia de coordenadas externo relacionado con la Tierra mediante
+    un datum
+  examples: []
+  notes: []
+dateAccepted: 2016-01-15 00:00:00+00:00
+id: 45927d29-cd8c-5b96-99bd-24662810f72b
+status: valid

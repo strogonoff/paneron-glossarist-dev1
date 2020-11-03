@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: c3629c38-a578-5c3a-ad62-e55dc1b64011
+  definition: Katalog mit Definitionen und Beschreibungen der Feature-Klassen, Feature-Attribute
+    und Feature-Beziehungen, die in einem oder mehreren Geodatensätzen auftreten,
+    zusammen mit Feature-Operationen, die angewendet werden dürfen
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 430a7ebd-7a34-5dd8-a27d-814cc4ae3c93
+status: valid

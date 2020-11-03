@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: dc7fbe0c-ad16-52f8-bd38-1d3444fcf51e
+  definition: datum welke de relatie tussen een twee- of driedimensionaal coördinaatsysteem
+    ten opzichte van de aarde beschrijft
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: acdcd4c4-4c6c-55f7-bf0b-cd36d99972dd
+status: valid

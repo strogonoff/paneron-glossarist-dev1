@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: d53e71e2-6818-581a-8722-e9c50a9c4473
+  definition: 곡선 길이에 관한 표고 변화율
+  examples: []
+  notes: []
+dateAccepted: 2006-12-01 00:00:00+00:00
+id: 6f72f255-adff-5b59-83f3-e9ccaaab1b9a
+status: valid

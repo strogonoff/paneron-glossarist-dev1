@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1
+  concept: b2484d5e-65fb-5f82-a86a-a9e71654aa83
+  definition: термин, оцениваемый по шкале рейтинга приемлемости как основной термин
+    для данного понятия
+  examples: []
+  notes: []
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 10eddd90-9445-5fd5-ac5a-689b09998de0
+status: valid

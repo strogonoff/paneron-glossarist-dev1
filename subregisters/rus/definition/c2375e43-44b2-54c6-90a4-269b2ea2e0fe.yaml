@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: 2a52f57d-b8fe-5065-9fce-99397c99d2d3
+  definition: именованный набор записей, хранимых или обрабатывемых как единое целое
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: c2375e43-44b2-54c6-90a4-269b2ea2e0fe
+status: valid

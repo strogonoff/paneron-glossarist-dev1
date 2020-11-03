@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 7110c707-269d-59f3-bcf8-c4ea91bc8d56
+  definition: unionen av avgränsningen hos ett rumsligt objekt och objektet självt
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 6459b5cb-cb8e-566b-a5a8-027624ada8ad
+status: superseded

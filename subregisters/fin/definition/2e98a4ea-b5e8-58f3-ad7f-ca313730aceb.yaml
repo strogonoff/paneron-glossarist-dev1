@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.22
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 1ab20219-b4c8-5404-a782-372c5fb8ecd6
+  definition: laatutekijä, joka ilmentää tietoaineiston kohteen sijainnin tarkkuutta
+    valitussa koordinaattijärjestelmässä
+  examples: []
+  notes:
+  - Joskus sijaintitarkkuuden käsitteestä käytetään ilmaisua absoluuttinen tarkkuus,
+    jotta se erottuisi suhteellisen sijaintitarkkuuden käsitteestä. Jos koordinaattien
+    todellista arvoa ei täysin tunneta, tarkkuus testataan normaalisti vertaamalla
+    koordinaattiarvoja parhaimpina pidettyihin saatavilla oleviin arvoihin.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 2e98a4ea-b5e8-58f3-ad7f-ca313730aceb
+status: valid

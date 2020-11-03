@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 6b91532d-745c-5b5f-897a-f32dd10c446f
+  definition: rumsligt objekt med ändlig utsträckning men utan avgränsning
+  examples: []
+  notes:
+  - Begränsningsytan hos ett klot är ett cykliskt objekt.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 753e4bd9-2399-521b-bcef-f774f3625168
+status: retired

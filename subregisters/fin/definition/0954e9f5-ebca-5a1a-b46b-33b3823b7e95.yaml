@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.19
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 88cc1b44-ea8e-5fb3-adb7-f96596e2e94f
+  definition: muuttujat, jotka vaikuttavat siihen, miten paikannusjärjestelmä määrittää
+    koordinaattiarvot
+  examples: []
+  notes:
+  - Kenttämittauksiin vaikuttavat monet välineisiin ja ympäristöön liittyvät tekijät,
+    kuten sääolosuhteet, tietojenkäsittelymenetelmät, tietojenkäsittelyyn liittyvät
+    rajoitukset, välineiden valmistukseen, säätämiseen tai kalibrointiin liittyvät
+    puutteet ja (optisissa mittausjärjestelmissä) havaitsijan havainnoinnin epätäydellisyys.
+    Sijainnin määritystuloksiin voivat vaikuttaa havainnoitujen tietojen geometriset
+    suhteet ja/tai paikannusohjelmistossa käytetty matemaattinen malli.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 0954e9f5-ebca-5a1a-b46b-33b3823b7e95
+status: valid

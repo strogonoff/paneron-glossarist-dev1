@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.9
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: b59f7009-0db9-5cf2-a408-07d0ad459306
+  definition: Sequenz von Kurven, wobei jede Kurve (außer der ersten) am Endpunkt
+    der vorhergehenden Kurve einer Sequenz beginnt
+  examples: []
+  notes:
+  - A composite curve, as a set of direct positions, has all the properties of a curve.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: e833e16b-d372-58c7-a9b4-7f61d7f961ec
+status: valid

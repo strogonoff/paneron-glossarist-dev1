@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3193a704-dc47-531e-a7a2-64c79a07a744
+  definition: 与测量结果相关的一个参数，表现合理量测值的离差特性。
+  examples: []
+  notes:
+  - 当定量地表示量测值的准确度或精度质量时，质量参数是量测结果不确定性的一个估计。因为准确度是一个定性的概念，因此不应定量地使用它。它不应与具体的数字相关联，而不确定性的大小才与数字相关联。
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 38966569-52bf-5aa5-bf0a-31282c8a3eb7
+status: valid

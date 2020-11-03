@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 39ace3fc-a409-52bb-8541-3a9972b5bbf1
+  definition: オブジェクトの任意の二つの直接位置がそのオブジェクト内に完全に含まれる曲線上に配置できることを意味する幾何オブジェクトの性質。
+  examples: []
+  notes:
+  - 位相オブジェクトは，幾何実現が連結である場合にだけ，連結である。これは，位相幾何学の定理から導かれるので，定義には含まない。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 74f09799-79c9-535a-a5de-6fa35211733f
+status: superseded

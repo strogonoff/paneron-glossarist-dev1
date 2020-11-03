@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: 5019e6f7-6132-5a2c-b044-ec5746ccbffd
+  definition: constante, valor especificado explícitamente
+  examples: []
+  notes:
+  - 'A diferencia del valor se determina resolviendo una cadena de sustituciones (por
+    ejemplo: una variable)'
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 7af6cc4b-0727-5f9e-a620-4da6aeea3775
+status: valid

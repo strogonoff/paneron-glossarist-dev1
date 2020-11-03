@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.34
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 01a118c3-6764-5044-a2ae-a09e13654aae
+  definition: geopositioning an object using a Physical Sensor Model or a True Replacement
+    Model
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: df2521d0-b355-5db2-b163-fcf6a1884b07
+status: valid

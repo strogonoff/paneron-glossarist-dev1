@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: ec90a670-0f95-560e-9e0f-307276de0d04
+  definition: 항목에 대해 영구적이고 유일하며 명백한 식별자를 부여하는 것
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 8e650b14-554b-582c-8411-31a955d5404b
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/30726.html
+    ref: ISO/IEC TR 10000-1:1998
+  concept: c663e0d1-8462-5759-9264-e874de9c2e91
+  definition: data som beskriver viktig egenskap och förutsättningar för en viss funktion
+  examples: []
+  notes:
+  - A profile is derived from base standards so that by definition, conformance to
+    a profile is conformance to the base standards from which it is derived.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: fb49c4df-0675-50dc-9507-7108a75665ce
+status: valid

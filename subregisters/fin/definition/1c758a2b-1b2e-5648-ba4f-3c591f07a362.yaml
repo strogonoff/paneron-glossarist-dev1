@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.69
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 0abbc036-0b35-5970-abd2-c0d951c52865
+  definition: yksilösuure, jonka määritelmästä ja käytöstä on sovittu ja johon muita
+    saman lajin suureita verrataan, jotta niiden suuruus voidaan esittää suhteessa
+    tähän suureeseen
+  examples: []
+  notes:
+  - Tässä kansainvälisessä standardissa yksikön alatyyppejä ovat pituusyksiköt, kulmayksiköt,
+    aikayksiköt, asteikkoyksiköt (scale units) ja pikseleiden väliseen etäisyyteen
+    liittyvät yksiköt.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 1c758a2b-1b2e-5648-ba4f-3c591f07a362
+status: valid

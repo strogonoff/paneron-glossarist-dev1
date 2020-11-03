@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 1e546ffc-c909-583d-a5f8-92f7e3c2c06e
+  definition: контроль за местоположением транспортного средства и передача данных
+    о местоположении
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: ad0b4758-65ba-508f-9745-eb9a2ed98422
+status: valid

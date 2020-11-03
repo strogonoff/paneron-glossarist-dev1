@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.47
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 01a48efa-06ab-5398-86eb-a5aea4973e31
+  definition: данные, описывающие связь параметрической системы координат с объектом
+  examples: []
+  notes:
+  - Объектом является обычно Земля
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: d380c466-e68f-596a-b460-ffddd65d9ed4
+status: valid

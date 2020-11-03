@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  concept: d53e71e2-6818-581a-8722-e9c50a9c4473
+  definition: taux de changement d'élévation relatif à la longueur de courbe
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 512b8645-9f4c-5666-ba20-60c28114db2e
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.8, modified — EXAMPLES and NOTE deleted.
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: 0c30bf47-d5c1-5099-b75c-8b06ba94a7df
+  definition: element of a measuring system that is directly affected by a phenomenon,
+    body, or substance carrying a quantity to be measured
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: e38742bb-4715-50c4-8fc4-903811691a28
+status: valid

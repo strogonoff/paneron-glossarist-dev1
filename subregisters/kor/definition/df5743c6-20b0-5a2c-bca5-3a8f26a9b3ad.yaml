@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 99e622e9-3bf0-5dc0-b1cd-a5b16f2d6808
+  definition: 삼각형으로 구성된 공간 분할
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: df5743c6-20b0-5a2c-bca5-3a8f26a9b3ad
+status: valid

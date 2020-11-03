@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: f01cc10d-3f12-5db7-9a59-74450b088e6b
+  definition: uppsättning referenter som kan knytas till ett visst begrepp
+  examples: []
+  notes: []
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: cb04aa8c-8eb5-52f2-bcfc-09aa11fa4196
+status: retired

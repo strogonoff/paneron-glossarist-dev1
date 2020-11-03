@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 295b96c2-7d12-5f30-ab71-0887e87646a0
+  definition: 관련된 추상 시험 케이스의 집합
+  examples: []
+  notes:
+  - 추상 시험 모듈은 계층적 구조를 가질 수 있다.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 7bccf8ed-237a-5d95-99d6-2ca394f08ac5
+status: valid

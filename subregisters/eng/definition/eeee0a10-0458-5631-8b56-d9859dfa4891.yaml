@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: f9e5cd51-a353-5bb0-ac69-6cfe5604cd6c
+  definition: model that defines the language for expressing other models
+  examples: []
+  notes:
+  - A model is an instance of a metamodel, and a metamodel is an instance of a meta-metamodel.
+dateAccepted: 2015-12-01 00:00:00+00:00
+id: eeee0a10-0458-5631-8b56-d9859dfa4891
+status: valid

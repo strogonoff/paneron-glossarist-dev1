@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: e1e646ef-9eaf-5967-a9a7-7f43a99127f8
+  definition: система для идентификации местоположения в реальном мире
+  examples: []
+  notes:
+  - Может быть представлена в виде строки символов, кода или  кортежа координат
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: f6561f5c-fa43-56a7-abff-18da191ebd79
+status: valid

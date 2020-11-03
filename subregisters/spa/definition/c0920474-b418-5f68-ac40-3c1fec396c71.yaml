@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.1'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: a0ea0e85-b093-5409-ac85-252003a9c3cb
+  definition: valor de un atributo de un objeto geográfico que puede aplicarse sólo
+    a parte de un objeto geográfico
+  examples: []
+  notes:
+  - Un evento de atributo incluye la localización referenciada linealmente (4.16)
+    donde el valor del atributo se aplica a lo largo del fenómeno con atributos (4.2)
+  - Un evento de atributo se puede calificar por el instante (4.8) o el periodo (4.20)
+    en el que se da el valor de atributo aplicado
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: c0920474-b418-5f68-ac40-3c1fec396c71
+status: valid

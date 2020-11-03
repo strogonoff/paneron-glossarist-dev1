@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: a9a87c6f-fda4-5664-9f60-327004bc75dd
+  definition: toimenpide, jonka avulla tietokone tai ohjelma antaa toiselle tietokoneelle
+    tai ohjelmalle tiedon siitä, mikä toiminto jälkimmäisen tulisi suorittaa
+  examples: []
+  notes: []
+dateAccepted: 2013-07-03 00:00:00+00:00
+id: 64fdfa59-602b-5d64-b64e-a1fa8f30040b
+status: valid

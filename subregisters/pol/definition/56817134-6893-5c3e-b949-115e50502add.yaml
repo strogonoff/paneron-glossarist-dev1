@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.1
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  concept: 70bc8fd7-690f-5fc2-aa2e-5eeeab018405
+  definition: punkt widzenia (4.7) na dany system ODP oraz jego otoczenie, który skupia
+    się na celu, zakresie i prawach do tego systemu
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 56817134-6893-5c3e-b949-115e50502add
+status: valid

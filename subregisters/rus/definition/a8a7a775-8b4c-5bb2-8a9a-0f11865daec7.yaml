@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: d53e71e2-6818-581a-8722-e9c50a9c4473
+  definition: отношение изменения высоты к длине кривой
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: a8a7a775-8b4c-5bb2-8a9a-0f11865daec7
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 403a43ef-6178-5e64-95da-a4201e6bcf17
+  definition: finite, named collection of related items (objects or values)
+  examples: []
+  notes:
+  - Logically, a record is a set of pairs <name, item >.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 47585cb1-a690-5898-948a-43de16b9a86a
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: cd13cc9c-897d-54d8-aaf8-e99f3480e41a
+  definition: nodo topológico simple en una red con su colección asociada de giros,
+    y enlaces entrantes y salientes
+  examples: []
+  notes:
+  - Cruce es un sobrenombre de nodo.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: c9ccc36d-ea0e-530f-af65-16eea2f40412
+status: valid

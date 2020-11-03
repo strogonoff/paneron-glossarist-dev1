@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.26'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 7d8ca166-5a2c-5b94-b14f-4ff35abdecc1
+  definition: مادة أو جهة لتخزين أو نقل البيانات
+  examples:
+  - قرص مدمج , انترنت[1] , موجات لاسلكية ... خلافه.
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 5af7c557-34cb-5331-81b5-9f91f5007f44
+status: valid

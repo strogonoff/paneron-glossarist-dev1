@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: e1e646ef-9eaf-5967-a9a7-7f43a99127f8
+  definition: 标识现实世界位置的系统。
+  examples: []
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: 6485d1a8-fb02-5637-814f-0dcb959fdbb5
+status: valid

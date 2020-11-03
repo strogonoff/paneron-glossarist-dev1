@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 39a87300-4583-558b-bf5a-9c10b6d73b03
+  definition: سلسلة خدمات متتابعة مرتبة بحيث أن حدوث الإجراء الأول ، بالنسبة لكل زوج
+    من الخدمات المتجاورة ، يكون ضروريا لحدوث الإجراء الثاني
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 226a9473-9707-5965-b56a-889a2fd287fc
+status: valid

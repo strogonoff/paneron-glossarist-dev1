@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: 840d6e87-6717-5f05-9619-65869570d3cb
+  definition: expresión de filtrado que incluye una o más claúsulas que limitan las
+    propiedades de dos tipos de entidades diferentes
+  examples: []
+  notes:
+  - En esta norma internacional, los tipos de entidades son tipos de fuentes.
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: f756528a-5d20-5df5-a566-c773294e6442
+status: valid

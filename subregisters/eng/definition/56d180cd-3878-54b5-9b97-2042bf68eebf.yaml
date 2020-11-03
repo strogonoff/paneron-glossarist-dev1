@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.30'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 5c890d58-6704-53c8-88c6-721a62ee233a
+  definition: component of the SONAR system which receives the sound echo and converts
+    it to an electric signal
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 56d180cd-3878-54b5-9b97-2042bf68eebf
+status: valid

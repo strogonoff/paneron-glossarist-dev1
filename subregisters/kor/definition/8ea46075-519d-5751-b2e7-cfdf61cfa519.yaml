@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.70
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: aa510b85-da5b-57e2-9475-f4fa1a6a74dd
+  definition: 범위 벡터의 방향
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 8ea46075-519d-5751-b2e7-cfdf61cfa519
+status: valid

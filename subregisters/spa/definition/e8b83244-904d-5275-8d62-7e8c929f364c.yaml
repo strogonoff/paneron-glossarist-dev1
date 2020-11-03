@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: b6bed773-b213-53f7-848f-fe8b64c44fa0
+  definition: definicion usada para asignar objetos a las clases de leyenda
+  examples: []
+  notes:
+  - Los clasificadores se pueden definir algorítmicamente o según un conjunto de reglas
+    especificas de sistemas de clasificación.
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: e8b83244-904d-5275-8d62-7e8c929f364c
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/51789.html
+    ref: ISO/TS 19130:2010
+  concept: d80eb88f-3395-56df-9925-e36b6dcfc6d9
+  definition: sistema de detección que emite la energía que utiliza el sensor para
+    realizar la detección
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: ed8b5e61-983a-5eb9-81c3-f09e089eb966
+status: superseded

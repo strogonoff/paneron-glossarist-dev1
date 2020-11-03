@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.24'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: c88d1549-edc7-5e4b-8e3b-74afc651d576
+  definition: sääntö, joka määrää, kuinka monta kertaa tietyn tietoelementin saa liittää
+    kohteeseen tai metatietoon
+  examples: []
+  notes:
+  - Kerrannaisuusmäärittelyjä voidaan tehdä muun muassa assosiaatiosuhteisiin liittyville
+    rooleille, vahvan koosteen osille ja toistoille. Kerrannaisuus on (mahdollisesti
+    ääretön) ei-negatiivisten kokonaislukujen osajoukko. Huomaa ero käsitteeseen kardinaliteetti
+    (mahtavuus).
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: f0db935b-2b55-5943-94eb-ab288eaf2f4b
+status: valid

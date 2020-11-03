@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 38404f30-58f9-502f-9c59-27002e2c4a7f
+  definition: reitin tai verkoston osa, joka koostuu risteyssolmusta ja sen sisääntulo-
+    ja poistumislinkistä
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 090e4034-f379-5261-8d69-4462982ebc06
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.12
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: f71d996e-815c-59b3-bd12-4da89f759705
+  definition: geographic imagery whose data consists of measurements or simulated
+    measurements of the natural world produced relative to a specified vantage point
+    and at a specified time
+  examples: []
+  notes:
+  - A geographic imagery scene is a representation of an environmental landscape;
+    it may correspond to a remotely sensed view of the natural world or to a computer-generated
+    virtual scene simulating such a view
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 69fef8e6-7580-5eff-8700-520a2da60fce
+status: valid

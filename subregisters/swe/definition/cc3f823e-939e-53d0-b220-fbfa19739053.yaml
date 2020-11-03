@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.48
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 50bfd370-eb47-592b-a4ed-3a9e6bf93d56
+  definition: <i samband med geografisk information> yta som begränsas av en månghörning
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: cc3f823e-939e-53d0-b220-fbfa19739053
+status: valid

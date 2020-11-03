@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: 1582e72a-dee4-5b51-ad91-76828b5da49d
+  definition: 从注册表外部接受的注册项来源的引用。
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: fa2990fe-d038-58fb-99ec-7136a87891f4
+status: retired

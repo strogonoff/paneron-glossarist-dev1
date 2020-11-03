@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: c3629c38-a578-5c3a-ad62-e55dc1b64011
+  definition: katalog, der indeholder definitioner og beskrivelser af featuretyper,
+    featureattributter og featureassociationer, som optræder i et eller flere geografiske
+    datasæt sammen med de eventuelle featureoperationer, der kan anvendes
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 8cb12f5b-e656-5b29-b23d-48739c7737c7
+status: valid

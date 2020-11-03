@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.54
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 42ebd917-da08-57fc-901d-6f20ff6a8d3c
+  definition: halve diameter van de kortste as van een ellipsoïde
+  examples: []
+  notes:
+  - De kortste as is gelijk aan de omwentelingsas van de ellipsoïde en bevat daarmee
+    beide polen.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 52f18fb5-86bc-5707-aca0-426a9627e99b
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 99e622e9-3bf0-5dc0-b1cd-a5b16f2d6808
+  definition: تضليع مؤلف من مثلثات
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 40f514af-74dd-5db0-8af9-1e539c42558d
+status: valid

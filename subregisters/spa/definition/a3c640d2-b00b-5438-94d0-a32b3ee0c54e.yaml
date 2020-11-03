@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: '3.1'
+    link: https://www.iso.org/standard/63593.html
+    ref: ISO 19155-2:2017
+  concept: c113af5f-b1ac-5579-a451-195337b152ce
+  definition: relación establecida entre identificadores de lugar (PI, Place Identifier)
+    y otros identificadores en dominios diferentes de codificación
+  examples: []
+  notes:
+  - Mientras que los identificadores de estas entidades u objetos a veces pueden identificar
+    un lugar, dentro del campo de aplicación de este documento, los identificadores
+    de entidades u objetos existentes en otros dominios de codificación se denominan
+    conceptualmente como "otros identificadores".
+  - Estos "otros identificadores" pueden existir fuera de la arquitectura PI
+dateAccepted: 2017-08-01 00:00:00+00:00
+id: a3c640d2-b00b-5438-94d0-a32b3ee0c54e
+status: valid

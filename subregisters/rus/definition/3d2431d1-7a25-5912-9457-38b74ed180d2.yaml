@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: dfa5a731-f5db-5042-8917-04381b494d18
+  definition: конфигурация области определения покрытия, описываемая в терминах координат
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 3d2431d1-7a25-5912-9457-38b74ed180d2
+status: valid

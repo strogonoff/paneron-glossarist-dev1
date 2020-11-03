@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 403a43ef-6178-5e64-95da-a4201e6bcf17
+  definition: collection finie et nommée d'éléments (objets ou valeurs) liés
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 6adae18b-ede4-5f72-954a-663ad153c206
+status: valid

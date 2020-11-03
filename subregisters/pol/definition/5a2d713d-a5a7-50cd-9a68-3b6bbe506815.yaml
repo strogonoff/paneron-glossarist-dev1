@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 2e232ba7-2447-5193-9226-1b90722d3851
+  definition: układ współrzędnych bazujący na układzie odniesienia obrazu
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 5a2d713d-a5a7-50cd-9a68-3b6bbe506815
+status: valid

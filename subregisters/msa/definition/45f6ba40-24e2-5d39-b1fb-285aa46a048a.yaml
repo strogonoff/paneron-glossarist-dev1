@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39890.html
+    ref: ISO 19119:2005
+  concept: 69af39dc-62b1-5ef8-a70c-b2090a8ff59b
+  definition: spesifikasi suatu transformasi atau pertanyaan sesuatu objek yang boleh
+    dipanggil untuk dilaksanakan
+  examples: []
+  notes:
+  - An operation has a name and a list of parameters.
+  - See 7.2 [of ISO 19119] for a discussion of operation
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 45f6ba40-24e2-5d39-b1fb-285aa46a048a
+status: valid

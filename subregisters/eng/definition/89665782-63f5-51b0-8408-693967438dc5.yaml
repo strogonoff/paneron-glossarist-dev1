@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: a467318f-d3e5-5815-8424-205e3040638b
+  definition: formal language based on a conceptual formalism for the purpose of representing
+    conceptual schemas
+  examples:
+  - UML, EXPRESS, IDEF1X
+  notes:
+  - A conceptual schema language may be lexical or graphical. Several conceptual schema
+    languages can be based on the same conceptual formalism.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 89665782-63f5-51b0-8408-693967438dc5
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0de67aa8-fb4a-50af-b739-f72651bc5b37
+  definition: 大地水准面是地球重力场的等势面（equipotential surface),它在任何地方都与重力方向垂直，并与局部或全球平均海平面最佳拟合的水准面。
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 75c64bc1-acfc-5698-9ac6-8c0f6ce7de35
+status: superseded

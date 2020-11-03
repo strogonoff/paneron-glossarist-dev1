@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: dc5d9277-f692-521b-a37d-dbbc81bbd33b
+  definition: feature which is involved in making observations concerning a domain
+    feature
+  examples:
+  - Station, transect, section or specimen.
+  notes:
+  - A sampling feature is an artefact of the observational strategy, and has no significance
+    independent of the observational campaign.
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: fbad3b20-39f9-5bcb-a1b2-a13a386bac62
+status: valid

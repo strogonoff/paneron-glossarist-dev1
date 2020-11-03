@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.98
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 28955e9c-cd9d-5331-bad9-e49f3371e469
+  definition: collection of oriented topological primitives which is operated upon
+    like a multivariate polynomial
+  examples: []
+  notes:
+  - Topological expressions are used for many calculations in computational topology.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: f0de9e4a-f291-5ec4-83c7-1f43c1dd256d
+status: valid

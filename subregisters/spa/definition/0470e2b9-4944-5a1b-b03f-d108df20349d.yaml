@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: 3b9ff2a6-ffe7-5df1-819c-13734caa4d0b
+  definition: método, algoritmo o instrumento, o sistema de ellos, que puede utilizarse
+    para realizar una observación
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 0470e2b9-4944-5a1b-b03f-d108df20349d
+status: valid

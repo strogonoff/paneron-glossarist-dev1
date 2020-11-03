@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: d9b22021-6641-538a-a1ac-55472cb8eb65
+  definition: asteikko, joka tarjoaa perustan ainoastaan objektin suhteellisen sijainnin
+    mittaamiselle
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: b041b686-0cb4-585b-93e5-92b589a9f296
+status: valid

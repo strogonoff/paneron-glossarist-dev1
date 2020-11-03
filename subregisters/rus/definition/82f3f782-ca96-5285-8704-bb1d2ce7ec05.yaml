@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.2.13
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: a149616e-8086-5e96-9a76-42f372dd5e9d
+  definition: понятие, которое является либо типовым понятием, либо всеобъемлющим
+    понятием
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 82f3f782-ca96-5285-8704-bb1d2ce7ec05
+status: valid

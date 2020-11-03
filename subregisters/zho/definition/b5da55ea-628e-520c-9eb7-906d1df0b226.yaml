@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.22
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 1ab20219-b4c8-5404-a782-372c5fb8ecd6
+  definition: 在一个特定的参照系中，坐标值与真值或可接受值之间的接近程度。
+  examples: []
+  notes:
+  - 短语“绝对准确度”有时用于这样的概念，以便区别与相对位置准确度。在那些坐标真值不完全知道的地方，通常通过与最能被接受为真值的那些有用的值比较来测试准确度。
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: b5da55ea-628e-520c-9eb7-906d1df0b226
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 2e421d4e-625d-5949-828f-6474295009ee
+  definition: 한 개 영역(소스 또는 함수의 영역)에서 각각의 요소를 다른 영역(대상, 공동영역 또는 범위)의 유일한 요소로 연관시키는
+    규칙
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5fa518bb-a6b4-5d24-ba28-fa29248921d2
+status: superseded

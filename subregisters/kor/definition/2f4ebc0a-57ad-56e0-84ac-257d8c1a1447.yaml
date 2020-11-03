@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: ad82e2f9-8991-51eb-8c37-ba7aeb49d96d
+  definition: 시스템의 직접적인 통제하에 있지 않은 자원
+  examples: []
+  notes:
+  - In this International Standard, the system is a web feature service. The resource
+    is not held in any data store that is directly controlled by that service and
+    thus cannot be directly retreived by the service.
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 2f4ebc0a-57ad-56e0-84ac-257d8c1a1447
+status: valid

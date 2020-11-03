@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 43b00b0d-f426-5227-bfe6-d03bb58c5e37
+  definition: statement of specification options that have been implemented
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: a1a23094-4b85-528d-8e1e-a29719b55991
+status: valid

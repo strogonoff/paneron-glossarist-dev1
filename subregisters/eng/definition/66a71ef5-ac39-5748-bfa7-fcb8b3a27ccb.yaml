@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.1
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  concept: 70bc8fd7-690f-5fc2-aa2e-5eeeab018405
+  definition: viewpoint on an ODP system and its environment that focuses on the purpose,
+    scope and policies for that system
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 66a71ef5-ac39-5748-bfa7-fcb8b3a27ccb
+status: valid

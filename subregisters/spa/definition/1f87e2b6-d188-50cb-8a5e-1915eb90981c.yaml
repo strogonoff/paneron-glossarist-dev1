@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 337e3766-b2fe-5d6f-bcbb-5f8864eea080
+  definition: datos que implícita o explícitamente se refieren a una localización
+    relativa a la Tierra
+  examples: []
+  notes:
+  - Información geográfica se usa también para referirse a la información sobre un
+    objeto geográfico implícita o explícitamente asociado con una localización relativa
+    a la Tierra.
+dateAccepted: 2005-06-15 00:00:00+00:00
+id: 1f87e2b6-d188-50cb-8a5e-1915eb90981c
+status: valid

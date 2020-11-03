@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: 6737b4e7-dea5-552e-998b-bc587a6ba573
+  definition: sistema de referencia de coordenadas de ingeniería en el que se especifica
+    la representación base de un objeto en movimiento
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 465cfe7d-d8c5-52b9-8b06-89ba02a12000
+status: valid

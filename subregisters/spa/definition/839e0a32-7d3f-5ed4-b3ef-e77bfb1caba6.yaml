@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/51789.html
+    ref: ISO/TS 19130:2010
+  concept: 351e3d85-cf58-503c-81c4-a095fd2ad868
+  definition: determinación de la posición geográfica de un objeto
+  examples: []
+  notes:
+  - Al haber muchos métodos de geoposicionamiento, esta especificación técnica se
+    centra en el geoposicionamiento a partir de coordenadas imagen.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 839e0a32-7d3f-5ed4-b3ef-e77bfb1caba6
+status: superseded

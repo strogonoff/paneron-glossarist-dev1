@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 52f9e8cc-1a92-53ba-87be-ffa55f406c71
+  definition: 沿着路径行进的过程。
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: b8f8742e-531c-5ce8-aa02-1cf0b834628e
+status: valid

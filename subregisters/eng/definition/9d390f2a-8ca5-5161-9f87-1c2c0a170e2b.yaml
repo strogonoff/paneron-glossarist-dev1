@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.60
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 88ce0f9d-abce-5a92-b8f7-17de82c06e69
+  definition: ordered list of values
+  examples: []
+  notes:
+  - The number of values in a tuple is immutable
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 9d390f2a-8ca5-5161-9f87-1c2c0a170e2b
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.1
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  concept: 70bc8fd7-690f-5fc2-aa2e-5eeeab018405
+  definition: point de vue sur un système ODP et son environnement qui se concentre
+    sur le but, le domaine d'application et les procédures du système
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: da8c667d-9b08-5795-b466-da0bbb013e21
+status: valid

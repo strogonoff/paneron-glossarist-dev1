@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 6a4ef526-911f-561b-8d47-8c1851a33adf
+  definition: change in an attribute value such that it can be assumed to have changed
+    without having taken intermediate values between two known measurements
+  examples: []
+  notes:
+  - Legal changes of parcel changes are discrete, having occurred at a specific time.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 1b213bdb-b7e2-5e27-b177-452c347b53e6
+status: valid
