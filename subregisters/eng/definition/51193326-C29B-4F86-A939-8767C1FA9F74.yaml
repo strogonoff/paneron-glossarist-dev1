@@ -1,0 +1,14 @@
+data:
+  concept: C10724F5-0E33-4D30-A218-0C55DD0AADEC
+  definition: >-
+    vocabulary that is the basis for terminological comparisons with one or more
+    other vocabularies
+  notes: []
+  examples: []
+  authoritative_source:
+    ref: 'ISO 19146:2018'
+    clause: '(E), 3.1.24'
+    link: 'https://www.iso.org/standard/72217.html'
+dateAccepted: 2018-11-17
+id: 51193326-C29B-4F86-A939-8767C1FA9F74
+status: valid
