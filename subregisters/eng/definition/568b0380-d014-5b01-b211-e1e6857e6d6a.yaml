@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: 5563e0b7-492a-51e0-8489-abdbc0a65dfc
+  definition: resource that is under the direct control of a system
+  examples: []
+  notes:
+  - In this International Standard, the system is a web feature service and the resource
+    is held in a data store that is directly controlled by that service.
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 568b0380-d014-5b01-b211-e1e6857e6d6a
+status: valid

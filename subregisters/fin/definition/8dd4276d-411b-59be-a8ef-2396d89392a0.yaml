@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/40395.html
+    ref: ISO 19117:2005
+  concept: 091cd42d-431d-5169-9d4e-c916b71b31db
+  definition: määriteltyjen esitystapojen kokoelma
+  examples: []
+  notes: []
+dateAccepted: 2013-07-03 00:00:00+00:00
+id: 8dd4276d-411b-59be-a8ef-2396d89392a0
+status: retired

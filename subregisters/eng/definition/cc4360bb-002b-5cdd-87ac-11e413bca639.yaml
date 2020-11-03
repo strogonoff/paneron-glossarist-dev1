@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.4
+    link: https://www.iso.org/standard/70948.html
+    ref: ISO 19123-2:2018
+  concept: 0b2a7575-a190-5a47-8d64-506254c13e7f
+  definition: feature which is a subclass (specialization) of a coverage as defined
+    in this document
+  examples: []
+  notes:
+  - An implementation coverage is a concrete document in some concrete encoding, such
+    as a GeoTIFF file.
+  - The definition of implementation coverage in this standard is functionally identical
+    to GML coverage as defined in the OGC Coverage Implementation Schema [OGC 09-146r2].
+dateAccepted: 2018-10-01 00:00:00+00:00
+id: cc4360bb-002b-5cdd-87ac-11e413bca639
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 43344492-9056-500c-9123-861d80a573af
+  definition: نظام إحداثيات أحادي البعد مبنى على المرجع الرأسي
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: a63b3ad6-481a-54ce-97d4-2756fb4e456f
+status: superseded

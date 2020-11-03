@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.27'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: ec69c8cc-9b35-5125-9c38-3ff579e12280
+  definition: shared boundary between an automated system or human being and another
+    automated system or human being
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 32fb8138-35b4-5910-a855-65019c58f614
+status: retired

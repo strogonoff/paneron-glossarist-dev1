@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: 1.7.2, modified — Supporting content has been relocated to Note 1 to entry.
+    link: https://www.iso.org/standard/57284.html
+    ref: ISO 14721:2012
+  concept: 73f10a5a-18fd-5a02-bb5a-879427fcaca8
+  definition: transfer of digital information, while intending to preserve it, within
+    the OAIS
+  examples: []
+  notes:
+  - 'Digital migration is distinguished from transfers in general by three attributes:  —
+    a focus on the preservation of the full information content that needs preservation;
+    —  a perspective that the new archival implementation of the information is a
+    replacement for the old; —  an understanding that full control and responsibility
+    over all aspects of the transfer resides with the OAIS.'
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: 81690f6c-73a8-5bca-a3c4-2751a4831d46
+status: valid

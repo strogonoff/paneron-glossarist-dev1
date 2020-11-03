@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.12
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: dc48c61a-61d9-5728-b2f4-aad41e037106
+  definition: عقدة تبدأ منها أو تنتهي إليها حافة واحدة أو أكثر
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b0ff560e-3807-5a48-9d22-7bf9ffa62d72
+status: valid

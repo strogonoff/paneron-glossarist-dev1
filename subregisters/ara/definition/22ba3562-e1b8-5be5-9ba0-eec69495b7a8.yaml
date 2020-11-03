@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40147.html
+    ref: ISO 3534-2:2006
+  concept: eecb63c4-3332-5741-b22b-684db4abb0d4
+  definition: درجة اقتراب نتيجة الاختبار او القياس من القيمة الحقيقية
+  examples: []
+  notes: []
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: 22ba3562-e1b8-5be5-9ba0-eec69495b7a8
+status: valid

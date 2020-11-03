@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: Adapted from the Manual of Photogrammetry
+  concept: 3c02ecb5-b2f8-52ac-9d1f-8da6874af3ce
+  definition: total angular extent over which the field of view (FOV) may be positioned
+  examples: []
+  notes:
+  - The field of regard is the area that is potentially able to be viewed by a system
+    at an instant in time. It is determined by the system’s  FOV  and the range  of
+    directions in which the system is able to point.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 26134adb-d95b-50aa-8805-820dfe4d5f33
+status: valid

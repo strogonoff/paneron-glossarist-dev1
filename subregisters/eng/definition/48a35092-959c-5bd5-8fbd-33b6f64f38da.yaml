@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.73
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: f9fdfc81-9ad8-57f4-a499-cc8cf55a79d6
+  definition: set of conventions defining the origin, scale, orientation and time
+    evolution that describes the relationship of gravity-related heights or depths
+    to the Earth
+  examples: []
+  notes:
+  - The abstract concept of a VRS is realised through a vertical reference frame.
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: 48a35092-959c-5bd5-8fbd-33b6f64f38da
+status: valid

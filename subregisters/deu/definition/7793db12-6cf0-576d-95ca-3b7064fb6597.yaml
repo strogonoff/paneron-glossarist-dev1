@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.21
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 53c463c3-610c-52cf-a227-6c77832eade3
+  definition: einzelnes Messereignis eines mobilen Messsystems
+  examples: []
+  notes:
+  - In this part of ISO 19115, the measuring system will usually be a remote sensing
+    platform. In a navigation context, the measuring system might be a GPS satellite.
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 7793db12-6cf0-576d-95ca-3b7064fb6597
+status: valid

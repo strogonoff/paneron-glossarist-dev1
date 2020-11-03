@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 66ab3795-8ffa-54ba-9ef2-c3f8f7b9fd60
+  definition: tietojärjestelmien yhteentoimivuuden mahdollistamiseksi laadittu ja
+    vahvistettu, käytössä oleva standardi
+  examples: []
+  notes:
+  - Toiminnallisia standardeja ovat esimerkiksi Geographic Data File (GDF), S-57 ja
+    Digital Geographic Information Exchange Standard (DIGEST).
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 19a28902-66e7-571f-bd07-0a63e55e7229
+status: valid

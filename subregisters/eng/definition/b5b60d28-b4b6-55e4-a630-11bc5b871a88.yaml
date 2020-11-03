@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 4.14, modified – Note 1 to entry has been added.
+    link: https://www.iso.org/standard/32552.html
+    ref: ISO 19134:2007
+  concept: 635fbf6a-ded8-5b6c-bd8c-6b0786f74083
+  definition: means that travellers can choose for transport
+  examples: []
+  notes:
+  - In this International Standard, the term ”transport mode” is frequently shortened
+    to “mode” for convenience. Transport mode is usually covering groups of vehicles,
+    e.g. transport means used for road transport, rail transport, sea transport, air
+    transport and cable transport. A mode for inland water-borne transport is also
+    added.
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: b5b60d28-b4b6-55e4-a630-11bc5b871a88
+status: valid

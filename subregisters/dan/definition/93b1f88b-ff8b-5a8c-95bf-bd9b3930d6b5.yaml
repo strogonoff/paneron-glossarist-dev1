@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: b2444a77-0558-50ec-9741-ac764f6c0423
+  definition: særlig form for association, der specificerer et helhed-del-forhold
+    mellem en klasse, som indtager rollen som helheden, og en eller flere klasser,
+    som indtager rollen som del
+  examples: []
+  notes:
+  - Se komposition
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 93b1f88b-ff8b-5a8c-95bf-bd9b3930d6b5
+status: valid

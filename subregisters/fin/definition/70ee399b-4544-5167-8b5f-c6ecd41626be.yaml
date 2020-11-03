@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dd89d158-419c-571b-940a-4abf4a6c6efc
+  definition: tapa, jolla määrittely on toteutettu
+  examples: []
+  notes:
+  - ISO-paikkatietostandardien yhteydessä sanalla määrittely (engl. specification)
+    viitataan sekä paikkatietopalveluiden että paikkatietoaineistojen määrittelyihin.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 70ee399b-4544-5167-8b5f-c6ecd41626be
+status: valid

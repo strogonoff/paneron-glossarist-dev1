@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 66e14a20-d3b3-5b78-9351-4c1edf1192ce
+  definition: flytning af data fra et sted til et andet vha. et medie
+  examples: []
+  notes:
+  - Overførsel af information betyder overførsel af data.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 525a7c66-d5b7-500c-b1d6-31cc9b20b809
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dc035708-59ca-567e-98de-dc011bb596a3
+  definition: tietyn vaatimuksen täyttymistä mittaava yleistetty testi
+  examples: []
+  notes:
+  - Abstrakti testitapaus on suoritettavissa olevien testitapausten johtamisen muodollinen
+    perusta. Abstraktiin testitapaukseen liittyy yksi tai useampi testaustarkoitus.
+    Abstrakti testitapaus on toteutuksesta ja arvoista riippumaton. Abstraktin testitapauksen
+    tulisi olla täydellinen, eli sen tulisi mahdollistaa yksikäsitteisen lausunnon
+    (hyväksyntä/hylkäys) antaminen jokaiselle mahdollisesti havaittavalle testitulokselle
+    (testitapahtumajonolle).
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 01308c20-10eb-5b29-979c-eeb635fb732e
+status: valid

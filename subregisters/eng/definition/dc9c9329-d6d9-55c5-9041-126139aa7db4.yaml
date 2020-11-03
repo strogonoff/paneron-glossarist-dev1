@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.27'
+    link: https://www.iso.org/standard/63541.html
+    ref: ISO 19104:2016
+  concept: 10ac8808-1857-501f-8585-0601d8bf912a
+  definition: register containing items of a single item class
+  examples:
+  - A register containing terminological entries in a single specified language.
+  notes: []
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: dc9c9329-d6d9-55c5-9041-126139aa7db4
+status: valid

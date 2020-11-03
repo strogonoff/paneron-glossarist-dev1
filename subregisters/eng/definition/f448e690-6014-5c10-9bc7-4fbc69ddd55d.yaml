@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 3e4a8e5f-69b1-5952-ac89-a4d5cc620bee
+  definition: stereotyped class that specifies a domain of objects together with the
+    operations applicable to the objects, without defining the physical implementation
+    of those objects
+  examples: []
+  notes:
+  - A type may have attributes and associations.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: f448e690-6014-5c10-9bc7-4fbc69ddd55d
+status: valid

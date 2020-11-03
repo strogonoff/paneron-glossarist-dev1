@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - ref: 'OGC Simple Feature Access - Part 1: Common Architecture'
+  concept: e4ea65ec-49e6-50f2-bebc-8b0a1db8d8f4
+  definition: kohde, jonka osilla on lineaarinen interpolaatio
+  examples: []
+  notes: []
+dateAccepted: 2013-07-03 00:00:00+00:00
+id: 34780ac7-848b-5e05-8440-2bab153a3a55
+status: valid

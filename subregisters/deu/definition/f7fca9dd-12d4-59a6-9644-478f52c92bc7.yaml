@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.15
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: a730d9c7-aa91-5acc-8e63-86938a7212a6
+  definition: Organisation, die vom Registereigentümer befugt ist, Änderungen am Inhalt
+    des Registers vorzuschlagen
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f7fca9dd-12d4-59a6-9644-478f52c92bc7
+status: valid

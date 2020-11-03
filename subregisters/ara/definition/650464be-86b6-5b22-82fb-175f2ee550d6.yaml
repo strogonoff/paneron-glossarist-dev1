@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.76
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: b663323b-9943-5a8a-adb9-e86e498c3342
+  definition: نظام رادار للتصوير يحاكي استعمال هوائي طبيعي طويل  وذلك بتجميع ارتدادات
+    متعددة من كل هدف بينما  الهوائي الفعلي يتحرك على طول المسار
+  examples: []
+  notes:
+  - الإشعاع الكهرومغنطيسي يكون على ترددات الميكروويف ويرسل في شكل نبضات.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 650464be-86b6-5b22-82fb-175f2ee550d6
+status: valid

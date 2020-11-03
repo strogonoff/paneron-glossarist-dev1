@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.33'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 7c1a6d9b-79b4-5bcc-a87e-e380990a720b
+  definition: capable of recognizing and properly acting upon all legitimate requests,
+    as defined by the requirements of the system
+  examples: []
+  notes:
+  - All aspects of a DRM system are necessary if they do not prevent legitimate requests
+    from execution.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 0e601ceb-ca97-5ce5-863f-7611ef25a156
+status: valid

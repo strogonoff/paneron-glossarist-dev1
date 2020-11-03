@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 8d56b07f-a144-5d49-a9da-a42ddd5178fb
+  definition: 1-dimensional geometric object used to represent a continuous component
+    of a curve using homogeneous interpolation and definition methods
+  examples: []
+  notes:
+  - The geometric set represented by a single curve segment is equivalent to a curve.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: af6f066f-0a9a-5b3e-b5d6-5c9228320893
+status: retired

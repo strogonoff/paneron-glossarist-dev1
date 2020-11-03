@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 3ddac6e2-0fb2-5693-bbfd-2554819c0538
+  definition: paikka, jossa jokin sijaitsee
+  examples: []
+  notes:
+  - Suora sijainti on semanttisesti sijainnin erikoistapaus. Määritelmän mukaiset
+    suorat sijainnit voivat määrittää vain pisteitä, ja tämän vuoksi kaikkia sijainteja
+    ei voi esittää suorina sijainteina. Myös standardin 19107 geometria on sijainti,
+    muttei suora sijainti.
+  - ISO 19100 -standardisarjassa englannin termillä position viitataan sijainnin ilmaisevaan
+    tietotyyppiin ja termillä location paikkaan.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: caa04507-51ee-518d-a5c9-e58b57b4d6c3
+status: valid

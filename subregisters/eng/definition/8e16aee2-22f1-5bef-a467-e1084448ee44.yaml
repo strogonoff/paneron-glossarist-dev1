@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '3.141'
+    ref: UPU Standards Glossary
+  concept: d175b55b-b589-572c-99af-7ce951692dd2
+  definition: organization licensed to provide postal services to the general public
+  examples: []
+  notes:
+  - Postal administration is a special case of postal operator.
+dateAccepted: 2017-11-15 00:00:00+00:00
+id: 8e16aee2-22f1-5bef-a467-e1084448ee44
+status: valid

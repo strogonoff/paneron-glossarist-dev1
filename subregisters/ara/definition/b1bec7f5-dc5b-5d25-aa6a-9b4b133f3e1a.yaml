@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 33cd7fe0-4032-57a0-8544-9fd7a8da3a41
+  definition: بند رقمي يتحكم به أحد المشاركين
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: b1bec7f5-dc5b-5d25-aa6a-9b4b133f3e1a
+status: valid

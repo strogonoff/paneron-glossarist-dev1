@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0d4997ad-c2bd-5de2-942e-b79af22736ea
+  definition: monikko, joka koostuu koordinaattien jonosta
+  examples: []
+  notes:
+  - Koordinaattimonikon koordinaattien lukumäärä on yhtä suuri kuin koordinaatiston
+    ulottuvuus, ja niiden järjestys on sama kuin koordinaatiston akseleiden järjestys.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 3674eb66-e558-5a76-9be9-bf508005e630
+status: superseded

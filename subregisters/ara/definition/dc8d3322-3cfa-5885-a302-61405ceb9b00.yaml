@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39242.html
+    ref: ISO 6709:2008
+  concept: ad15e8ad-63ae-5550-ba88-33ad68b96807
+  definition: وحدة مرتبطة بالخانة الصغرى للاحداثيات
+  examples: []
+  notes:
+  - وضوح الإحداثي قد تكون له وحدات طولية أو وحدات زاويَّة حسب خصائص نظام الإحداثيات.
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: dc8d3322-3cfa-5885-a302-61405ceb9b00
+status: valid

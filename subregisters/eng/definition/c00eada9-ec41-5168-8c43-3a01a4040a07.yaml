@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://webstore.iec.ch/publication/268
+    ref: IEC 60050-845
+  concept: 612ed3b0-c98f-5d3a-bb04-931d8b97c4d9
+  definition: responsivity per unit wavelength interval at a given wavelength
+  examples: []
+  notes:
+  - The spectral responsivity is the response of the sensor with respect to the wavelengths
+    dependent radiance.
+  - The definition is described mathematically in IEC 60050-845. The spectral responsivity
+    is quotient of the detector output dY(λ) by the monochromatic detector input dXe(λ)
+    = Xe, λ(λ) • dλ in the wavelength interval dλ as a function of the wavelength
+    λ  s(λ) = dY(λ) / dXc(λ)
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: c00eada9-ec41-5168-8c43-3a01a4040a07
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: e22d42d5-0e50-5ac7-8dc0-849bc4a6722e
+  definition: laatutuloksen raportoinnissa käytetty arvoyksikkö
+  examples:
+  - Metri.
+  notes:
+  - Laatutulokselle annetaan arvoyksikkö vain soveltuvissa tapauksissa.
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 895e19fe-9b5a-5de6-b7b4-be4fccf3dba2
+status: retired

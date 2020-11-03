@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  concept: 26610618-5e0f-55d0-befb-65880d5f21aa
+  definition: in XML definiertes Anwendungsschema, das den Festlegungen und Regeln
+    dieses Internationalen Standards entspricht
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: e2df2231-b1db-5f71-be3d-4eee2d36b787
+status: superseded

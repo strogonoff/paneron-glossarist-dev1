@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 1.7.2, modified — Supporting content has been relocated to Note 1 to entry.
+    link: https://www.iso.org/standard/57284.html
+    ref: ISO 14721:2012
+  concept: 7ba7e0a2-0336-566e-82bd-2a7397920888
+  definition: identified group of potential consumers who should be able to understand
+    a particular set of information
+  examples: []
+  notes:
+  - The designated community may be composed of multiple user communities. A designated
+    community is defined by the archive and this definition may change over time.
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: 1fd80107-4874-5e32-96b0-7fdff29d4c3b
+status: valid

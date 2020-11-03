@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 3bedecff-1481-5517-83ff-723ced9fd954
+  definition: method of evaluating the quality of a dataset based on external knowledge
+  examples: []
+  notes:
+  - Examples of external knowledge are dataset lineage, such as production method
+    or source data.
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 40293a1f-63c6-5d31-99a5-afa604473352
+status: valid

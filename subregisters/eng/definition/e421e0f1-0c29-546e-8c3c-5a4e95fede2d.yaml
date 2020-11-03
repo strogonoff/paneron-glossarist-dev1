@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 4.1.19
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 4141d5c2-6e41-5876-9676-925f18618018
+  definition: formal or informal obligation to refrain from doing something
+  examples:
+  - It is not allowed to build within 200 metres of a fuel station; or, a servitude
+    or mortgage as a restriction to the ownership right.
+  - Sequestration can be registered for baunit as a restriction.
+  notes: []
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: e421e0f1-0c29-546e-8c3c-5a4e95fede2d
+status: valid

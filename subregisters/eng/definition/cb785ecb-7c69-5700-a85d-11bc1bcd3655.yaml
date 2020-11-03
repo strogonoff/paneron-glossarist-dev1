@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.58
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: d18911dc-3853-5533-a461-0e55a91c5a16
+  definition: compound coordinate reference system comprised of spatial, parametric
+    and temporal coordinate reference systems
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: cb785ecb-7c69-5700-a85d-11bc1bcd3655
+status: valid

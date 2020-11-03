@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.15
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: b6a55ab9-9a55-5b5d-87f9-f32bba8709c0
+  definition: parameter or set of parameters that realize the position of the origin,
+    the scale, and the orientation of a coordinate system
+  examples: []
+  notes: []
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: 6ce5fb4a-3125-58ed-ae82-564dddb4813e
+status: valid

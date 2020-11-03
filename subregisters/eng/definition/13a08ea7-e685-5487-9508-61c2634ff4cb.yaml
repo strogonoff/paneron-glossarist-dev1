@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.4
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  concept: e7b3e954-ac34-539e-b6c3-fed2b6e7bacb
+  definition: viewpoint on an ODP system and its environment that focuses on the mechanisms
+    and functions required to support distributed interaction between objects in the
+    system
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 13a08ea7-e685-5487-9508-61c2634ff4cb
+status: valid

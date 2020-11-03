@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.6
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 92eee17a-9534-5597-80d5-c6848471a6ac
+  definition: وصف منهجي للنموذج المفاهيمي
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 936fb9b3-c244-50b9-9813-28dab417b7dc
+status: valid

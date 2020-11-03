@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.46
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 05e6ba33-6fd3-5d76-b8f9-641257e7f264
+  definition: eindimensionales Koordinatensystem, bei dem die Achseneinheiten Parameterwerte
+    sind, die nicht zwangs­läufig räumlich sind
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: c7bf2a63-5045-5608-a0a8-50639ac1ee07
+status: valid

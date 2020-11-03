@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.5
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: f2658650-3ac1-5779-a082-564ccf2f3d3e
+  definition: linguistically independent sequence of characters capable of uniquely
+    and permanently identifying that with which it is associated
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: c9f3825e-75a7-57b7-b707-b5dad133cd21
+status: valid

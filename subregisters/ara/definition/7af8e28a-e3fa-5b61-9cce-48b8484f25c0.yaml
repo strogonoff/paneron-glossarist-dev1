@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/40395.html
+    ref: ISO 19117:2005
+  concept: 091cd42d-431d-5169-9d4e-c916b71b31db
+  definition: مجموعة تتكون من جميع العروض المعرَّفة
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 7af8e28a-e3fa-5b61-9cce-48b8484f25c0
+status: retired

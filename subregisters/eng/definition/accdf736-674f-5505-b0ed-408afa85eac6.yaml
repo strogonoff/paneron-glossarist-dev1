@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 2faca867-1594-5687-9975-54553965b524
+  definition: located using a Linear Referencing System
+  examples: []
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: accdf736-674f-5505-b0ed-408afa85eac6
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 772db77f-e23a-59cf-a32a-a83f971bea15
+  definition: occurrence along a feature of an attribute value or another feature
+  examples: []
+  notes:
+  - The event location is specified using linearly referenced locations.
+  - A linearly located event may be qualified by the instant in which, or period during
+    which, the linearly located event occurred.
+  - ISO 19108 limits events to a single instant in time and does not include the specification
+    of a location.
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 36ac7ee4-f0b9-522f-a2c7-d66f11ff38f1
+status: valid

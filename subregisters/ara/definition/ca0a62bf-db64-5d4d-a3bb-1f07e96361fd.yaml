@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dd89d158-419c-571b-940a-4abf4a6c6efc
+  definition: تحقيق مواصفات
+  examples: []
+  notes:
+  - في سياق مواصفات آيزو القياسية للمعلومات الجغرافية , فإن هذا يشمل المواصفات القياسية
+    لخدمات المعلومات الجغرافية ومجموعة البيانات.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: ca0a62bf-db64-5d4d-a3bb-1f07e96361fd
+status: valid

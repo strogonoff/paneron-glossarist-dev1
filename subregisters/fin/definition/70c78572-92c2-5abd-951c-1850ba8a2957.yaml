@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: e318421f-f2b1-5f57-8893-0422ff872876
+  definition: reitti, joka täyttää kaikki reitinhakupyynnön ehdot mahdollisesti lukuunottamatta
+    kustannusten optimointitoimintoa
+  examples: []
+  notes:
+  - Navigoinnissa pyritään löytämään reittiehdokas, joka parhaiten täyttää valitun
+    kustannusten optimointifunktion ehdot.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 70c78572-92c2-5abd-951c-1850ba8a2957
+status: valid

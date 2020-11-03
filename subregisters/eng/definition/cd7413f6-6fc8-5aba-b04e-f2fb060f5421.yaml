@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.4.2.3, modified — The reference to the examples has been removed.
+    link: https://www.iso.org/standard/40362.html
+    ref: ISO 10241-1:2011
+  concept: 4fa92da7-2cbd-599b-ab9e-f4d621377eb2
+  definition: representation of a concept by means other than a descriptive statement,
+    while revealing characteristics of this concept
+  examples: []
+  notes:
+  - A non-verbal representation can be a chemical or mathematical formula, a pictographic
+    representation or a figure, table or other kind of visual or non-visual representation
+    revealing characteristics of the concept concerned.
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: cd7413f6-6fc8-5aba-b04e-f2fb060f5421
+status: valid

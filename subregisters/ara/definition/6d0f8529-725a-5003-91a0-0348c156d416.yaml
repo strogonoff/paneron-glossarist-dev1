@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.10
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 8f2467b3-9571-5d01-8d37-df77a0d9f9ee
+  definition: مجموعة مجسمات متصلة ومجاورة بعضها ببعض على طول أسطح الحدود المشتركه
+  examples: []
+  notes:
+  - المجسم المركب ، باعتباره مجموعة مواقع مباشرة ، تتوفر فيه جميع خصائص المجسم.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 6d0f8529-725a-5003-91a0-0348c156d416
+status: valid

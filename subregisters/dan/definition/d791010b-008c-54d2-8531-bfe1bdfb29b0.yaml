@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 1650a910-a57e-5ed3-af9f-098f9bb59303
+  definition: indledende egnethedstest, der har til formål at identificere tydelige
+    tilfælde af afvigelse
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: d791010b-008c-54d2-8531-bfe1bdfb29b0
+status: valid

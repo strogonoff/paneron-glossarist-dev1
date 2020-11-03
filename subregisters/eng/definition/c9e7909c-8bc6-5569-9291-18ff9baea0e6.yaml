@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.27
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: c684de6d-55b4-5f29-a71c-ae45126b2652
+  definition: representations of image data in terms of the colour-space coordinates
+    that are appropriate for, and tightly coupled to, the characteristics of a specified
+    real or virtual output device and viewing
+  examples: []
+  notes:
+  - Picture portrayals are geared for visual display whether in hardcopy or softcopy.
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: c9e7909c-8bc6-5569-9291-18ff9baea0e6
+status: valid

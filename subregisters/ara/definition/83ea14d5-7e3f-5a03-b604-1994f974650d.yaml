@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40114.html
+    ref: ISO 19125-1:2004
+  concept: e4ea65ec-49e6-50f2-bebc-8b0a1db8d8f4
+  definition: معلم يقتصر على تركيبة هندسية ثنائية البعد مع استيفاء طولي  للخطوط بين
+    رؤوس المضلعات ، وله خواص مكانية وغير مكانية
+  examples: []
+  notes: []
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: 83ea14d5-7e3f-5a03-b604-1994f974650d
+status: valid

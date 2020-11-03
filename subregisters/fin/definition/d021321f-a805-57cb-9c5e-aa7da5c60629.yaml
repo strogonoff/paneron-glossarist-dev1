@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: f8fa59c7-a9f0-569a-8779-a3ccdf926984
+  definition: kulttuurilliset ja kielelliset seikat, jotka otetaan huomioon merkkijonon
+    tulkinnassa
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: d021321f-a805-57cb-9c5e-aa7da5c60629
+status: retired

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 3f41e758-940d-5a15-b306-9a2f10fa7d20
+  definition: metatieto-osion osajoukko, joka koostuu tietoa samasta näkökulmasta
+    kuvailevista metatietoelementeistä
+  examples: []
+  notes:
+  - Metatietoryhmä oi käsittää yhden tai useampia metatietoryhmiä.
+  - Metatietoryhmä vastaa UML-käsitettä luokka.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 847c9716-6a57-522e-9ee5-2677d93d4286
+status: valid

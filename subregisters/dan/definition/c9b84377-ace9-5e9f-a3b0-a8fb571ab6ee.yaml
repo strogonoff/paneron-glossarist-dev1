@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (1997)
+    ref: 'ITU-R Rec.TF.686-1 '
+  concept: 5b041839-346a-5c73-a1a9-7c475c18c450
+  definition: tidsskala, der varetages af Bureau International des Poids et Mesures
+    (International Bureau of Weights and Measures) og International Earth Rotation
+    Service (IERS), og som danner grundlaget for en koordineret udbredelse af standardfrekvenser
+    og standardtid
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: c9b84377-ace9-5e9f-a3b0-a8fb571ab6ee
+status: valid

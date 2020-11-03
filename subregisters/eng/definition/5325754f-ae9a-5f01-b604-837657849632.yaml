@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.38'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: d7fdf809-88fe-577b-8885-82f2bec7d9ef
+  definition: aspect of the system that lowers the capability of a party to commit
+    infringement
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 5325754f-ae9a-5f01-b604-837657849632
+status: valid

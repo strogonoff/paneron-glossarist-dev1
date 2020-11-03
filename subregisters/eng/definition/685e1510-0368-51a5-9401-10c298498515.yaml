@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.22'
+    link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  concept: 0c133d79-be57-55e6-a7ef-d3335378e19d
+  definition: measure of the repeatability of a set of measurements
+  examples: []
+  notes:
+  - Precision is usually expressed as a statistical value based upon a set of repeated
+    measurements such as the standard deviation from the sample mean.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 685e1510-0368-51a5-9401-10c298498515
+status: superseded

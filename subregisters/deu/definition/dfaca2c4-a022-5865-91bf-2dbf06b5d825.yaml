@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.17
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: f82049d8-dd14-5b4d-a273-6542e62fb907
+  definition: Punkt auf der Erde, dessen Position bekannt ist
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: dfaca2c4-a022-5865-91bf-2dbf06b5d825
+status: valid

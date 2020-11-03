@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.61'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 4fc2b7d3-8c31-5a07-a3a9-288a9c73bc26
+  definition: smallest distance between two uniformly illuminated objects that can
+    be separately resolved in an image
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: e3ab82d6-190b-5ce8-a5cf-94690439027c
+status: valid

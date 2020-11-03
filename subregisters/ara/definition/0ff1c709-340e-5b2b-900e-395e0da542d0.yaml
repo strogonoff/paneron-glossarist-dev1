@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 16ee326a-ae17-5463-84d7-4e32098ee7fa
+  definition: قدرة أي مثال لفئة الوراثة أو التحقق منحدرة تحت فئة أخرى أو نوع آخر أو
+    واجهة أخرى لإمكانية استخدامها كبدل لمثيل السجل في أي سياق  .
+  examples: []
+  notes:
+  - الأشكال الأضعف لقابلية الاستبدال تضع قيوداً مختلفة على سياق الاستبدال المفترض
+    .
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 0ff1c709-340e-5b2b-900e-395e0da542d0
+status: retired

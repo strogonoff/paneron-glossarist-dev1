@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.10
+    link: https://www.iso.org/standard/64242.html
+    ref: ISO 19160-4:2017
+  concept: 4f1d0294-0b40-5664-b9de-4a786af3f54a
+  definition: one or more natural and/or legal persons and/or organizations without
+    legal personality that act(s) as a single entity for the purpose of participation
+    in a transaction associated with a postal item
+  examples: []
+  notes: []
+dateAccepted: 2017-11-15 00:00:00+00:00
+id: 67f61dbb-455d-5945-8785-5d3d8a904d91
+status: valid

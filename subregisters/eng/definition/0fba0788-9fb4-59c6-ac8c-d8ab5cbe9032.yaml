@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.2.7
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 6210af28-463f-580e-8c03-a0fda39ec8cf
+  definition: essential characteristic used for distinguishing a concept from related
+    concepts
+  examples: []
+  notes:
+  - The delimiting characteristic support for the back may be used for distinguishing
+    the concepts "stool" and "chair".
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 0fba0788-9fb4-59c6-ac8c-d8ab5cbe9032
+status: valid

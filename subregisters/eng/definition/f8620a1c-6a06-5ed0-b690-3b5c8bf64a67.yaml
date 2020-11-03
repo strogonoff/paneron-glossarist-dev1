@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.2.14
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 35e8796c-9250-5bb8-b0a6-0131a4079167
+  definition: concept which is either a specific concept or a partitive concept
+  examples: []
+  notes: []
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: f8620a1c-6a06-5ed0-b690-3b5c8bf64a67
+status: valid

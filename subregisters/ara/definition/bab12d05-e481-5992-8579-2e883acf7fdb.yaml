@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: b6266e4b-b919-599c-9144-0064f19ec149
+  definition: تمثيل للمعلومات الجغرافية في شكل ملف رقمي للصور يصلح للعرض على شاشة
+    كمبيوتر
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: bab12d05-e481-5992-8579-2e883acf7fdb
+status: valid

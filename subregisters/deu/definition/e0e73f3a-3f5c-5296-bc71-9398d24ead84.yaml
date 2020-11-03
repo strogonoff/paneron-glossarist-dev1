@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: 5563e0b7-492a-51e0-8489-abdbc0a65dfc
+  definition: Ressource, die direkt von einem System verwaltet wird
+  examples: []
+  notes:
+  - In this International Standard, the system is a web feature service and the resource
+    is held in a data store that is directly controlled by that service.
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: e0e73f3a-3f5c-5296-bc71-9398d24ead84
+status: valid

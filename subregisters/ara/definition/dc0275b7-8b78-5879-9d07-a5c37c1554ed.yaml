@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.5
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 449d7ac9-976a-5e44-bf22-bc2cce169584
+  definition: نموذج يحدد المفاهيم الخاصة بالمجموعة الشاملة محل البحث
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: dc0275b7-8b78-5879-9d07-a5c37c1554ed
+status: valid

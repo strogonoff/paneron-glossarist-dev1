@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.2
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  concept: 4fb20186-2548-5cbf-b3b1-33e90acca54c
+  definition: ODP (Open Distributed Processing, avoin hajautettu suoritus) -järjestelmään
+    ja sen ympäristöön kohdistuva näkökulma, joka keskittyy tarkastelemaan tietojen
+    semantiikkaa ja käsittelyä
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 449cbcfc-f08e-58b2-80e1-a210ab10fdba
+status: valid

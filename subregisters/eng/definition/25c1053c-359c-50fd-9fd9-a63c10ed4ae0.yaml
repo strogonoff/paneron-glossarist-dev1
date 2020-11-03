@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 230b254c-c1d8-5eca-a965-40f60bbebfbf
+  definition: object that realizes a class
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 25c1053c-359c-50fd-9fd9-a63c10ed4ae0
+status: valid

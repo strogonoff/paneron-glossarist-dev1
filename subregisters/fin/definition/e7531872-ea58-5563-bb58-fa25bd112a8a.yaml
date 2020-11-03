@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.35
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: beb13e7f-d3b0-5c35-ad7d-530e4d6259e0
+  definition: XML-asiakirja, jonka juurielementtinä on jokin GML-skeemassa määritetyistä
+    elementeistä AbstractFeature, Dictionary tai TopoComplex tai näiden elementtien
+    korvausryhmän elementti
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: e7531872-ea58-5563-bb58-fa25bd112a8a
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.61
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: a82ed88c-0f8a-5285-988c-8680c1b172d7
+  definition: operations associated to measurements
+  examples: []
+  notes:
+  - Generically, a metric is a standard of measure of any kind. The Greek word metron,
+    meaning “measure,” giving us “metr”. Latin metricus and Greek metrikós "of, relating
+    to measuring". See metric unit
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: e6f68472-e632-56c2-9f39-7f1e5af8d9d3
+status: valid

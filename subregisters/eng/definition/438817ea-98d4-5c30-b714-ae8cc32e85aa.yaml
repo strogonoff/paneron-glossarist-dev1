@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0e2de1e6-e028-530b-ab62-5a9b63d08f24
+  definition: parameter or set of parameters that define the position of the origin,
+    the scale, and the orientation of a coordinate system
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 438817ea-98d4-5c30-b714-ae8cc32e85aa
+status: superseded

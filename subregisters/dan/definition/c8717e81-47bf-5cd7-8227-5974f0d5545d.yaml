@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/37796.html
+    ref: ISO 19118:2005
+  concept: 419fa15a-3b22-5657-a0a4-7f5b8c4f3e01
+  definition: dataenhed, som i en bestemt kontekst anses for at være udelelig
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: c8717e81-47bf-5cd7-8227-5974f0d5545d
+status: retired

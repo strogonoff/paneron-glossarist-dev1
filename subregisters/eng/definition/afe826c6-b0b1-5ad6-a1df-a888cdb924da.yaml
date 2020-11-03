@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.32'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 18ad1614-73d3-5b57-bedf-ac75e1a6db46
+  definition: collection of data for the purpose of a data transfer
+  examples: []
+  notes:
+  - A transfer unit does not have to be identifiable like a dataset.
+dateAccepted: 2011-10-15 00:00:00+00:00
+id: afe826c6-b0b1-5ad6-a1df-a888cdb924da
+status: valid

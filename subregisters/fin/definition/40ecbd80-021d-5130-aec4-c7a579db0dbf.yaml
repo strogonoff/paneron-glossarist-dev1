@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.10
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 8f2467b3-9571-5d01-8d37-df77a0d9f9ee
+  definition: komposiitti, joka koostuu toisissaan kiinni olevista kappaleista
+  examples: []
+  notes:
+  - Komposiittikappaleella on kaikki kappaleen ominaisuudet.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 40ecbd80-021d-5130-aec4-c7a579db0dbf
+status: valid

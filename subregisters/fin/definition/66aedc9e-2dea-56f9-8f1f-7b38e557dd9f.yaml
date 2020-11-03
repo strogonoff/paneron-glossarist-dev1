@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.29'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 98112b71-e633-5337-bdb1-5f132700e89b
+  definition: skeemojen tallentamiseen tarkoitettu esitysmalli
+  examples:
+  - skeemakuvauskannan esitysmalli.
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 66aedc9e-2dea-56f9-8f1f-7b38e557dd9f
+status: valid

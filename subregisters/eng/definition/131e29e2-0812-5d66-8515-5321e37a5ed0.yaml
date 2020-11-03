@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 6b5f2f1c-1ba3-5f4b-bb8b-3f4dedc3abde
+  definition: well-defined set
+  examples: []
+  notes:
+  - Domains are used to define the domain set and range set of attributes, operators
+    and functions.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 131e29e2-0812-5d66-8515-5321e37a5ed0
+status: valid

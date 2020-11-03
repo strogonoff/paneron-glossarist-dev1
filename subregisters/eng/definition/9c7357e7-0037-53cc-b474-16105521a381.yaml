@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.47'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: da19de76-5216-5bc1-82f1-1499605ef9ff
+  definition: type of passive sensor that only receives sound waves from external
+    sources and does not transmit any sound waves
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 9c7357e7-0037-53cc-b474-16105521a381
+status: valid

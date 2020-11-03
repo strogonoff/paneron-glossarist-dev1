@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.2
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: cb7c0b21-f43f-5c13-944a-f4f2cdbc3471
+  definition: gruppe af tekniske eksperter, der træffer beslutninger om indholdet
+    af et register
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 01c59de8-96cc-54cc-a559-af7640472379
+status: valid

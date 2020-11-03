@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: f4caa91b-0957-599e-8994-16a4ac63ee76
+  definition: value type for reporting a data quality result
+  examples:
+  - '"boolean variable", "percentage", "ratio"'
+  notes:
+  - A data quality value type is always provided for a data quality result.
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 5df0e453-92da-5e76-9304-b453f76218fe
+status: retired

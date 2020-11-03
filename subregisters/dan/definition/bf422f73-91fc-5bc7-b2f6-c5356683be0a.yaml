@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.33
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 78f755ad-932d-5a16-82a0-eb84a8544d9a
+  definition: vinkel fra hovedmeridianplanet til et givet punkts meridianplan, hvor
+    øst regnes positiv
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: bf422f73-91fc-5bc7-b2f6-c5356683be0a
+status: valid

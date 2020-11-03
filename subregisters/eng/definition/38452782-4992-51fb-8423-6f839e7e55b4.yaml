@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: d87e20d9-f14c-5956-a79d-50e4b1cf4e26
+  definition: usually rectangular pattern of parallel scanning lines forming or corresponding
+    to the display on a cathode ray tube
+  examples: []
+  notes:
+  - A raster is a type of grid.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 38452782-4992-51fb-8423-6f839e7e55b4
+status: valid

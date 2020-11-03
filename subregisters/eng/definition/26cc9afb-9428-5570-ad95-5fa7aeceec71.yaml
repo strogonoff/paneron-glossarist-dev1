@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 9839cebf-75da-558a-97ee-d3a5072b28aa
+  definition: part of quality management focussed on fulfilling quality requirements
+  examples: []
+  notes: []
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 26cc9afb-9428-5570-ad95-5fa7aeceec71
+status: valid

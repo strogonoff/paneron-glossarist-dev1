@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: bac69a7a-68a8-5295-bb2a-415f70ba59ae
+  definition: pisteen ja vertausellipsoidin välinen etäisyys vertausellipsoidin normaalia
+    pitkin laskettuna
+  examples: []
+  notes:
+  - Käytetään osana kolmiulotteista ellipsoidista koordinaatistoa, ei koskaan yksin.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 430def0a-92e6-538b-a1bb-7a96e01dd4bd
+status: superseded

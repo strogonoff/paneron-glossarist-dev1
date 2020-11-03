@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.41
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 24ba2521-05d1-55ce-a95e-f5e042adbd16
+  definition: arvo, joka on kuvattu käyttämällä skaalattua numeerista määrää tai skalaarista
+    vertausjärjestelmää
+  examples: []
+  notes:
+  - Substantiivisesti käytettynä englanninkielinen termi measure on termin physical
+    quantity synonyymi.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 9db52cc2-ffa9-55f3-9e26-dfbe7125b803
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/30726.html
+    ref: ISO/IEC TR 10000-1:1998
+  concept: 41762970-0be1-568b-b9bf-f27db80a6ba7
+  definition: comprehensive set of interfaces, services and supporting formats, plus
+    user aspects, for interoperability and/or portability of applications, data, or
+    people, as specified by information technology standards and profiles
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 1dd60254-4086-5720-bae5-ed7bdf0c8e0e
+status: valid

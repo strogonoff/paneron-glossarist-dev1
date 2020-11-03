@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: 36672181-38f9-52d7-93cc-a6c9d2c9fbc3
+  definition: schema defining the properties of each feature type that can appear
+    in the response to a query operation
+  examples: []
+  notes:
+  - This is the schema of feature types that a client can obtain using the DescribeFeatureType
+    operation (see Clause 9).
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 6a8e98d6-febd-5cf2-8473-5b78501c14a9
+status: valid

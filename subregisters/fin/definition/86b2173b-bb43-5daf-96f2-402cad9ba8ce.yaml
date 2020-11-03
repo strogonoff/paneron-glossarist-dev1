@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 8d56b07f-a144-5d49-a9da-a42ddd5178fb
+  definition: käyrän osa, jolla on yhtenäinen interpolointi
+  examples: []
+  notes:
+  - Yksittäistä käyräsegmenttiä vastaava geometrinen joukko on yhtä kuin käyrä.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 86b2173b-bb43-5daf-96f2-402cad9ba8ce
+status: retired

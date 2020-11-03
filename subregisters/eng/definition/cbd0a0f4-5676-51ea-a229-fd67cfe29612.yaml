@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.18'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: b8aef805-4def-5e9c-9f6b-1078237fc968
+  definition: symbol that has dynamic parameters
+  examples: []
+  notes:
+  - The dynamic parameters map to the attribute values of each feature instance being
+    portrayed.
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: cbd0a0f4-5676-51ea-a229-fd67cfe29612
+status: valid

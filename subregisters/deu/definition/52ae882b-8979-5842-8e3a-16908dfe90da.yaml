@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.2
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: cb7c0b21-f43f-5c13-944a-f4f2cdbc3471
+  definition: Expertengruppe, welche über den Inhalt eines Registers entscheidet
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 52ae882b-8979-5842-8e3a-16908dfe90da
+status: valid

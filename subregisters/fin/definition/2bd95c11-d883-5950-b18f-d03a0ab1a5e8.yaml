@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 66e14a20-d3b3-5b78-9351-4c1edf1192ce
+  definition: tiedon siirtäminen pisteestä toiseen viestintävälineen kautta
+  examples: []
+  notes:
+  - Informaation siirtäminen edellyttää tiedonsiirtoa.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 2bd95c11-d883-5950-b18f-d03a0ab1a5e8
+status: valid

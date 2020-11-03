@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 31d8d96a-b1de-5023-8806-44fae7498ea2
+  definition: egenskab ved en feature
+  examples:
+  - En featureattribut kaldet "farve" kan have attributværdien "grøn", der har datatypen
+    "tekst".
+  - En featureattribut kaldet "længde" kan have attributværdien "82,3", der har datatypen
+    ”real”.
+  notes:
+  - En featureattribut er forbundet med et navn, en datatype og et sæt domæneværdier.  En
+    featureattribut for en featureinstans har også en attributværdi taget fra domæneværdierne.
+  - I et featurekatalog kan en featureattribut indeholde et sæt domæneværdier, men
+    den specificerer ikke attributværdier for featureinstanser.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 8a2c4bcf-eac8-5cbd-b588-c4f694fbddda
+status: valid

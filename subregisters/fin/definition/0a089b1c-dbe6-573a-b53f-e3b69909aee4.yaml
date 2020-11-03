@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 90fd29a6-f0a0-532b-956b-c648d759337c
+  definition: äärellinen, järjestämätön kokoelma yhteenliittyviä tietokohteita (objekteja
+    tai arvoja), jotka voivat toistua
+  examples: []
+  notes:
+  - Monijoukkoa voidaan loogisesti kuvata parien <tietokohde, lukumäärä> joukkona.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 0a089b1c-dbe6-573a-b53f-e3b69909aee4
+status: retired

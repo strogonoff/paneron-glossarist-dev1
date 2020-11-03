@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.37'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: 6ac26900-de2a-5fba-a006-eab26e1d8863
+  definition: Menge der zulässigen Werte
+  examples:
+  - The range 3-28, all integers, any ASCII character, enumeration of all accepted
+    values (green, blue, white).
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 3b7ea618-391d-5033-966c-97c72816907b
+status: valid

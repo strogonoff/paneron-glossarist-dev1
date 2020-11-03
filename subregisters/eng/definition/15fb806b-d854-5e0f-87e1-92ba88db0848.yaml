@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 63d54d38-10f7-5a5d-b143-9e06f65eaae4
+  definition: feature composed of other features
+  examples: []
+  notes: []
+dateAccepted: 2005-06-15 00:00:00+00:00
+id: 15fb806b-d854-5e0f-87e1-92ba88db0848
+status: valid

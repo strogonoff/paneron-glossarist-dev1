@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: eba1913c-c286-518d-aa9d-56f45f6c40ee
+  definition: epäsuoran sijainnin muuntaminen suoraksi sijainniksi
+  examples: []
+  notes:
+  - Geokoodauksella viitataan tavallisesti osoitteen tai risteyksen muuntamiseen suoraksi
+    sijainniksi. Useat palveluntuottajat ovat sisällyttäneet geokoodauspalveluunsa
+    käänteisen geokoodauksen rajapinnan ja laajentaneet näin palvelun määritelmää
+    yleiseksi sijainnin muuntajaksi. Koska reitityspalveluissa käytetään sisäistä
+    sijainnin koodausta, joka ei normaalisti ole muiden saatavissa, geokoodaus on
+    reitityspalvelun kiinteä osa.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: c73c85d7-9fd5-5c06-9f1d-df35ad506293
+status: valid

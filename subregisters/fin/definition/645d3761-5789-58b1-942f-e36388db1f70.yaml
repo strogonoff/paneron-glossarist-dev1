@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 7a01e6ab-776c-5a42-9eda-311fe7f7f349
+  definition: menetelmä, jolla muunnetaan koordinaatteja kahden eri datumiin perustuvan
+    koordinaattijärjestelmän välillä
+  examples: []
+  notes:
+  - Koordinaattimuunnoksessa käytetään parametreja, jotka on johdettu empiirisesti
+    joukosta pisteitä, joiden koordinaatit kummassakin koordinaattijärjestelmässä
+    tunnetaan.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 645d3761-5789-58b1-942f-e36388db1f70
+status: superseded

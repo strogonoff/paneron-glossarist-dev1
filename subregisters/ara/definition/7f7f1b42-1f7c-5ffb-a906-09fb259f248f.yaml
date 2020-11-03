@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 58714ced-239c-5a5a-8211-77878d6dab60
+  definition: عدم الوفاء بواحد أو أكثر من شروط ومتطلبات المواصفات
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 7f7f1b42-1f7c-5ffb-a906-09fb259f248f
+status: valid

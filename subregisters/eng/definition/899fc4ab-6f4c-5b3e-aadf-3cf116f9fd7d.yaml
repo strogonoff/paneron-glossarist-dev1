@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 1.1.2.01, modified — Note has been added.
+    link: https://www.iso.org/standard/33636.html
+    ref: ISO 5127:2001
+  concept: 37cfc973-24d2-50f4-a22f-bc866b45c20b
+  definition: system of signs for communications, usually consisting of vocabulary
+    and rules
+  examples: []
+  notes:
+  - In this Technical Specification, language refers to natural language or special
+    languages but not programming languages or artificial languages unless specifically
+    identified
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 899fc4ab-6f4c-5b3e-aadf-3cf116f9fd7d
+status: valid

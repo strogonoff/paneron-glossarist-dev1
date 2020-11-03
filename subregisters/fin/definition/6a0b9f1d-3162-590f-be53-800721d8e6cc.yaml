@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: e548554c-adcf-593b-baba-3000c0b025f1
+  definition: toiminto, joka liittää reittiin mitattavan kustannussuureen
+  examples: []
+  notes:
+  - Normaali käytäntö on laskea reitin kunkin osan kustannukset ja määritellä reitin
+    kokonaiskustannus osien kustannusten summaksi. Tavallisimmat navigointialgoritmit
+    edellyttävät tätä. Kustannusfunktiossa käytettävät yksiköt liittyvät paitsi rahallisiin
+    kustannuksiin ja arvoihin, myös muun muassa aikaan ja välimatkaan. Ainoa edellytys
+    on, että funktio on additiivinen eikä se ole negatiivinen. Viimeistä ehtoa voidaan
+    lieventää, jos verkoston mihinkään silmukkaan ei liity nollan suuruista tai sitä
+    pienempää kustannusta, sillä tämä estää minimikustannusreitin olemassaolon.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 6a0b9f1d-3162-590f-be53-800721d8e6cc
+status: valid

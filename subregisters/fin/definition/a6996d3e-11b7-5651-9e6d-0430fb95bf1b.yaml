@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: e7a81596-a7fe-5092-876e-17ca55979774
+  definition: kommunikoida, toteuttaa ohjelmia tai siirtää tietoa toiminnallisten
+    yksiköiden välillä sellaisella tavalla, joka ei vaadi käyttäjältä yksiköiden ominaispiirteiden
+    tuntemista tai vaatii sitä vain vähän
+  examples: []
+  notes:
+  - Vertaa yhteentoimivuus.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: a6996d3e-11b7-5651-9e6d-0430fb95bf1b
+status: valid

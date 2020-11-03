@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - ref: https://searchcio.techtarget.com/
+  concept: 46bc20ce-ce9a-5565-bb5b-116ad13dc889
+  definition: 'sellaisen ominaisuus, joka kykenee liittämään johonkin eri merkityksen
+    tai käytön erilaisissa yhteyksissä - erityisesti: sellaisen ominaisuus, joka kykenee
+    antamaan tietokokonaisuudelle, esimerkiksi muuttujalle, funktiolle tai objektille,
+    useamman kuin yhden muodon'
+  examples: []
+  notes:
+  - Monimuotoisuutta on useaa tyyppiä.
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: a88ec51a-7d9c-58a0-ad94-c6a415b9c045
+status: valid

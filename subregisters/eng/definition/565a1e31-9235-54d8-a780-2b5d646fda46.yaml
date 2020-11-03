@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.7.1
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: d266df07-bb2e-5e9d-af31-ee6ad6376222
+  definition: collection of terminological entries presenting information related
+    to concepts or designations from one or more specific subject fields
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 565a1e31-9235-54d8-a780-2b5d646fda46
+status: valid

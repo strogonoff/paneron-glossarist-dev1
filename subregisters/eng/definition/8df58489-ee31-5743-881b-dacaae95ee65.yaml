@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.79'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 0e18be31-e6e2-5e85-96b7-954c4a6338c5
+  definition: component of SONAR that converts an electrical impulse into a sound
+    wave and sends the wave into the water
+  examples: []
+  notes:
+  - Transmitter is also called projector in multibeam echosounding.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 8df58489-ee31-5743-881b-dacaae95ee65
+status: valid

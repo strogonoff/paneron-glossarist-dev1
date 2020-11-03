@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 7844e790-2e19-5d2d-9b9b-1dd6bdeb43db
+  definition: test verdict of conformance
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 2faf45bf-5f8a-549a-b2f8-645c09a70294
+status: valid

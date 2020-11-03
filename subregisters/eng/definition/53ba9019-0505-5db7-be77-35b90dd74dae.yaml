@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.35'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 25d8af6e-fae3-5d59-8e94-848f166f3cfe
+  definition: person or organization that plays a role in a rights transaction
+  examples:
+  - In some legal traditions, “party” refers to person in a legal dispute, while “principal”
+    can be the entity initiating a contract, such as an agency.
+  notes:
+  - These two terms [principal and party] are used as near synonyms from ORDL and
+    ISO 21000. There will be no distinction between these two terms made here, but
+    there can be distinctions in legal documents depending on local laws.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 53ba9019-0505-5db7-be77-35b90dd74dae
+status: valid

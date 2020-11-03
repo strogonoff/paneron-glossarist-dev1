@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 9ec67dbe-e23a-5730-bb86-49d63b8006d2
+  definition: ارتفاع يعتمد على مجال جاذبية الكرة الأرضية
+  examples: []
+  notes:
+  - يشير هذا بشكل خاص إلى الارتفاع الأورثومتري orthometric height أو الارتفاع العادي
+    , حيث أن كليهما يمثلان تقديراً تقريبياً لمسافة نقطة ما فوق متوسط مستوى سطح البحر.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: b483cef2-8035-5c25-946e-a1c0a91ce704
+status: superseded

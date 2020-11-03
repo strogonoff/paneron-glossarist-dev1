@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/61710.html
+    ref: ISO 19160-1:2015
+  concept: 08b20d15-ac3e-5eb3-a392-bb6638610468
+  definition: one of a set of addresses unambiguously determining the same addressable
+    object
+  examples: []
+  notes: []
+dateAccepted: 2015-12-15 00:00:00+00:00
+id: ba1b9086-ef92-5aaf-a93e-aaf861cc6fb0
+status: valid

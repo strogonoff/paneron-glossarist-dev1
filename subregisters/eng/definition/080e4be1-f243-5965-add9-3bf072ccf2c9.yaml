@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '3.90'
+    ref: UPU Standards Glossary
+  concept: 709b7a4a-5150-5788-8e60-9d6a6c8d1dc0
+  definition: indivisible mailable entity in respect of which a mail service contractor
+    accepts an obligation to provide postal services
+  examples: []
+  notes: []
+dateAccepted: 2017-11-15 00:00:00+00:00
+id: 080e4be1-f243-5965-add9-3bf072ccf2c9
+status: valid

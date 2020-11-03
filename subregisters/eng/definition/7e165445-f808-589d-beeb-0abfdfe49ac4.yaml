@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 6561fc5a-f0fd-5c27-a348-1f7b6a129248
+  definition: subset of metadata which consists of a collection of related metadata
+    entities and metadata elements
+  examples: []
+  notes:
+  - Equivalent to a package in UML terminology
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 7e165445-f808-589d-beeb-0abfdfe49ac4
+status: valid

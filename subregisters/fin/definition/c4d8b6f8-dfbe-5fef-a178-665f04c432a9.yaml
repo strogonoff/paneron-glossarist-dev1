@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: eb493507-32a1-58e4-9990-f85c32bc530a
+  definition: pisteen etäisyys valitusta vertauspinnasta kyseistä pintaa kohtisuoraan
+    vastassa olevaa viivaa pitkin alaspäin mitattuna
+  examples: []
+  notes:
+  - Vertauspinnasta ylöspäin mitatun syvyyden arvo on negatiivinen.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: c4d8b6f8-dfbe-5fef-a178-665f04c432a9
+status: superseded

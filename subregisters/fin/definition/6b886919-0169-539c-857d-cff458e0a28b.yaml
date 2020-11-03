@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  concept: 482a1469-c431-537c-8ca5-b865bb2a108e
+  definition: menettely, jolla asiakas varmistuu siitä, että toimittaja kykenee toimittamaan
+    tuotteen vaaditun laadun mukaisena
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 6b886919-0169-539c-857d-cff458e0a28b
+status: valid

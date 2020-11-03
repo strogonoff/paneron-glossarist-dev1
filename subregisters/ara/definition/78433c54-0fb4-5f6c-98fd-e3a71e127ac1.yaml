@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0d4997ad-c2bd-5de2-942e-b79af22736ea
+  definition: مجموعة ترابطية مكونة من سلسلة إحداثيات متتابعة
+  examples: []
+  notes:
+  - عدد الإحداثيات في مجموعة الإحداثيات الترابطية مساوٍ لبعد النظام الإحداثي؛  ترتيب
+    الإحداثيات في مجموعة الإحداثيات الترابطية مطابق لترتيب محاور النظام الإحداثي.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 78433c54-0fb4-5f6c-98fd-e3a71e127ac1
+status: superseded

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: ce8698ba-3737-5647-a92f-3772ec842f0b
+  definition: coverage, der giver samme featureattributværdier for hver direkte position
+    inden for dens rumlige, temporale eller rumlig-temporale domæne
+  examples: []
+  notes:
+  - En diskret coverage’s domæne består af en endelig mængde af rumlige, temporale
+    eller rumlige-temporale objekter.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 73bdb6b7-045b-5ae7-82e3-00140db64606
+status: valid

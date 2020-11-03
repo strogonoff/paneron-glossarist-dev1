@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 1650a910-a57e-5ed3-af9f-098f9bb59303
+  definition: initial capability test intended to identify clear cases of non-conformance
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 376c9c10-0781-595e-8255-acee1d241463
+status: valid

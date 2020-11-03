@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.62
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 5a7e1d90-3a88-571e-be9b-b7612e676a27
+  definition: reference frame in which the defining parameters exclude time evolution
+  examples: []
+  notes: []
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: 06e2b39f-9583-5456-906b-0004a23a99b2
+status: valid

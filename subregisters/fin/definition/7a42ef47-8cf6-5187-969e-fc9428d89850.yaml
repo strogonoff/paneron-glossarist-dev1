@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 3855eb3a-2864-5cd2-8bb3-5be518475ef9
+  definition: spatiotemporaalisista objekteista koostuva määritysjoukko
+  examples: []
+  notes:
+  - Jatkuvan paikkatietojakauman spatiotemporaalinen joukko koostuu pistejoukosta,
+    joka on määritetty suhteessa joukkoon spatiotemporaalisia objekteja.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 7a42ef47-8cf6-5187-969e-fc9428d89850
+status: valid

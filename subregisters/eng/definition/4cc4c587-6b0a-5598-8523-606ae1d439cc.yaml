@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: 3450397c-0dc9-5f47-947e-680cd7b22d2c
+  definition: member of a set of elements that is used for the representation, organization,
+    or control of data
+  examples: []
+  notes: []
+dateAccepted: 2002-08-16 00:00:00+00:00
+id: 4cc4c587-6b0a-5598-8523-606ae1d439cc
+status: valid

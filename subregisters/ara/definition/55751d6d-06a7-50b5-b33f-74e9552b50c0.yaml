@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.22'
+    link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  concept: 0c133d79-be57-55e6-a7ef-d3335378e19d
+  definition: قياس لمدى تكرر مجموعة من القياسات
+  examples: []
+  notes:
+  - يعبر عن درجة الدقة عادة كقيمة إحصائية مبنية على مجموعة من القياسات المتكررة مثل
+    الانحراف المعياري عن المتوسط النموذجي.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 55751d6d-06a7-50b5-b33f-74e9552b50c0
+status: superseded

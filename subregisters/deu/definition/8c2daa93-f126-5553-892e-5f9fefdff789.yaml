@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: 7d9cad17-491f-59ce-b732-971808bec4db
+  definition: Daten zur Beschreibung von Daten
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 8c2daa93-f126-5553-892e-5f9fefdff789
+status: superseded

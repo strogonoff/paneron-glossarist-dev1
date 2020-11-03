@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.2.21
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 57115069-0081-56d0-8ad0-5be37644bc63
+  definition: علاقة بين مفهومين بحيث يكون كثافة أحدهما شاملا لمفهوم الآخر بالإضافة
+    إلى واحدة على الأقل من الخصائص المحددة
+  examples: []
+  notes:
+  - 'العلاقة النوعية قائمة بين مفاهيم مثل: "كلمة" و "ضمير" ، "مركبة" و "سيارة" ، "شخص"
+    و "طفل" .'
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 746a6ed3-d935-56a0-8c80-bc2414ff10c4
+status: valid

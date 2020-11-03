@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/61710.html
+    ref: ISO 19160-1:2015
+  concept: b939ed06-08f3-5bfd-885c-a9fbbc728d70
+  definition: constituent part of the address
+  examples: []
+  notes:
+  - An address component may reference another object such as a spatial object (e.g.
+    an administrative boundary or a land parcel) or a non-spatial object (e.g. an
+    organization or a person).
+  - An address component may have one or more alternative values, e.g. alternatives
+    in different languages or abbreviated alternatives.
+dateAccepted: 2015-12-15 00:00:00+00:00
+id: f7824eaa-9f88-5390-8842-c1d68e588b01
+status: valid

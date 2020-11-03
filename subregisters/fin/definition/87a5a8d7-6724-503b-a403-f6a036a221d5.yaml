@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (1997)
+    ref: 'ITU-R Rec.TF.686-1 '
+  concept: 5b041839-346a-5c73-a1a9-7c475c18c450
+  definition: toimielinten Bureau International des Poids et Mesures (International
+    Bureau of Weights and Measures) ja International Earth Rotation Service (IERS)
+    ylläpitämä aika-asteikko, joka muodostaa pohjan standardifrekvenssien ja -ajan
+    koordinoidulle jakamiselle
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 87a5a8d7-6724-503b-a403-f6a036a221d5
+status: valid

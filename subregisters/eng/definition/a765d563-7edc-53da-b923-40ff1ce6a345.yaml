@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/32581.html
+    ref: ISO/TS 19163-1:2016
+  concept: c0931067-c8cf-5107-b506-a913b7ce6701
+  definition: gridded data whose attribute values describe characteristics of a grid
+    coverage feature in a grid format
+  examples: []
+  notes:
+  - Most gridded thematic data are derived from imagery (4.12) data using geophysical/atmospheric
+    inversion algorithms. Gridded thematic data may also be obtained from other sources
+    such as digitization of topographic map sheets.
+dateAccepted: 2016-01-15 00:00:00+00:00
+id: a765d563-7edc-53da-b923-40ff1ce6a345
+status: valid

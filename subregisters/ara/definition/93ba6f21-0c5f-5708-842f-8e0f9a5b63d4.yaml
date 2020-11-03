@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 36d98aa3-af1b-50d7-89f8-4b71f9c23894
+  definition: آلية تصف المعالم السلوكية والهيكلية
+  examples: []
+  notes:
+  - المصنفات تشمل الواجهات , والفئات , وأنواع البيانات , المكونات
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 93ba6f21-0c5f-5708-842f-8e0f9a5b63d4
+status: superseded

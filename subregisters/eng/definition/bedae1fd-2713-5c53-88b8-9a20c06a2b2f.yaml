@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: ce57fa66-4d42-5e2d-9d1d-5f3ec16dd5fd
+  definition: sequence of licences that traces a chain of agency, where a licence
+    is granted at each link of the chain, allowing the agent at that link to act as
+    the principal in the next
+  examples: []
+  notes:
+  - As with the chain of agency, this chain can be spoken of in either direction.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: bedae1fd-2713-5c53-88b8-9a20c06a2b2f
+status: valid

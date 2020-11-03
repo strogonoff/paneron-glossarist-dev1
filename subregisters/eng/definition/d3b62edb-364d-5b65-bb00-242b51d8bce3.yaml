@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: ce8698ba-3737-5647-a92f-3772ec842f0b
+  definition: coverage that returns the same feature attribute values for every direct
+    position within any single spatial object, temporal object, or spatiotemporal
+    object in its domain
+  examples: []
+  notes:
+  - The domain of a discrete coverage consists of a finite set of spatial, temporal,
+    or spatiotemporal objects.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: d3b62edb-364d-5b65-bb00-242b51d8bce3
+status: valid

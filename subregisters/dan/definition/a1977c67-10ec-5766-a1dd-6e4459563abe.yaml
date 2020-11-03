@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  concept: e2a8c291-076a-5aeb-9d8e-9e05388f4de6
+  definition: repræsentation af fænomener fra den virkelige verden associeret med
+    en lokalitet relateret til jorden
+  examples: []
+  notes: []
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: a1977c67-10ec-5766-a1dd-6e4459563abe
+status: valid

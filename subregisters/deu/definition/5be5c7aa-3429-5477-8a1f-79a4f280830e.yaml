@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 15a4a183-9aec-58a0-9ca0-4b268efc7621
+  definition: benannte Menge von Operationen, die das Verhalten einer Entität charakterisieren
+  examples: []
+  notes:
+  - See 7.2 [of ISO 19119] for a discussion of interface
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 5be5c7aa-3429-5477-8a1f-79a4f280830e
+status: valid

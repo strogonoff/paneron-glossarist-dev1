@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  concept: 74625814-5e6c-5d9d-912b-0bbf662e287b
+  definition: group of service interfaces and data structures used for PI matching
+  examples: []
+  notes: []
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: 18e727bd-32da-5733-ba1d-4fd91d95818f
+status: valid

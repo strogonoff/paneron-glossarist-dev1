@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 3e4a8e5f-69b1-5952-ac89-a4d5cc620bee
+  definition: stereotyypitetty luokka, joka määrittelee objektijoukon sekä objekteihin
+    sovellettavissa olevat operaatiot, mutta ei objektien fyysistä toteutusta
+  examples: []
+  notes:
+  - Tyypillä voi olla attribuutteja ja assosiaatioita.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: e0df8031-f399-5478-81a0-09fd562a4ce3
+status: valid

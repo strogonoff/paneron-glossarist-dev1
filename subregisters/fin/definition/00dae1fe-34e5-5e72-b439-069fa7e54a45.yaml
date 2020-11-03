@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.23
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 511210c8-5d3d-5ee2-bd10-dca74f7983a8
+  definition: suunnattu topologinen objekti, joka kuvaa särmän ja sen suunnan välistä
+    yhteyttä
+  examples: []
+  notes:
+  - Suunnattu särmä, joka on yhdenmukainen linkin suunnan kanssa, on + -suuntainen;
+    muussa tapauksessa se on vastakkainen (- -suuntainen). Topologiassa suunnatun
+    särmän käsitettä käytetään, jotta voidaan erottaa linkin oikea (-) puoli vasemmasta
+    (+) ja alkusolmu (-) loppusolmusta (+). Laskennallisessa topologiassa suunnattua
+    särmää hyödynnetään näiden käsitteiden kuvaamisessa.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 00dae1fe-34e5-5e72-b439-069fa7e54a45
+status: valid

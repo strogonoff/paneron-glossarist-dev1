@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/36760.html
+    ref: ISO 19131:2007
+  concept: e0a58145-11e3-562a-ae83-66a5093bed34
+  definition: detailed description of a dataset or dataset series together with additional
+    information that will enable it to be created, supplied to and used by another
+    party
+  examples: []
+  notes:
+  - A data product specification provides a description of the universe of discourse
+    and a specification for mapping the universe of discourse to a dataset. It may
+    be used for production, sales, end-use or other purposes.
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 9261c3ef-a932-58d0-9d9e-04388abc7cdf
+status: valid

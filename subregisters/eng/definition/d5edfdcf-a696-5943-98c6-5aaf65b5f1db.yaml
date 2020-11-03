@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.6
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 3553b2a2-d887-5a39-bc6d-4ccbd6869159
+  definition: action taken to correct a substantive error in a register item
+  examples: []
+  notes: []
+dateAccepted: 2015-10-01 00:00:00+00:00
+id: d5edfdcf-a696-5943-98c6-5aaf65b5f1db
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0e2de1e6-e028-530b-ab62-5a9b63d08f24
+  definition: متغير  أو مجموعة متغيرات تحدد موقع أصل ومقياس واتجاه نظام إحداثيات ما
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: dac4e6fc-0714-598b-ad66-61cee3152258
+status: superseded

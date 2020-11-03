@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 3efd65f1-ee28-5305-9470-c526ba241392
+  definition: Auswahl eines Satzes von Objekten aus der Domäne eines Coverages, deren
+    Feature-Attributwerte mit den Objekten assoziiert sind
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 6ff054f9-d1ae-5d96-829c-7ce6648d8f1c
+status: valid

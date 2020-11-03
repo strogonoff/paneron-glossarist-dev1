@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.42
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: f1cbe5e4-4cba-59e5-a3fa-e8bf01779453
+  definition: pyörähdysellipsoidin lyhyemmän akselin sisältävän tason ja pyörähdysellipsoidin
+    leikkauskäyrän kaari navalta navalle
+  examples: []
+  notes:
+  - Ellipsoidin ja ellipsoidin lyhyimmän akselin sisältävän tason leikkaus. Tätä termiä
+    käytetään usein viittaamaan navalta navalle ulottuvaan kaareen koko suljetun kuvion
+    sijaan.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: ff7bf651-bef3-5d7b-b8f7-0b4c96fc4ea5
+status: valid

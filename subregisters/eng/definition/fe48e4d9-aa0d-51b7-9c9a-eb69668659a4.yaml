@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: 4b98af84-f640-55f9-b3b6-890340792ea4
+  definition: representation, using a local origin and local ordinate vectors, of
+    a geometric object at a given reference time
+  examples: []
+  notes:
+  - A rigid geometric object may undergo translation or rotation, but remains congruent
+    with its base representation.
+  - The local origin and ordinate vectors establish an engineering coordinate reference
+    system (ISO 19111), also called a local frame or a local Euclidean coordinate
+    system.
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: fe48e4d9-aa0d-51b7-9c9a-eb69668659a4
+status: valid

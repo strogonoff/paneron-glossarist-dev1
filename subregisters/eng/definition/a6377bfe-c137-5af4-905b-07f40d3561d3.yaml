@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.11
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: e6e4e6b6-bd8b-58d5-b912-b4da33a6a8e7
+  definition: imagery associated with a location relative to the Earth
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: a6377bfe-c137-5af4-905b-07f40d3561d3
+status: valid

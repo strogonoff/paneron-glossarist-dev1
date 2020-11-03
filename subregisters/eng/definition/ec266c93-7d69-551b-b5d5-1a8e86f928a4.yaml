@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  concept: de353212-6ed2-530d-96d2-6f7ed081bda5
+  definition: general lowering in level of a moving vessel, relative to what its level
+    would be were it motionless, due to the regional depression of the surface of
+    the water in which the ship moves
+  examples: []
+  notes:
+  - Settlement is not an increase in displacement.
+  - Settlement is measured as an angular tilt about the centre of gravity of the vessel.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: ec266c93-7d69-551b-b5d5-1a8e86f928a4
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: 118644b2-f335-52cb-9afc-45473c04299d
+  definition: dictionary that contains definitions of, and related descriptive information
+    about, concepts that may be specified in detail in a feature catalogue
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: d7f176c4-a2da-59fd-adf9-e4f2b2877cb2
+status: valid

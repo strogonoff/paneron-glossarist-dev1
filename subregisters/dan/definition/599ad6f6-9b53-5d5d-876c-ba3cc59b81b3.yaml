@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.21
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 84079d27-6841-5537-afcf-59be952aa897
+  definition: afstand i et koordinatsystem i østlig retning (positiv) eller vestlig
+    retning (negativ) ud fra en nord-syd-gående referencelinje
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 599ad6f6-9b53-5d5d-876c-ba3cc59b81b3
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 5a85d4b9-466e-5587-8bf7-0d97789f8c8a
+  definition: coverage, der giver forskellige værdier for samme featureattribut på
+    forskellige direkte positioner inden for et enkelt spatialt objekt, temporale
+    objekt eller temporalt-spatialt objekt i sit domæne
+  examples: []
+  notes:
+  - Skønt en sammenhængende coverages domæne sædvanligvis er afgrænset ved sin rumlige
+    og/eller tidsmæssige udbredelse, kan den underinddeles i et uendeligt antal direkte
+    positioner.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 67052581-0d6f-54eb-8a42-8f0b93afe2d7
+status: valid

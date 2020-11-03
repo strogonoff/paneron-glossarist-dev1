@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  concept: c3963843-a765-51eb-a5b8-9ad4d8fa99c7
+  definition: skeemakomponentit, jotka on lueteltu XML-nimiavaruudessa "http://www.opengis.net/gml/3.2",
+    kuten tässä kansainvälisessä standardissa on määritelty
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: eaa367b4-bf4f-5879-ba74-5d3f6ff6a524
+status: superseded

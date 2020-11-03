@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.2.4
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 9e160891-b1b3-5996-bc78-8ebbe1467a91
+  definition: abstraction of a property of an object or of a set of objects
+  examples: []
+  notes:
+  - Characteristics are used for describing concepts.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: c984fbf9-da9c-5ece-9d1a-2946635a296f
+status: valid

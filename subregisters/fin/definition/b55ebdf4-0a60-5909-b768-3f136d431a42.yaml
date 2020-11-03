@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.40
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 1fddcdac-11cd-57fd-bce5-5903d7332874
+  definition: koordinaattikonversio geodeettisesta koordinaatistosta tasokuvaukseen
+  examples: []
+  notes:
+  - Yleisemmin määriteltynä koordinaattikonversio ellipsoidisesta koordinaatistosta
+    tasolle.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: b55ebdf4-0a60-5909-b768-3f136d431a42
+status: valid

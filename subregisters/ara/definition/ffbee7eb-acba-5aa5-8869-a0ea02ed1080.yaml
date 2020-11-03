@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: d5de3f16-9a8e-5f79-a1ec-cc3cbefb5222
+  definition: كائن يمثل مجموعة من المواقع المباشرة في المكان والزمان
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: ffbee7eb-acba-5aa5-8869-a0ea02ed1080
+status: valid

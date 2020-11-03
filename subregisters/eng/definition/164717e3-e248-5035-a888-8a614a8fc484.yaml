@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 917ac226-7f47-54e6-921f-b564266c7d30
+  definition: set of rules for creating identifiers
+  examples: []
+  notes: []
+dateAccepted: 2011-10-15 00:00:00+00:00
+id: 164717e3-e248-5035-a888-8a614a8fc484
+status: valid

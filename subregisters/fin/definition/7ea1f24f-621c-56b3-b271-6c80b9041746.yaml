@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: c0b71e1c-aeb3-5056-9b55-5faee44b4325
+  definition: kolmiulotteinen geometrinen primitiivi, joka vastaa yhtenäistä avaruuden
+    osaa
+  examples: []
+  notes:
+  - Kappale on paikallisesti ilmennettävissä 3-parametrisena pistejoukkona. Kappaleen
+    rajaus on niiden suunnattujen, suljettujen pintojen joukko, joka muodostaa kappaleen
+    rajat.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 7ea1f24f-621c-56b3-b271-6c80b9041746
+status: valid

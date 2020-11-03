@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: e52ba84f-684c-56ed-b521-7a36d530245b
+  definition: abstract representation of real world phenomena using classifiers
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: e0c7855f-5369-5e7a-bd34-63d75edbaa15
+status: valid

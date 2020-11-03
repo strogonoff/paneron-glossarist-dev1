@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.14
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 8bd36c30-db27-5d8f-8ea2-a54a9f5dd8bf
+  definition: functional relationship between ground and image coordinates based on
+    the correlation between a set of ground control points and their corresponding
+    image coordinates
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: cc1cab05-e156-51ce-8f00-2877f4f9fd33
+status: valid

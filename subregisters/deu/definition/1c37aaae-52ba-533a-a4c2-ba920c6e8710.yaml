@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.38
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 84551b8a-41b1-5410-be83-5fc9fbfe5f7b
+  definition: Sensorhalterung, die über zwei oder drei ineinander geschachtelte Aufhängungen,
+    die sich auf rechtwinklig zueinander liegenden Achsen frei drehen können, eine
+    horizontale Lage der Sensorplattform bei größeren Neigungen des Flugzeuges ermöglicht
+  examples: []
+  notes:
+  - An object mounted on a three-ring gimbal will remain horizontally suspended on
+    a plane between the rings regardless as to the stability of the base.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 1c37aaae-52ba-533a-a4c2-ba920c6e8710
+status: valid

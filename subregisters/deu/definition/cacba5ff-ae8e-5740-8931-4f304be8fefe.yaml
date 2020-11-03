@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.76
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: b663323b-9943-5a8a-adb9-e86e498c3342
+  definition: abbildendes Radar, bei dem die hohe Auflösung einer langen Antenne dadurch
+    erzielt wird, dass die tatsächlich kurze Antenne zwischen Radarblitz und Echoempfang
+    weiterbewegt wird
+  examples: []
+  notes:
+  - The electromagnetic radiation is at microwave frequencies and is sent in pulses.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: cacba5ff-ae8e-5740-8931-4f304be8fefe
+status: valid

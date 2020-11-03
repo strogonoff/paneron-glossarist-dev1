@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 6561fc5a-f0fd-5c27-a348-1f7b6a129248
+  definition: bestimmte Menge von Metadaten, die aus einer Sammlung von Metadateneinheiten
+    und Metadatenelementen besteht
+  examples: []
+  notes:
+  - Equivalent to a package in UML terminology
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ace67030-46e3-508e-a8bd-9958bc1c1873
+status: valid

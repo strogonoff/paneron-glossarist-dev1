@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.23
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 511210c8-5d3d-5ee2-bd10-dca74f7983a8
+  definition: retningsbestemt topologisk objekt, der repræsenterer en forbindelse
+    mellem en kant og en af dens orienteringer
+  examples: []
+  notes:
+  - En retningsbestemt kant, der er i overensstemmelse med kantens orientering, har
+    en (+)-orientering, ellers har den modsat (-)-orientering. Retningsbestemte kanter
+    anvendes i topologien til at skelne højre side (-) fra venstre side (+) af samme
+    kant samt startknude (-) og slutknude (+) af samme kant. I algoritmisk topologi
+    benyttes de til at repræsentere disse begreber.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 7ccbbb86-27f4-58e3-8c52-aff9516fe5ce
+status: valid

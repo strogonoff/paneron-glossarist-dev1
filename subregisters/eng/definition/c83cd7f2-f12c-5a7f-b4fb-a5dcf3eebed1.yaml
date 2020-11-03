@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.46'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: c7eb6ef4-878c-51e8-999b-6b12cf71976a
+  definition: optical element that receives light from the object and forms the first
+    or primary image of an optical system
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: c83cd7f2-f12c-5a7f-b4fb-a5dcf3eebed1
+status: valid

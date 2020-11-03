@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 1650a910-a57e-5ed3-af9f-098f9bb59303
+  definition: اختبار قدرة أولي الغرض منه تحديد الحالات الواضحة من عدم المطابقة
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: e54bcdbf-c0a1-5192-9df2-e1166d647517
+status: valid

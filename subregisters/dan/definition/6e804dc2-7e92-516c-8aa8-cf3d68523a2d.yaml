@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 6b5f2f1c-1ba3-5f4b-bb8b-3f4dedc3abde
+  definition: veldefineret mængde
+  examples: []
+  notes:
+  - Domæner anvendes til at definere domænesæt og intervalsæt for attributter, operatorer
+    og funktioner.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 6e804dc2-7e92-516c-8aa8-cf3d68523a2d
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.37
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: d80e5d2a-5d10-51e8-abc4-6126d53dc2e6
+  definition: الفرق بين المجموعة الشاملة والمنغلقه
+  examples: []
+  notes:
+  - فكرة المظهر الخارجي يمكن تطبيقها على كل من المركَّبات الطوبولوجية والمركَّبات
+    الهندسية.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: d7befaa2-c505-5c1c-abd0-42189fe1424c
+status: valid

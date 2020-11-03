@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: modified
+    ref: FindLaw
+  concept: 689facac-11ae-58c3-a4d5-96ef108007be
+  definition: ownership by two or more persons each having undivided shares in the
+    property as a whole
+  examples: []
+  notes:
+  - In this case, the principal as owner is a principal group, i.e. a group of other
+    principals.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 2fc69507-bfdc-505c-9840-ad4989e41fd0
+status: valid

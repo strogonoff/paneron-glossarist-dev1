@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.6.2, modified – original Notes have been deleted.
+    link: https://www.iso.org/standard/45481.html
+    ref: ISO 9000:2015
+  concept: e60e270b-5fc1-55dd-af55-f967e00549b2
+  definition: degree to which a set of inherent characteristics of an object fulfils
+    requirements
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 97195db2-a715-549e-8c21-1c570cd17d63
+status: valid

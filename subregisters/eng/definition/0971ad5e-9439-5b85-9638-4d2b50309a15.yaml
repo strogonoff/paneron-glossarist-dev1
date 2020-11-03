@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.28
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: d71d102f-0253-51d2-a781-b867cd689e4f
+  definition: specific wavelength interval within the electromagnetic spectrum
+  examples:
+  - Band 1 of Landsat TM lies between 0,45 μm  and 0,52 μm in the visible part of
+    the spectrum.
+  notes: []
+dateAccepted: 2019-01-01 00:00:00+00:00
+id: 0971ad5e-9439-5b85-9638-4d2b50309a15
+status: valid

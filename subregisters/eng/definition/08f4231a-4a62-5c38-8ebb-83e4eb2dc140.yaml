@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3decb52f-923e-5c15-9d6b-1dc485f4bdea
+  definition: largest number n such that each direct position in a geometric set can
+    be associated with a subset that has the direct position in its interior and is
+    similar (isomorphic) to Rn, Euclidean n-space
+  examples: []
+  notes:
+  - Curves, because they are continuous images of a portion of the real line, have
+    geometric dimension 1. Surfaces cannot be mapped to R2 in their entirety, but
+    around each point position, a small neighbourhood can be found that resembles
+    (under continuous functions) the interior of the unit circle in R2, and are therefore
+    2-dimensional. In this International Standard, most surface patches (instances
+    of GM_SurfacePatch) are mapped to portions of R2 by their defining interpolation
+    mechanisms.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 08f4231a-4a62-5c38-8ebb-83e4eb2dc140
+status: superseded

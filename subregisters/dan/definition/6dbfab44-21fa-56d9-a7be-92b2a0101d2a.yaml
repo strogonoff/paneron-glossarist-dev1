@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3decb52f-923e-5c15-9d6b-1dc485f4bdea
+  definition: største antal n, således at enhver direkte position i en geometrisk
+    mængde kan forbindes med en delmængde, som den direkte position ligger inden i
+    og som ligner (er isomorf med) Rn, Euklidisk n-rum
+  examples: []
+  notes:
+  - Da kurver er kontinuerte billeder af et udsnit af den virkelige linje, har de
+    geometrisk dimension 1. Flader kan ikke mappes til R2 i deres helhed, men rundt
+    om hver punktposition kan der være et lille område, der (under kontinuerte funktioner)
+    ligner det indre af enhedscirklen i R2, og derfor er de 2-dimensionale. I denne
+    internationale standard mappes de fleste fladeudsnit (instanser af GM_SurfacePatch)
+    til dele af R2 ved hjælp af de interpolationsmekanismer, der definerer dem.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 6dbfab44-21fa-56d9-a7be-92b2a0101d2a
+status: superseded

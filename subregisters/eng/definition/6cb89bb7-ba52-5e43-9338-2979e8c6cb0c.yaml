@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 496d7ef8-0f46-5dcf-bfeb-97add1189d3e
+  definition: description of a set of objects that share the same attributes, operations,
+    methods, relationships, and semantics
+  examples: []
+  notes:
+  - 'A class may use a set of interfaces to specify collections of operations it provides
+    to its environment. See: interface.'
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 6cb89bb7-ba52-5e43-9338-2979e8c6cb0c
+status: valid

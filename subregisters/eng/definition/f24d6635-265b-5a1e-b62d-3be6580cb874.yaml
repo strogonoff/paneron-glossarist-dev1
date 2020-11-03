@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: 6552fdb1-31bd-517e-be68-11c5ec3500a6
+  definition: digital elevation model (DEM) that depicts the elevations of the top
+    surfaces of buildings, trees, towers, and other features elevated above the bare
+    earth
+  examples: []
+  notes:
+  - DSMs are especially relevant for telecommunications management, air safety, forest
+    management, and 3-D modelling and simulation.
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: f24d6635-265b-5a1e-b62d-3be6580cb874
+status: valid

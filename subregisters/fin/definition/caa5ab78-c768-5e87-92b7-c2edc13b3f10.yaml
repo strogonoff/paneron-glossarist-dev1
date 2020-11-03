@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: d50f09f6-0dc9-595f-88bb-17f3e6424fb1
+  definition: kohteiden välinen seuraussuhde (feature succession), jossa kaksi tai
+    useampia aiemmin olemassa olleita kohdetyypin ilmentymiä korvataan yhdellä saman
+    kohdetyypin ilmentymällä
+  examples:
+  - Kaksi kohdetyyppiin laidunmaa kuuluvaa ilmentymää korvataan yhdellä ilmentymällä,
+    kun laitumien välinen aita poistetaan.
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: caa5ab78-c768-5e87-92b7-c2edc13b3f10
+status: valid

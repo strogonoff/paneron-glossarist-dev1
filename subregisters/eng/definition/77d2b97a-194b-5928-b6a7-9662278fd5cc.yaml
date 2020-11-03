@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - clause: 1.1, modified — The Notes have been changed.
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: 2bc6e9bc-73ae-500f-b721-4771e385659c
+  definition: property of a phenomenon, body, or substance, where the property has
+    a magnitude that can be expressed as a number and a reference
+  examples: []
+  notes:
+  - A reference can be a measurement unit, a measurement procedure, a reference material,
+    or a combination of such.
+  - Symbols for quantities are given in the ISO 80000 and IEC 80000 series Quantities
+    and units. The symbols for quantities are written in italics. A given symbol can
+    indicate different quantities.
+  - A quantity as defined here is a scalar. However, a vector or a tensor, the components
+    of which are quantities, is also considered to be a quantity.
+  - The concept "quantity" may be generically divided into, e.g. "physical quantity",
+    "chemical quantity", and "biological quantity", or "base quantity" and "derived
+    quantity".
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 77d2b97a-194b-5928-b6a7-9662278fd5cc
+status: valid

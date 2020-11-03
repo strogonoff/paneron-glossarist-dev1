@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/26019.html
+    ref: ISO 19114:2003
+  concept: ac7509ae-90e6-5a98-be86-193ab6179b27
+  definition: tieto, joka on hyväksytty kohdemaailmaa kuvaavaksi ja jota on tarkoitus
+    käyttää suorien ulkoisten laadunarviointimenetelmien referenssinä
+  examples: []
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: d304fa8a-4492-5913-a522-e453a139b3b3
+status: retired

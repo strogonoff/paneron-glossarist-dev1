@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.71
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 9758a32f-7027-5d7a-8b33-d83c0a33192a
+  definition: vector perpendicular (orthogonal) to the geometric object (curve or
+    surface) at the point
+  examples: []
+  notes:
+  - The normal will be parallel to the "upward" normal for surfaces in 𝔼3 defined
+    in the surface interface in ISO 19107:2019, 6.4.17.2.
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 4762b842-f0c2-569d-983f-f7f9deb8fdbd
+status: valid

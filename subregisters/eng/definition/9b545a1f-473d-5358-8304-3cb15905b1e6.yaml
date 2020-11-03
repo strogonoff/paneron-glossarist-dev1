@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 36d98aa3-af1b-50d7-89f8-4b71f9c23894
+  definition: mechanism that describes behavioural and structural features
+  examples: []
+  notes:
+  - Classifiers include interfaces, classes, datatypes, and components.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 9b545a1f-473d-5358-8304-3cb15905b1e6
+status: superseded

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.33
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 598b17ce-3a28-56e6-bcce-29c05e4b1679
+  definition: kulma nollameridiaanitasosta pisteen meridiaanitasoon ; positiivinen
+    nollameridiaanista itään
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 0da23ea1-a72e-51ec-bdcf-4ea0adc880c9
+status: valid

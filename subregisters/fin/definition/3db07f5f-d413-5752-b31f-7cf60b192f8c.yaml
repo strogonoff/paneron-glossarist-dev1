@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/1141.html
+    ref: ISO 2859-1
+  concept: 2460e3da-a989-504d-9293-84d6ab426479
+  definition: objekti, jota voidaan kuvata tai tarkastella erillisenä kokonaisuutena
+  examples: []
+  notes:
+  - Tietokohde voi olla mikä hyvänsä tietoaineiston osa, kuten kohde, kohteiden välinen
+    suhde, kohteen ominaisuus tai näiden yhdistelmä.
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 3db07f5f-d413-5752-b31f-7cf60b192f8c
+status: retired

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 450c0504-23ba-55e6-80aa-8c2857901906
+  definition: boundary represented by a set of oriented topological primitives of
+    smaller topological dimension that limits the extent of a topological object
+  examples: []
+  notes:
+  - The boundary of a topological complex corresponds to the boundary of the geometric
+    realization of the topological complex.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 64b7e56a-e2fe-5dfb-be2e-6008053e6221
+status: superseded

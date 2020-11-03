@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3bac65b8-a515-5229-91ab-f1ad0474193c
+  definition: endliche, geordnete Menge von verwandten Elementen (Objekten oder Werten)
+    mit möglicher Wiederholung
+  examples: []
+  notes:
+  - Logically, a sequence is a set of pairs <item, offset>. LISP syntax, which delimits
+    sequences with parentheses and separates elements in the sequence with commas,
+    is used in this International Standard.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 97e73946-f338-51f4-8ec8-2cf3b2599e08
+status: valid

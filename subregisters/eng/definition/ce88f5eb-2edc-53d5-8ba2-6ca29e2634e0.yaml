@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44873.html
+    ref: ISO 19146:2010
+  concept: 5089d082-0888-5e0d-ae68-2ed57b8b90b0
+  definition: comparison of terminology entries from different domains to determine
+    their semantic equivalence
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: ce88f5eb-2edc-53d5-8ba2-6ca29e2634e0
+status: superseded

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 3a68ce9b-5e07-51d2-baf9-d1f003419039
+  definition: datumi, joka määrittelee painovoimaan liittyvien korkeuksien tai syvyyksien
+    suhteen Maahan
+  examples: []
+  notes:
+  - Useimmissa tapauksissa korkeusdatumi suhteutetaan keskimerenpintaan. Ellipsoidisia
+    korkeuksia käsitellään suhteessa kolmiulotteiseen ellipsoidiseen koordinaatistoon,
+    joka on kiinnitetty geodeettiseen datumiin. Korkeusdatumeja ovat muun muassa (hydrografiassa
+    käytetyt) luotausdatumit, joissa korkeus voi olla negatiivinen (syvyys).
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: bb15b909-5d32-5955-918a-0f2e225b96dd
+status: superseded

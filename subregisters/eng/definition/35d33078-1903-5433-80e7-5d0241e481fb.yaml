@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.10
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 76f7fc78-514a-5143-8777-4a2e129f1290
+  definition: collection of coordinate tuples referenced to the same coordinate reference
+    system and if that coordinate reference system is dynamic also to the same coordinate
+    epoch
+  examples: []
+  notes: []
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: 35d33078-1903-5433-80e7-5d0241e481fb
+status: valid

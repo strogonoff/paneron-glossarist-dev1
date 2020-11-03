@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.30
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 421ae5e3-6466-5d3f-bf99-9407353d704e
+  definition: graph embedded within a topological complex composed of all of the edges
+    and connected nodes within that complex
+  examples: []
+  notes:
+  - The edge-node graph is a subcomplex of the complex within which it is embedded.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 37e48720-88c1-5ffa-b1b2-db6c00d0f32c
+status: valid

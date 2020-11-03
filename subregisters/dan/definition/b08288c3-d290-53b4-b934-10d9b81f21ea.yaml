@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 3b564846-1777-52cf-a8f0-9c9ea7be3b6c
+  definition: handling, der sker i et øjeblik
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: b08288c3-d290-53b4-b934-10d9b81f21ea
+status: valid

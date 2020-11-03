@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0e2de1e6-e028-530b-ab62-5a9b63d08f24
+  definition: parametri tai parametrijoukko, joka määrittelee koordinaatiston origon,
+    mittakaavan ja orientaation
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: a525213d-11ae-55bb-a6ac-91eda86ddd7a
+status: superseded

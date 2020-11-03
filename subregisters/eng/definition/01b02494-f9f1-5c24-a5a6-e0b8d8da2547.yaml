@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 66a41f3b-5ab5-5d18-9047-8af3ad82ab8b
+  definition: change of coordinates, based on a one-to-one relationship, from one
+    coordinate reference system to another
+  examples: []
+  notes:
+  - Supertype of coordinate transformation and coordinate conversion.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 01b02494-f9f1-5c24-a5a6-e0b8d8da2547
+status: superseded

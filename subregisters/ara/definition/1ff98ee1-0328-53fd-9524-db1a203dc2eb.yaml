@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20697.html
+    ref: ISO/IEC 10746-3:1996
+  concept: e56b8d93-73bf-50e5-8abf-c38d5cc5a6f3
+  definition: وجهة نظر حول نظام معين وبيئته التي تتيح إمكانية التوزيع من خلال التحليل
+    الوظيفي للنظام إلى كيانات تتفاعل من خلال واجهات حاسب آلي
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 1ff98ee1-0328-53fd-9524-db1a203dc2eb
+status: superseded

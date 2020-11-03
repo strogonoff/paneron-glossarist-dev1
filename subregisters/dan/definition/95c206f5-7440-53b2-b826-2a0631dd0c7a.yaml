@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 9234ba69-f18f-5aa4-8e2a-1ef25fe9205f
+  definition: tidsrum af en varighed, der nominelt svarer til den tid, det tager jorden
+    at dreje omkring sin egen akse
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 95c206f5-7440-53b2-b826-2a0631dd0c7a
+status: valid

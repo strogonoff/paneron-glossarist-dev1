@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: ecd8a842-30cd-5a49-9272-85dd818cbbe1
+  definition: معلومات تتعلق بظواهر مرتبطة ارتباطا ضمنيا أو ظاهرياً بموقع ذي صلة بالأرض
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 552830cf-5af5-5f00-87e6-8cf6acc19228
+status: valid

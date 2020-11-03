@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 35b6a36a-31a2-5aa9-b5ef-cd0c59b29e9c
+  definition: vertausjärjestelmä, jonka suhteen aikaa mitataan
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 43328fa9-172f-598e-9abb-f0ca76306cfb
+status: valid

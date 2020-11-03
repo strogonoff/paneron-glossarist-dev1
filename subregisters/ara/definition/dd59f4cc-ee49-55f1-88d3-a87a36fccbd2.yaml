@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: eaa65aba-9adb-5857-b5de-b965869c6980
+  definition: مسافة نقطة من  سطح مرجعي مختار مُقاسةً إلى أعلى بامتداد خط متعامد على
+    ذلك السطح
+  examples: []
+  notes:
+  - الارتفاع الذي يكون أدنى من السطح المرجعي ستكون قيمته سالبة.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: dd59f4cc-ee49-55f1-88d3-a87a36fccbd2
+status: superseded

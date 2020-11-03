@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 8ce91f63-2c22-5ea2-8a3a-e308c1b9c551
+  definition: كائن طوبولوجي يمثل ربطاً منطقياً بين عنصر طوبولوجي بسيط وأحد اتجاهاته
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 0dbc6b5a-e7da-5d99-835f-73905d6f1db1
+status: retired

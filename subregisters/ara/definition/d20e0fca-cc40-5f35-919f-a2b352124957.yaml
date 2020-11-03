@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 95d7c7bf-8360-5011-bf34-419114dfff98
+  definition: مجموعة من البنود ذات خصائص مشتركة
+  examples: []
+  notes:
+  - كلمة فئة مستعملة في هذا السياق للإشارة إلى مجموعة من الأمثلة وليس الإشارة إلى
+    التصور المجرد المأخوذ من تلك المجموعة من الأمثلة.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: d20e0fca-cc40-5f35-919f-a2b352124957
+status: valid

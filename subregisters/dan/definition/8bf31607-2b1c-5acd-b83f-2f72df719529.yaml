@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 75004415-4619-50cb-82c0-477bbb17120e
+  definition: semantisk betingelse eller begrænsning
+  examples: []
+  notes:
+  - 'Nogle restriktioner er prædefinerede i UML, andre kan være brugerdefinerede.  Restriktioner
+    er en af tre udvidelsesmekanismer i UML. Se: tagged værdi, stereotype.'
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 8bf31607-2b1c-5acd-b83f-2f72df719529
+status: superseded

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.3
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 26727acf-e91f-54f6-bd58-cc73aace1e93
+  definition: Bewegungsrichtung einer Plattform
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: db386225-1a4b-5e29-b866-87e182d729ab
+status: valid

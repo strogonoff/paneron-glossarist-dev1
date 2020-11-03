@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.2.10
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: adc9c16f-04cd-5ec0-bbde-f7a180c7fbaf
+  definition: unstructured set of thematically related concepts
+  examples: []
+  notes: []
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: 4e787f76-697b-5a35-ac1d-edf404cb699b
+status: valid

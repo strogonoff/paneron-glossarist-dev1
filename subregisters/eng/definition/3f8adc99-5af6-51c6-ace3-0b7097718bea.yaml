@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.51'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 99ccfc05-a55c-5656-b135-264f9bcf75da
+  definition: collection of data points in 3D space
+  examples: []
+  notes:
+  - The distance between points is generally non-uniform and hence all three coordinates
+    (Cartesian or spherical) for each point must be specifically encoded.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 3f8adc99-5af6-51c6-ace3-0b7097718bea
+status: valid

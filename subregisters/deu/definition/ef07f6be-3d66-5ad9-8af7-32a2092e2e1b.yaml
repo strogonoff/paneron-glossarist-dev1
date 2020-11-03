@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.39
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: e2438fb8-a68f-5474-bf64-07f6eadbd984
+  definition: Höhenwinkel zwischen der lokalen Tangentialebene und der Messrichtung
+    des Radarstrahls
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: ef07f6be-3d66-5ad9-8af7-32a2092e2e1b
+status: valid

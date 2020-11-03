@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.33
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: e641aca7-094f-5137-a6a4-03da150104c5
+  definition: خاصية معلم GML تصف بعض الجوانب الهندسية للمعلم
+  examples: []
+  notes:
+  - اسم الخاصية الهندسية هو دور الهندسة فيما يتعلق بالمعلم.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 317f13d1-66a9-5c68-922f-0577370a6146
+status: valid

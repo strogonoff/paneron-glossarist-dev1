@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: ff7baf96-775d-5d9f-8cb9-bff61699e850
+  definition: extension of an existing metaclass that enables the use of platform
+    or domain specific terminology or notation in place of, or in addition to, the
+    ones used for the extended metaclass
+  examples: []
+  notes: []
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: e9b708ed-15b5-5823-96e7-20a6d76e8c13
+status: valid
