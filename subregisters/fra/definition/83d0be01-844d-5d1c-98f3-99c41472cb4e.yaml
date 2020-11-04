@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: ISO 21000-1
+  concept: 1ed7b73b-c034-527a-982c-5579dcec8f35
+  definition: objet digital structuré [actif, travail, service, donnée ou information]
+    avec une représentation standard, une identification et une structure de métadonnées
+  examples: []
+  notes: []
+dateAccepted: 2005-10-17 00:00:00+00:00
+id: 83d0be01-844d-5d1c-98f3-99c41472cb4e
+status: valid

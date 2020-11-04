@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: b8b15aa5-ebee-5508-a48c-60c66c0cb1b8
+  definition: förhållande mellan två mängder sådant att det finns en strukturbevarande
+    avbildning från den ena till den andra
+  examples: []
+  notes:
+  - Homomorphisms are distinct from isomorphisms in that no inverse function is required.
+    In an isomorphism, there are essentially two homomorphisms that are functional
+    inverses of one another. Continuous functions are topological homomorphisms because
+    they preserve "topological characteristics." The mapping of topological complexes
+    to their geometric realizations preserves the concept of boundary and is therefore
+    a homomorphism.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2860b9b9-d29b-5550-9ef1-ee6e6adb73d5
+status: superseded

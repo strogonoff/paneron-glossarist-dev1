@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: S-32, Fifth Edition
+    ref: IHO Hydrographic Dictionary
+  concept: e6c8191c-26e1-54c3-8c7e-f12737a77758
+  definition: vertical distance, at any section of a vessel from the surface of the
+    water to the bottom of the keel
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 5f0c2686-3be2-55e4-8bf5-19719c02e4c4
+status: valid

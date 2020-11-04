@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dd89d158-419c-571b-940a-4abf4a6c6efc
+  definition: 规范的实施。
+  examples: []
+  notes:
+  - 在ISO地理信息标准的语境中，实现包括地理信息服务和数据集的规范。
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 3bc1c78e-3442-53a4-82ca-4ad96ffddf3f
+status: valid

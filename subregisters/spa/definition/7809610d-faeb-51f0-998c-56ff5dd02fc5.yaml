@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: 997200da-4d12-5959-97be-a12f5c54c6e1
+  definition: metadatos que describen las operaciones y la información geográfica
+    disponible en un servidor
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 7809610d-faeb-51f0-998c-56ff5dd02fc5
+status: valid

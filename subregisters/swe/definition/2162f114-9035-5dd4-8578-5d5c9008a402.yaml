@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 772db77f-e23a-59cf-a32a-a83f971bea15
+  definition: längs utsträckningen av ett objekt, förekomst av  något som representeras
+    av ett attributvärde eller av ett annat objekt
+  examples: []
+  notes:
+  - The event location is specified using linearly referenced locations.
+  - A linearly located event may be qualified by the instant in which, or period during
+    which, the linearly located event occurred.
+  - ISO 19108 limits events to a single instant in time and does not include the specification
+    of a location.
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 2162f114-9035-5dd4-8578-5d5c9008a402
+status: valid

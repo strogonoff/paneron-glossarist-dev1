@@ -1,0 +1,23 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.16
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: d2cc3fbb-c36d-5cc8-90ee-a38797b469a8
+  definition: group of multiple realizations of the same terrestrial or vertical reference
+    system that, for approximate spatial referencing purposes, are not significantly
+    different
+  examples:
+  - WGS 84 as an undifferentiated group of realizations including WGS 84 (TRANSIT),
+    WGS 84 (G730), WGS 84 (G873), WGS 84 (G1150), WGS 84 (G1674) and WGS 84 (G1762).
+    At the surface of the Earth these have changed on average by 0.7 m between the
+    TRANSIT and G730 realizations, a further 0.2 m between G730 and G873, 0.06 m between
+    G873 and G1150, 0.2 m between G1150 and G1674 and 0.02 m between G1674 and G1762).
+  notes:
+  - Datasets referenced to the different realizations within a datum ensemble may
+    be merged without coordinate transformation.
+  - '''Approximate'' is for users to define and typically is in the order of under
+    1 decimetre but may be up to 2 metres.'
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: a19b489c-6ded-56e7-acee-1c8b59625d28
+status: valid

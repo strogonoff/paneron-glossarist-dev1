@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.40
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 1fddcdac-11cd-57fd-bce5-5903d7332874
+  definition: conversión de coordenadas desde un sistema de coordenadas elipsoidales
+    a uno plano
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 04145051-28bf-5efc-9732-923c470614bd
+status: valid

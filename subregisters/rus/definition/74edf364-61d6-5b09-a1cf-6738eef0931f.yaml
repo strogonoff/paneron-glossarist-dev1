@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 917ac226-7f47-54e6-921f-b564266c7d30
+  definition: набор правил для создания идентификаторов
+  examples: []
+  notes: []
+dateAccepted: 2011-10-15 00:00:00+00:00
+id: 74edf364-61d6-5b09-a1cf-6738eef0931f
+status: valid

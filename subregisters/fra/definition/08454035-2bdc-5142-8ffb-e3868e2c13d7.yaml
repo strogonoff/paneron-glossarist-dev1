@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: aa709872-1a2e-575c-a44c-04a40a2c22da
+  definition: système de coordonnées de référence dérivé par projection cartographique
+    d'un système de coordonnées de référence bidimentionnel
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 08454035-2bdc-5142-8ffb-e3868e2c13d7
+status: superseded

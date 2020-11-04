@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  concept: 496ad627-e5b6-5cc2-8e32-6b0ad872fc9d
+  definition: service dont la réponse (ou autre propriété) dépend de la localisation
+    du client (ou d'autre chose, objet ou personne) demandant le service
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 2d7cee47-919f-542c-b0c2-2a6e5574af40
+status: valid

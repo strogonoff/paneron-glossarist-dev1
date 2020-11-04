@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.31'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: b571dfda-f6a0-5074-a385-8d10b8e6c88d
+  definition: ensemble de règles communes définissant les interactions entre des systèmes
+    distribués
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 00b581f8-4f6e-55f1-aac1-93b46bcf2e36
+status: valid

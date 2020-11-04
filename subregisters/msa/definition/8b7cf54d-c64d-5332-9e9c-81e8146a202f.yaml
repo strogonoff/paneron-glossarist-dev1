@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.53
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 2804d955-5b4b-5723-a90e-789db930b33b
+  definition: satah di belakang lensa pengimejan di mana imej objek dalam kedalaman
+    bidang lensa berada dalam fokus
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 8b7cf54d-c64d-5332-9e9c-81e8146a202f
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.11
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: d2933d15-8f28-5193-b6bb-b853d6c87442
+  definition: abstraction of real world phenomena
+  examples: []
+  notes:
+  - A feature may occur as a type or an instance.  Feature type or feature instance
+    shall be used when only one is meant.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 7ec32b0f-869f-57e4-a4f9-7c59d27bc138
+status: valid

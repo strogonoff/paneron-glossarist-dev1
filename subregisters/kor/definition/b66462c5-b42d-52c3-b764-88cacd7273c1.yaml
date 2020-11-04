@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: d8ebd211-773e-566d-bb73-d7ca03e17b61
+  definition: 지정된 기하 객체로부터 주어진 거리 이내의 모든 직접 위치를 포함하는 기하 객체
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b66462c5-b42d-52c3-b764-88cacd7273c1
+status: superseded

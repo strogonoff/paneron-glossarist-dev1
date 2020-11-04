@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.27
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: c684de6d-55b4-5f29-a71c-ae45126b2652
+  definition: تمثيل لبيانات صور من حيث إحداثيات لون-الفضاء المناسبة لذلك، والمقترنة
+    باحكام ، بخصائص جهاز اخراج ومشاهدة حقيقي او افتراضي محدد
+  examples: []
+  notes:
+  - حالات تمثيل الصور مهياة للعرض المرئي سواء كانت نسخا ورقية أو نسخا رقمية. .
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 30154c87-a932-5879-b71a-6cbf74f65c72
+status: valid

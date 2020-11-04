@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: 2f04ddff-330b-5581-b54a-b218a8c2394a
+  definition: 기존 자연 환경에서 분리된 표본 또는 모집단을 연구, 유지 보존하는 연구
+  examples: []
+  notes:
+  - Opposite of in-situ.
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 6a9bb9f2-9124-5953-ae5c-4fa3a99b3b5b
+status: valid

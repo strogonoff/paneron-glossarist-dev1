@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: b0302a1a-5bab-51fa-9bfb-a5dd692e8496
+  definition: 有向路段和/或部分有向路段的序列，描述了在网络中通常介于两个位置之间的一条路线。
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 709240a6-5ae8-58db-b226-663e8ba9d995
+status: valid

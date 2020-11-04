@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.101
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 84295357-016e-5064-9f2b-b9497d7c6b8b
+  definition: عنصر طوبولوجي بسيط ثلاثي الأبعاد
+  examples: []
+  notes:
+  - يتكون الحد الخارجي للمجسم الطوبولوجي من مجموعة من الواجهات الموجهة.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 74566011-7d5d-5d41-953f-abed6685576e
+status: valid

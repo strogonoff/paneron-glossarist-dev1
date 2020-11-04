@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 699c95c4-91ce-55c5-9a41-cef92f5a2427
+  definition: 数据质量子元素的取值。
+  examples:
+  - 属性值正确的百分率。
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 08e8c3e4-2fa7-514a-b7b1-dd79fa7f6c89
+status: retired

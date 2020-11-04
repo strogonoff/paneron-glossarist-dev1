@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 145fe334-2ee5-5f23-bd67-8de257df1699
+  definition: persona sujeta a navegación o seguimiento
+  examples: []
+  notes:
+  - Incluye a peatones. Véase la Norma ISO 14825. En esta norma internacional, viajero
+    se puede sustituir por vehículo sin ningún cambio de sentido.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: ef329574-3eb6-597a-9690-30c9f1d43b02
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  concept: e2a8c291-076a-5aeb-9d8e-9e05388f4de6
+  definition: abstractie van een fenomeen in de werkelijkheid dat direct of indirect
+    is geassocieerd met een locatie relatief ten opzichte van de aarde (bijvoorbeeld
+    ten opzichte van het aardoppervlak)
+  examples: []
+  notes:
+  - Indien met een geo-object een gebied wordt bedoeld, kan dit in twee of drie dimensies
+    zijn begrensd
+  - 'Of een fenomeen een geo-object is of niet hangt af van de context waarin het
+    object is geplaatst. Is er een associatie met een geo-gerefereerde locatie dan
+    is het een geo-object. Is de associatie er niet dan is het fenomeen geen geo-object.
+    Zo is bijvoorbeeld het fenomeen huis weergegeven op een landkaart een geo-object.
+    Is het weergegeven op een foto dan is het geen geo-object. Met andere woorden:
+    koppeling van geo-informatie maakt van een object een geo-object.'
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: 5b528daa-74d8-5139-ab0e-00e957d058f7
+status: valid

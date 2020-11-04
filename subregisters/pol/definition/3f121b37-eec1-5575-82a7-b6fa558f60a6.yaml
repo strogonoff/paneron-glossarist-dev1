@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 04bfd986-a85d-540c-963b-5a85c2614a2b
+  definition: 'wydzielona część funkcjonalności zapewniana przez jednostkę za pośrednictwem
+    interfejsów (4.2)
+
+    [adaptowana z ISO/IEC TR 14252]'
+  examples: []
+  notes:
+  - Omówienie usługi, patrz 7.2.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 3f121b37-eec1-5575-82a7-b6fa558f60a6
+status: valid

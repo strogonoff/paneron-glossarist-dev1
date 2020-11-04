@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.2
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  concept: 4fb20186-2548-5cbf-b3b1-33e90acca54c
+  definition: 정보와 정보 처리 과정의 의미론에 초점을 맞춘 개방형 분산 처리 시스템과 그 환경에 대한 관점
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: fa08ebc2-5078-560c-aaad-ed653e1467a4
+status: valid

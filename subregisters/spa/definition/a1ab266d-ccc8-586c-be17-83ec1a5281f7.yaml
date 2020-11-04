@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 75004415-4619-50cb-82c0-477bbb17120e
+  definition: restricción o  condición semántica
+  examples: []
+  notes:
+  - 'ciertas restricciones están predefinidas en el UML, otras pueden ser definidas
+    por el usuario. Las restricciones son uno de los tres mecanismos de extensión
+    de UML. Véase: valor etiquetado, estereotipo.'
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: a1ab266d-ccc8-586c-be17-83ec1a5281f7
+status: superseded

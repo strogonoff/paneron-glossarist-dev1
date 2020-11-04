@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.39'
+    link: https://www.iso.org/standard/63541.html
+    ref: ISO 19104:2016
+  concept: 39792f0f-c988-54a1-a48b-0a09a07db84c
+  definition: register of terminological entries
+  examples: []
+  notes:
+  - A terminology register may be structured according to language and/or domain.
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: 9c8df7f6-b04e-58ef-8b2b-bab5ca012192
+status: valid

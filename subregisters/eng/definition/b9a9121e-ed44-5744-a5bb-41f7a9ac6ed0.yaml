@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: f615f354-68aa-5dde-aa74-88c87135d0ec
+  definition: attribute on a stereotype used to extend a model element
+  examples: []
+  notes: []
+dateAccepted: 2015-12-01 00:00:00+00:00
+id: b9a9121e-ed44-5744-a5bb-41f7a9ac6ed0
+status: valid

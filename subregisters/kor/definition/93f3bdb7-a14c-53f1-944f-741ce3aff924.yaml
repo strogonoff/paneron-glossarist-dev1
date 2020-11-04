@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.21
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 84079d27-6841-5537-afcf-59be952aa897
+  definition: 남북 방향의 기준선으로부터 동쪽(양수) 혹은 서쪽(음수)으로 표시하는 좌표 체계상의 동쪽방향 거리
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 93f3bdb7-a14c-53f1-944f-741ce3aff924
+status: valid

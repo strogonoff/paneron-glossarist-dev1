@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.56
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 1bcd3f49-d210-5d30-890e-32350e1e8b45
+  definition: 두 개의 개체로 구별가능한 두 점 반사장치들 사이의 최저 거리와 동일한 소점 반사장치에 의해 생성된 반응폭
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 65582889-1408-5d7c-9233-39b23014646c
+status: valid

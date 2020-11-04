@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.40
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 1fddcdac-11cd-57fd-bce5-5903d7332874
+  definition: перевычисление координат, когда одна координатная система является геодезической,
+    а другая - плоской
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 27fdff17-8502-5f51-ad13-e2f1e2b4f799
+status: valid

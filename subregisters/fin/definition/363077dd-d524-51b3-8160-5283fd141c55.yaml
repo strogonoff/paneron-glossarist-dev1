@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 991f751c-60da-58a7-81cc-721ca56fe489
+  definition: rajoitus sille, miten linkin tai käännöksen kautta voidaan kulkea; esimerkiksi
+    ajoneuvoluokitus tai fyysinen tai aikaan liittyvä rajoitus
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 363077dd-d524-51b3-8160-5283fd141c55
+status: valid

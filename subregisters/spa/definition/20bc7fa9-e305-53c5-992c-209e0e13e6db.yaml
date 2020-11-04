@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 297aced6-b3f5-5bf5-88f2-af7a05954fba
+  definition: sistema de referencia temporal que consta de eras ordinales
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 20bc7fa9-e305-53c5-992c-209e0e13e6db
+status: valid

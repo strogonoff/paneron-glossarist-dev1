@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: d02c5ba2-6268-5a0d-a263-257e652f3d2c
+  definition: 서비스의 특정 인스턴스
+  examples: []
+  notes: []
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: da383e1d-509a-51ce-b78e-007da150d325
+status: valid

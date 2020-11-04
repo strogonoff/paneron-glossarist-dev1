@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.97
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: e97a476d-3176-5e63-a30d-725a0de3e599
+  definition: kolekcja prostych elementów topologicznych, domknięta w sensie operacji
+    na granicach
+  examples: []
+  notes:
+  - Domknięcie w ujęciu operacji na granicach oznacza, że jeżeli pewien prosty element
+    topologiczny jest zawarty w złożonym elemencie topologicznym, to jego obiekty
+    graniczne są również zawarte w tym złożonym elemencie topologicznym.
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: e6ef1576-915c-545e-9891-db10dff932d6
+status: valid

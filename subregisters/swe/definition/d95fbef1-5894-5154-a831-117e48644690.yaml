@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.58
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: d18911dc-3853-5533-a461-0e55a91c5a16
+  definition: sammansatt koordinatsystem som består av rumsliga, parametriska och
+    temporala koordinatsystem
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: d95fbef1-5894-5154-a831-117e48644690
+status: valid

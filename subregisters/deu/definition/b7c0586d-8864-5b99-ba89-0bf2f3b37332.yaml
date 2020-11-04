@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.29
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: d860f8f4-ccdb-5a4c-87e1-94612ccb95e5
+  definition: eindimensionales Primitiv
+  examples: []
+  notes:
+  - The geometric realization of an edge is a curve. The boundary of an edge is the
+    set of one or two nodes associated to the edge within a topological complex.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b7c0586d-8864-5b99-ba89-0bf2f3b37332
+status: valid

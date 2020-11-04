@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.40'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: da372703-9564-550d-ae17-fed54692c11f
+  definition: entity that is protected by a licence
+  examples: []
+  notes:
+  - In general, a resource is data, metadata (a type of data describing other resources),
+    or some service or process that can be invoked on other resources. Licences describe
+    rights on resources and, as such, are resources in themselves.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: e26cc99a-e100-5796-ba30-c3b7a9d31077
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.42
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: f1cbe5e4-4cba-59e5-a3fa-e8bf01779453
+  definition: intersección de un elipsoide con un plano que contiene el eje menor
+    del elipsoide
+  examples: []
+  notes:
+  - Este término se usa a menudo para el arco que va de un polo al otro polo en vez
+    de la figura completa cerrada.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: d565083b-96e8-5690-877b-3896ecffc1af
+status: valid

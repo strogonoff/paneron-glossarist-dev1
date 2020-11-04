@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.33
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: e641aca7-094f-5137-a6a4-03da150104c5
+  definition: <GML>GML要素的特性，描述了要素的某些几何特征。
+  examples: []
+  notes:
+  - 几何特性的名称是与要素相连的几何角色。
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: c4181b1c-4066-54b0-a8f3-5133aadef0f0
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: d87e20d9-f14c-5956-a79d-50e4b1cf4e26
+  definition: 通常由平行扫描线形成的或者与阴极射线管显示相对应的矩形图案。
+  examples: []
+  notes:
+  - 栅格是格网的一种类型。
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 5c89f6a6-bb3e-5726-a492-5b2f708d9fda
+status: valid

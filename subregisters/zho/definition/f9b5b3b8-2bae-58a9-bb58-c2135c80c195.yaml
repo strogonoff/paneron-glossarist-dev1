@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.10
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: f59a4f60-1de5-5053-8f09-62b52959902c
+  definition: 受注册表所有者委托管理注册表的组织。
+  examples: []
+  notes:
+  - 对于ISO注册表，注册表管理员行事ISO/IEC导则中规定的注册机构的职责。
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f9b5b3b8-2bae-58a9-bb58-c2135c80c195
+status: valid

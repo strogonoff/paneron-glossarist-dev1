@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 4d45572f-4a4e-52d4-8c2f-c33b3cb1a253
+  definition: siatka, dla której istnieje transformacja afiniczna między jej współrzędnymi
+    a współrzędnymi jakiegoś zewnętrznego systemu odniesień przestrzennych
+  examples: []
+  notes:
+  - Jeśli ten system odniesień przestrzennych jest powiązany z Ziemią przez układ
+    odniesienia, to siatka jest siatką georektyfikowaną.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 338d0e46-f8ed-5cd2-b3d8-1d79edc34c04
+status: valid

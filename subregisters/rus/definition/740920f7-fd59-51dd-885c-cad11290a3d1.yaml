@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 3bedecff-1481-5517-83ff-723ced9fd954
+  definition: метод оценки качества набора данных, основанный на дополнительных знаниях
+  examples: []
+  notes:
+  - Примерами дополнительных знаний являются происхождение набора данных, включая
+    методы создания или источники данных
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 740920f7-fd59-51dd-885c-cad11290a3d1
+status: valid

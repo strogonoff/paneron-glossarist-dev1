@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 60f1ebd6-56fc-5a3b-8627-ccb87e7a25d9
+  definition: 在三维复形中无界的拓扑体。
+  examples: []
+  notes:
+  - 在三维中宇宙体与宇宙面相似，通常也不是任何要素的一个部分。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2c1f629a-7eeb-5217-958e-88547f56d343
+status: retired

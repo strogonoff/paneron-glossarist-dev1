@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 2d8f440e-509d-5fd2-9098-f31342a33029
+  definition: 특정 시험 절차와 상관 없이 독립적인 시험 구현을 위한 방법
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 7be80dd2-0d7c-582b-bd2c-7c648d24cdd4
+status: valid

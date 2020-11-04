@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/55723.html
+    ref: ISO/IEC 10746-2
+  concept: 916e06c7-248e-53ac-8e89-fed5ca08336d
+  definition: rancangan tindakan yg disetujui, yg menjadi dasar sesebuah pergerakan,
+    pertubuhan dll dlm melaksanakan sesuatu keputusan
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: e8998bcf-c5d9-505a-99a1-de9d27ead332
+status: valid

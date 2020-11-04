@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  concept: de353212-6ed2-530d-96d2-6f7ed081bda5
+  definition: pengurangan umum pada tahap kapal yang bergerak, berbanding dengan tahapnya
+    apakah ia tidak bergerak, kerana depresi serantau permukaan air di mana kapal
+    bergerak
+  examples: []
+  notes:
+  - Settlement is not an increase in displacement.
+  - Settlement is measured as an angular tilt about the centre of gravity of the vessel.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 4ed48b19-d600-5a48-93d9-768d93ae8c18
+status: valid

@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: '3.20'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  concept: c8266e19-e5e7-5701-872f-a0cf29380386
+  definition: instance of a transport service supporting mobility, for example, a
+    specific flight, a specific ferry departure or a specific taxi tour
+  examples: []
+  notes:
+  - May follow a pre-defined trip pattern or the trip may be ad hoc according to specific
+    mobility demands. Depending on the nature of the trip, it may start and stop at
+    several transfer nodes.
+  - A trip may serve many travellers, and the travellers may make use different part
+    of a trip (e.g. different legs between different bus stops), and these parts may
+    be whole journeys or journey segments.
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: fbbbcfc3-94b9-5eb7-80c1-21045a3c746a
+status: valid

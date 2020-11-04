@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: part 5, modified
+    ref: XrML 2.0 specification
+  concept: 6e1ad830-90df-58c3-9797-c858ebb06c0e
+  definition: representation of grants that convey to principals the rights to use
+    specified resources subject to specified conditions
+  examples: []
+  notes:
+  - A licence represents, but is not, a contract that grants a party explicit rights
+    to use Intellectual Property.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 554404cb-1639-516d-93d2-1c54628883c1
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: aa709872-1a2e-575c-a44c-04a40a2c22da
+  definition: kaksiulotteiseen tasoon muodostettu, yleensä suorakulmainen koordinaattijärjestelmä
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: eaab4675-f4fb-5edc-83d3-8de6b4722993
+status: superseded

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 583769ac-8270-5f90-a6fe-7d4cec9a5194
+  definition: entité qui a une identité unique, à laquelle un ensemble d'opérations
+    peut être appliquée, et un état stockant les effets des opérations
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 45a70e3b-1ecb-5169-842c-5cf9af4e34cb
+status: superseded

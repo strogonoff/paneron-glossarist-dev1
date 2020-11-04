@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/1141.html
+    ref: ISO 2859-1
+  concept: 2460e3da-a989-504d-9293-84d6ab426479
+  definition: 개별적으로 기술될 수 있거나, 고려될 수 있는 것
+  examples: []
+  notes:
+  - 피처, 피처 관계, 피처 속성 또는 이것들의 조합과 같은 데이터셋의 특정 부분이 항목이 될 수 있다.
+dateAccepted: 2008-12-19 00:00:00+00:00
+id: 9cc7c5fd-f606-590d-a118-4068b8da000e
+status: retired

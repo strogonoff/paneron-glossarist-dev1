@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 16ee326a-ae17-5463-84d7-4e32098ee7fa
+  definition: capacidad de cualquier instancia de una clase que es descendiente por
+    herencia o una realización de otra clase, tipo o interfaz, para ser usada en lugar
+    de una instancia de su antecesor en cualquier contexto
+  examples: []
+  notes:
+  - Las formas más débiles de intercambiabilidad implican varias restricciones en
+    el contexto de la sustitución subyacente.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 7f0b4e33-0175-5f34-bf2f-00945415b4cd
+status: retired

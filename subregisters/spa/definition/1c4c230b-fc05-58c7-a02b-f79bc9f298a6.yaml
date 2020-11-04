@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39242.html
+    ref: ISO 6709:2008
+  concept: ad15e8ad-63ae-5550-ba88-33ad68b96807
+  definition: unidad asociada con el dígito menos significativo de una coordenada
+  examples: []
+  notes:
+  - La resolución de las coordenadas puede tener unidades angulares o lineales dependiendo
+    de las características del sistema de coordenadas
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: 1c4c230b-fc05-58c7-a02b-f79bc9f298a6
+status: valid

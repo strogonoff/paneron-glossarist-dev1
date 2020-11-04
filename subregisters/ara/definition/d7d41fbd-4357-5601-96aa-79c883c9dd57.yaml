@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 7427ab28-503d-505e-a936-f50cbdf919a2
+  definition: معالجة وتجهيز البيانات فيما يدعم متطلبات المستخدم
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: d7d41fbd-4357-5601-96aa-79c883c9dd57
+status: valid

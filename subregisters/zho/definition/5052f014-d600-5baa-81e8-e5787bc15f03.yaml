@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  concept: bc8d71ac-de60-56a6-bfe6-b66d4bca9ec9
+  definition: 在其定义域内函数f随着自变量变化得到的全部值的集合。
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 5052f014-d600-5baa-81e8-e5787bc15f03
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 66e14a20-d3b3-5b78-9351-4c1edf1192ce
+  definition: movement of data from one point to another over a medium
+  examples: []
+  notes:
+  - Transfer of information implies transfer of data.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 9d3e911f-e6a9-5fff-a9d0-5da58f986cc0
+status: valid

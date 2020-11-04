@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.33
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 598b17ce-3a28-56e6-bcce-29c05e4b1679
+  definition: ángulo que forma el plano meridiano principal con el plano meridiano
+    de un punto dado, se toma positiva hacia el este
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: f166bd3b-7c3e-58f1-aab0-890125dc72c7
+status: valid

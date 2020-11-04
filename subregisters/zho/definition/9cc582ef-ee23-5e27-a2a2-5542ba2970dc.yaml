@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 219cf47a-e0ae-50bd-9595-ebf6075d539d
+  definition: 为特定用户的需求提供或组合基本服务的应用。
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 9cc582ef-ee23-5e27-a2a2-5542ba2970dc
+status: valid

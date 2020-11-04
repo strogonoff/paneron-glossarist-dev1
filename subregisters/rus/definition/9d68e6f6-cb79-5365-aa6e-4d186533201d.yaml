@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.5
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: b978748c-6dce-591e-941a-a63f0ad243cf
+  definition: элемент, являющийся ближайшим потомком по отношению к другому элементу
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 9d68e6f6-cb79-5365-aa6e-4d186533201d
+status: valid

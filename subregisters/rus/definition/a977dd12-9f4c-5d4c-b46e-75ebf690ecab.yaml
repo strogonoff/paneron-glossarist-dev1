@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 8ce91f63-2c22-5ea2-8a3a-e308c1b9c551
+  definition: топологический объект, который представляет логическую связь между топологическим
+    примитивом и одним из его направлений
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: a977dd12-9f4c-5d4c-b46e-75ebf690ecab
+status: retired

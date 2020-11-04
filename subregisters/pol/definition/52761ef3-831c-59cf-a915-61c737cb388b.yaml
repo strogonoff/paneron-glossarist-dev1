@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: eb493507-32a1-58e4-9990-f85c32bc530a
+  definition: odległość punktu od wybranej powierzchni odniesienia w dół, wzdłuż linii
+    prostopadłej do tej powierzchni
+  examples: []
+  notes:
+  - Głębokość powyżej powierzchni odniesienia ma wartość ujemną.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 52761ef3-831c-59cf-a915-61c737cb388b
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39229.html
+    ref: ISO 19115-2:2009
+  concept: 3f0723dd-8929-5c13-8b4f-b0f6f057f880
+  definition: فاصل طول موجي محدد ضمن الطيف الكهرومغنطيسي
+  examples:
+  - حزمة الطول الموجي 1 بالقمر الصناعي لاندسات تي إم تقع 0.45 و0.52 وحدة قياس في الجزء
+    الظاهر من الطيف.
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 637a5587-ea05-5c92-a501-090fd3859b3c
+status: valid

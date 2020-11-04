@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/26019.html
+    ref: ISO 19114:2003
+  concept: ac7509ae-90e6-5a98-be86-193ab6179b27
+  definition: datos aceptados como representativos del universo de discurso, para
+    ser usados como referencia en los métodos directos externos de evaluación de la
+    calidad
+  examples: []
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 14f437ca-a151-522b-bce9-359b876fbc38
+status: retired

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: Derived from FindLaw for “agent”
+  concept: 6ba91311-ae9d-58c5-a783-f02d63342707
+  definition: principal authorized to act on behalf of and under the control of another
+    in dealing with third parties in the context of issuing licences for specified
+    resources
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 4f868d07-ee71-5afe-96e0-3479af67063f
+status: valid

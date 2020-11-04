@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 450c0504-23ba-55e6-80aa-8c2857901906
+  definition: 由限定拓扑对象范围的更低拓扑维的有向拓扑单形的集合所表达的边界。
+  examples: []
+  notes:
+  - 拓扑复形的边界对应于该拓扑复形的几何实现的边界。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 49256a0d-2c3e-55e2-9521-3d8aa1a06eff
+status: superseded

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.14
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: a9a415c5-2999-5341-9f1c-a0c7b0e2a925
+  definition: сторона, зарегистрированная и идентифицированная как составная часть
+    группы сторон
+  examples: []
+  notes: []
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 52a47d5c-f9d0-5c3f-9f33-ff6f029b1344
+status: valid

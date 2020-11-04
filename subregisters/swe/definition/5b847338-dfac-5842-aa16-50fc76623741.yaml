@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 4.1.22
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 086275fc-e2e1-56e0-aced-019383960226
+  definition: markreglerande källhandling med rumslig representation av en hel, en
+    del av eller flera gränssatta områden
+  examples:
+  - A field survey sketch, an orthophoto or a satellite image with evidence of the
+    location of boundaries (collected from the field).
+  notes: []
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 5b847338-dfac-5842-aa16-50fc76623741
+status: valid

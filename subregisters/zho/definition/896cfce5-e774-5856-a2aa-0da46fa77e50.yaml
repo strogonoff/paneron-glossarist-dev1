@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.87
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: be9409da-ccfb-5cc2-9497-367ec9a1cfc5
+  definition: 用于表达要素空间特性的对象。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 896cfce5-e774-5856-a2aa-0da46fa77e50
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 1650a910-a57e-5ed3-af9f-098f9bb59303
+  definition: test fonctionnel initial ayant pour but d'identifier clairement des
+    cas de non-conformité
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: aabe91cd-0974-5de9-92ca-d86e3702f9ea
+status: valid

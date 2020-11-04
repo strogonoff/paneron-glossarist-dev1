@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/1141.html
+    ref: ISO 2859-1
+  concept: 2460e3da-a989-504d-9293-84d6ab426479
+  definition: 1 barang atau benda dlm sesuatu senarai atau kumpulan. 2 perkara atau
+    hal yg diperkatakan atau dibincangkan.
+  examples: []
+  notes:
+  - An item can be any part of a dataset, such as a feature, feature relationship,
+    feature attribute, or combination of these.
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 98451ea8-48ff-5f8c-bc4a-b811987bbcd1
+status: retired

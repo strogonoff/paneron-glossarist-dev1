@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 15a4a183-9aec-58a0-9ca0-4b268efc7621
+  definition: اسم لمجموعة عمليات تميز سلوك كيان معين
+  examples: []
+  notes:
+  - انظر الفقرة 7-2 [من مقياس آيزو 19119] التي تتعلق ببحث ومناقشة الواجهة.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 637569c4-2d86-53ee-875e-8ca15acc87dd
+status: valid

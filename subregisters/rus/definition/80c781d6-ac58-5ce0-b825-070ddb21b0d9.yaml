@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.6
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 92eee17a-9534-5597-80d5-c6848471a6ac
+  definition: формальное описание концептуальной модели
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 80c781d6-ac58-5ce0-b825-070ddb21b0d9
+status: valid

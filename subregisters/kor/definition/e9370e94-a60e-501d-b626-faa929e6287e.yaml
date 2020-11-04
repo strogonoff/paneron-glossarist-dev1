@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.37'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 536edc0b-f0ea-5db1-9bbd-47ad58bebc94
+  definition: 점원에서 특정 방향 내로 향하는  단위입체각당 동력
+  examples: []
+  notes:
+  - Typically for LIDAR, sufficient calibration has not been done to calculate absolute
+    intensity, so relative intensity is usually reported.  In linear mode systems,
+    this value is typically provided as an integer, resulting from a mapping of the
+    return’s signal power to an integer value via a lookup table.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: e9370e94-a60e-501d-b626-faa929e6287e
+status: valid

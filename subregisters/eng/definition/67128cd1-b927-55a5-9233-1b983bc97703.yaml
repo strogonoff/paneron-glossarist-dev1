@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/32581.html
+    ref: ISO/TS 19163-1:2016
+  concept: 6a216360-c5c4-55ca-a449-919d67c388e1
+  definition: groups of signal samples in a SAR processor that splits the full synthetic
+    aperture into several subapertures, each representing an independent look of the
+    identical scene
+  examples: []
+  notes:
+  - The resulting image formed by incoherent summing of these looks is characterized
+    by reduced speckle and degraded spatial resolution.
+dateAccepted: 2016-01-15 00:00:00+00:00
+id: 67128cd1-b927-55a5-9233-1b983bc97703
+status: valid

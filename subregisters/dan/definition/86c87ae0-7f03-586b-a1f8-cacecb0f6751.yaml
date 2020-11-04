@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.12
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: dc48c61a-61d9-5728-b2f4-aad41e037106
+  definition: knude, der starter eller slutter en eller flere kanter
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 86c87ae0-7f03-586b-a1f8-cacecb0f6751
+status: valid

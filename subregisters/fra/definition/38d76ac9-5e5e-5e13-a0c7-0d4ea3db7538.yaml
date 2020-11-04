@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.27
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: fcad9754-b2d7-5cb2-befe-c42ee2e05cd7
+  definition: système de positionnement basé sur la réception de signaux émis par
+    des satellites
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 38d76ac9-5e5e-5e13-a0c7-0d4ea3db7538
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.1
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 709da622-f6f2-5c45-81de-307ede9797d0
+  definition: 유클리디안 공간에서 직선축들로 구성된 좌표 체계로서 축들이 반드시 직교할 필요는 없음
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 8dee948c-d25a-5fd6-8391-96fe73c3352c
+status: valid

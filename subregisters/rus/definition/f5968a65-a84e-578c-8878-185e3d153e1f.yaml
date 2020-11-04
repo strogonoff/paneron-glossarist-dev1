@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: 964056e6-1059-593e-a045-78c48d27589c
+  definition: определение значения свойства, определенного с помощью известной процедуры
+    наблюдения
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: f5968a65-a84e-578c-8878-185e3d153e1f
+status: valid

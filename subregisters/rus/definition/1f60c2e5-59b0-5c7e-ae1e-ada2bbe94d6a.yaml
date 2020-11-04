@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.1
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 709da622-f6f2-5c45-81de-307ede9797d0
+  definition: система координат в Евклидовом  пространстве с прямыми, не обязательно
+    взаимно перпендикулярными осями
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 1f60c2e5-59b0-5c7e-ae1e-ada2bbe94d6a
+status: valid

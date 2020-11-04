@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 7844e790-2e19-5d2d-9b9b-1dd6bdeb43db
+  definition: 適合と報告された試験判定。
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 6778687e-137b-54cd-a66c-891c996eebc0
+status: valid

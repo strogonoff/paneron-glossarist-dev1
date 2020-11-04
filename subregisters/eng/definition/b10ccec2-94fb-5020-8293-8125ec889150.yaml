@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: a6092cdf-5efc-5ffa-8efb-642ef1467e3d
+  definition: height of the natural terrain free from vegetation as well as buildings
+    and other man-made structures
+  examples: []
+  notes: []
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: b10ccec2-94fb-5020-8293-8125ec889150
+status: valid

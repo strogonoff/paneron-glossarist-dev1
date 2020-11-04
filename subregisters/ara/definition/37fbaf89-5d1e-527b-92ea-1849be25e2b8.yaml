@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: a0cdfe23-c885-5d5f-acbe-c7db92ddec9e
+  definition: الخصائص الكلية لمنتج ما التي تؤثر على قدرته على تلبية الاحتياجات المعلنه
+    والضمنيه
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 37fbaf89-5d1e-527b-92ea-1849be25e2b8
+status: superseded

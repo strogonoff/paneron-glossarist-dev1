@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: Derived from FindLaw for “agent”
+  concept: 6ba91311-ae9d-58c5-a783-f02d63342707
+  definition: принципал, уполномоченный действовать от имени и под контролем другого
+    лица в отношениях с третьими сторонами в контексте выдачи лицензий на конкретные
+    ресурсы
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 2428b5da-4754-586c-9aa4-b9c71dfe26e4
+status: valid

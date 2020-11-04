@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44075.html
+    ref: ISO 19111-2:2009
+  concept: 4ddd84fc-d5ef-5fdd-bd0e-d98d5ab54dc4
+  definition: sammansatt koordinatsystem som består av ett parametriskt koordinatsystem
+    och ett rumsligt koordinatsystem
+  examples: []
+  notes:
+  - Normally the spatial component is "horizontal" and the parametric component is
+    "vertical".
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 6bdc60e3-6d00-51f2-92b1-afbdf9057790
+status: superseded

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.60
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: bbcef9fa-2443-558f-ad03-3b99158c4ece
+  definition: three-dimensional coordinate system in Euclidean space in which position
+    is specified by one distance coordinate and two angular coordinates
+  examples: []
+  notes:
+  - Not to be confused with an ellipsoidal coordinate system based on an ellipsoid
+    'degenerated' into a sphere.
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: b8401ebe-a99f-5b43-a30d-e51a05d16ed7
+status: valid

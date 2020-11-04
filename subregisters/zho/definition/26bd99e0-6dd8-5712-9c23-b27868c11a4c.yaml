@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.3
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 8b97b2cf-c95a-511a-81f9-b2aa05dbf489
+  definition: 一个元素中包含的名称-值对。
+  examples: []
+  notes:
+  - 除非另有指明，否则在本文件中的一种属性就是一种XML属性。一种XML属性的语法是"Attribute::= Name = AttValue"。一种属性通常作为一个XML元素的修改量(如<Road
+    gml:id = "r1" /> ;这里的gml:id是一种属性。
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 26bd99e0-6dd8-5712-9c23-b27868c11a4c
+status: valid

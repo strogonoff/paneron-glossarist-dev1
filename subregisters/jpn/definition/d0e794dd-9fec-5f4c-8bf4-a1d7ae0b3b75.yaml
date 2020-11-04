@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 4a7b3124-f4e5-540f-a804-0efb4780a046
+  definition: 品質情報を報告するデータの範囲又は特性。
+  examples: []
+  notes:
+  - 　データ集合のデータ品質適用範囲は，データ集合が属するデータ集合群，そのデータ集合，又はそのデータ集合に物理的に含まれる共通の特性をもつ，より小さいグループのデータとすることができる。他と識別できる共通の特性とは，地物型，地物属性若しくは地物関係，データ収集の基準，原資料，又は特定の空間的若しくは時間的範囲であってもよい。
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: d0e794dd-9fec-5f4c-8bf4-a1d7ae0b3b75
+status: retired

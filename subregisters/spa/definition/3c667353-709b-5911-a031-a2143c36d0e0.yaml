@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: e5b51cfb-a60b-5536-90b2-ae83cd60c284
+  definition: combinación de una estrategia de muestreo y un procedimiento de observación
+    utilizado para realizar una observación
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 3c667353-709b-5911-a031-a2143c36d0e0
+status: valid

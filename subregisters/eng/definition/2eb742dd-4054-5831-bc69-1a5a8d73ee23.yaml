@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.10
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 8f2467b3-9571-5d01-8d37-df77a0d9f9ee
+  definition: connected set of solids adjoining one another along shared boundary
+    surfaces
+  examples: []
+  notes:
+  - A composite solid, as a set of direct positions, has all the properties of a solid.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2eb742dd-4054-5831-bc69-1a5a8d73ee23
+status: valid

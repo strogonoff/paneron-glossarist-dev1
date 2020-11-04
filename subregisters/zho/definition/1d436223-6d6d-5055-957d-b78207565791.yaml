@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.16
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 8b388673-a23e-54eb-9b5e-d1106ce2a7c8
+  definition: 根据程序规则的集合，使文档、信息或任务在参与者之间传递和操作，全部或部分自动化实现的业务过程。
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 1d436223-6d6d-5055-957d-b78207565791
+status: valid

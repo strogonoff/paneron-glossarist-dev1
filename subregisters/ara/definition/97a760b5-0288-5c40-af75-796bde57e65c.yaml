@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: 39b6840d-b509-53a0-910e-e7300e5d811f
+  definition: مكون من مكونات نظام ما يوظف لمعالجة تعبير فلترة البيانات
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 97a760b5-0288-5c40-af75-796bde57e65c
+status: valid

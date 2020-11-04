@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: f8fa59c7-a9f0-569a-8779-a3ccdf926984
+  definition: 문자열 해석에 적용 가능한 문화 및 언어적 환경
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: a308a3fa-7901-5a5a-8d23-b7deb3c9ae94
+status: retired

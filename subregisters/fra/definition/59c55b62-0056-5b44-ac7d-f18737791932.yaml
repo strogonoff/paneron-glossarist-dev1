@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 9999cdbf-bde0-58a2-811f-c3cb64e9e576
+  definition: élément modulaire, déployable et remplaçable d'un système qui encapsule
+    l'implémentation et expose un ensemble d'interfaces
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 59c55b62-0056-5b44-ac7d-f18737791932
+status: superseded

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 4a7b3124-f4e5-540f-a804-0efb4780a046
+  definition: extent or characteristic(s) of the data for which quality information
+    is reported
+  examples: []
+  notes:
+  - A data quality scope for a dataset can comprise a dataset series to which the
+    dataset belongs, the dataset itself, or a smaller grouping of data located physically
+    within the dataset sharing common characteristics. Common characteristics can
+    be an identified feature type, feature attribute, or feature relationship; data
+    collection criteria; original source; or a specified geographic or temporal extent.
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 373519bf-0aaa-59ee-ae46-02d518db6eb4
+status: retired

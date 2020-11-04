@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20697.html
+    ref: ISO/IEC 10746-3:1996
+  concept: 4fb20186-2548-5cbf-b3b1-33e90acca54c
+  definition: аспект ODP-системы и среды ее функционирования, выделяющий семантику
+    и обработку информации
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 7d68de86-9a6b-5782-bc81-7f9706a1e8ca
+status: valid

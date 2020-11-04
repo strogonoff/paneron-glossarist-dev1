@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2
+  concept: b36c2070-dad5-5e8a-9b21-035ccbc983a0
+  definition: table dont les colonnes représentent des attributs d'entités et les
+    lignes représentent des entités
+  examples: []
+  notes: []
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: 73921d00-6846-544f-90f7-03c42feddeef
+status: valid

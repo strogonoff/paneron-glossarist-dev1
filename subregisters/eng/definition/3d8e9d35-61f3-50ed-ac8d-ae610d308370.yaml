@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: a9a87c6f-fda4-5664-9f60-327004bc75dd
+  definition: invocation of an operation by a client
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 3d8e9d35-61f3-50ed-ac8d-ae610d308370
+status: valid

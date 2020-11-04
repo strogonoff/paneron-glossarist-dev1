@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: 39b6840d-b509-53a0-910e-e7300e5d811f
+  definition: systemkomponent som utför ett urval baserat på en urvalssats
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: e685b415-d0a8-581b-9f53-e0d0fc86587a
+status: valid

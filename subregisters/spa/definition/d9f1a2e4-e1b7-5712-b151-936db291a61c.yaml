@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.40'
+    link: https://www.iso.org/standard/63541.html
+    ref: ISO 19104:2016
+  concept: ec297330-e429-59d0-901b-8e4b439fc98e
+  definition: almacén de datos o documento, en el que se almacenan o registran términos
+    y sus respectivas definiciones
+  examples: []
+  notes: []
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: d9f1a2e4-e1b7-5712-b151-936db291a61c
+status: valid

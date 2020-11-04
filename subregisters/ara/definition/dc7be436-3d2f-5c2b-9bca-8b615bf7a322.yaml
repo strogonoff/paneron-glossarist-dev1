@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 60f1ebd6-56fc-5a3b-8627-ccb87e7a25d9
+  definition: مجسم طوبولوجي غير محدود في مركَّب ثلاثي الأبعاد
+  examples: []
+  notes:
+  - المجسم العام هو النظير الثلاثي الأبعاد للواجهة العامة ، وهو أيضاً لا يكون في العادة
+    جزءا من أي معلم.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: dc7be436-3d2f-5c2b-9bca-8b615bf7a322
+status: retired

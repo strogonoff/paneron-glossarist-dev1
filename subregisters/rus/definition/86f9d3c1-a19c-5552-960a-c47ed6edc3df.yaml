@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 3320dfc7-7b80-5984-8526-b02f15bde3c3
+  definition: поверхность, полученная при вращении эллипсоида вокруг собственной оси
+  examples: []
+  notes:
+  - Параметры каждого эллипсоида определяются измерениями формы и размеров Земли,
+    чтобы аппроксимировать геоид с наиболее возможно высокой точностью
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 86f9d3c1-a19c-5552-960a-c47ed6edc3df
+status: superseded

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '3.3'
+    link: https://www.iso.org/standard/28928.html
+    ref: ISO/TR 19120:2001
+  concept: c8b3c183-1cbd-55cf-816f-32a772ae17ef
+  definition: conjunto predefinido de elementos en una norma base que se pueden usar
+    para construir un perfil
+  examples: []
+  notes: []
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: 718e7302-0df3-5c14-9512-8ae9323a4583
+status: valid

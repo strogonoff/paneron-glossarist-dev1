@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 561d7293-8f8a-5107-af9f-a70e6521b759
+  definition: сеть треугольников, в пределах которой внутри окружности, описанной
+    вокруг любого треугольника, нет вершин другого треугольника
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: bc4fc514-2bf6-5a16-96a4-3c217d4137fc
+status: valid

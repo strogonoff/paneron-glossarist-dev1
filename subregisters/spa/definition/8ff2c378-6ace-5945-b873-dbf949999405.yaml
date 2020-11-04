@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: OWL
+  concept: 89dade15-0a8e-5032-ab1b-d062c1c8148e
+  definition: asociación semántica entre un par de individuos
+  examples: []
+  notes:
+  - A los objetos propiedad a veces se les denomina como 'propiedades abstractas"
+    en Descripción Lógica.
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 8ff2c378-6ace-5945-b873-dbf949999405
+status: valid

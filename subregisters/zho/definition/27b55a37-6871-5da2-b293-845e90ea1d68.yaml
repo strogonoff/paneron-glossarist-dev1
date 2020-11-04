@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.12
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: dc48c61a-61d9-5728-b2f4-aad41e037106
+  definition: 起始于或终止于一条或多条边的结点。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 27b55a37-6871-5da2-b293-845e90ea1d68
+status: valid

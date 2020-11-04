@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.56
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 6473854c-5a71-5515-b88a-1b83dc7dc519
+  definition: opis położenia w świecie rzeczywistym
+  examples: []
+  notes:
+  - Opis położenia może przybierać formę etykiety, kodu lub krotki współrzędnych.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 51962bb9-8fa8-5516-810d-4204e1252823
+status: valid

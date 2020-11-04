@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.27'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: ec69c8cc-9b35-5125-9c38-3ff579e12280
+  definition: interface entre un système automatisé ou un acteur humain et un autre
+    système automatisé ou acteur humain
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: fb08de36-0c3d-53c5-959c-f4fa53425bf2
+status: retired

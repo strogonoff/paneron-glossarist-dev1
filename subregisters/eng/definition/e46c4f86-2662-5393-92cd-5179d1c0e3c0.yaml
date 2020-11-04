@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 1.7.2, modified
+    link: https://www.iso.org/standard/57284.html
+    ref: ISO 14721:2012
+  concept: f709887b-d69d-513c-a0a1-e21fda9ff17a
+  definition: information package that is delivered by the producer to the OAIS for
+    use in the construction or update of one or more AIPs and/or the associated descriptive
+    information
+  examples: []
+  notes: []
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: e46c4f86-2662-5393-92cd-5179d1c0e3c0
+status: valid

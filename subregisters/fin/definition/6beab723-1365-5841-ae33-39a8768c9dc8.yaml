@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 99e33134-c01b-5198-85ce-35210d95024c
+  definition: ohjeet, jotka määrittelevät, kuinka jonkin tietyn tiedon koodaus suoritetaan
+  examples:
+  - XML, ISO 10303-21, ISO/IEC 8211.
+  notes:
+  - Koodaussääntö kertoo muunnettavat tietotyypit sekä tuloksena olevan tietorakenteen
+    syntaksin, rakenteen ja koodit.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 6beab723-1365-5841-ae33-39a8768c9dc8
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/26019.html
+    ref: ISO 19114:2003
+  concept: 64010e25-e144-5cd6-8c2d-36da347af5f5
+  definition: inspección de todos y cada uno de los ítems de un conjunto de datos
+  examples: []
+  notes:
+  - La inspección completa también se conoce como inspección al 100%.
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: a0811bb0-0d4b-5b54-a01f-7534f2cc9493
+status: retired

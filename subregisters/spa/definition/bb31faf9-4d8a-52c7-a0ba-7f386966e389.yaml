@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: '4.35'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 25d8af6e-fae3-5d59-8e94-848f166f3cfe
+  definition: persona u organización que juega un papel en una transacción de derechos
+  examples:
+  - En algunas tradiciones legales "parte" se refiere auna persona en una disputa
+    legal, mientras que "principal" puede ser la entidad que inicia un contrato, como
+    una agencia.
+  notes:
+  - Estos dos términos [parte y principal] se usan como sinónimos cercanos  tomados
+    de ORDL e ISO 21000. Aquí no haremos distinciones entre esos dos términos, pero
+    puede haberlas en documentos legales dependiendo de la legislación local.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: bb31faf9-4d8a-52c7-a0ba-7f386966e389
+status: valid

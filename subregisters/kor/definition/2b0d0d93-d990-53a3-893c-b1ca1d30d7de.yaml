@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.10
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 13937e0e-f077-537c-a172-3b99582ffbd4
+  definition: 센서 교정 중 정(+)과 부(-)의 방사 렌즈 왜곡 균형화를 통해 나타나는 초점 중심과 영상면 사이의 거리
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 2b0d0d93-d990-53a3-893c-b1ca1d30d7de
+status: valid

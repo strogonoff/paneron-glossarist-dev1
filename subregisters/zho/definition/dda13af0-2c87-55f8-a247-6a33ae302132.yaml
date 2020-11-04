@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: f58c7a68-88fc-5431-9f30-644324f0dc08
+  definition: 地理信息的基本单元，可作为一幅地图从服务器端请求得到。
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: dda13af0-2c87-55f8-a247-6a33ae302132
+status: valid

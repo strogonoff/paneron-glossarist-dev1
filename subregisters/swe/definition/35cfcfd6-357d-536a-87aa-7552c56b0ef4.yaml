@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 3.4.25
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: b276ea1b-46d4-5df2-b686-3405475cee3a
+  definition: 'relation mellan benämningar och begrepp i ett visst
+
+    språk där två eller fler benämningar som skrivs
+
+    och/eller uttalas på samma sätt står för olika begrepp'
+  examples: []
+  notes:
+  - 'An example of homonymy is:   bark     1 "sound made by a dog"    2 "outside covering
+    of the stem of woody plants"    3 "sailing vessel"'
+  - The designations in the relation of homonymy are called homonyms.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 35cfcfd6-357d-536a-87aa-7552c56b0ef4
+status: valid

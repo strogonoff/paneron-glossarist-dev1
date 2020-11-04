@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 230b254c-c1d8-5eca-a965-40f60bbebfbf
+  definition: クラスを実現するオブジェクト。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 51c97a9b-0cf5-545a-a5c4-067d79f7c4b6
+status: valid

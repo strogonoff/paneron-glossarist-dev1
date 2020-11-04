@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.17
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: f82049d8-dd14-5b4d-a273-6542e62fb907
+  definition: точка на земле, географическое положение  которой точно известно
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 39fa68a2-bc36-552a-88a4-38dfec3e9fa5
+status: valid

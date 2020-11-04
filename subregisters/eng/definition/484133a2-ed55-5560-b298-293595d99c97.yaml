@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: 0f1c75e6-7f62-593d-9408-0f2dcb799c00
+  definition: set of points in the union of the geometries (or the union of the trajectories)
+    of a one parameter set of geometries
+  examples: []
+  notes:
+  - This is a generalization of the concept of a geometric prism that is the convex
+    hull of two congruent polygons in 3D-space. Such polyhedrons can be viewed as
+    a foliation of congruent polygons.
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 484133a2-ed55-5560-b298-293595d99c97
+status: valid

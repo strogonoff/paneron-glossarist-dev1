@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: a3454830-25b6-535a-98b2-65590ebaf09a
+  definition: граница, представленная набором геометрических примитивов меньшей геометрической
+    размерности, которая определяет пределы протяженности геометрического объекта
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c2681168-4639-52c2-a35f-c1af39f3c3a1
+status: superseded

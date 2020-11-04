@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.50'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: aea2362b-5144-58e7-be29-8b4df6eaebee
+  definition: направленная вниз нормаль к горизонтальной плоскости платформы
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 7e4604c8-61bc-59f7-8f8a-81d7d955ab53
+status: valid

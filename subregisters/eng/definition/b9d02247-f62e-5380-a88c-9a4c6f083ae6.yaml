@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.61
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 19e70623-cd3c-5dff-87af-dbd1c722d793
+  definition: coordinate reference system that has a static reference frame
+  examples: []
+  notes:
+  - Coordinates of points on or near the crust of the Earth that are referenced to
+    a static coordinate reference system do not change with time.
+  - Metadata for a dataset referenced to a static coordinate reference system does
+    not require coordinate epoch information.
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: b9d02247-f62e-5380-a88c-9a4c6f083ae6
+status: valid

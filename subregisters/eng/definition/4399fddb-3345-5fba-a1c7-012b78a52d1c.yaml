@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 6fa8741a-197e-5a37-b1e9-c2fbcd6e6ad5
+  definition: feature that is linearly located along an associated (locating) feature
+  examples:
+  - A feature “bridge” may be a located feature along the feature “railway” [a locating
+    feature].
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 4399fddb-3345-5fba-a1c7-012b78a52d1c
+status: valid

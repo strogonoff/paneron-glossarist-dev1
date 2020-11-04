@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: part 5, modified
+    ref: XrML 2.0 specification
+  concept: 6e1ad830-90df-58c3-9797-c858ebb06c0e
+  definition: 특정 조건을 지켜야 하는 특정 자원을 사용할 권리를 관계자에게 부여하는 승인권한을 나타낸 표현물
+  examples: []
+  notes:
+  - A licence represents, but is not, a contract that grants a party explicit rights
+    to use Intellectual Property.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: e81fa0b2-4beb-5d0c-ab95-2bfcf8711cb4
+status: valid

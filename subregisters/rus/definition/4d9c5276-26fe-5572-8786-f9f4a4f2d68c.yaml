@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/1141.html
+    ref: ISO 2859-1
+  concept: 2460e3da-a989-504d-9293-84d6ab426479
+  definition: то, что можно рассмотреть и описать индивидуально
+  examples: []
+  notes:
+  - Элементом может быть любая часть набора данных, например, объект, отношение, атрибут  или
+    комбинация из них
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 4d9c5276-26fe-5572-8786-f9f4a4f2d68c
+status: изъятый

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.40
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 2757c073-5cb0-59a2-ab06-2a1ceb58bcda
+  definition: 직선 조각으로 구성된 곡선
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 844e69a8-b9ec-5d61-9bb0-692dee47a282
+status: valid

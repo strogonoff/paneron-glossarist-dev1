@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.6
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 0aea2b57-0ce5-5d94-9cb0-db7aae9108ee
+  definition: integer value representing a measurement as detected by a sensor
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: bb70343d-51dd-5a88-815f-262097ffedbc
+status: valid

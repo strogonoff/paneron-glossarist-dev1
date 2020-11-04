@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/32556.html
+    ref: ISO/TS 19138:2006
+  concept: fd9b9c23-f9c8-5f08-84df-b5f7768c01da
+  definition: uppmätt kvantitativt värde minus motsvarande referensvärde
+  examples: []
+  notes: []
+dateAccepted: 2006-12-01 00:00:00+00:00
+id: b618e73e-87a1-592a-a0dc-7765a6fa4672
+status: retired

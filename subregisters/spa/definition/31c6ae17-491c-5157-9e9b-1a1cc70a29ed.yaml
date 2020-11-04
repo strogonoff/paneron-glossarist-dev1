@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: '4.50'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: b52a3769-da13-5ce4-a035-5da8242feeb9
+  definition: suma total de todos los factores mitigantes respecto a un licenciatario
+    particular que reducen el riesgo esperado
+  examples: []
+  notes:
+  - La confianza permite a un usuario (o a su agente) actuar con un riesgo potencial
+    más alto porque el riesgo esperado ha sido rebajado. Eso es ligeramente diferente
+    a la "confianza" en el lenguaje común. Normalmente, la confianza requiere algo,
+    pero si el principal en riesgo decide que no hay riesgo, entonces la confianza
+    existe (en este sentido) porque el riesgo se ha deducido, por las razones que
+    sean.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 31c6ae17-491c-5157-9e9b-1a1cc70a29ed
+status: valid

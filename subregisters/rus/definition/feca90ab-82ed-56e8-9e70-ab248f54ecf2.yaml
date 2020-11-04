@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/37800.html
+    ref: ISO/TS 19103:2005
+  concept: 6ac26900-de2a-5fba-a006-eab26e1d8863
+  definition: множество допустимых значений
+  examples:
+  - Область 3-28, все - целые числа, любой символ кодировки  ASCII, перечисление всех
+    допустимых значений (зеленый, голубой, белый)
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: feca90ab-82ed-56e8-9e70-ab248f54ecf2
+status: valid

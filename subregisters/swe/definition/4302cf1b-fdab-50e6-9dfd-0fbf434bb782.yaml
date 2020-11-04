@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.19
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: c8362d93-2a20-5e40-aa03-44d68b070c25
+  definition: vilkel mellan färdvektorn och mätvektorn
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 4302cf1b-fdab-50e6-9dfd-0fbf434bb782
+status: valid

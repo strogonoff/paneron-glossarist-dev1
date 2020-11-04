@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: c0b71e1c-aeb3-5056-9b55-5faee44b4325
+  definition: 3-dimensional geometric primitive, representing the continuous image
+    of a region of Euclidean 3 space
+  examples: []
+  notes:
+  - A solid is realizable locally as a three parameter set of direct positions. The
+    boundary of a solid is the set of oriented, closed surfaces that comprise the
+    limits of the solid.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: f6c533f4-80e8-50bf-a2a1-b660f0e794df
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.48'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 9f3b53ab-b9ec-591a-913e-d2be05c1a7ed
+  definition: información de la señal bruta de retorno de radar después de ser demodulada
+  examples: []
+  notes:
+  - 'Generalmente se almacena como una serie de líneas de rango, donde cada una contiene
+    información de un rango específico. PHD se puede definir como una tabla de cinco
+    columnas: señal de fase, señal de cuadratura, rango, ángulo Doppler y hora.'
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 50ab0d12-1c9d-5300-b84e-eaf678ac2262
+status: valid

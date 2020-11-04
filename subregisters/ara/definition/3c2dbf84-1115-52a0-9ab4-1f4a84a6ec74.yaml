@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 52ce94bc-5fd3-5548-a7f9-0efbbddfaabc
+  definition: شرط يوضح ما هو ضروري للوفاء بمتطلبات المعاير الدولي
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 3c2dbf84-1115-52a0-9ab4-1f4a84a6ec74
+status: valid

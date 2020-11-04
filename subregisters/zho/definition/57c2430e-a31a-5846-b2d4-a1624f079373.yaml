@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: f4caa91b-0957-599e-8994-16a4ac63ee76
+  definition: 记录数据质量结果的值的类型。
+  examples:
+  - “布尔型变量”、“百分比”、“比率”。
+  notes:
+  - 每个数据质量评价结果都提供数据质量值类型。
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 57c2430e-a31a-5846-b2d4-a1624f079373
+status: retired

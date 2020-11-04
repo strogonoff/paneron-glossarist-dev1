@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.9
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 8ecb9f57-0a65-5a61-a4c1-7ff96253ab05
+  definition: направление, ортогональное вектору скорости и параллельное плоскости,
+    касательной к эллипсоиду Земли в точке надира ARP
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 7e7dec28-ff16-5072-a662-e6e2dc9e6239
+status: valid

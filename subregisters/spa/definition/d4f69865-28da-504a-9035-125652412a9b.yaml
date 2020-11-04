@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 6b5f2f1c-1ba3-5f4b-bb8b-3f4dedc3abde
+  definition: conjunto bien definido
+  examples: []
+  notes:
+  - Los dominios se usan para definir el conjunto de dominios y rango de atributos,
+    operadores y funciones.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: d4f69865-28da-504a-9035-125652412a9b
+status: valid

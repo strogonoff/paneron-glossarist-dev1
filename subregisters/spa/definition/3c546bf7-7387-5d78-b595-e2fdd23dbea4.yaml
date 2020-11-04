@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: b578e6e4-25f4-549e-ac83-5f4dd1ac301c
+  definition: metadatos, codificados en XML, que describen qué predicados, definidos
+    en esta norma internacional,implementa un sistema.
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 3c546bf7-7387-5d78-b595-e2fdd23dbea4
+status: valid

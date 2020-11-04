@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: a9a87c6f-fda4-5664-9f60-327004bc75dd
+  definition: wywołanie operacji przez klienta
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: ad8d2bc7-bf03-5774-90a9-84271da9b3c9
+status: valid

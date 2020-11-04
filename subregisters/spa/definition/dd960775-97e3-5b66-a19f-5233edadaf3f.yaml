@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.14
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 8bd36c30-db27-5d8f-8ea2-a54a9f5dd8bf
+  definition: relación funcional entre las coordenadas terreno y las coordenadas imagen
+    basada en la correlación entre un conjunto de puntos de control en el terreno
+    y sus correspondientes coordenadas en la imagen
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: dd960775-97e3-5b66-a19f-5233edadaf3f
+status: valid

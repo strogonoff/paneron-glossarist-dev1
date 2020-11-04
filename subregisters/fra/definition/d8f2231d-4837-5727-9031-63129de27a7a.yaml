@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  concept: 2e3b9bcc-c1be-5583-b8f5-abe6224ef049
+  definition: représenter (une abstraction) par la création d'une instance concrète,
+    ou créer la capacité de création d'une instance
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: d8f2231d-4837-5727-9031-63129de27a7a
+status: valid

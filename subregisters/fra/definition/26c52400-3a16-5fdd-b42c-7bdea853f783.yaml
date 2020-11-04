@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (1994)
+    ref: 'Jensen et al. '
+  concept: 1ba2df7b-f3bf-50ff-a978-87c262d71703
+  definition: temps où un fait est en cours dans une base de données et peut être
+    récupéré
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 26c52400-3a16-5fdd-b42c-7bdea853f783
+status: valid

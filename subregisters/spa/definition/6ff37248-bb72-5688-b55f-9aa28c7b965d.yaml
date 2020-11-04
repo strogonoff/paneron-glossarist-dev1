@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 564d1bb1-6321-5934-89c7-58b5aaa7b69e
+  definition: número de elementos en un conjunto
+  examples: []
+  notes:
+  - Contrastar con multiplicidad
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 6ff37248-bb72-5688-b55f-9aa28c7b965d
+status: valid

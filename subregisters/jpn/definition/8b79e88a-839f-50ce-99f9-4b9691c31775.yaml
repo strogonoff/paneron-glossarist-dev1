@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: e39adb92-4f9f-5adb-8813-3a465ab5892b
+  definition: 単一の連結で均質な空間の要素を表す幾何オブジェクト。
+  examples: []
+  notes:
+  - 幾何プリミティブは，幾何構成についての情報を表す不可分なオブジェクトである。点，曲線，曲面及び立体は幾何プリミティブである。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 8b79e88a-839f-50ce-99f9-4b9691c31775
+status: superseded

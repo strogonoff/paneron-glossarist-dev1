@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dd89d158-419c-571b-940a-4abf4a6c6efc
+  definition: реализация спецификации
+  examples: []
+  notes:
+  - В контексте международных стандартов ИСО на географическую информацию включает
+    в себя спецификации сервисов географической информации и наборов данных
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: f0758177-2a23-5d46-854e-e90a823e78c9
+status: valid

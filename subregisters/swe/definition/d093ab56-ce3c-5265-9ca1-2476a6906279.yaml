@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 6e627833-1994-5312-a288-73fa36190889
+  definition: teknik för att minska lagringsutrymmet för data
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: d093ab56-ce3c-5265-9ca1-2476a6906279
+status: valid

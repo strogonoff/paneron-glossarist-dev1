@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: afc13d27-3d6d-51c7-9bab-0848f3a86970
+  definition: 路径、路径遍历和跟踪的组合。
+  examples: []
+  notes:
+  - 这是最基本的导航通用术语，但本定义把它分解为本国际标准中定义的各个过程中的术语。
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f3df7f6a-ca47-5775-9d11-99eb9df3b574
+status: valid

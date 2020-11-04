@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 3a68ce9b-5e07-51d2-baf9-d1f003419039
+  definition: référentiel décrivant la relation entre les hauteurs ou les profondeurs
+    relatives à la gravité et la Terre
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 61826d56-9066-5357-b367-d21702523dea
+status: superseded

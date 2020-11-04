@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0e2de1e6-e028-530b-ab62-5a9b63d08f24
+  definition: paramètre ou ensemble de paramètres définissant la position de l'origine,
+    l'échelle et l'orientation d'un système de coordonnées
+  examples: []
+  notes:
+  - 'Alternative: datum'
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 680e8a62-353b-5acc-9a96-b0f0e2339227
+status: superseded

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 5514534e-edd9-5bb0-8c16-b5a08ceacc54
+  definition: 有效性依赖于客户的位置的服务。
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 15518e3e-8bee-5892-a47f-4daa53a49159
+status: valid

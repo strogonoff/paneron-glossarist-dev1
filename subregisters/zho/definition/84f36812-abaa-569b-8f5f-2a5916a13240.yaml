@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.98
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 28955e9c-cd9d-5331-bad9-e49f3371e469
+  definition: 有向拓扑单形的集合，这些有向拓扑单形可以像多变量多项式一样进行操作。
+  examples: []
+  notes:
+  - 拓扑表达式用在很多计算拓扑的计算中。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 84f36812-abaa-569b-8f5f-2a5916a13240
+status: valid

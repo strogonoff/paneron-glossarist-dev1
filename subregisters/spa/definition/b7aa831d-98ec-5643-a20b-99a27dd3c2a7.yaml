@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.17
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 7979460e-e8e0-52c9-ba9c-a207c18cd2aa
+  definition: primitiva geométrica unidimensional que representa la imagen continua
+    de una línea
+  examples: []
+  notes:
+  - La frontera de una curva es el conjunto de puntos en cualquiera de sus extremos.
+    Si la curva es un ciclo los dos extremos son idénticos y se considera que la curva
+    (topológicamente cerrada) no tiene frontera. El primer punto se denomina punto
+    inicial y el último punto final. La continuidad de la curva queda garantizada
+    por la expresión "imagen continua de una línea". Un teorema topológico establece
+    que una imagen continua de un conjunto conectado, está conectado.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b7aa831d-98ec-5643-a20b-99a27dd3c2a7
+status: valid

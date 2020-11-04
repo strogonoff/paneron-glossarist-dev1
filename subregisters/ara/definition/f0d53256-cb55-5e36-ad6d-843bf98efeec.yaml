@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: aa0ea69b-b60b-5101-8c8c-6b5a84a79df7
+  definition: عملية لتقييم مطابقة التنفيذ للمعيار الدولي
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: f0d53256-cb55-5e36-ad6d-843bf98efeec
+status: valid

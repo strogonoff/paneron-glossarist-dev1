@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 17411730-3d0e-5c4e-b284-3a6eedcfaf53
+  definition: نقطة تقع عند تقاطع منحنيين أو أكثر في شبكة
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 27f12f3b-804f-5424-91f9-df4f26d14135
+status: valid

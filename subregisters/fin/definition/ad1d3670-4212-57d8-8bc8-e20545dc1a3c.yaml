@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 3d81e936-d581-53da-960d-eb3f29ef46c4
+  definition: palvelu, jota voidaan pyytää objektilta käyttäytymiseen vaikuttamiseksi
+  examples: []
+  notes:
+  - Operaatiolla on kutsumuoto (signature), joka saattaa rajoittaa todellisuudessa
+    mahdollisia muuttujia.
+  - 'UML Reference Manual -käsikirjan määritelmä: sellaisen muunnoksen tai kyselyn
+    määrittely, joka objekti voidaan käskeä suorittamaan.'
+  - Operaatiolla on nimi ja lista muuttujia. Metodi on operaation toimeenpaneva menettely
+    sisältäen algoritmin tai menetelmäkuvauksen.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: ad1d3670-4212-57d8-8bc8-e20545dc1a3c
+status: superseded

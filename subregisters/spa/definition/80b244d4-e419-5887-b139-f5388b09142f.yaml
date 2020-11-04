@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/51789.html
+    ref: ISO/TS 19130:2010
+  concept: 62a28fe7-4f20-58a4-8b13-d36dca94ab54
+  definition: descripción matemática de la relación entre el espacio objeto tridimensional
+    y el plano bidimensional de la imagen asociada producida por un sensor
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 80b244d4-e419-5887-b139-f5388b09142f
+status: superseded

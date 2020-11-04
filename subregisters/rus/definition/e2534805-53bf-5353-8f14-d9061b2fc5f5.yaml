@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39965.html
+    ref: ISO 19110:2005
+  concept: 9cde52c2-6d33-5a4c-a103-df48884e2e4d
+  definition: отношение  между экземплярами пространственных объектов одного типа
+    и  экземплярами пространственных объектов того же или иного типа
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: e2534805-53bf-5353-8f14-d9061b2fc5f5
+status: valid

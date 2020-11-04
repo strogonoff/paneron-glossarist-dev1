@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: a21e7e79-0cd8-5d20-958d-691e5fb31452
+  definition: 按时间排序命名的时段集合中的一个时段。
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: fcf314b2-798a-577c-95a5-252e15a7a8b4
+status: valid

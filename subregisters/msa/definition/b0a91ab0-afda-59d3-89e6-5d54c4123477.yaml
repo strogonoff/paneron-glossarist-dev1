@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: d8ebd211-773e-566d-bb73-d7ca03e17b61
+  definition: Kawasan dalam ingatan utama yang telah dikhaskan untuk memegang data
+    yang masih belum dapat dipindahkan kepada cakera
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b0a91ab0-afda-59d3-89e6-5d54c4123477
+status: superseded

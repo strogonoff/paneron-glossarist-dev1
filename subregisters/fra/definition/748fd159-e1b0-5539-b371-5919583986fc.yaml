@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  concept: f800b94d-fbfc-5021-878e-662897db2217
+  definition: collection combinée de routes et intersections utilisée dans un itinéraire
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 748fd159-e1b0-5539-b371-5919583986fc
+status: valid

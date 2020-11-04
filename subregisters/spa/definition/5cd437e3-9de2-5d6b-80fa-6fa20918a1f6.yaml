@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dc035708-59ca-567e-98de-dc011bb596a3
+  definition: prueba generalizada para un requisito particular
+  examples: []
+  notes:
+  - Una prueba genérica es una base formal para obtener pruebas ejecutables. Uno o
+    más propósitos de prueba se encapsulan en una prueba genérica. Una prueba genérica
+    es independiente tanto de la implementación como de los valores. Debería ser completa
+    en el sentido de ser suficiente para permitir asignar inequívocamente un veredicto
+    de prueba a cada resultado de la prueba potencialmente observable (es decir secuencia
+    de eventos de ensayo).
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 5cd437e3-9de2-5d6b-80fa-6fa20918a1f6
+status: valid

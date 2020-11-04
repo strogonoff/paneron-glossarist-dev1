@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 90fd29a6-f0a0-532b-956b-c648d759337c
+  definition: bekas utk mengisi, menyimpan atau membawa pakaian, surat, buku, dll
+    yg dibuat drpd kulit dll
+  examples: []
+  notes:
+  - Logically, a bag is a set of pairs <item, count>.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 26c30b4c-12aa-57e9-8def-ed2fd6fe4a32
+status: retired

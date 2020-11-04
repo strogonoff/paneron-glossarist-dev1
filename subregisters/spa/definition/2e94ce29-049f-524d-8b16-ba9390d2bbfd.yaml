@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.26'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: 9391c98e-0bd0-56ee-9929-4a48c475d4ea
+  definition: punto directamente debajo de una posición
+  examples: []
+  notes: []
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: 2e94ce29-049f-524d-8b16-ba9390d2bbfd
+status: valid

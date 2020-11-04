@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: e39adb92-4f9f-5adb-8813-3a465ab5892b
+  definition: geometric object representing a single, connected, homogeneous element
+    of space
+  examples: []
+  notes:
+  - Geometric primitives are non-decomposed objects that present information about
+    geometric configuration. They include points, curves, surfaces, and solids.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 49010b71-7d82-5250-9530-96c7f652f315
+status: superseded

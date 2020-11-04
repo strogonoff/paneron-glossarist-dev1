@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: (1994)
+    ref: 'Jensen et al. '
+  concept: 1ba2df7b-f3bf-50ff-a978-87c262d71703
+  definition: 对数据库中现存事实检索的时间。
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: e2f8d3bb-ce60-5c89-9f43-f3e70b45a1e6
+status: valid

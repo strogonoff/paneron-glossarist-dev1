@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.76
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: b663323b-9943-5a8a-adb9-e86e498c3342
+  definition: Satu teknik oleh antenna yang menerima isyarat gema yang dipantulkan
+    oleh target ketika ia bergerak sepanjang laluan penerbangan
+  examples: []
+  notes:
+  - The electromagnetic radiation is at microwave frequencies and is sent in pulses.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 0db41a21-8306-5c21-bf62-d381ed3965f2
+status: valid

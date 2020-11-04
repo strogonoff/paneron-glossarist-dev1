@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 15a4a183-9aec-58a0-9ca0-4b268efc7621
+  definition: jeu nommé d'opérations caractérisant le comportement d'une entité
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 840f8336-46a9-584e-8be6-34b60cd26a48
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.22'
+    link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  concept: 0c133d79-be57-55e6-a7ef-d3335378e19d
+  definition: мера повторяемости некоторого набора измерений
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 1a361534-e5b5-5023-80f4-2867725ebf79
+status: valid

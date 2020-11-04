@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.61'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 4fc2b7d3-8c31-5a07-a3a9-288a9c73bc26
+  definition: 영상 내 개별적으로 분해가능한 두 균일한 조광 객체간의 최소 거리
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 91dfcf56-c9d8-51a6-bdf8-36175eb549bd
+status: valid

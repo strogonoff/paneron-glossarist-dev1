@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.40
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 1556c8e0-056c-59a0-9801-6eca6a216878
+  definition: 네트워크를 통해 접속가능한 정보 및 서비스
+  examples: []
+  notes: []
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: d74f6ce1-dd06-52bc-8574-5ebefff5a101
+status: valid

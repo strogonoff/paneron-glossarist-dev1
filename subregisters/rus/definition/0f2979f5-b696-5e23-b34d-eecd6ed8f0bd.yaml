@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.2
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: dea2a089-a1e9-573a-b559-e8390ef7c6ac
+  definition: параметры модели, которые могут быть уточнены с использованием доступной
+    дополнительной информации, такой как наземные контрольные точки, для улучшения
+    или расширения  поправок моделирования
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 0f2979f5-b696-5e23-b34d-eecd6ed8f0bd
+status: valid

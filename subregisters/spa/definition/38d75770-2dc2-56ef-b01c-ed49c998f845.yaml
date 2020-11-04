@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: a3454830-25b6-535a-98b2-65590ebaf09a
+  definition: límite representado por el conjunto de primitivas geométricas de dimensión
+    geométrica inferior que limita la extensión de un objeto geométrico
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 38d75770-2dc2-56ef-b01c-ed49c998f845
+status: superseded

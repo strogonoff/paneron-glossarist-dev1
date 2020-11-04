@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: fc247d31-5f67-565e-bfb0-4b77b48ac1d1
+  definition: SAR상 기록된 자료를 처리하여 생산된 1단계 산출물
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: cd32e66e-5634-5cf2-935e-88a47d0a5859
+status: valid

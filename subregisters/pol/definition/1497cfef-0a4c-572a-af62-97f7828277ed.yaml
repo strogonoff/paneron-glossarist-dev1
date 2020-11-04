@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: c0b71e1c-aeb3-5056-9b55-5faee44b4325
+  definition: 3-wymiarowy prosty element geometryczny reprezentujący ciągły obraz
+    fragmentu trójwymiarowej przestrzeni euklidesowej
+  examples: []
+  notes:
+  - Bryła jest realizowana lokalnie jako trójparametrowy zbiór położeń bezpośrednich.
+    Granicą bryły jest zbiór zorientowanych, zamkniętych powierzchni, stanowiących
+    ograniczenie bryły.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 1497cfef-0a4c-572a-af62-97f7828277ed
+status: valid

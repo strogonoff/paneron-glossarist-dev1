@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 2.44, modified — Note 6 has been deleted.
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: f4d923f3-5cd6-50e5-90e0-48753fb55de6
+  definition: aportación de evidencia objetiva de que un elemento dado satisface los
+    requisitos especificados
+  examples: []
+  notes:
+  - Cuando sea aplicable, la incertidumbre dela  medida se debe tomar en consideración.
+  - El item puede ser, por ejemplo, un proceso, un procedimiento de medición, el material,
+    el compuesto o sistema de medición.
+  - Los requisitos específicos pueden ser, por ejemplo, que se cumplan las especificaciones
+    de un fabricante .
+  - La verificación no debe confundirse con la calibración . No siempre la verificación
+    constituye una validación.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 1c2608a0-5ee9-5c4e-8622-0e470efc6690
+status: valid

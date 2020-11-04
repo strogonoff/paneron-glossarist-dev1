@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/61710.html
+    ref: ISO 19160-1:2015
+  concept: 7a585920-2601-5c10-bef8-3aa1b3614ea0
+  definition: addressable object that fully encloses one or more other addressable
+    objects
+  examples:
+  - An apartment building with many apartments within.
+  - In Japan, a gaiku (block) with many jukyo bango (residence number).
+  - A complex of many buildings. In Korea, a group of buildings with many dong (wings
+    or sections of a building).
+  notes: []
+dateAccepted: 2015-12-15 00:00:00+00:00
+id: b0b2dfd0-0875-56eb-b065-120dd29feefe
+status: valid

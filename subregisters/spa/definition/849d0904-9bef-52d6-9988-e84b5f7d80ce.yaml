@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.40'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: da372703-9564-550d-ae17-fed54692c11f
+  definition: entidad protegida por una licencia
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 849d0904-9bef-52d6-9988-e84b5f7d80ce
+status: valid

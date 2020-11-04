@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  concept: b5c9e378-237e-5190-8aef-257c51e82a4c
+  definition: نسق مستطيل من الارقام
+  examples: []
+  notes:
+  - المصفوفة مصطلح خاص بعلم الرياضيات.
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: c0c8afa3-ff7f-5ed7-9c5c-a9244ad9d61b
+status: valid

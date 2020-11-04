@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.11
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: b18b7e9c-6b39-5127-88ea-ac9a670cdaea
+  definition: organización que establece un registro
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: d682ab25-43c1-5b24-b01f-62fb9066faef
+status: valid

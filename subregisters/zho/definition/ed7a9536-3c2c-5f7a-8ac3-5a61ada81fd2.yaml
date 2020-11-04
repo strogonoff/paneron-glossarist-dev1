@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.25
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 17eb3a74-e8e9-5cfc-aed7-7832b8a706ad
+  definition: 一个点位相对于其他点位的位置。
+  examples: []
+  notes:
+  - 一个点与其他点的空间关系可以是一维、二维和三维。
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: ed7a9536-3c2c-5f7a-8ac3-5a61ada81fd2
+status: valid

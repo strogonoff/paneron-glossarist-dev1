@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/37800.html
+    ref: ISO/TS 19103:2005
+  concept: 6b5f2f1c-1ba3-5f4b-bb8b-3f4dedc3abde
+  definition: строго определенное множество
+  examples: []
+  notes:
+  - Домены используют для определения области значений множеств и диапозона  значений
+    применительно к атрибутам, операторам и функциям
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3404fc0d-996d-5d7d-bb45-f0912eb5fe37
+status: valid

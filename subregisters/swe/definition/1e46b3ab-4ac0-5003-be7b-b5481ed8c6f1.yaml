@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 3f41e758-940d-5a15-b306-9a2f10fa7d20
+  definition: mängd av metadataelement som beskriver samma aspekt på data
+  examples: []
+  notes:
+  - May contain one or more metadata entities.
+  - Equivalent to a class in UML terminology.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 1e46b3ab-4ac0-5003-be7b-b5481ed8c6f1
+status: valid

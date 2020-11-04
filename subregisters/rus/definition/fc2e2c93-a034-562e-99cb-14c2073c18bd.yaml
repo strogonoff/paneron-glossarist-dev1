@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.12
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: dc48c61a-61d9-5728-b2f4-aad41e037106
+  definition: узел, в котором начинаются или заканчиваются  одно или несколько ребер
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: fc2e2c93-a034-562e-99cb-14c2073c18bd
+status: valid

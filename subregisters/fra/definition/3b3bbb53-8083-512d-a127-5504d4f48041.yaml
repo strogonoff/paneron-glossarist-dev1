@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: a9c532a7-982e-56ec-bdbe-6d5c01b20ff9
+  definition: système de coordonnées tridimensionnel avec deux coordonnées de distance
+    et une coordonnée angulaire
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 3b3bbb53-8083-512d-a127-5504d4f48041
+status: superseded

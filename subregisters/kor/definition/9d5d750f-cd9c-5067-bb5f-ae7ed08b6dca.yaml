@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.33
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: e641aca7-094f-5137-a6a4-03da150104c5
+  definition: 지리 피처의 기하 현상을 기술하는 GML 피처의 특성
+  examples: []
+  notes:
+  - 기하 특성 명칭은 피처에 관한 기하의 역할이다.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 9d5d750f-cd9c-5067-bb5f-ae7ed08b6dca
+status: valid

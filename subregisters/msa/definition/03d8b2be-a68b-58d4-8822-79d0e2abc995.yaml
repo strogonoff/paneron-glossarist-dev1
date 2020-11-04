@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 4.1.26
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: ed517aa5-7c67-5741-b4ba-4755293c9839
+  definition: Model yang berfungsi untuk amalan tertentu, seperti e-dagang dan pengurusan
+    pengetahuan. Dalam kecerdasan buatan(AI), ontologi ialah spesifikasi pengkonsepsian
+    yang digunakan untuk membantu atur cara dan membolehkan manusia berkongsi pengetahuan.
+    Dalam penggunaan ini, ontologi adalah satu set konsep yang melibatkan benda, peristiwa
+    dan hubungan yang dispesifikasi dengan cara tertentu supaya perbendaharaan kata
+    dapat dicipta untuk pertukaran maklumat. Lihat pengurusan pengetahuan
+  examples: []
+  notes: []
+dateAccepted: 2012-11-15 00:00:00+00:00
+id: 03d8b2be-a68b-58d4-8822-79d0e2abc995
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: S-32, Fifth Edition
+    ref: IHO Hydrographic Dictionary
+  concept: e6c8191c-26e1-54c3-8c7e-f12737a77758
+  definition: вертикальное расстояние, на любом участке судна от поверхности воды
+    до дна киля
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 5e4217d3-958f-5546-ab2a-e04db69a8128
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 63d54d38-10f7-5a5d-b143-9e06f65eaae4
+  definition: 다수의 피처들로 구성된 피처
+  examples: []
+  notes: []
+dateAccepted: 2005-06-15 00:00:00+00:00
+id: acef50aa-97c6-5879-9bae-a409e271d830
+status: valid

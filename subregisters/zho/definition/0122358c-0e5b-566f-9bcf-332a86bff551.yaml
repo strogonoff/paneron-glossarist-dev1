@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 6ba4fcd1-9a9d-586c-9a1b-362488ca9871
+  definition: 在空间域、时间域或时空域中，为任意直接位置充当函数，从其值域中返回数值的要素。
+  examples:
+  - 实例包括栅格影像、多边形覆盖或数字高程矩阵。
+  notes:
+  - 换句话说，一个数据覆盖是一个要素，这个要素的每个属性类型有多个值，而在要素的几何表达的每个直接位置，每个属性类型有单独的一个值。
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 0122358c-0e5b-566f-9bcf-332a86bff551
+status: valid

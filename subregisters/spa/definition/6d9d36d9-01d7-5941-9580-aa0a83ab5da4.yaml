@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: Web Services Glossary
+    ref: W3C
+  concept: 876e19ee-3b23-5ec0-99cd-fdbb0c9d862d
+  definition: verificación de que un participante  está autorizado para representar
+    a una persona u organización a través de una conversación
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 6d9d36d9-01d7-5941-9580-aa0a83ab5da4
+status: valid

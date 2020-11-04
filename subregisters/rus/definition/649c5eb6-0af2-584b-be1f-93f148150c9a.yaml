@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: 0126e62f-744c-57dd-90c9-15e84348fa5f
+  definition: акт измерения или иного определения значения свойства
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 649c5eb6-0af2-584b-be1f-93f148150c9a
+status: valid

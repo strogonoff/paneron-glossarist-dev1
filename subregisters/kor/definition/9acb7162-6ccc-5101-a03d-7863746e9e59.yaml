@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.84
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 4f7bd705-47c2-5434-b86b-35840982a9e2
+  definition: 경사면에서 측면방향 벡터에서 범위 방향 벡터로 측정된 각
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 9acb7162-6ccc-5101-a03d-7863746e9e59
+status: valid

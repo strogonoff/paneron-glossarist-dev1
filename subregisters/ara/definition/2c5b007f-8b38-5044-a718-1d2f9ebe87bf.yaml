@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  concept: b36c2070-dad5-5e8a-9b21-035ccbc983a0
+  definition: جدول تمثل فيه الأعمدة بيانات وصف المعالم بينما تمثل الصفوف المعالم
+  examples: []
+  notes: []
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: 2c5b007f-8b38-5044-a718-1d2f9ebe87bf
+status: valid

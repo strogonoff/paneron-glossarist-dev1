@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.1'
+    link: https://www.iso.org/standard/60080.html
+    ref: ISO/TS 19159-1:2014
+  concept: fd4e42b8-aa2c-5dd5-bcde-06e0f528e547
+  definition: 과포화된 한 화소이 오버플로우 되어 인접한 화소로 퍼지는 현상
+  examples: []
+  notes: []
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 5939fbbc-30da-51d9-a2c4-2385c56164a9
+status: valid

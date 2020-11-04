@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.14
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 8bd36c30-db27-5d8f-8ea2-a54a9f5dd8bf
+  definition: علاقة وظيفية بين الإحداثيات الأرضية وإحداثيات الصور على اساس  الارتباط
+    بين مجموعة من نقاط الضبط الأرضية وإحداثيات الصورة المقابلة لها
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 55b3a9b4-aafe-5445-9c13-4d4feb738058
+status: valid

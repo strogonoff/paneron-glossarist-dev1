@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.16'
+    link: https://www.iso.org/standard/40395.html
+    ref: ISO 19117:2005
+  concept: 39f25d74-8066-5ad6-a79c-1fffa99cffa5
+  definition: 피처에 어떤 묘화 사양을 적용할지에 대한 규칙
+  examples: []
+  notes: []
+dateAccepted: 2006-05-01 00:00:00+00:00
+id: ca4f1768-119a-514b-87b3-f3cc9a15146d
+status: retired

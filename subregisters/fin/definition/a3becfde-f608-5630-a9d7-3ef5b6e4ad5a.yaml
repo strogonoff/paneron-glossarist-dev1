@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 53ce0f2f-c91e-534c-a9e2-9291255878a6
+  definition: yhtenäinen yksiulotteinen topologinen kompleksi, joka koostuu solmupisteistä
+    ja niitä yhdistävistä särmistä, jotka eivät leikkaa toisiaan muualla kuin solmupisteissä
+  examples: []
+  notes:
+  - Paikkatietojärjestelmissä verkon kahta solmua voi yhdistää useampi kuin yksi linkki,
+    ja verkossa voi olla linkki, jolla on sama solmu molemmissa päissä.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: a3becfde-f608-5630-a9d7-3ef5b6e4ad5a
+status: retired

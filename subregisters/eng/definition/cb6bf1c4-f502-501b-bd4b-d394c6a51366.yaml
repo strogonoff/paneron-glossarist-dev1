@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 4.1 modified - NOTES 1 and 2 have been deleted and replaced by a new Note
+      1 to entry.
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: aa790d00-6d5e-51ed-a888-d5d9071b8efb
+  definition: closeness of reported coordinate values to values accepted as or being
+    true
+  examples: []
+  notes:
+  - Where the true coordinate value may not be perfectly known, accuracy is normally
+    tested by comparison to available values that can best be accepted as true.
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: cb6bf1c4-f502-501b-bd4b-d394c6a51366
+status: valid

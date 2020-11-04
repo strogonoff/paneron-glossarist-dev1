@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 2faca867-1594-5687-9975-54553965b524
+  definition: расположенный с использованием системы линейной привязки
+  examples: []
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 42b0250e-0d78-574e-9270-09fe2bf1fa47
+status: valid

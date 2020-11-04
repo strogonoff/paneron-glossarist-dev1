@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3decb52f-923e-5c15-9d6b-1dc485f4bdea
+  definition: plus grand nombre n tel que chaque position directe dans un ensemble
+    géométrique peut être associée à un sous-ensemble ayant la position directe dans
+    son intérieur et est semblable (isomorphique) à Rn, espace euclidien de dimension
+    n
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 929d50d7-ac8f-5a29-821a-4ab2435a8824
+status: superseded

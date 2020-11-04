@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - clause: '3.15'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  concept: 464bb63d-df54-5f02-8ba0-388608cc911c
+  definition: localización que facilita el transbordo entre modos de transporte, redes
+    de transporte y/o medios de transporte
+  examples: []
+  notes:
+  - Un nodo de transbordo puede contener otros nodos de transbordo y puede estar relacionado
+    con uno o más modos y redes de transporte. También puede contener punto de parada
+    e instalaciones para los usuarios del nodo de conexión. Un nodo de conexión puede
+    alojar servicios que se proporcionan para los usuarios, por ejemplo, servicios
+    de información, venta de boletos, etc.
+  - Un nodo de transbordo puede ser parte de una jerarquía de nodos de conexión. Por
+    lo tanto, un nodo de transbordo puede estar relacionado con muchos modos y redes
+    de transporte. Sin embargo, solo los nodos de transbordo  que estén relacionados
+    con una sola red de transporte tendrán puntos de parada.
+  - Las paradas relacionadas con diferentes nodos de transbordo que pueden servir
+    a diferentes modos y redes de transporte, pueden tener, en la vida real, una misma
+    localización física. Un tranvía y un autobús pueden, por ejemplo, compartir el
+    mismo andén, pero conceptualmente pueden pertenecer a diferentes nodos de transbordo.
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: ad3fc09d-a8f8-5aab-89f1-082cf469184e
+status: valid

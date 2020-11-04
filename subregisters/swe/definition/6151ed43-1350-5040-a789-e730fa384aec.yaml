@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.3
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 26727acf-e91f-54f6-bd58-cc73aace1e93
+  definition: sensorplattformnens rörelseriktning
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 6151ed43-1350-5040-a789-e730fa384aec
+status: valid

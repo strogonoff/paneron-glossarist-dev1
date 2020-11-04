@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 117b19cd-f16e-5e18-ac73-26f6ad34d3ff
+  definition: механизм, посредством которого  более специализированные элементы  заимствуют
+    структуру и поведение более общего элемента
+  examples: []
+  notes:
+  - См. термин «обобщение»
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 6b572dbe-8272-5bcc-8696-761a877a9bc1
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/1141.html
+    ref: ISO 2859-1
+  concept: 2460e3da-a989-504d-9293-84d6ab426479
+  definition: ce qui peut être individuellement décrit ou considéré
+  examples: []
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 88dfb217-9acc-5b69-ba04-d0273341b698
+status: retired

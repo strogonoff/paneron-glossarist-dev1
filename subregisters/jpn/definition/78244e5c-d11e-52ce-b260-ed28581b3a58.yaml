@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 6561fc5a-f0fd-5c27-a348-1f7b6a129248
+  definition: 関係するメタデータ要素体及びメタデータ要素の集まりからなるメタデータの部分集合。
+  examples: []
+  notes:
+  - UMLの専門用語集におけるパッケージと同等のものとする。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 78244e5c-d11e-52ce-b260-ed28581b3a58
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.3
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 26727acf-e91f-54f6-bd58-cc73aace1e93
+  definition: Направление, в котором движется сенсорная платформа
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 362231a5-e027-5eaf-8844-496902da8c03
+status: valid

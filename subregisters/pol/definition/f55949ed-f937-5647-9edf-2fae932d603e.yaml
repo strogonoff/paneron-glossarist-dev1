@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: ae42a97c-c81e-50e8-8c30-ecf598ead803
+  definition: kolekcja zbiorów danych zgodnych z tą samą specyfikacją produktu
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: f55949ed-f937-5647-9edf-2fae932d603e
+status: valid

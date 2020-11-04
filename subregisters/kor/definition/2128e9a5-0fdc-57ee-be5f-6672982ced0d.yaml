@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.61
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 1650b683-2946-53df-b01c-8998af5b6ce3
+  definition: KS X ISO 19109에 따라 UML로 기술된 응용 스키마
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 2128e9a5-0fdc-57ee-be5f-6672982ced0d
+status: valid

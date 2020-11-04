@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: 5563e0b7-492a-51e0-8489-abdbc0a65dfc
+  definition: recurso que está bajo el control directo de un sistema
+  examples: []
+  notes:
+  - En esta norma internacional, el sistema es un servicio web de fenómenos y el recurso
+    está en un almacén de datos directamente controlado por dicho servicio.
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: e69b67a8-4f68-5488-8ffe-6ece110f299d
+status: valid

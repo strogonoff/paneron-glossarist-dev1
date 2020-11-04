@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 7-15
+    link: https://www.iso.org/standard/31892.html
+    ref: ISO 80000-7:2008
+  concept: c38d2719-5fed-57e9-930f-d95e1b0a4e2f
+  definition: intensidad radiante de un elemento de la superficie, en un punto concreto
+    y en un dirección dada, dividida por el área de la proyección ortogonal de ese
+    elemento en un plano perpendicular a la dirección dada
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 67f0c541-6aea-57e1-8aa8-4b29d7491d4d
+status: valid

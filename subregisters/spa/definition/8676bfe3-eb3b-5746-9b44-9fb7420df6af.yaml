@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.42'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 72560f9e-815c-519f-bd5d-8d1bf72b80b9
+  definition: ángulo vertical desde la plataforma hacia abajo en la dirección del
+    vector alcance, normalmente medido en el punto de referencia de la apertura (ARP)
+  examples: []
+  notes:
+  - es aproximadamente el complemento del ángulo de depresión.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 8676bfe3-eb3b-5746-9b44-9fb7420df6af
+status: valid

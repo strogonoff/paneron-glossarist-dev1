@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 8ce91f63-2c22-5ea2-8a3a-e308c1b9c551
+  definition: obiekt topologiczny reprezentujący powiązanie logiczne między prostym
+    elementem topologicznym a jedną z jego orientacji
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ff15921b-733f-5f99-8545-ecc35da8df9b
+status: valid

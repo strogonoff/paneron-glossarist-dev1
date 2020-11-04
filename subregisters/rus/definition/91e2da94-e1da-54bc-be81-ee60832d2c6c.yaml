@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.7.1
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: d266df07-bb2e-5e9d-af31-ee6ad6376222
+  definition: коллекция терминологических записей, представляющих информацию, связанную
+    с понятиями или обозначениями из одной или нескольких конкретных предметных областей
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 91e2da94-e1da-54bc-be81-ee60832d2c6c
+status: valid

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: c3a5825e-469a-5841-b0af-c277d8c49052
+  definition: condición de un enlace o un giro que permite o restringe todo el recorrido
+    del tráfico, en oposición a una restricción de navegación más detallada
+  examples: []
+  notes:
+  - La condición de transitable es habitualmente una función de condiciones físicas,
+    culturales o legales. Si transitable es falso, el objeto no puede ser navegado.
+    Esto elimina de hecho un enlace de la red utilizable. En el caso de un nodo, esto
+    elimina el nodo y todos sus enlaces asociados de la red utilizable. En el caso
+    de un giro, simplemente lo retira de cualquier ruta viable. Las entidades no transitables
+    no están incluidas en las maniobras o rutas.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 9bd16c40-8d0a-5499-a67f-f33f9b34339c
+status: valid

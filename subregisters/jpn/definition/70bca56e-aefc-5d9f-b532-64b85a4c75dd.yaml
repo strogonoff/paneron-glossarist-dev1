@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: b8b15aa5-ebee-5508-a48c-60c66c0cb1b8
+  definition: 一方から他方への構造を保存する関数をもつ二つの領域（二つの複体のような）の間の関係。
+  examples: []
+  notes:
+  - 準同形は逆関数を必要としない点で同形と異なる。同形には，本質的には互いに逆関数の関係にあたる二つの準同形がある。連続関数は，“位相的な特性”を保存するので位相準同形である。位相複体の幾何実現への写像は，境界の概念を保存する。したがって，一つの準同形である。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 70bca56e-aefc-5d9f-b532-64b85a4c75dd
+status: superseded

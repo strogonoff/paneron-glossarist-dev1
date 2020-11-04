@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 16ee326a-ae17-5463-84d7-4e32098ee7fa
+  definition: 继承或实现另一个类、类型或接口的派生类的任何实例在任何相关环境中用于替代其祖先实例的能力。
+  examples: []
+  notes:
+  - 弱替换类型使得在替换中对环境有各种各样的限制。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 522c4673-b2fe-5bc7-bee2-c6f90a386628
+status: retired

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: db11ab01-3710-5083-9548-0a80eccfdf78
+  definition: 由服务器端返回给客户端的一个操作结果。
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: cd53d11c-d596-5c36-b0e1-70ffa88935c7
+status: valid

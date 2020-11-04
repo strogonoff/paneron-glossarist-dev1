@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/55723.html
+    ref: ISO/IEC 10746-2
+  concept: 916e06c7-248e-53ac-8e89-fed5ca08336d
+  definition: conjunto de reglas relacionadas con un propósito particular
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: e0d18237-4929-5722-82b8-faa75bf56d24
+status: valid

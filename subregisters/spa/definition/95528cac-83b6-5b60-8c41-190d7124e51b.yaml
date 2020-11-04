@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.2.21
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 57115069-0081-56d0-8ad0-5be37644bc63
+  definition: relación entre dos conceptos en la cual la intensión de uno de los conceptos
+    incluye la del otro concepto y al menos una característica distintiva adicional
+  examples: []
+  notes:
+  - Existe una relación genérica entre los conceptos "palabra" y "pronombre", "vehículo"
+    y "coche", "persona" y "niño".
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 95528cac-83b6-5b60-8c41-190d7124e51b
+status: valid

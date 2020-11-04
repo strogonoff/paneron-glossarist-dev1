@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: eaa65aba-9adb-5857-b5de-b965869c6980
+  definition: distance of a point from a chosen reference surface measured upward
+    along a line perpendicular to that surface
+  examples: []
+  notes:
+  - A height below the reference surface will have a negative value.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: f19d81bc-c46c-567c-986c-d2554e4940e4
+status: superseded

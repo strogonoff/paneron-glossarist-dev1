@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 43650201-9bb4-5b77-8f13-67d85e1565f9
+  definition: podział przestrzeni na zbiór sąsiadujących ze sobą podprzestrzeni o
+    tym samym wymiarze co dzielona przestrzeń
+  examples:
+  - Y Graficzne przykłady teselacji pokazano na Rysunkach 11, 13, 20 i 22 niniejszej
+    Normy Międzynarodowej.
+  notes:
+  - Teselacja złożona z przystających regularnych wieloboków lub wielościanów jest
+    teselacją regularną. Teselacja złożona z regularnych, ale nieprzystających wieloboków
+    lub wielościanów jest teselacją półregularną. W innych przypadkach teselacja jest
+    nieregularna.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: b6b3db00-56fb-5453-a499-b3f586b3a67d
+status: valid

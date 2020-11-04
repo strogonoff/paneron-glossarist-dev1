@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39229.html
+    ref: ISO 19115-2:2009
+  concept: 3f0723dd-8929-5c13-8b4f-b0f6f057f880
+  definition: определенный интервал длин волн в электромагнитном спектре
+  examples:
+  - полоса 1 Landsat TM лежит между 0,45 и 0,52 мкм в видимой части спектра.
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: c8bb6c63-7ddb-5da1-9dc4-8844683568bb
+status: valid

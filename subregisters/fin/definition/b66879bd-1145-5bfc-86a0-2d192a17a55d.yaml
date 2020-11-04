@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.49
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: f33afb57-26db-50be-b768-d24246e192f3
+  definition: GML-objektin lapsielementti
+  examples: []
+  notes:
+  - Käsite vastaa kohteen ominaisuuden ja kohteiden välisen assosiaatiosuhteen roolia
+    ISO 19109 -standardissa. Jos kohteen GML-ominaisuudella on kohteeseen viittaava
+    xlink:href-attribuutti, ominaisuus kuvaa kohteiden välisen assosiaatiosuhteen
+    roolia.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: b66879bd-1145-5bfc-86a0-2d192a17a55d
+status: valid

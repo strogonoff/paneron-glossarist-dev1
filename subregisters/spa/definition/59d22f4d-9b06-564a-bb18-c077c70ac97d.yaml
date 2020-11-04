@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.2.6
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 70040933-0bf0-5f80-8970-4dbc22a5c652
+  definition: característica indispensable para entender un concepto
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 59d22f4d-9b06-564a-bb18-c077c70ac97d
+status: valid

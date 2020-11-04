@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  concept: 561d7293-8f8a-5107-af9f-a70e6521b759
+  definition: réseau de triangles tel que le cercle passant par les sommets de n'importe
+    quel triangle ne contient pas, dans son intérieur, le sommet d'un autre triangle
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: f13b624a-a888-5741-9840-9aae9b47d147
+status: valid

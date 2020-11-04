@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 6c5d69ed-76aa-5388-a5c3-91754b0e25a1
+  definition: автономный процесс для выполнения глобального преобразования большого
+    объема данных
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: c2c6e6d6-47ec-57cf-8bd7-faf2e0e97fa7
+status: valid

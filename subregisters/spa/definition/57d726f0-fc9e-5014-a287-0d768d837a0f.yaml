@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.52
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 73f8516f-0041-5df6-8101-4b3cb2cbe719
+  definition: punto de control del terreno asociado con una marca u otro objeto en
+    el terreno que se puede reconocer en una imagen
+  examples: []
+  notes:
+  - El punto de control del terreno se puede marcar en la imagen, o se le puede proporcionar
+    al usuario una descripción inequívoca del punto de manera que pueda encontrarse
+    en la imagen.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 57d726f0-fc9e-5014-a287-0d768d837a0f
+status: valid

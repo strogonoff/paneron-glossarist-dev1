@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: c466728d-152a-5086-8600-1f817866b132
+  definition: Abstand eines Punktes vom Ellipsoid, gemessen entlang der Ellipsoidsenkrechten
+    durch diesen Punkt; Wert ist positiv, wenn nach oben oder außerhalb des Ellipsoids
+  examples: []
+  notes:
+  - Only used as part of a three-dimensional ellipsoidal coordinate system and never
+    on its own.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: f8357cce-ebad-5ce7-9cb2-5e4e617cff25
+status: superseded

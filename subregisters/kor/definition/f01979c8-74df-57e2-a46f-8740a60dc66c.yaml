@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 3.4.1
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: e4c682b2-1dbb-54b4-9f6e-027b673d83ba
+  definition: 의미하는 것을 기호화하여 개념적으로 표현한 것
+  examples: []
+  notes:
+  - 'In terminology work three types of designations are distinguished: symbols, appellations
+    and terms'
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: f01979c8-74df-57e2-a46f-8740a60dc66c
+status: valid

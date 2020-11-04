@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.39'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: c34f6dcf-26d2-55e1-b815-9011d7de946b
+  definition: visuellt avbildningsfenomen som uppstår genom att en radarsignal reflekteras
+    av höga föremål innan den reflekteras av marken
+  examples: []
+  notes:
+  - The effect makes buildings “lay over” onto the ground toward the sensor velocity
+    vector, akin to perspective views in projective imagery.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 78b18d58-079f-5dc7-866b-353b85aeeba7
+status: valid

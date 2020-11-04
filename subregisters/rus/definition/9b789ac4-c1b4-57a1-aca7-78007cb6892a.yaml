@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.41
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 24ba2521-05d1-55ce-a95e-f5e042adbd16
+  definition: значение, описываемое  с использованием числовой величины и масштаба
+    шкалы или скалярной системы отсчета
+  examples: []
+  notes:
+  - Будучи используемой в единственном числе, мера представляет собой синоним  физической
+    величины
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 9b789ac4-c1b4-57a1-aca7-78007cb6892a
+status: valid

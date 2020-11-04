@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.37'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: 997a3800-dea0-54b2-94c0-d000eb1d8ced
+  definition: ajuste de las observaciones hechas a partir de una franja de imágenes
+    aéreas, de satélite o mediciones lídar
+  examples: []
+  notes: []
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: 878762d6-2358-5f18-bb92-e1a4027af211
+status: valid

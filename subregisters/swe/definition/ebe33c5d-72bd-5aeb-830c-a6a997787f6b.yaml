@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.5
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: ab255dd9-ef9a-516b-9bcb-e8acee09703d
+  definition: datamängd av höjdvärden som algoritmiskt åsatts tvådimensionella koordinater
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: ebe33c5d-72bd-5aeb-830c-a6a997787f6b
+status: valid

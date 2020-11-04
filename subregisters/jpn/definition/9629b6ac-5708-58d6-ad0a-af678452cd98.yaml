@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 2d8f440e-509d-5fd2-9098-f31342a33029
+  definition: 特定の試験手続から独立した実装の試験の方法。
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 9629b6ac-5708-58d6-ad0a-af678452cd98
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: c2c74cbe-24e9-58cb-8b01-84fb138b8dee
+  definition: software architecture consisting of coupled services
+  examples: []
+  notes:
+  - The most common SOAs in use today are Web services (using SOAP, UDDI, and WSDL),
+    CORBA and DCOM.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 6e5621e2-4055-5f9f-9ed2-49ef029ad5c3
+status: valid

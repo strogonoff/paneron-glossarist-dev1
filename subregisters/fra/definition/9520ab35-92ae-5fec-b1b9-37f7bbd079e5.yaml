@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 75004415-4619-50cb-82c0-477bbb17120e
+  definition: condition ou restriction sémantique
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 9520ab35-92ae-5fec-b1b9-37f7bbd079e5
+status: superseded

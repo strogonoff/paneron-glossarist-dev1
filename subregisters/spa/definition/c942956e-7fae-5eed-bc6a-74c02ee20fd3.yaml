@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.1
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 709da622-f6f2-5c45-81de-307ede9797d0
+  definition: sistema de coordenadas en el espacio euclídeo con ejes rectos que no
+    son necesariamente mutuamente perpendiculares
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: c942956e-7fae-5eed-bc6a-74c02ee20fd3
+status: valid

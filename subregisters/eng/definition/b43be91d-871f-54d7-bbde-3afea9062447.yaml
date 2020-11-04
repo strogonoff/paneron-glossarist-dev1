@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.86
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: e761bcea-1769-5186-a608-8cecf960223a
+  definition: any of the independent decisions made in a coordinate system to locate
+    a position
+  examples: []
+  notes:
+  - '"A Euclidean space with a spatial dimension of 3, 𝔼3, usually uses axis names
+    ''x'', ''y'', and ''z'', Its first spatial dimension is ''x'', its second is ''y''
+    and its third is ''z''." In the context of the space, the adjective use describes
+    the space but the singular noun can use a name for an axis separately.'
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: b43be91d-871f-54d7-bbde-3afea9062447
+status: valid

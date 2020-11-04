@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  concept: e2a8c291-076a-5aeb-9d8e-9e05388f4de6
+  definition: 지구상의 위치와 연관된 실세계 현상의 표현
+  examples: []
+  notes: []
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: 07e3a5b1-8387-5c67-8ec8-433aba4b74ea
+status: valid

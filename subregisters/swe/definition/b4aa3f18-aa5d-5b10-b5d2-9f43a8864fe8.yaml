@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: 9e9fa104-a325-5389-be19-cd385f1e6e82
+  definition: begrepp som kan specificeras i detalj som ett eller flera objektsamband
+  examples:
+  - A "supports" feature association concept describes a relationship between real
+    world phenomena such as "highways" and "bridges" where the role of one feature
+    is that it is supported-by the other feature (whose role is supporter-of).
+  notes: []
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: b4aa3f18-aa5d-5b10-b5d2-9f43a8864fe8
+status: valid

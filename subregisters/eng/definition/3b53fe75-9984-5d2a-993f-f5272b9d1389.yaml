@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: e7a81596-a7fe-5092-876e-17ca55979774
+  definition: communicate, execute programs, or transfer data among various functional
+    units in a manner that requires the user to have little or no knowledge of the
+    unique characteristics of those units
+  examples: []
+  notes:
+  - cf. interoperability
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 3b53fe75-9984-5d2a-993f-f5272b9d1389
+status: valid

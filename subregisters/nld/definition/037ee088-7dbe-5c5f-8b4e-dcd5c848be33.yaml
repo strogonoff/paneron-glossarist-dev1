@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 43344492-9056-500c-9123-861d80a573af
+  definition: eendimensionaal coördinaatreferentiesysteem gebaseerd op een verticaal
+    datum
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 037ee088-7dbe-5c5f-8b4e-dcd5c848be33
+status: superseded

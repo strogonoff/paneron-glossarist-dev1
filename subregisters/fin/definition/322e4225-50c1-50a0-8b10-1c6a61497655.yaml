@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: a7278adc-c7f8-55f5-8542-aa6302330664
+  definition: tieto, joka liittyy objekteihin, kuten tosiasioihin, tapahtumiin, asioihin,
+    prosesseihin, ideoihin tai käsitteisiin ja jolla on tietyssä yhteydessä tietty
+    merkitys
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 322e4225-50c1-50a0-8b10-1c6a61497655
+status: valid

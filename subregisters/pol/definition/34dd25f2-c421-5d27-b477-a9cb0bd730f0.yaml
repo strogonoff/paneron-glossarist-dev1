@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 5a85d4b9-466e-5587-8bf7-0d97789f8c8a
+  definition: pokrycie, które przyjmuje różne wartości tego samego atrybutu obiektu
+    w różnych położeniach bezpośrednich w obrębie pojedynczego obiektu przestrzennego,
+    czasowego lub czasoprzestrzennego z jego dziedziny
+  examples: []
+  notes:
+  - Mimo, że dziedzina pokrycia ciągłego jest zwykle ograniczona przestrzennie i/lub
+    czasowo, to może być dzielona na nieskończoną ilość położeń bezpośrednich.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 34dd25f2-c421-5d27-b477-a9cb0bd730f0
+status: valid

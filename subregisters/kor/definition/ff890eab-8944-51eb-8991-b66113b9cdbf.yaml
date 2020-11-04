@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.50'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: b52a3769-da13-5ce4-a035-5da8242feeb9
+  definition: 예상되는 위험을 감소시키는 특정 허가증 취득자와 관련된 위험 감소 요소의 총합
+  examples: []
+  notes:
+  - Trust allows the owner [or his agent] to act with a higher potential risk because
+    the expected risk has been lowered. This is slightly different from the plain
+    language of trust. Normally, trust requires something, but if the principal at
+    risk decides that no risk exists, then trust exists (in the sense here) because
+    risk has been reduced, whatever the reason.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: ff890eab-8944-51eb-8991-b66113b9cdbf
+status: valid

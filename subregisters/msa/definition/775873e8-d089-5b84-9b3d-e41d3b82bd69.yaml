@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: '4.50'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: b52a3769-da13-5ce4-a035-5da8242feeb9
+  definition: Kebarangkalian sesuatu peranti dapat berfungsi dengan sempurna bagi
+    tempoh tertentu yang dikehendaki di bawah syarat-syarat operasi tertentu.
+  examples: []
+  notes:
+  - Trust allows the owner [or his agent] to act with a higher potential risk because
+    the expected risk has been lowered. This is slightly different from the plain
+    language of trust. Normally, trust requires something, but if the principal at
+    risk decides that no risk exists, then trust exists (in the sense here) because
+    risk has been reduced, whatever the reason.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 775873e8-d089-5b84-9b3d-e41d3b82bd69
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.20'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 777ccc27-c5cf-52c7-b13f-1ad31a46ec8e
+  definition: information describing the quality of data quality
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: c73638b7-8afb-588f-95a9-968ac30b5091
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.22
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 1ab20219-b4c8-5404-a782-372c5fb8ecd6
+  definition: closeness of coordinate value to the true or accepted value in a specified
+    reference system
+  examples: []
+  notes:
+  - The phrase "absolute accuracy" is sometimes used for this concept to distinguish
+    it from relative positional accuracy.  Where the true coordinate value may not
+    be perfectly known, accuracy is normally tested by comparison to available values
+    that can best be accepted as true.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 576b89a5-91e9-592c-b50d-6cb8b467b0e0
+status: valid

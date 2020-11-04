@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 9106e4ec-2a7d-5e92-b7b8-20a9565518e0
+  definition: 对IUT性能特性的测量，例如，不同情况下的吞吐量、响应能力等。
+  examples: []
+  notes:
+  - 性能测试不作为一致性测试的一个部分。
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 3b477bee-b515-5701-9571-f1693bc0c9df
+status: valid

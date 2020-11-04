@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: a0cdfe23-c885-5d5f-acbe-c7db92ddec9e
+  definition: 一个产品满足规定的和隐含需求的能力特征的总和。
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 698e9e4d-25e2-5398-87e7-ba7add3d8af0
+status: superseded

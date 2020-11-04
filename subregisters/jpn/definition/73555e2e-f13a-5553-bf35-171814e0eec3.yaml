@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 16ee326a-ae17-5463-84d7-4e32098ee7fa
+  definition: あるクラス，型又はインタフェースを継承又は実現した下位クラスの任意のインスタンスを，その原型のインスタンスの代わりとして任意の状況において用いることのできる能力。
+  examples: []
+  notes:
+  - 代替性の弱い形式は，暗黙の代替を行う状況に様々な制限を設ける。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 73555e2e-f13a-5553-bf35-171814e0eec3
+status: retired

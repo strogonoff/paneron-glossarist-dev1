@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132
+  concept: 0c38c28e-df13-5d51-bda9-840a2bfa53b2
+  definition: objet actif qui initie des requêtes de service au système
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 064206a8-fbf4-5ea6-8fb0-6c14f2a4eef7
+status: valid

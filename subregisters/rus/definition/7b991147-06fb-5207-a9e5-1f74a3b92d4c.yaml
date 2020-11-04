@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.18'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: b8aef805-4def-5e9c-9f6b-1078237fc968
+  definition: символ, который имеет динамические параметры
+  examples: []
+  notes:
+  - Динамические параметры сопоставляются со значениями атрибутов каждого экземпляра
+    объекта , отображаемого графически.
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 7b991147-06fb-5207-a9e5-1f74a3b92d4c
+status: valid

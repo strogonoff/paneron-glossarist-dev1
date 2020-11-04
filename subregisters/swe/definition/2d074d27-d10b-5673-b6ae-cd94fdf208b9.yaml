@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 230b254c-c1d8-5eca-a965-40f60bbebfbf
+  definition: objekt tillhörande en viss objekttyp eller klass
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2d074d27-d10b-5673-b6ae-cd94fdf208b9
+status: valid

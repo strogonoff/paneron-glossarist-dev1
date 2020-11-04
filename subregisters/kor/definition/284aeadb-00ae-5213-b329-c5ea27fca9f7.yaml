@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 4e5e573c-e365-537e-9b8c-110e44b0e6c7
+  definition: 공통 특성을 가진 데이터셋의 집합
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: 284aeadb-00ae-5213-b329-c5ea27fca9f7
+status: valid

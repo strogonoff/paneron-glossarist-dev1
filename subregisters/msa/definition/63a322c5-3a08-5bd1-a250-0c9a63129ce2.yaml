@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.19
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: ac7bbea0-2b31-513c-bfeb-0abc03f3759c
+  definition: sistem maklumat yang  mengendali maklumat mengenai fenomena yang berkaitan
+    dengan lokasi relatif kepada bumi
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 63a322c5-3a08-5bd1-a250-0c9a63129ce2
+status: valid

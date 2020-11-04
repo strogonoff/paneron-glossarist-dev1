@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.41
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 24ba2521-05d1-55ce-a95e-f5e042adbd16
+  definition: 축척에 의한 수치나 스칼라 참조 체계를 이용하여 표시한 값
+  examples: []
+  notes:
+  - 명사로 사용할 경우, 측정은 물리량과 동일한 의미이다.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 6249b59c-caa7-54c4-a6e7-99fd103a91f6
+status: valid

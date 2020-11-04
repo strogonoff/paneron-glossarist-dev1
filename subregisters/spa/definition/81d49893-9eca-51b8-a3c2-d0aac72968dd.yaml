@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  concept: e1db82b2-91eb-5359-95db-025f53585b6b
+  definition: elementos de actividad de un proceso
+  examples:
+  - En el caso de un levantamiento fotogramétrico, la aerotriangulación puede considerarse
+    como un subproceso
+  notes:
+  - Los subprocesos pueden a su vez subdividirse con tanto detalle como sea necesario
+    para controlar la calidad del proceso.
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 81d49893-9eca-51b8-a3c2-d0aac72968dd
+status: valid

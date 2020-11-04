@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://webstore.iec.ch/publication/7512
+    ref: IEC 88528-11:2004
+  concept: 1bba5821-7632-5dcc-8774-13202c3c7c94
+  definition: Fungsi yang diwakili secara graf bagi imej sumber titik yang terhasil
+    daripada satu kanta atau sistem optik dalam tiga dimensi.
+  examples: []
+  notes: []
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 0b7fd721-40c3-59cc-a43a-b7ec7fd437d9
+status: valid

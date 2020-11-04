@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.23
+    link: https://www.iso.org/standard/74032.html
+    ref: ISO/TS 19159-3:2018
+  concept: 83f00552-3d19-5e22-baa4-2f16481a00a6
+  definition: measure of the capability of the object to scatter the transmitted radar
+    power
+  examples: []
+  notes:
+  - Radar cross section is calculated as `sigma = lim_(R ->oo) 4 pi R^2 (abs(E_s)^2)
+    / (abs(E_i)^2)` where `sigma` is the radar cross section; `E_i` is the electric-field
+    strength of the incident wave; `E_s` is the electric-field strength of the scattered
+    wave at the radar with a distance `R` away from the target.
+  - ' 2 to entry: Radar cross section has the dimensions of area, with the unit of
+    square metres. Usually, it is expressed in the form of a logarithm with the unit
+    of dBsm as follows `sigma_(dBsm) = 10 log_(10) sigma`'
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: 5ee6bfc3-0fd8-52ff-91df-de43e2deed05
+status: valid

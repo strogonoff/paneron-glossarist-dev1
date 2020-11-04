@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 1650a910-a57e-5ed3-af9f-098f9bb59303
+  definition: 明らかな不適合のケースを識別するために実施する最初の機能試験。
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 67a9578d-3746-580c-802b-fca380c2ced0
+status: valid

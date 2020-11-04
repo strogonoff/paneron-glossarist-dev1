@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: b1489653-9925-5652-894e-8206f9e33e0d
+  definition: 각각이 전체의 일부에 대해 단일값을 가진 하위 속성들이 지형지물의 나머지 부분과 차별화된 선형 지형지물의 일부
+  examples: []
+  notes:
+  - A linear segment is a one-dimensional object without explicit geometry.
+  - The implicit geometry of the linear segment can be derived from the geometry of
+    the parent feature.
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 31c61576-305e-535f-8275-a83cf9ab076d
+status: valid

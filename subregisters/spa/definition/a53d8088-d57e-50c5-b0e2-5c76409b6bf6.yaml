@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.56
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 6473854c-5a71-5515-b88a-1b83dc7dc519
+  definition: descripción de la posición en el mundo real
+  examples: []
+  notes:
+  - Puede tomar la forma de una etiqueta, código o una tupla de coordenadas.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: a53d8088-d57e-50c5-b0e2-5c76409b6bf6
+status: valid

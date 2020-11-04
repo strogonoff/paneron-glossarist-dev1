@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: c091a7e9-97a5-5339-94cf-336864bd5e77
+  definition: передача, прием и интепретация данных
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 7c2f0b41-9efa-5e59-b53c-19318915c256
+status: valid

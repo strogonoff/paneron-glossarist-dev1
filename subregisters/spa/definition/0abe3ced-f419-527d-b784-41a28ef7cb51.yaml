@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.19'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: ca12351c-e2b7-5892-9270-4ece6d430237
+  definition: mecanismo por el que los clasificadores más específicos incorporan la
+    estructura y el comportamiento definidos por los clasificadores más generales
+  examples: []
+  notes:
+  - Véase generalización.
+dateAccepted: 2015-12-01 00:00:00+00:00
+id: 0abe3ced-f419-527d-b784-41a28ef7cb51
+status: valid

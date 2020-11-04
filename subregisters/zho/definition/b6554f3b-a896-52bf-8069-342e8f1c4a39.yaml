@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.54
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 42ebd917-da08-57fc-901d-6f20ff6a8d3c
+  definition: 椭球的最短轴的半径。
+  examples: []
+  notes:
+  - 最短轴与椭球的旋转轴一致，因此最短轴包括两个极点。
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: b6554f3b-a896-52bf-8069-342e8f1c4a39
+status: valid

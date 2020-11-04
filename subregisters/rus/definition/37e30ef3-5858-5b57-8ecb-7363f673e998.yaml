@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: 7d9cad17-491f-59ce-b732-971808bec4db
+  definition: данные о данных
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 37e30ef3-5858-5b57-8ecb-7363f673e998
+status: замененный

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 9ec67dbe-e23a-5730-bb86-49d63b8006d2
+  definition: 지구의 중력에 영향을 받는 높이
+  examples: []
+  notes:
+  - 특히 평균 해수면 위쪽 방향에 위치하는 한 점까지의 거리에 대한 근사값인 정사 표고나 정규 표고를 말한다.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 146dff15-ebaf-5203-8ced-ffeb024266f4
+status: superseded

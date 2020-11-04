@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 297aced6-b3f5-5bf5-88f2-af7a05954fba
+  definition: czasowy system odniesienia złożony z er porządkowych
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: dc18aa2e-6260-537d-b25d-ec384c5a766c
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 4e2333ac-28e6-5694-8cc5-39db3801abf0
+  definition: organización o persona que recibe un producto
+  examples: []
+  notes:
+  - El cliente puede ser interno o externo a la organización suministradora
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 0383c8c7-1d0c-5539-a756-a41ef68dc386
+status: valid

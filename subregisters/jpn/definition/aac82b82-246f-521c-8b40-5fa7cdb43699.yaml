@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.97
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: e97a476d-3176-5e63-a30d-725a0de3e599
+  definition: 境界演算について閉じている位相プリミティブの集まり。
+  examples: []
+  notes:
+  - 境界演算について閉じているとは，位相プリミティブが位相複体に含まれる場合には，その境界オブジェクトもまたこの位相複体に含まれることを意味する。
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: aac82b82-246f-521c-8b40-5fa7cdb43699
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.36
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: f6d4c2e6-94a1-519f-8911-fc9676c175dd
+  definition: determination of the geographic position of an object
+  examples: []
+  notes:
+  - While there are many methods for geopositioning, this document is focused on geopositioning
+    from image coordinates.
+dateAccepted: 2018-09-01 00:00:00+00:00
+id: bc3df4c7-b7d8-5ed7-b1c3-f5536aae2677
+status: valid

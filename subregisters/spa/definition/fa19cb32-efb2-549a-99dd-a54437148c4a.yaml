@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0d4997ad-c2bd-5de2-942e-b79af22736ea
+  definition: tupla compuesta por una secuencia de coordenadas
+  examples: []
+  notes:
+  - El número de coordenadas en la tupla de coordenadas es igual a la dimensión del
+    sistema de coordenadas; el orden de las coordenadas en la tupla de coordenadas
+    es idéntico al orden de los ejes del sistema de coordenadas.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: fa19cb32-efb2-549a-99dd-a54437148c4a
+status: superseded

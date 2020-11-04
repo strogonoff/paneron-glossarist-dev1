@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.2
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  concept: 4fb20186-2548-5cbf-b3b1-33e90acca54c
+  definition: punto de vista de un sistema ODP y su entorno que se centra en la semántica
+    de la información y el procesamiento de la información
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: df5b37a8-a54b-5475-a20a-dc121b28980a
+status: valid

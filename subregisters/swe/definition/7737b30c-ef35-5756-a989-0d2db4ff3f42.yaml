@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/45020.html
+    ref: ISO/TS 19104:2008
+  concept: fae80d7f-7464-5998-98e9-1e4f3c2169c6
+  definition: structured collection of terminological data relevant to one concept
+  examples: []
+  notes: []
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 7737b30c-ef35-5756-a989-0d2db4ff3f42
+status: retired

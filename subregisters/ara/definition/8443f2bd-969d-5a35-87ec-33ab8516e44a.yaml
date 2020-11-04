@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: ec90a670-0f95-560e-9e0f-307276de0d04
+  definition: تخصيص رمز تعريف دائم ومتفرد وبعيد عن اللبس لتمييز بند معين
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 8443f2bd-969d-5a35-87ec-33ab8516e44a
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.38
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: da5d8e9d-b6db-5282-8ae8-6360c7cc7ea3
+  definition: primitive topologique bidimensionnelle
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 03c69ba7-b254-59b0-97e8-788a8f199d7e
+status: valid

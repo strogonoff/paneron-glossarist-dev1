@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 6fa8741a-197e-5a37-b1e9-c2fbcd6e6ad5
+  definition: 관계된 (로케이팅) 지형지물을 따라 선형적으로 위치되어진 지형지물
+  examples:
+  - A feature “bridge” may be a located feature along the feature “railway” [a locating
+    feature].
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 616b56cf-7bef-5791-83bf-520c51e86c2f
+status: valid

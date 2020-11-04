@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.31'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: b571dfda-f6a0-5074-a385-8d10b8e6c88d
+  definition: общий набор правил взаимодействия распределенных систем
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 28a828b3-a34c-503a-8344-e8cbb0b6a63f
+status: valid

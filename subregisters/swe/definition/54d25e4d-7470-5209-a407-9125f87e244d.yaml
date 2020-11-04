@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 9adb6b43-9f95-5542-9efd-e5df91b2b78a
+  definition: <inom astronomi> det tidsintervall under vilken månen fullbordar ett
+    omlopp kring jorden
+  examples: []
+  notes:
+  - The duration of a month is an integer number of days.  The number of days in a
+    month is determined by the rules of the particular calendar.
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 54d25e4d-7470-5209-a407-9125f87e244d
+status: valid

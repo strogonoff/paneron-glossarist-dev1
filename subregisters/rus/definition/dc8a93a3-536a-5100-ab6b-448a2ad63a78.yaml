@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: 3b9ff2a6-ffe7-5df1-819c-13734caa4d0b
+  definition: метод, алгоритм или инструмент, или система из них, которые могут быть
+    использованы при проведении наблюдения
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: dc8a93a3-536a-5100-ab6b-448a2ad63a78
+status: valid

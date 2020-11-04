@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 4788e0b6-a971-5c59-b741-608552e0961b
+  definition: 운행 가능한 경로 네트워크 상의 점에 필요한 정보
+  examples: []
+  notes:
+  - 경로 운행에 필요한 지시를 최소화하기 위해 기본지시는 특별한 지시가 없는 교차점을 가질 수 있다. 이 기본 지시를 주요 도로 규칙이라 한다.
+dateAccepted: 2006-12-01 00:00:00+00:00
+id: 4ba40464-df05-50b9-910a-fe4051ba54ec
+status: valid

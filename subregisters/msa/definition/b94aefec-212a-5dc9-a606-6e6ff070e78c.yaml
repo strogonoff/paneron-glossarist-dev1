@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39890.html
+    ref: ISO 19119:2005
+  concept: 15a4a183-9aec-58a0-9ca0-4b268efc7621
+  definition: Bahagian yang menjadi sempadan di antara dua komponen, litar, peranti,
+    atau sistem. Bahagian ini menyambungkan peranti yang tidak sepadan untuk membolehkan
+    maklumat diserah atau diambil antara satu sama lain. Antara muka boleh berbentuk
+    mekanik, seperti permukaan perkakasan bersebelahan, berbentuk elektrik, seperti
+    titik penjelmaan aras isyarat, atau berbentuk hubungan, seperti hubungan antara
+    manusia dan mesin.
+  examples: []
+  notes:
+  - See 7.2 [of ISO 19119] for a discussion of interface
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: b94aefec-212a-5dc9-a606-6e6ff070e78c
+status: valid

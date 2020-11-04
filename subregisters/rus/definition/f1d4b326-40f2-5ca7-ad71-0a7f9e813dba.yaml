@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 18e33bf9-af28-58a1-b958-5372c4ba7ace
+  definition: инженерные исходные даты, которые определяют связь системы координат
+    с изображением
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: f1d4b326-40f2-5ca7-ad71-0a7f9e813dba
+status: valid

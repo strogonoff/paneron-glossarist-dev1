@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.4.25
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: b276ea1b-46d4-5df2-b686-3405475cee3a
+  definition: relación entre designación y concepto en un idioma, en la cual una designación
+    representa dos o más conceptos no relacionados entre sí
+  examples: []
+  notes:
+  - "Un ejemplo de homonimia es:\n delfín\n 1 Cetáceo piscívoro.\n 2 Sucesor, designado\
+    \ o probable, de un político o de una personalidad importante."
+  - En una relación de homonimia, las designaciones se denominan homónimos.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 1719433f-fa81-5a6c-9d3c-e7f42fb4b4ad
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.14
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 8894b795-1954-51b3-aeed-1b21111bf2bf
+  definition: 2개 이상의 측위 기술을 통합하는 측위 시스템
+  examples: []
+  notes:
+  - 통합 시스템에서 측위 기술로 측정된 것은 위치, 이동, 또는 자세 등 이다. 중복된 측정이 존재하며, 이들이 결합되었을 때, 통합된 위치,
+    이동, 자세가 결정된다.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 91a3380e-42ba-54a8-8cbb-3b1a7a163dcc
+status: valid

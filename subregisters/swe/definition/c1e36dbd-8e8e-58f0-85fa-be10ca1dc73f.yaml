@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.6
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 954107c1-b89c-513f-9be1-e48a5a681312
+  definition: yttre begränsning hos ett objekt
+  examples: []
+  notes:
+  - Boundary is most commonly used in the context of geometry, where the set is a
+    collection of points or a collection of objects that represent those points. In
+    other arenas, the term is used metaphorically to describe the transition between
+    an entity and the rest of its domain of discourse.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c1e36dbd-8e8e-58f0-85fa-be10ca1dc73f
+status: valid

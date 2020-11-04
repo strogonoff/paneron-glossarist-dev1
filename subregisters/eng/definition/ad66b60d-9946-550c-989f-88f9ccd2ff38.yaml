@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 3.4.1
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: e4c682b2-1dbb-54b4-9f6e-027b673d83ba
+  definition: representation of a concept by a sign which denotes it
+  examples: []
+  notes:
+  - 'In terminology work three types of designations are distinguished: symbols, appellations
+    and terms'
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: ad66b60d-9946-550c-989f-88f9ccd2ff38
+status: valid

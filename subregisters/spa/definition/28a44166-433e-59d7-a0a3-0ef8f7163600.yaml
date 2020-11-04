@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: d50f09f6-0dc9-595f-88bb-17f3e6424fb1
+  definition: sucesión de objetos geográficos en la que dos o más instancias preexistentes
+    de un tipo de objeto geográfico, se sustituyen por una única del mismo tipo
+  examples:
+  - Dos instancias del tipo de objeto geográfico "terreno de pasto" se sustituyen
+    por una sola instancia, cuando se quita la valla que los separa
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 28a44166-433e-59d7-a0a3-0ef8f7163600
+status: valid

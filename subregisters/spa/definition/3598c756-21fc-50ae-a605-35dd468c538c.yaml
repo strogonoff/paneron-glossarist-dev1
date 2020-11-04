@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 5a85d4b9-466e-5587-8bf7-0d97789f8c8a
+  definition: cobertura que devuelve valores diferentes para el mismo atributo de
+    objeto geográfico en diferentes posiciones directas dentro de un único objeto
+    espacial, objeto temporal, u objeto espacio-temporal en su dominio
+  examples: []
+  notes:
+  - Aunque el dominio de una cobertura continua está habitualmente limitado en términos
+    de su extensión espacial y/o temporal, puede subdividirse en un número infinito
+    de posiciones directas.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 3598c756-21fc-50ae-a605-35dd468c538c
+status: valid

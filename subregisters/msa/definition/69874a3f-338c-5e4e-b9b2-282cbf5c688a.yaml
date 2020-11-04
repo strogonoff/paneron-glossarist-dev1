@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.7.2
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 27fdd81a-a506-532d-8d04-1ec6288ff913
+  definition: 1. Kumpulan kod dan suruhan dalam bahasa pengaturcaraan yang boleh digunakan
+    untuk menulis atur cara. 2. Himpunan perkataan yang terdapat dalam bahasa yang
+    boleh digunakan oleh pengguna bahasa tersebut.
+  examples: []
+  notes:
+  - The vocabulary may be monolingual, bilingual or multilingual.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 69874a3f-338c-5e4e-b9b2-282cbf5c688a
+status: valid

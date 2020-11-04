@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 6c27dc3f-49d2-56b2-b560-cd5ded8dab31
+  definition: resultado de un proceso
+  examples: []
+  notes: []
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: ad8fa62a-9f3e-519d-9aab-0fb96bea7537
+status: valid

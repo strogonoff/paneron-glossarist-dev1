@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105
+  concept: fa7bdad4-ba97-57c5-a5dc-abdb01c54453
+  definition: résultat d'échec d'un test de conformité
+  examples: []
+  notes: []
+dateAccepted: 2000-11-16 00:00:00+00:00
+id: daa4d010-d95c-5c62-91ac-856384a3e804
+status: valid

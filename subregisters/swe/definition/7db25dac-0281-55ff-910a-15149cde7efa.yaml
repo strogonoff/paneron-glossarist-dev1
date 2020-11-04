@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: f800b94d-fbfc-5021-878e-662897db2217
+  definition: sekvens av länkar och svängar som kombineras för att använda i en ruttinstruktion
+  examples: []
+  notes:
+  - Maneuvers are used to cluster turns into convenient and legal combinations. They
+    may be as simple as a single turn, a combination of quick turns ("jogs" in the
+    American mid-west consisting of a turn followed immediately by a turn in the opposite
+    direction) or very complex combinations consisting of entry, exit, and connecting
+    roadways  ("magic roundabouts" in the UK).
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 7db25dac-0281-55ff-910a-15149cde7efa
+status: valid

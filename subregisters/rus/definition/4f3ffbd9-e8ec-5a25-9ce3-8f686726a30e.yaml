@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: dd8ba9d8-aeba-52c1-a31f-c632e4f18145
+  definition: несущественное изменение учетной единицы в реестре
+  examples: []
+  notes:
+  - Несущественное изменение не меняет семантику или технический смысл учетной единицы.
+    Уточнение не влечет за собой изменение регистрационного статуса  учетной единицы.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 4f3ffbd9-e8ec-5a25-9ce3-8f686726a30e
+status: valid

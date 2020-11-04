@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 1776de4d-059e-59a8-a134-d2cd997b84b9
+  definition: complejo geométrico cuyas primitivas geométricas están en correspondencia
+    una a una con las primitivas topológicas de un complejo topológico, de tal manera
+    que las relaciones de frontera en los dos complejos concuerdan
+  examples: []
+  notes:
+  - En dicha realización, las primitivas topológicas se considera que representan
+    el interior de las primitivas geométricas correspondientes. Los compuestos son
+    cerrados.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: e3e411c4-02fe-5502-8c57-c54103e8e306
+status: superseded

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: 4.2.1
+    link: https://www.iso.org/standard/61585.html
+    ref: ISO 19136-2:2015
+  concept: 9c2d7618-2760-5a8f-a7b1-06c82db3f6ed
+  definition: sistema de referencia de coordenadas para las posiciones en una malla
+    que utiliza un sistema de coordenadas definido en congruencia con el sistema de
+    coordenadas descrito por el GridEnvelope y el axisLabels de gml:GridType
+  examples: []
+  notes:
+  - Un SRC malla utiliza un sistema de coordenadas definido con las mismas posiciones
+    de malla puntuales y origen que GridEnvelope, con las mismas axisLabels, pero
+    no necesita definir ningún límite en el tamaño de la malla. Este sistema de coordenadas
+    a veces se denomina sistema de coordenadas malla interno.
+dateAccepted: 2015-08-01 00:00:00+00:00
+id: 544ed773-e829-57be-a18b-e52aa8241705
+status: valid

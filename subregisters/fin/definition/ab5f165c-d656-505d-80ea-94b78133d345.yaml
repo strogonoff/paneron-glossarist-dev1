@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: b8b15aa5-ebee-5508-a48c-60c66c0cb1b8
+  definition: sellainen kahden määritysjoukon (esimerkiksi kahden kompleksin) välinen
+    suhde, jota kuvaa rakenteen yhdestä määritysjoukosta toiseen säilyttävä funktio
+  examples: []
+  notes:
+  - Homomorfismit eroavat isomorfismeista siten, että edelliset eivät edellytä käänteisfunktiota.
+    Isomorfismissa on periaatteessa kaksi homomorfismia, jotka ovat toistensa käänteisfunktioita.
+    Jatkuvat funktiot ovat topologisia homomorfismeja, koska ne säilyttävät "topologiset
+    ominaisuudet". Topologisten kompleksien kuvaus geometrisiksi ilmentymiksi säilyttää
+    rajauksen käsitteen ja on sen vuoksi homomorfismi.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ab5f165c-d656-505d-80ea-94b78133d345
+status: superseded

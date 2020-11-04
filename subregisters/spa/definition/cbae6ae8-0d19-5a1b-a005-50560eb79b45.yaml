@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 6c5d69ed-76aa-5388-a5c3-91754b0e25a1
+  definition: proceso fuera de línea para realizar una conversión global de una gran
+    cantidad de datos
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: cbae6ae8-0d19-5a1b-a005-50560eb79b45
+status: valid

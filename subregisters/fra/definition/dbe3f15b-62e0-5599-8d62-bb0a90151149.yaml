@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 93634d4c-734e-546e-bfd1-df55647db88d
+  definition: composant logiciel implémentant une règle de codage
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: dbe3f15b-62e0-5599-8d62-bb0a90151149
+status: valid

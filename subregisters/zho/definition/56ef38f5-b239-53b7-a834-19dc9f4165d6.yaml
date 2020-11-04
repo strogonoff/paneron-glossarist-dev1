@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.35
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: beb13e7f-d3b0-5c35-ad7d-530e4d6259e0
+  definition: 包含一个根元素的XML文档，该根元素是GML模式中规定的抽象要素、数据字典或拓扑复形元素中的一种元素，或者是任意这些元素的替换组中的一种元素。
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 56ef38f5-b239-53b7-a834-19dc9f4165d6
+status: valid

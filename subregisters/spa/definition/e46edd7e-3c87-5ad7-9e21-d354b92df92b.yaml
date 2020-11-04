@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.26'
+    link: https://www.iso.org/standard/32572.html
+    ref: ISO 19154:2014
+  concept: 1138e35a-3f84-5faf-985f-77bae882aff3
+  definition: información geográfica proporcionada a los usuarios siguiendo los conceptos
+    de acceso público ubicuo
+  examples: []
+  notes: []
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: e46edd7e-3c87-5ad7-9e21-d354b92df92b
+status: valid

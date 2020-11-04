@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: ae42a97c-c81e-50e8-8c30-ecf598ead803
+  definition: 동일한 제품 사양을 통해 작성된 데이터셋의 모음
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: 10fc4b2c-c2c6-5bab-b73f-219a256696b5
+status: retired

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 3ddac6e2-0fb2-5693-bbfd-2554819c0538
+  definition: 描述一个点、或者一个对象或人所占据的几何空间的数据类型。
+  examples: []
+  notes:
+  - 直接位置是点的一种语义子类型。直接位置只能描述一个确定点,因此并不是所有的位置都可以由直接位置来表示。这与"类型"的关系相符合。ISO 19107中的几何是位置,但不直接位置。
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: ba8fb38c-01d4-5212-bd68-cf45b97d5c7e
+status: valid

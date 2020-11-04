@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 5514534e-edd9-5bb0-8c16-b5a08ceacc54
+  definition: 클라이언트 위치에 따라 서비스의 활용 여부가 결정되는 서비스
+  examples: []
+  notes: []
+dateAccepted: 2006-12-01 00:00:00+00:00
+id: 4399f19a-b522-5c35-b9ee-f4c95a81207b
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.54
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 42ebd917-da08-57fc-901d-6f20ff6a8d3c
+  definition: 타원체의 최단 반지름
+  examples: []
+  notes:
+  - 지구 타원체의 단반경은 타원체의 중심으로부터 어느 한쪽 극까지의 거리이다.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: e92ee144-844c-5140-ab38-be56e065526f
+status: valid

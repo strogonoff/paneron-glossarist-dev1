@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: ceae7964-9639-54d8-953d-778411018218
+  definition: 以此起算，确定其他子午线经度的子午线。
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 7972a7b7-bdcd-59ac-95c4-01c39be2b5cd
+status: valid

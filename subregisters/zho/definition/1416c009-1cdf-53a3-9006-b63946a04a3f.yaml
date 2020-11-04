@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.2
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: cb7c0b21-f43f-5c13-944a-f4f2cdbc3471
+  definition: 对注册表内容作决定的技术专家组。
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 1416c009-1cdf-53a3-9006-b63946a04a3f
+status: valid

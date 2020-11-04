@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 0ebcf583-7446-58c8-b201-42f407372613
+  definition: مكان منسوب إلى نظام مرجعي زمني
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: acbd939e-9ded-5b41-8154-d60ba45f6af2
+status: valid

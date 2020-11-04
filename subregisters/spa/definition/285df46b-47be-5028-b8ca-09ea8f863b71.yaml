@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.18
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 62756558-3f87-5110-86a0-3d427f993da4
+  definition: base de datos de conocimiento sobre un tema en particular
+  examples: []
+  notes:
+  - La base de datos contiene hechos, inferencias y procedimientos necesarios para
+    solucionar un problema (Webster Computer)
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 285df46b-47be-5028-b8ca-09ea8f863b71
+status: valid

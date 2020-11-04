@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '3.3'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 9cde52c2-6d33-5a4c-a103-df48884e2e4d
+  definition: relation reliant les instances d'un type d'entité avec les instances
+    d'entités de type d'entité identique ou différent
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: cbbf4b07-6e9b-5230-a360-970db5c3caa9
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.4, modified – Original Example has been removed. Note 1 to entry has
+      been added.
+    link: https://www.iso.org/standard/39295.html
+    ref: ISO 2859-5:2005
+  concept: d5a2a5a4-672a-50b5-b2b1-1a01b3f3ec6d
+  definition: lo que se puede describir y considerar individualmente
+  examples: []
+  notes:
+  - Un ítem puede ser cualquier parte de un conjunto de datos, tal como un objeto
+    geográfico, una relación entre objetos geográficos, un atributo de objeto geográfico,
+    o una combinación de estos.
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: 152be1ab-53ab-5613-9ea5-bc7e579681c2
+status: valid

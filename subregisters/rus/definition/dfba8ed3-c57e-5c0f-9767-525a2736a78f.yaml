@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.40
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: f2e6064d-b734-5023-ba1f-04828cffd225
+  definition: пространство доступной для сети информации и услуг
+  examples: []
+  notes: []
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: dfba8ed3-c57e-5c0f-9767-525a2736a78f
+status: valid

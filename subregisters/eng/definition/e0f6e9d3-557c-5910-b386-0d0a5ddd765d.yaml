@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '3.6'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  concept: 4697edd0-2da9-5a96-8b22-33cb85ef4fb0
+  definition: movement of a person who is travelling between two locations
+  examples: []
+  notes:
+  - May consist of one or more journey segments.
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: e0f6e9d3-557c-5910-b386-0d0a5ddd765d
+status: valid

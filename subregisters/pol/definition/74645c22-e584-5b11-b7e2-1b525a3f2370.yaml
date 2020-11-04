@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 1776de4d-059e-59a8-a134-d2cd997b84b9
+  definition: złożony element geometryczny, którego proste elementy geometryczne odpowiadają
+    w stosunku jeden-do-jeden prostym elementom topologicznym takiego złożonego elementu
+    topologicznego, że związki graniczne w obu elementach złożonych są zgodne
+  examples: []
+  notes:
+  - W takiej realizacji można przyjąć, że proste elementy topologiczne reprezentują
+    wnętrza odpowiadających im prostych elementów geometrycznych. Kompozyty są domknięte.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 74645c22-e584-5b11-b7e2-1b525a3f2370
+status: valid

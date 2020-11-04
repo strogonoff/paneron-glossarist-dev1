@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: fbd12ec8-ab4a-53d1-8cbb-c2cd8f4f650f
+  definition: número de mediciones o ejes necesarios para describir una posición en
+    un sistema de coordenadas
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: a53a0f40-64dd-53ce-9418-43b760acc8a7
+status: superseded

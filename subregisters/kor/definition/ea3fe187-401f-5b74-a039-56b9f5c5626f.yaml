@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: a7278adc-c7f8-55f5-8542-aa6302330664
+  definition: 사실이나 사건, 사물, 과정 및 아이디어, 개념 등과 같은 객체에 관하여 특정 상황에서 특정 의미를 갖는 지식
+  examples: []
+  notes: []
+dateAccepted: 2008-12-19 00:00:00+00:00
+id: ea3fe187-401f-5b74-a039-56b9f5c5626f
+status: valid

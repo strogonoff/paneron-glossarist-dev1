@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.96
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 13a7c389-e3a7-55a8-9cf6-8511ee8da387
+  definition: boundary represented by a set of oriented topological primitives of
+    smaller topological dimension that limits the extent of a topological object,
+    or by the geometric realization of such a set
+  examples: []
+  notes:
+  - The boundary of a topological complex is the boundary of the geometric realization
+    of the topological complex.
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 80760453-5699-59c9-9936-a4e30ff11120
+status: valid

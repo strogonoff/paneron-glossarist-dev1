@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 2121440, modified —  Note 1 to entry replaces Notes 1 and 2 to entry.
+    link: https://www.iso.org/standard/63598.html
+    ref: ISO/IEC 2382:2015
+  concept: e2d79a04-a346-5b90-a8b0-5326f4b5a60b
+  definition: 실체의 속성
+  examples: []
+  notes:
+  - Describes a geometrical, topological, thematic, or other characteristic of an
+    entity
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 659808f8-29a2-5b5b-9d17-a1f1a98b0b30
+status: valid

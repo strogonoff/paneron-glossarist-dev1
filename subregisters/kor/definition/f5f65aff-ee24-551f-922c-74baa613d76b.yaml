@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 8a650bfd-dd93-56c0-bbf0-e787d2f68c76
+  definition: 특정한 형식에 따른 라벨의 표현
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: f5f65aff-ee24-551f-922c-74baa613d76b
+status: valid

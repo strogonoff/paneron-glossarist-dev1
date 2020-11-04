@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: '2.42'
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: 918cdb55-fc1f-51cb-8ad6-6064ea82985e
+  definition: 참조와  측정 결과를 연관시키기 위해 사용된 측정 표준과 조정의 연속
+  examples: []
+  notes:
+  - A metrological traceability chain is defined through a calibration hierarchy.
+  - A metrological traceability chain is used to establish metrological traceability
+    of a measurement result.
+  - A comparison between two measurement standards may be viewed as a calibration
+    if the comparison is used to check and, if necessary, correct the quantity value
+    and measurement uncertainty attributed to one of the measurement standards.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 4fb3cddb-6414-5db5-82e5-2e4ca1d03f6b
+status: valid

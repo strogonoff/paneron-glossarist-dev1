@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: ea217765-f082-5aa6-9707-994a8c0c9fc0
+  definition: 与时间或时间约束有关的要素关联。
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: e1d863d9-81b7-5060-9d35-ec7c5da52f6d
+status: valid

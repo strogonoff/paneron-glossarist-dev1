@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (derived from)
+    link: https://www.iso.org/standard/2517.html
+    ref: 'ISO 12620:1999 '
+  concept: 84c37b85-e5e3-50a7-b4b9-14a018dd7201
+  definition: 좁은 개념의 목록에 속하는 개념이 넓은 개념의 확장된 일부인 개념 체계
+  examples: []
+  notes:
+  - Adapted from ISO 12620:1999
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: f43c2b21-d062-5e22-8442-517565205c13
+status: superseded

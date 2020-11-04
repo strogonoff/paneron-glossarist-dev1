@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 561d7293-8f8a-5107-af9f-a70e6521b759
+  definition: netværk af trekanter dannet således, at der inden for ingen af de cirkler,
+    som går igennem trekanternes toppunkter, ligger en anden trekants toppunkt
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: d8bec9e6-9953-5ef9-8d5c-c89a28152a26
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.91
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 4d31de7a-406a-54ae-bc73-ee6a1aeb2964
+  definition: complex all of whose elements are also in a larger complex
+  examples: []
+  notes:
+  - Since the definitions of geometric complex and topological complex require only
+    that they be closed under boundary operations, the set of any primitives of a
+    particular dimension and below is always a subcomplex of the original, larger
+    complex. Thus, any full planar topological complex contains an edge-node graph
+    as a subcomplex.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2bbce7b6-cd9c-50d5-a3ae-e0689f99113b
+status: valid

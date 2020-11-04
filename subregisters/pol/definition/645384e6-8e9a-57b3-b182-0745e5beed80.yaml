@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 16ee326a-ae17-5463-84d7-4e32098ee7fa
+  definition: zdolność każdej instancji klasy, która jest potomkiem (w sensie dziedziczenia
+    lub realizacji) innej klasy, typu lub interfejsu, do użycia w jej miejsce instancji
+    jej przodka w dowolnym kontekście
+  examples: []
+  notes:
+  - Słabsze formy zastępowalności ustalają różne ograniczenia co do kontekstu implikowanego
+    zastąpienia.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 645384e6-8e9a-57b3-b182-0745e5beed80
+status: valid

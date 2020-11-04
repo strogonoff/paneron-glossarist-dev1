@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 838acc70-10c8-58b5-af88-383cebeee0fc
+  definition: 논리적인 시작점이 존재하지 않기 때문에 어떤 한 점에서 수열을 이동하더라도 항상 동일한 연속; 따라서 연속의 마지막 항목이
+    첫 항목에 앞서는 것으로 간주됨
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 39136843-8086-5914-b1e1-2f0111c02970
+status: retired

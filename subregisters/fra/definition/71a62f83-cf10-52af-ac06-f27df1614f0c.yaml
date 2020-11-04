@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 6b5f2f1c-1ba3-5f4b-bb8b-3f4dedc3abde
+  definition: ensemble défini
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 71a62f83-cf10-52af-ac06-f27df1614f0c
+status: valid

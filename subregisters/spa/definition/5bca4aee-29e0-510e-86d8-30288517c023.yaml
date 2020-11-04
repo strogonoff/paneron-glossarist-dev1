@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.24'
+    link: https://www.iso.org/standard/63541.html
+    ref: ISO 19104:2016
+  concept: 635e3219-59c5-5357-a265-a252713e2800
+  definition: idioma especificado para el desarrollo y la descripción de conceptos
+  examples:
+  - El idioma de referencia del Glosario de términos multilingüe ISO/TC 211 es el
+    inglés.
+  notes:
+  - Véase el idioma de entrega (ISO 19104:2016, 4.29).
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: 5bca4aee-29e0-510e-86d8-30288517c023
+status: valid

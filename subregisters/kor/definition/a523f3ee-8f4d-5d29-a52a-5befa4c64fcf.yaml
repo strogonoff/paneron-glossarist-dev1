@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.49
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: f33afb57-26db-50be-b768-d24246e192f3
+  definition: GML 객체의 자식 요소
+  examples: []
+  notes:
+  - 속성(property)은 KS X ISO 19109의 피처 속성, 피처 연관 규칙에 해당한다. 피처의 GML 속성은 피처를 참조하는 xlink:href
+    속성을 갖고, 그 속성은 피처 연관 규칙을 나타낸다.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: a523f3ee-8f4d-5d29-a52a-5befa4c64fcf
+status: valid

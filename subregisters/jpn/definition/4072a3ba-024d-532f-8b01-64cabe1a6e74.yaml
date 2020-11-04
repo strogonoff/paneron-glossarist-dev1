@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3decb52f-923e-5c15-9d6b-1dc485f4bdea
+  definition: 幾何集合の中のどの直接位置も，その直接位置を内部に含みn次元ユークリッド空間R　と相似（同形）な部分集合と関連付けることができるような数nの最大値。
+  examples: []
+  notes:
+  - 曲線は，実数直線の一部の連続写像であるので，1の幾何次元をもつ。曲面は，その全体を R2 に写像することはできないが，各点位置の周りには微小な近傍があってそれが
+    R2の単位円の内部に（連続関数によって）写像されることがわかることから，二次元である。この規格では，主要な曲面分（GM_SurfacePatchのインスタンス）のほとんどは，それを定義する内挿の方法によって
+    R2 の一部に写像される。　
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 4072a3ba-024d-532f-8b01-64cabe1a6e74
+status: superseded

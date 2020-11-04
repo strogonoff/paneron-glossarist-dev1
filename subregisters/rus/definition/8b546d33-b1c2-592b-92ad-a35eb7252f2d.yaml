@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: e1a9e4f7-54c0-5663-9f29-fc68ce6a73a5
+  definition: информация в терминологической записи, которая указывает название языка
+  examples: []
+  notes: []
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 8b546d33-b1c2-592b-92ad-a35eb7252f2d
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (derived from)
+    link: https://www.iso.org/standard/2517.html
+    ref: 'ISO 12620:1999 '
+  concept: 84c37b85-e5e3-50a7-b4b9-14a018dd7201
+  definition: منظومة مفاهيم تكون فيه المفاهيم المنتمية إلى مفهوم  الفئة الأضيق جزءا
+    من امتداد المفهوم الأوسع.
+  examples: []
+  notes:
+  - 'مقتبس من مقياس الآيزو 12620: 1999'
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 36c797eb-9cae-5468-8b1d-add78bd56c21
+status: superseded

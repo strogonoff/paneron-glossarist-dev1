@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: e22d42d5-0e50-5ac7-8dc0-849bc4a6722e
+  definition: jednostka wartości do przedstawiania wyniku oceny jakości danych
+  examples:
+  - '"metr"'
+  notes:
+  - Jednostka wartości jakości danych jest określana tylko wtedy, gdy ma zastosowanie
+    do wyniku oceny jakości danych.
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 4558031f-3c7d-505a-921a-748865a215a1
+status: valid

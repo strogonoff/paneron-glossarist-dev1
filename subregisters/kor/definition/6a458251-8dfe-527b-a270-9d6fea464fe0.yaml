@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: b0302a1a-5bab-51fa-9bfb-a5dd692e8496
+  definition: 네트워크 내 보통 두 위치 간의 경로를 기술하는 링크 및 부분적 링크의 연속
+  examples: []
+  notes: []
+dateAccepted: 2006-12-01 00:00:00+00:00
+id: 6a458251-8dfe-527b-a270-9d6fea464fe0
+status: valid

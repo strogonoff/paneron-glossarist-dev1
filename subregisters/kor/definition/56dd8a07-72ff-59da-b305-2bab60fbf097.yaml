@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: 1582e72a-dee4-5b51-ad91-76828b5da49d
+  definition: 외부 출처로부터 등록물에 채택된 항목의 출처에 대한 참조
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 56dd8a07-72ff-59da-b305-2bab60fbf097
+status: retired

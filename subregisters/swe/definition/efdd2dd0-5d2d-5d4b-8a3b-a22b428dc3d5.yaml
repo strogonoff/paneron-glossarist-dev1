@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.10
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: f59a4f60-1de5-5053-8f09-62b52959902c
+  definition: den som ansvarar för driften av ett register
+  examples: []
+  notes:
+  - In the case of an ISO register, the register manager performs the functions of
+    the registration authority specified in the ISO/IEC Directives.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: efdd2dd0-5d2d-5d4b-8a3b-a22b428dc3d5
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: dc7fbe0c-ad16-52f8-bd38-1d3444fcf51e
+  definition: en uppsättning parametrar som beskriver relationen mellan ett referenssystem
+    och den fysiska jorden
+  examples: []
+  notes:
+  - I de flesta fall innehåller det geodetiska datumet även en definition av ellipsoiden                                                                                                                                                                 I
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: d358722c-1c6a-5d5b-8429-40867789c18e
+status: valid

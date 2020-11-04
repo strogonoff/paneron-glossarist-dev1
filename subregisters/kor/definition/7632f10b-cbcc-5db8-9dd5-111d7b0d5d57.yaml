@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.37
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 1ffc21eb-905d-5004-baf0-240d972f1971
+  definition: 센서의 지리적 및 방사적 특징을 묘사한 것
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 7632f10b-cbcc-5db8-9dd5-111d7b0d5d57
+status: valid

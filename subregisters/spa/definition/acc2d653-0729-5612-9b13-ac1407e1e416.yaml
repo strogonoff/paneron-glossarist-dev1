@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.27
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: c684de6d-55b4-5f29-a71c-ae45126b2652
+  definition: representaciones de los datos de una imagen en términos de coordenadas
+    espacio-color que son apropiadas, y están ajustadas, a las características de
+    un dispositivo de salidad real o virtual y a la visualización
+  examples: []
+  notes:
+  - La representación de imágenes está adaptada a la visualización más que a una copia
+    en papel o digital.
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: acc2d653-0729-5612-9b13-ac1407e1e416
+status: valid

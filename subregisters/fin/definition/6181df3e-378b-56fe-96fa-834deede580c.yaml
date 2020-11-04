@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.26
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 5c083fa2-695f-5616-8e64-e953f27bf242
+  definition: datumi, joka määrittelee koordinaatiston mittakaavan, orientaation ja
+    sijainnin paikallisesti
+  examples:
+  - Järjestelmä, jolla määritetään suhteellisia sijainteja muutaman kilometrin etäisyydellä
+    vertauspisteestä.
+  notes:
+  - Geodeettista datumia ja korkeusdatumia ei käytetä paikallisen datumin yhteydessä.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 6181df3e-378b-56fe-96fa-834deede580c
+status: valid

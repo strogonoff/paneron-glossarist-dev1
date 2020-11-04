@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/32581.html
+    ref: ISO/TS 19163-1:2016
+  concept: c0931067-c8cf-5107-b506-a913b7ce6701
+  definition: datos malla cuyos valores de atributo describen las características
+    de un objeto cobertura en formato malla
+  examples: []
+  notes:
+  - La mayoría de los datos temáticos malla se derivan de datos de imágenes (4.12)
+    utilizando algoritmos de inversión geofísica/atmosférica. Los datos temáticos
+    malla también se pueden obtener de otras fuentes, como la digitalización de hojas
+    de mapas topográficos.
+dateAccepted: 2016-01-15 00:00:00+00:00
+id: 9d591951-9a2b-54cd-90e6-bbc1029a36be
+status: valid

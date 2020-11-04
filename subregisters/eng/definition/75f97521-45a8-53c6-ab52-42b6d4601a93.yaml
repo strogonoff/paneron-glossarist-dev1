@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 21ed8515-1c3a-535f-8c2f-23f7be9a2010
+  definition: scale with an arbitrary origin which can be used to describe both ordering
+    of values and distances between values
+  examples: []
+  notes:
+  - Ratios of values measured on an interval scale have no meaning.
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 75f97521-45a8-53c6-ab52-42b6d4601a93
+status: valid

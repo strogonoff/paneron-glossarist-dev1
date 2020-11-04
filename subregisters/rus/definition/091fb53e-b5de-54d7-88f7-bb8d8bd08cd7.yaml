@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.42
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: f1cbe5e4-4cba-59e5-a3fa-e8bf01779453
+  definition: сечение эллипсоида плоскостью, содержащей малую полуось эллипсоида
+  examples: []
+  notes:
+  - Этот термин чаще используется для дуги от полюса до полюса, чем для полного сечения
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 091fb53e-b5de-54d7-88f7-bb8d8bd08cd7
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: 5019e6f7-6132-5a2c-b044-ec5746ccbffd
+  definition: konstanter, explizit festgelegter Wert
+  examples: []
+  notes:
+  - This contrasts with a value that is determined by resolving a chain of substitution
+    (e.g. a variable)
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 809bb0a2-ccab-5430-8302-0da72d17d015
+status: valid

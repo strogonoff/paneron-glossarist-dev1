@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: ebc56d4b-b7d4-5d65-be1e-d3ee774c981f
+  definition: 'tjänst som behövs för att andra
+
+    tjänster ska kunna utföras'
+  examples: []
+  notes:
+  - cf. interoperate. Basic services lack any persistent, user-specific state information
+    between invocations and are not meant for direct access by users. Because they
+    act in a functional manner, they are readily replaceable at runtime by other services
+    using the same interfaces.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: a7d90a8e-b7c1-5b66-b7b8-be0afa89cc74
+status: valid

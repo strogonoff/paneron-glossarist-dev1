@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - ref: Adapted from Albota 2002
+  concept: 299af784-a5a0-550b-880e-3cd7d307cc5c
+  definition: modo de contar fotones en los sistemas lídar en los que el detector
+    está sesgado y se ha vuelto sensible a los fotones individuales
+  examples: []
+  notes:
+  - estos detectores existen en forma de array y se unen con circuitos electrónicos.
+    El circuito electrónico produce una medición correspondiente al momento en que
+    se genera la corriente, lo que resulta en una medición directa del tiempo de vuelo.
+    Un lidar que emplea esta tecnología detector normalmente ilumina una gran escena
+    con un solo pulso. Las mediciones directas de tiempo de vuelo se combinan entonces
+    con los datos de localización/altitud de la plataforma junto con la información
+    de los puntos para producir un producto tridimensional de la escena de interés
+    iluminada. Se aplica un procesamiento adicional que elimina el ruido existente
+    presente en los datos para producir un conjunto de datos explotable visualmente.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: fc6c2eb5-0ad9-59c3-bf80-755850ac1fd7
+status: valid

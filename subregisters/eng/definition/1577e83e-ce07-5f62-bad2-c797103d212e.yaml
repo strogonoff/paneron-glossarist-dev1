@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '3.1'
+    link: https://www.iso.org/standard/40130.html
+    ref: ISO 860:2007
+  concept: a3c2baa7-de8e-5020-9a9e-2effb9082e82
+  definition: activity leading to the establishment of a correspondence between two
+    or more closely related or overlapping concepts having professional, technical,
+    scientific, social, economic, linguistic, cultural or other differences, in order
+    to eliminate or reduce minor differences between them
+  examples: []
+  notes:
+  - The purpose of concept harmonisation is to improve communication
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 1577e83e-ce07-5f62-bad2-c797103d212e
+status: valid

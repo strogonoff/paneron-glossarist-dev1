@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dd89d158-419c-571b-940a-4abf4a6c6efc
+  definition: 사양의 실현
+  examples: []
+  notes:
+  - 지리 정보 표준과 관련, 구현은 지리 정보 서비스 및 데이터셋 사양을 포함한다.
+dateAccepted: 2007-06-29 00:00:00+00:00
+id: 201d1d5d-57e0-582e-8854-6568a8548c99
+status: valid

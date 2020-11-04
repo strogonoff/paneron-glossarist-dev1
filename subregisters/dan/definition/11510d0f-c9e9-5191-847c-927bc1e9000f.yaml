@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: fbd12ec8-ab4a-53d1-8cbb-c2cd8f4f650f
+  definition: antallet af målinger eller akser, der er nødvendige for at kunne beskrive
+    en position i et koordinatsystem
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 11510d0f-c9e9-5191-847c-927bc1e9000f
+status: superseded

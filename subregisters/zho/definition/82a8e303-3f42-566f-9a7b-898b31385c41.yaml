@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/32620.html
+    ref: 'ISO/IEC 19501:2005 '
+  concept: d7437ec4-0cfa-5e82-b586-1c2509785d0c
+  definition: <UML>当用例的用户与这些用例交互时，所扮演的相关角色的集合。
+  examples: []
+  notes:
+  - 在每个用例的交互中，参与者可扮演不同的角色。
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 82a8e303-3f42-566f-9a7b-898b31385c41
+status: retired

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.39'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 41b0002b-38e9-5740-8667-672e5e1e1352
+  definition: 원래 장소 및 시간, 파생, 자원, 레코드, 진위 감정서 또는 과거 소유관계에 관한 정보
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 204d8824-4a05-5124-a67d-d01187704fac
+status: valid

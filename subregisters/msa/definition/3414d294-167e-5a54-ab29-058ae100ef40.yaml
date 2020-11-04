@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.24
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: f516e970-7157-527f-97f1-062cee4d864a
+  definition: Proses pergerakan gelombang cahaya secara getaran melintang yang diorientasikan
+    terus ke satah tunggal
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 3414d294-167e-5a54-ab29-058ae100ef40
+status: valid

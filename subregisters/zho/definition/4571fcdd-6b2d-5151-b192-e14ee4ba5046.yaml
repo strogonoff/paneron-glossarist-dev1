@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 561d7293-8f8a-5107-af9f-a70e6521b759
+  definition: 任意三角形的外接圆内不含其他三角形顶点的三角网。
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 4571fcdd-6b2d-5151-b192-e14ee4ba5046
+status: valid

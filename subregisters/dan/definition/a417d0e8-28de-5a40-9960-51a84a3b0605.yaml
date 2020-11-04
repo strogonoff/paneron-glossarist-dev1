@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 625c0bf1-92b1-58cc-84f0-550664b3cc99
+  definition: specifik test af en implementering for at opfylde bestemte krav
+  examples: []
+  notes:
+  - Instantiering af et abstrakt testforløb med værdier.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: a417d0e8-28de-5a40-9960-51a84a3b0605
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.39'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 41b0002b-38e9-5740-8667-672e5e1e1352
+  definition: Asal-usul, tempat asal atau punca asalnya sesuatu kejadian atau benda
+    pada zaman moden dalam kajian arkeologi.
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 41792d21-c149-53ff-904b-f6eb809fc3b9
+status: valid

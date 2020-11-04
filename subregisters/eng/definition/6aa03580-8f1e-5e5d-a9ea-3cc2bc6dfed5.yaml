@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  concept: 39034bab-2426-5ddc-bbc3-ee29eea7b0bf
+  definition: distance of a point from a chosen reference surface along a line perpendicular
+    to that surface
+  examples: []
+  notes:
+  - See ellipsoidal height and gravity-related height.
+  - Height of a point outside the surface treated as positive; negative height is
+    designated as depth.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 6aa03580-8f1e-5e5d-a9ea-3cc2bc6dfed5
+status: superseded

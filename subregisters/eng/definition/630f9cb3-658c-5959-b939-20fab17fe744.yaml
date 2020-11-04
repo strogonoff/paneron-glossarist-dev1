@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: W3C XML
+  concept: 06fab249-f441-59ff-abf9-1b8a01a13944
+  definition: collection of names, identified by a URI reference, that are used in
+    XML documents as element names and attribute names
+  examples: []
+  notes: []
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 630f9cb3-658c-5959-b939-20fab17fe744
+status: valid

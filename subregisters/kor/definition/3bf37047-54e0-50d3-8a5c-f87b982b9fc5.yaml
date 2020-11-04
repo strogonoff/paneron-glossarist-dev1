@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.62'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: f3bb5a66-a8ec-5761-8985-3dfaed9daef7
+  definition: 조명된 관심 현장에서 반사된 방출 레이저 펄스의 감지된 신호
+  examples: []
+  notes:
+  - There may be multiple returns for a given emitted laser pulse.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 3bf37047-54e0-50d3-8a5c-f87b982b9fc5
+status: valid

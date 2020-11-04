@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 40848065-e794-5fce-b7e6-a20a27d12316
+  definition: 데이터를 일련의 코드로 전환하는 것
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: 2e207fe4-4e60-526a-b8ee-2652fc5e5e52
+status: valid

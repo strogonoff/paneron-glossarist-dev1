@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.49
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: d2d09f04-3477-5841-9343-090d8c572bed
+  definition: obiekt przestrzenny reprezentujący zbiór geometryczny
+  examples: []
+  notes:
+  - "Obiekt geometryczny  to prosty element geometryczny, kolekcja prostych elementów\
+    \ geometrycznych\n lub złożony element geometryczny, traktowany jako pojedynczy\
+    \ byt. Obiekt geometryczny może być przestrzenną reprezentacją obiektu lub jego\
+    \ istotnej części."
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: dde1a6bb-f8e3-5b39-9fae-3cc48062fa8f
+status: valid

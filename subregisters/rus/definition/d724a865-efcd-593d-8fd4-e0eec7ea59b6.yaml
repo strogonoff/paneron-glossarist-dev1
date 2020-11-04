@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.2'
+    link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 6808128f-1768-5f92-a80b-33ec006ecef1
+  definition: система координат, определяющая положение точек по отношению к N взаимно
+    перпендикулярным осям, исходящим из одной точки
+  examples: []
+  notes:
+  - N - 1, 2 или 3
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: d724a865-efcd-593d-8fd4-e0eec7ea59b6
+status: valid

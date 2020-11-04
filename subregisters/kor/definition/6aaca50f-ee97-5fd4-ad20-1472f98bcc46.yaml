@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: aa709872-1a2e-575c-a44c-04a40a2c22da
+  definition: 2차원 측지 좌표 참조 체계로부터 지도 투영을 통해 파생된 좌표 참조 체계
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 6aaca50f-ee97-5fd4-ad20-1472f98bcc46
+status: superseded

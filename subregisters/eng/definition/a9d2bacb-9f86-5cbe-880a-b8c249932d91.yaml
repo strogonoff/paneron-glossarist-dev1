@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 022184d7-568f-53ea-85d3-f94b230eb791
+  definition: form of aggregation which requires that a part instance be included
+    in at most one composite at a time, and that the composite object is responsible
+    for the creation and destruction of the parts
+  examples: []
+  notes:
+  - 'Parts with non-fixed multiplicity may be created after the composite itself,
+    but once created they live and die with it (i.e., they share lifetimes). Such
+    parts can also be explicitly removed before the death of the composite. Composition
+    may be recursive. Synonym: composite aggregation.'
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: a9d2bacb-9f86-5cbe-880a-b8c249932d91
+status: superseded

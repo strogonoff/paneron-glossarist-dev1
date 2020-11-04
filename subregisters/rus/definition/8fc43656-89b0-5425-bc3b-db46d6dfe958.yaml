@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: c095e70e-249c-5523-9986-36f938b73de4
+  definition: понятие, которое является либо конкретным понятием, либо частичным понятием
+  examples: []
+  notes: []
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 8fc43656-89b0-5425-bc3b-db46d6dfe958
+status: valid

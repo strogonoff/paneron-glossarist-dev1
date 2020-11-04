@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.37
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: d80e5d2a-5d10-51e8-abc4-6126d53dc2e6
+  definition: difference between the universe and the closure
+  examples: []
+  notes:
+  - The concept of exterior is applicable to both topological and geometric complexes.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: e3bf8667-d6f1-54df-bd9d-d0a3a022058a
+status: valid

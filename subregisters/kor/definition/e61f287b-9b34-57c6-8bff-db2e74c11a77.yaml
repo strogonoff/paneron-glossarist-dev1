@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: a0cdfe23-c885-5d5f-acbe-c7db92ddec9e
+  definition: 요구 사항에 대한 만족도를 나타내는 제품의 종합적인 특징
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: e61f287b-9b34-57c6-8bff-db2e74c11a77
+status: superseded

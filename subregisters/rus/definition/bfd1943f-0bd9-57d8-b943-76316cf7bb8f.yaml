@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.32'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 9f3e3447-8d27-5220-b079-0e111edef1fa
+  definition: Символ, который используется как часть составного символа
+  examples: []
+  notes: []
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: bfd1943f-0bd9-57d8-b943-76316cf7bb8f
+status: valid

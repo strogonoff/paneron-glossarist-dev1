@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  concept: 8ba864bc-8c67-50f4-b6e3-d0178f996905
+  definition: application providing services that use Place Identifiers to end users
+    or other applications
+  examples: []
+  notes: []
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: e0c694d4-943e-54b1-b01d-0e1abea1aec4
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  concept: 3160e588-dba5-508c-8171-0d582f7aad9b
+  definition: 장소를 명시하는 PI와 동일 장소를 식별하는 다른 유형의 PI를 매칭하는 것
+  examples: []
+  notes:
+  - A source PI can be matched with multiple target Place Identifiers.
+  - PI matching can be made among coordinates, geographic identifiers and identifiers
+    in the virtual world such as URI.
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: 36f0e3c7-4577-5ba7-9ef3-7d32b5437634
+status: valid

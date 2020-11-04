@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.18
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 62756558-3f87-5110-86a0-3d427f993da4
+  definition: база данных знаний о конкретном предмете
+  examples: []
+  notes:
+  - База данных содержит факты, интерфейсы и процедуры, необходимые для решения проблем
+    [Webster Computer]
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: b5b25a8f-3f06-523b-aebf-94d60f7e0fa6
+status: valid

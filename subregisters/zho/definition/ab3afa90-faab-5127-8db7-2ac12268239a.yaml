@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 8d56b07f-a144-5d49-a9da-a42ddd5178fb
+  definition: 一维几何对象，用来表达一条曲线的连续组分，这条曲线具有相似的插值和定义方法。
+  examples: []
+  notes:
+  - 用一个单独的曲线段表达的几何集合与一条曲线等价。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ab3afa90-faab-5127-8db7-2ac12268239a
+status: retired

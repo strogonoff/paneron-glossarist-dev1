@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 1bf4c881-7e66-5a75-80fe-844fe3ccd78e
+  definition: mejora del Sistema de Posicionamiento Global que usa GNSS y DGNSS para
+    radiofundir la diferencia entre las posiciones indicadas por los sistemas de satélites
+    y la posición fija conocida
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 197dfcb7-5bc7-5402-af2b-fe15e9004d92
+status: valid

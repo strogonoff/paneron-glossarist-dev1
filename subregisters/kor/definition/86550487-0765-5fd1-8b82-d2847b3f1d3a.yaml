@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 889d8014-856f-57ac-ad27-5d2b723ed07e
+  definition: 적합성 시험에 요구되는 모든 사항들을 규정한 추상 시험 모듈
+  examples: []
+  notes:
+  - 추상 시험 스위트는 적합성 조항에서 기술되어 있다.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 86550487-0765-5fd1-8b82-d2847b3f1d3a
+status: valid

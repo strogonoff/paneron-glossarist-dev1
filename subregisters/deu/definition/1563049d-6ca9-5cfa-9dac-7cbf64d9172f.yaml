@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 6ba4fcd1-9a9d-586c-9a1b-362488ca9871
+  definition: Feature, das in Form einer Funktion für jeden räumlichen, zeitlichen
+    oder raum-zeitlichen Punkt innerhalb seines Definitionsbereichs einen Wertevektor
+    liefert
+  examples:
+  - Examples include a raster image, polygon overlay, or digital elevation matrix.
+  notes:
+  - In other words, a coverage is a feature that has multiple values for each attribute
+    type, where each direct position within the geometric representation of the feature
+    has a single value for each attribute type.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 1563049d-6ca9-5cfa-9dac-7cbf64d9172f
+status: valid

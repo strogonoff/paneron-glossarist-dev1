@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: af830139-81bb-5ae1-aec1-5bfd70facdfc
+  definition: 점으로 구성된 영역을 갖는 커버리지
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 91a7c87e-eca7-5568-a6d9-cdb1dfb25734
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 6b5f2f1c-1ba3-5f4b-bb8b-3f4dedc3abde
+  definition: gedefinieerde set
+  examples: []
+  notes:
+  - Domains are used to define the domain set and range set of attributes, operators
+    and functions.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 9690ffbe-8968-5b27-9d33-d14646be27eb
+status: valid

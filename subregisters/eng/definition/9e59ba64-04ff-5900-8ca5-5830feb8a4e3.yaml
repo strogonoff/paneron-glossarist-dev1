@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.89
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 52fa16af-8b05-538a-9ab4-740f3ed49f57
+  definition: node in the boundary of an edge that corresponds to the start point
+    of that edge as a curve
+  examples: []
+  notes: []
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 9e59ba64-04ff-5900-8ca5-5830feb8a4e3
+status: valid

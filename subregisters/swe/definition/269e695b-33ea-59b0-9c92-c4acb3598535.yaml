@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 5a85d4b9-466e-5587-8bf7-0d97789f8c8a
+  definition: domänobjekttyp vars objekt definierar en domän inom vilket objektets
+    uppgifter varierar kontinuerligt med positionen
+  examples: []
+  notes:
+  - Although the domain of a continuous coverage is ordinarily bounded in terms of
+    its spatial and/or temporal extent, it can be subdivided into an infinite number
+    of direct positions.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 269e695b-33ea-59b0-9c92-c4acb3598535
+status: valid

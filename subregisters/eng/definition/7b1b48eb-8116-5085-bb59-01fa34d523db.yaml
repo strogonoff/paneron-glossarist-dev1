@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 7401305f-b825-5219-ba46-13d487d07173
+  definition: feature succession in which a previously existing feature is replaced
+    by two or more distinct feature instances of the same feature type
+  examples:
+  - An instance of the feature type "land parcel" is replaced by two instances of
+    the same type when the parcel is legally subdivided.
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 7b1b48eb-8116-5085-bb59-01fa34d523db
+status: valid

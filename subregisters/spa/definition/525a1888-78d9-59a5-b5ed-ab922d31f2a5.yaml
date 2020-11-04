@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: eba1913c-c286-518d-aa9d-56f45f6c40ee
+  definition: traducción de una forma de localización a otra
+  examples: []
+  notes:
+  - Usualmente la geocodificación se refiere a la traducción de "dirección" o "intersección"
+    a "posición directa". Muchos proveedores de servicios incluyen además una interfaz
+    de "geocodificación inversa" a sus geocodificadores extendiendo así la definición
+    del servicio como traductor general de localizaciones. Debido a que los servicios
+    de enrutado usan codificaciones internas de localizaciones que no están generalmente
+    disponibles a otros, un geocodificador es una parte interna integral de estos
+    servicios.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 525a1888-78d9-59a5-b5ed-ab922d31f2a5
+status: valid

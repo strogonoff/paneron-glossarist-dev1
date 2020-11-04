@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 4e5e573c-e365-537e-9b8c-110e44b0e6c7
+  definition: colección de conjuntos de datos que comparten características comunes
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: b78f9ed2-bd39-5be1-a625-cb51b202ac85
+status: valid

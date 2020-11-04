@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: OWL
+  concept: 0675157a-280f-5db9-831f-46971443f884
+  definition: tipo especial de descripción de clase a través de la definición de restricciones
+    de valores y cardinalidades
+  examples: []
+  notes: []
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 4b190645-3f5d-5a2d-8ae3-c6d0ec3d8a94
+status: valid

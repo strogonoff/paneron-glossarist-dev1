@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.50
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 1832370f-d137-5d81-862e-35fc4f2abbbc
+  definition: Meridian yang mana longitud bagi merian yang lain dirujuk atau diukur
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 9f2855c3-f28e-5aca-80c7-bd1eaf28229f
+status: valid

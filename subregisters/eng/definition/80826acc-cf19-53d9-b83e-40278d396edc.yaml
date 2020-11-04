@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: modified – Derived from 7.5.2.1
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: 8ac14380-6b2a-5591-90b8-4ee9ca689a74
+  definition: domain in which names, expressed by character strings, can be mapped
+    to objects
+  examples: []
+  notes:
+  - The names can be subject to local constraints enforced by the namespace.
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 80826acc-cf19-53d9-b83e-40278d396edc
+status: valid

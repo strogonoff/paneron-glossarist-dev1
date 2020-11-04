@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 78450a66-0b95-5886-a7d2-b0bd169a0a3f
+  definition: 적용되는 허가증의 유형을 표시한 GeoDRM 메타자료와 연관된 것
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 3764fff9-5c21-5838-8c8b-d73b3432ee60
+status: valid

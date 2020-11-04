@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '2.26'
+    link: https://www.iso.org/standard/43738.html
+    ref: ISO 12718:2008
+  concept: 4592fe85-98a0-5120-b6ca-9c2f29fd768e
+  definition: 측정값에 오류를 야기할 수 있는 불필요한 신호
+  examples: []
+  notes:
+  - Noise is a random fluctuation in a signal disturbing the recognition of a carried
+    information.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 4a95f539-17e7-56df-882e-89d7f4919a11
+status: valid

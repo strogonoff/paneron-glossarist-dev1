@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 6fa8741a-197e-5a37-b1e9-c2fbcd6e6ad5
+  definition: objeto geográfico que se localiza linealmente a lo largo de otro objeto
+    geográfico (de localización) asociado
+  examples:
+  - Un objeto geográfico "puente" puede ser un objeto geográfico localizado a lo largo
+    del objeto geográfico "vía férrea" [un objeto geográfico de localización]
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: c89437d1-1288-501e-895f-16eb4d3ec8fa
+status: valid

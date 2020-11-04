@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: c75138c5-f0cb-5374-a300-a2e3ca8a6ab5
+  definition: 모델 요소들 사이의 의미론적 연결
+  examples: []
+  notes:
+  - 관계에는 연관, 일반화, 메타 관계, 흐름 및 몇몇 의존 관계가 포함된다.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: f3b03b43-07b1-5b79-99b1-594693774f7d
+status: valid

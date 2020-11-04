@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.25
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 305d6704-d521-53e7-b7d4-f08baa62917b
+  definition: 기준좌표체계에 의해 위치가 설정된 개체와 자료가 서로 독립적인 좌표 기준 체계
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 2d47b6df-57a7-5d4c-876a-6025f501949b
+status: valid

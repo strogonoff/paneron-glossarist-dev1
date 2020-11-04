@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132
+  concept: dc123767-e9f4-5c7e-996e-22c8dfae22ec
+  definition: contrôle, gestion, allocation et surveillance des droits accordés aux
+    participants du système
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 4ffb88f0-8ea8-5ec4-91b3-fa51c3509cf9
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.38
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: da5d8e9d-b6db-5282-8ae8-6360c7cc7ea3
+  definition: primitiva topológica bidimensional
+  examples: []
+  notes:
+  - La representación geométrica de una cara es una superficie. El límite de una cara
+    es el conjunto de arcos orientados del mismo complejo topológico que están asociados
+    con la cara a través de las relaciones de frontera. Éstos pueden organizarse en
+    anillos.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: e0bcd76f-193f-5e20-be77-2a136cfc34ad
+status: valid

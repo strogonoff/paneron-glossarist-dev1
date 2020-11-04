@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 4.1.4
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 191113d2-1fc9-5403-98a2-507fa683b3f1
+  definition: conjunto estructurado de registros para un dominio de ítems de registro,
+    compuestos de un registro principal y un conjunto de subregistros
+  examples:
+  - La Norma ISO 6523 se asocia con un registro jerárquico. El registro principal
+    contiene esquemas identificadores de organización y cada subregistro contiene
+    un conjunto de identificadores de organización que se ajustan a un esquema identificador
+    de organización..
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 0187f544-67bc-548c-9c52-d281e504d28f
+status: valid

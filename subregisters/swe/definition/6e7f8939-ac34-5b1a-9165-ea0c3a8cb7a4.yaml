@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: eaa65aba-9adb-5857-b5de-b965869c6980
+  definition: 'avstånd mätt vinkelrätt från en referensyta
+
+    till en punkt som befinner sig ovanför denna'
+  examples: []
+  notes:
+  - A height below the reference surface will have a negative value.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 6e7f8939-ac34-5b1a-9165-ea0c3a8cb7a4
+status: superseded

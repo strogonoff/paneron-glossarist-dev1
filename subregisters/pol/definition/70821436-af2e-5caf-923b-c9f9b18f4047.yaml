@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 2812f1b3-d22b-5209-920b-8a20c3c312e1
+  definition: wielobok, który otacza jeden z punktów zbioru na płaszczyźnie w taki
+    sposób, że obejmuje wszystkie położenia bezpośrednie, które są bliższe temu punktowi
+    niż dowolnemu innemu punktowi z tego zbioru
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 70821436-af2e-5caf-923b-c9f9b18f4047
+status: valid

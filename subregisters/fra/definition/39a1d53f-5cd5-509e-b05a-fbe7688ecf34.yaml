@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 40848065-e794-5fce-b7e6-a20a27d12316
+  definition: conversion d'une donnée en une série de codes
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 39a1d53f-5cd5-509e-b05a-fbe7688ecf34
+status: valid

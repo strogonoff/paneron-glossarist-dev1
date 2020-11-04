@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.37'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: 6ac26900-de2a-5fba-a006-eab26e1d8863
+  definition: verzameling van afgesproken waarden
+  examples:
+  - The range 3-28, all integers, any ASCII character, enumeration of all accepted
+    values (green, blue, white).
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: dd77d2cc-43e5-54cf-8ceb-3247305feec5
+status: valid

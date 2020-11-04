@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: 267a5296-2584-553a-9df2-469109d95e5b
+  definition: 요구 사항을 수행하기 위한 자산이나 수단
+  examples:
+  - 데이터셋, 서비스, 문서, 사람 또는 조직
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: bdffa331-f9e5-51d5-b4ac-0f655c8fbdba
+status: superseded

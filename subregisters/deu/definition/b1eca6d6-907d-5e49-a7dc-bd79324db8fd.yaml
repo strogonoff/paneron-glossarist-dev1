@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.15
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 79f47f57-4584-50d9-8a57-0ccacd44d38e
+  definition: quer zur Bewegungsrichtung der Sensorplattform
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: b1eca6d6-907d-5e49-a7dc-bd79324db8fd
+status: valid

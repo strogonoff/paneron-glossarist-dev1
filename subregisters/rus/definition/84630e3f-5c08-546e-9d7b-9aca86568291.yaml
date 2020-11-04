@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.5
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: d887d941-069c-5c10-ae96-01c8553c329f
+  definition: ресурс, который выполняет конвертацию
+  examples: []
+  notes:
+  - Источником может быть устройство или программное обеспечение
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 84630e3f-5c08-546e-9d7b-9aca86568291
+status: valid

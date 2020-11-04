@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.10
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 8f2467b3-9571-5d01-8d37-df77a0d9f9ee
+  definition: связное  множество тел, примыкающих друг к другу по общим ограничивающим
+    поверхностям
+  examples: []
+  notes:
+  - Составное тело, как множество точек, имеет те же свойства, которые присущи телу
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: d8f5d722-4afa-5bc8-ab99-fca0c9a34d1e
+status: valid

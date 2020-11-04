@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 00a34f30-7968-540f-a55f-ef281d44c1b2
+  definition: päiväys tai aikaväli, jona laatumittaria sovelletaan
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: b12395b0-d143-5e3b-b27a-19cb9f989fef
+status: retired

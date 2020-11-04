@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 3855eb3a-2864-5cd2-8bb3-5be518475ef9
+  definition: مجال مؤلف من كائنات مكانية – زمانية
+  examples: []
+  notes:
+  - يتكون المجال المكاني- الزماني للتغطية المستمرة من مجموعة من المواقع المباشرة يتم
+    تعريفها من خلال العلاقة بينها وبين مجموعة من الكيانات المكانية-الزمانية.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: d40e53f1-f053-54f4-9f1f-c27a38b5c619
+status: valid

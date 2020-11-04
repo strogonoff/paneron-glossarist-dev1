@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.37'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: 6ac26900-de2a-5fba-a006-eab26e1d8863
+  definition: 수용된 값의 집합
+  examples:
+  - ~28 범위, 모든 정수, ASCII 문자, 모든 수용 값의 열거(녹색, 파란색, 흰색)
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 762c86f7-0547-5c0e-89a2-b70ae2a0899f
+status: valid

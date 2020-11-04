@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 3.2.21
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 57115069-0081-56d0-8ad0-5be37644bc63
+  definition: 하나의 개념에 다른 개념과 최소한 하나 이상의 한계적 특징이 포함된 두 개념 사이의 관계
+  examples: []
+  notes:
+  - A generic relation exists between the concepts "word" and "pronoun", "vehicle"
+    and "car", "person" and "child".
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: a25be683-d9ae-5940-85dc-faea2baf0e29
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: 1fb6461b-ad52-5ba6-8594-c135bf1401c2
+  definition: in XML kodierter Ausdruck zur Selektion bestimmter Feature auf Grund
+    ihrer Eigenschaften
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: e277ec6b-fcdc-584a-ba88-f02233b53b12
+status: valid

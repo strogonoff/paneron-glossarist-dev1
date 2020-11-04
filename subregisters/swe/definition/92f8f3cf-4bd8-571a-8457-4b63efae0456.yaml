@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.16'
+    link: https://www.iso.org/standard/40395.html
+    ref: ISO 19117:2005
+  concept: 39f25d74-8066-5ad6-a79c-1fffa99cffa5
+  definition: regel som avgör på vilket sätt data ska åskådliggöras
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 92f8f3cf-4bd8-571a-8457-4b63efae0456
+status: retired

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: eb493507-32a1-58e4-9990-f85c32bc530a
+  definition: distance d'un point à une surface de référence choisie, mesurée de haut
+    en bas le long d'une ligne perpendiculaire à cette surface
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 307a6a3d-790c-5def-9847-73e098703a3b
+status: superseded

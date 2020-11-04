@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: eb493507-32a1-58e4-9990-f85c32bc530a
+  definition: distancia de un punto a una superficie de referencia dada medida hacia
+    abajo a lo largo de la perpendicular a la superficie
+  examples: []
+  notes:
+  - Una profundidad por encima de la superficie de referencia tendrá un valor negativo.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: b53cf14c-d5a4-5f01-8435-10990cde9228
+status: superseded

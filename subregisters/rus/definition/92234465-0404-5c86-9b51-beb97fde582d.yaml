@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40147.html
+    ref: ISO 3534-2
+  concept: 2eb5b571-8095-5968-9309-76accdd38353
+  definition: вся совокупность рассматриваемых объектов
+  examples:
+  - Все точки в наборе данных
+  - Наименования всех дорог в определенной географической области
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 92234465-0404-5c86-9b51-beb97fde582d
+status: изъятый

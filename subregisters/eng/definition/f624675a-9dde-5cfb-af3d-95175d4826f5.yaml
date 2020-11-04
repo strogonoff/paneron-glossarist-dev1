@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.62
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 60b4003a-60a0-54ed-9929-de70bb56895d
+  definition: unit of measure
+  examples: []
+  notes:
+  - See metric operation.
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: f624675a-9dde-5cfb-af3d-95175d4826f5
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: bded3e8d-1466-5077-8b27-0edda66f0fed
+  definition: علاقة متبادلة بين عنصرين للنمذجة يكون فيها للتغيير في أحد العنصرين (وهو
+    العنصر المستقل ) تأثير على العنصر الآخر ( أي العنصر التابع )
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: ec163779-cda6-54f2-a9c2-5d2dfe0b24d6
+status: superseded

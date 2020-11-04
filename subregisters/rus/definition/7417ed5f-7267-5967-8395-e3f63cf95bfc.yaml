@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.2.13
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: cf74f1e2-f24c-552b-a1e0-4c33ade02393
+  definition: понятие, которое является или универсальным понятием или всеобъемлющим
+    понятием
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 7417ed5f-7267-5967-8395-e3f63cf95bfc
+status: valid

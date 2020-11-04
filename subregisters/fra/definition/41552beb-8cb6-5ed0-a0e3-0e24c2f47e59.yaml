@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: e39adb92-4f9f-5adb-8813-3a465ab5892b
+  definition: objet géométrique représentant un élément d'espace simple, connecté
+    et homogène
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 41552beb-8cb6-5ed0-a0e3-0e24c2f47e59
+status: superseded

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: 33f7d335-25d2-5eea-a8ad-789eaf5f578b
+  definition: часть иерархического реестра, которая содержит единицы учета, относящиеся  к
+    некоторому подмножеству данной информационной области
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: a63f54c0-5685-544f-ad16-4cfd8336500a
+status: valid

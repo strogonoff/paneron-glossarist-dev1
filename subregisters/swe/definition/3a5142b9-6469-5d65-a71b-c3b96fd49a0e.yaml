@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.33'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: d3230c5f-a61f-5d3c-b926-07b2eb0df7a8
+  definition: koordinater enligt en bilds kartesiska koordinatsystem
+  examples: []
+  notes:
+  - The image coordinates can be in pixels or in a measure of length (linear measure).
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 3a5142b9-6469-5d65-a71b-c3b96fd49a0e
+status: valid

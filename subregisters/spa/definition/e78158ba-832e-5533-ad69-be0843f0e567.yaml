@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: '1.1'
+    link: https://www.iso.org/standard/39976.html
+    ref: ISO/IEC Guide 2:2004
+  concept: cd825396-c4e2-5b5c-abe3-a1c2ee432ed0
+  definition: actividad de establecer, en relación con problemas actuales o potenciales,
+    disposiciones para su uso común y repetido, encaminadas al logro del grado óptimo
+    en un determinado contexto
+  examples: []
+  notes:
+  - En particular, la actividad consiste en los procesos de desarrollo, publicación
+    y aplicación de las normas.
+  - Son importantes beneficios de la normalización, la mejora de la idoneidad de los
+    productos, procesos y servicios para los fines previstos, la prevención de las
+    barreras comerciales y la facilitación de la cooperación tecnológica.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: e78158ba-832e-5533-ad69-be0843f0e567
+status: valid

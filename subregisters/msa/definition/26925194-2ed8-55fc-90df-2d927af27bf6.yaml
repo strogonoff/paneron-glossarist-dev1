@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 4.1.10
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 91414012-383d-5972-8715-f2bbc24dc036
+  definition: proses menentukan, merakam dan menyebarkan maklumat mengenai hubungan
+    antara manusia dengan tanah
+  examples: []
+  notes:
+  - In many countries, land administration information is determined, recorded and
+    disseminated under the umbrella of cadastre and land registry. Both institutions
+    can be unified in a single (state) organization.
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 26925194-2ed8-55fc-90df-2d927af27bf6
+status: valid

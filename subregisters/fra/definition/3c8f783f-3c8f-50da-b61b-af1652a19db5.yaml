@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105
+  concept: dd89d158-419c-571b-940a-4abf4a6c6efc
+  definition: mise en oeuvre d'une spécification
+  examples: []
+  notes: []
+dateAccepted: 2000-11-16 00:00:00+00:00
+id: 3c8f783f-3c8f-50da-b61b-af1652a19db5
+status: valid

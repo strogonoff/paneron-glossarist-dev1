@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40147.html
+    ref: ISO 3534-2:2006
+  concept: eecb63c4-3332-5741-b22b-684db4abb0d4
+  definition: 시험결과 또는 측정결과와 참값 사이의 근사치, 근접성
+  examples: []
+  notes: []
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: bfd64daa-5d43-5c28-b5d0-8d26963a11cf
+status: valid

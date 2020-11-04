@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0de67aa8-fb4a-50af-b739-f72651bc5b37
+  definition: plan overflade, der bedst passer til havenes middelvandstand enten lokalt
+    eller globalt
+  examples: []
+  notes:
+  - '"Plan overflade" betyder en ækvipotential flade i jordens tyngdefelt, der overalt
+    er vinkelret på tyngdekraftens retning.'
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: c214dd8f-c1f3-55b1-9655-55407f7f9506
+status: superseded

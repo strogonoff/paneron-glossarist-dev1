@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0d4997ad-c2bd-5de2-942e-b79af22736ea
+  definition: n-uplet composé d'une séquence de coordonnées
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: e61e0c51-4dab-54b0-a5f0-7d39d2681acd
+status: superseded

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 6b130458-37bd-5524-9dcb-8afa915328aa
+  definition: nieograniczona ściana zawarta w 2-wymiarowym elemencie złożonym
+  examples: []
+  notes:
+  - Ściana uniwersalna na ogół nie jest częścią żadnego obiektu, lecz jest wykorzystywana
+    do przedstawienia nieograniczonej części zbioru danych. Jej granica wewnętrzna
+    (nie ma granicy zewnętrznej) jest zwykle traktowana jako granica zewnętrzna mapy
+    reprezentowanej przez zbiór danych. Niniejsza Norma Międzynarodowa nie uwzględnia
+    szczególnych przypadków ściany uniwersalnej, jednak schematy aplikacyjne mogą
+    uznać to pojęcie za przydatne.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: bc79498b-b617-5890-bc60-594422480236
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.29
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: d860f8f4-ccdb-5a4c-87e1-94612ccb95e5
+  definition: 1-wymiarowy prosty element topologiczny
+  examples: []
+  notes:
+  - Realizacją geometryczną krawędzi jest krzywa.Granicą krawędzi jest zbiór jednego
+    lub dwóch węzłów powiązanych z tą krawędziąw ramach złożonego elementu topologicznego.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 960873b9-41fc-5428-967b-ae3c37023bdf
+status: valid

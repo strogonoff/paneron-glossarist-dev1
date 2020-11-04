@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: b578e6e4-25f4-549e-ac83-5f4dd1ac301c
+  definition: XML-kodad beskrivning av vilka typer av testuttryck (predikat) som kan
+    användas för urval
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: c6d81667-122b-5a5b-bc34-876c6158f51f
+status: valid

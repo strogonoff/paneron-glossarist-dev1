@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 60f1ebd6-56fc-5a3b-8627-ccb87e7a25d9
+  definition: 三次元複体中の非有界位相立体。
+  examples: []
+  notes:
+  - 全域位相立体は，三次元において全域フェイスに相当するものであり，通常はどのような地物の一部でもない。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3c807317-a0b3-5f27-aa86-1cda863f5f15
+status: retired

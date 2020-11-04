@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.26
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 5c083fa2-695f-5616-8e64-e953f27bf242
+  definition: 描述局部参照与坐标系关系的基准。
+  examples:
+  - 确定在参照点若干公里范围内的相对位置的系统。
+  notes:
+  - 工程基准不包括大地基准和高程基准。
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 4fea18a7-68e9-56fb-9d14-314d84404020
+status: valid

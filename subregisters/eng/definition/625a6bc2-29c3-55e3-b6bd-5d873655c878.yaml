@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  concept: 9b9cc031-0626-5f87-8059-eb67b44830ba
+  definition: average height of the surface of the sea at a tide station for all stages
+    of the tide over a 19-year period, usually determined from hourly height readings
+    measured from a fixed predetermined reference level
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 625a6bc2-29c3-55e3-b6bd-5d873655c878
+status: valid

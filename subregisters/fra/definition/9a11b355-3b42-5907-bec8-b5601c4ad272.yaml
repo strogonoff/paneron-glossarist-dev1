@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/40395.html
+    ref: ISO 19117:2005
+  concept: 091cd42d-431d-5169-9d4e-c916b71b31db
+  definition: collection de toutes les représentations définies
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 9a11b355-3b42-5907-bec8-b5601c4ad272
+status: retired

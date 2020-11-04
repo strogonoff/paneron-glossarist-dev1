@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.69'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: cbe27488-23b9-5452-a2ea-15e770d6c7fa
+  definition: Alat pengesan di dalam air SONAR yang menggunakan gelombang bunyi untuk
+    pemetaan dasar laut
+  examples: []
+  notes:
+  - Sidescan SONAR is used for imaging bottom features and targets in a wide variety
+    of water depths.
+  - This includes synthetic aperture sidescan SONAR.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 784c8064-3ad7-502b-91f9-0b0d0b716fc2
+status: valid

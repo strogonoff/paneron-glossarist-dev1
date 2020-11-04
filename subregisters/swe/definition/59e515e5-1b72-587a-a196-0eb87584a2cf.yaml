@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 4e5e573c-e365-537e-9b8c-110e44b0e6c7
+  definition: uppsättning datamängder som har gemensamma kännetecken
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: 59e515e5-1b72-587a-a196-0eb87584a2cf
+status: valid

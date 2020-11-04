@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 36d98aa3-af1b-50d7-89f8-4b71f9c23894
+  definition: 描述行为和结构要素的机制。
+  examples: []
+  notes:
+  - 类元包括接口、类、数据类型和组分。
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: cf89841c-f92e-523a-a6c4-084404a1bdaf
+status: superseded

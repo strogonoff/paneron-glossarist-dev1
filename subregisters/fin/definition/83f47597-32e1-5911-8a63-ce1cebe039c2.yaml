@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: e23c40e5-674d-5544-bb6c-c2bf1232f854
+  definition: ellipsoidin isoakselin puolikkaan (a) ja pikkuakselin puolikkaan (b)
+    erotuksen suhde isoakselin puolikkaaseen; f = (a - b)/a
+  examples: []
+  notes:
+  - Joissakin tapauksissa litistyssuhteen sijaan ilmoitetaan sen käänteisluku (reciprocal
+    flattening) 1/f = a/(a-b).
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 83f47597-32e1-5911-8a63-ce1cebe039c2
+status: superseded

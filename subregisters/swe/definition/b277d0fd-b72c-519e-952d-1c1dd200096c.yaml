@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 3bedecff-1481-5517-83ff-723ced9fd954
+  definition: (av data) utvärdering som inte grundar sig på en direkt jämförelse mellan
+    data och dess motsvarigheter i verkligheten utan i stället på erfarenhet som gäller
+    hela datamängden
+  examples: []
+  notes:
+  - Examples of external knowledge are dataset lineage, such as production method
+    or source data.
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: b277d0fd-b72c-519e-952d-1c1dd200096c
+status: valid

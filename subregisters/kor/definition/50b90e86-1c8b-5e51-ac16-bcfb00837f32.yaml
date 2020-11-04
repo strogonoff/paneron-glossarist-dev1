@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: 0f1c75e6-7f62-593d-9408-0f2dcb799c00
+  definition: 한 매개변수내 기하학적 구조 집합의 기하학적 도형 집합, 궤적 집합 내의 점 집합
+  examples: []
+  notes:
+  - This is a generalization of the concept of a geometric prism that is the convex
+    hull of two congruent polygons in 3D-space. Such polyhedrons can be viewed as
+    a foliation of congruent polygons.
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 50b90e86-1c8b-5e51-ac16-bcfb00837f32
+status: valid

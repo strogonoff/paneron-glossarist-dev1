@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.21
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 53c463c3-610c-52cf-a227-6c77832eade3
+  definition: طلب واحد لنظام قياس متجول يسير بهدف مرغوب
+  examples: []
+  notes:
+  - في هذا الجزء من مقياس الآيزو 19115 ، يكون نظام القياس عادة عبارة عن منصة استشعار
+    عن بعد. أما في السياق الملاحي فقد يكون نظام القياس قمرا صناعيا في خدمة نظام التحديد
+    الكوني GPS .
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: f5687a38-8324-565a-9c57-5a8dc8235f4c
+status: valid

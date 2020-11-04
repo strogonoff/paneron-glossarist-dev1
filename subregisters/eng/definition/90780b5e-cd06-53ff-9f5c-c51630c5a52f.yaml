@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.82
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 4fd1fe43-a7ce-5196-a89f-5193d5fc8471
+  definition: problem that given two points, determines the initial direction and
+    length of a geodesic that connects them
+  examples: []
+  notes:
+  - See the first geodetic problem, which reverses this operation.
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 90780b5e-cd06-53ff-9f5c-c51630c5a52f
+status: valid

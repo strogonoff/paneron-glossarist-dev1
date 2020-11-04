@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 60f1ebd6-56fc-5a3b-8627-ccb87e7a25d9
+  definition: sólido topológico ilimitado en un complejo tridimensional
+  examples: []
+  notes:
+  - El sólido universal es el equivalente tridimensional de la cara universal, y tampoco
+    suele ser parte de ningún objeto geográfico.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: afb18f5f-8617-54e9-aa52-5fe9cfbda0cb
+status: retired

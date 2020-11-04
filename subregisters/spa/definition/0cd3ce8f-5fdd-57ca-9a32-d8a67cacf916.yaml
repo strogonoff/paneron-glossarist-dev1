@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 52ce94bc-5fd3-5548-a7f9-0efbbddfaabc
+  definition: capítulo que define qué es necesario para satisfacer los requisitos
+    de la norma internacional
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 0cd3ce8f-5fdd-57ca-9a32-d8a67cacf916
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: f535d19b-51bc-5153-9881-72f34b5a6f81
+  definition: representation of geometri genom sammansättning av geometriska grundelement.
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 102b25e5-c81d-5b64-944c-c4a1e89b0817
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 8a650bfd-dd93-56c0-bbf0-e787d2f68c76
+  definition: 1. Set peraturan tertentu yang menunjukkan cara bagaimana data boleh
+    diwakili. 2. Peraturan dan resam yang menentukan bagaimana isyarat yang mewakili
+    data boleh dibentuk, dihantar, diterima, dan diproses dalam suatu sistem perhubungan.
+    3. Bentuk berlambang yang mewakili data atau suruhan atur cara komputer atau mikropemproses
+    yang boleh diterima dan diproses oleh mesin tersebut.
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 0e425c00-b7c6-5b79-b88c-841b49b5c107
+status: valid

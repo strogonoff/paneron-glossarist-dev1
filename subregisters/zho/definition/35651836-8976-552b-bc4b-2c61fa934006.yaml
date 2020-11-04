@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 022184d7-568f-53ea-85d3-f94b230eb791
+  definition: 一种聚合形式，要求其组成成分的实例最多在聚合中出现一次。组合对象负责其组成成分的构造和析构。
+  examples: []
+  notes:
+  - 组合本身可以创建多重性的组成成分，但是一旦创建后，其组成成分随其存在和消失（也就是，他们共享生存期）。这样的组成成分在该聚合消失前，还可以显式地移走。聚合可以是递归的。同义词：聚合聚集。
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 35651836-8976-552b-bc4b-2c61fa934006
+status: superseded

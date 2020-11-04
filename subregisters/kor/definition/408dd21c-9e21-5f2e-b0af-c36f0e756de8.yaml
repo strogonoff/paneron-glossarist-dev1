@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 5690090e-f238-5f50-b2be-8710642c2c20
+  definition: 시간의 범위를 표현하는 1차원 기하 원시 객체
+  examples: []
+  notes:
+  - 기간은 두 개의 서로 다른 시간 위치로 경계지워진다.
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 408dd21c-9e21-5f2e-b0af-c36f0e756de8
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.37'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: 6ac26900-de2a-5fba-a006-eab26e1d8863
+  definition: conjunto de valores aceptados
+  examples:
+  - El rango 3-28, todos los enteros, cualquier caracter ASCII, una enumeración de
+    todos valores aceptados (verde, azul, blanco).
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: c5de7f84-3b6f-569b-b782-cc3f634f8ae4
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.67
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 5323e7a6-d499-5914-ab73-53633b6b85b4
+  definition: in der Bildebene liegender Mittelpunkt der Kreis gleicher Verzeichnung
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 831696d6-69df-509f-aa20-196dcc29ff1e
+status: valid

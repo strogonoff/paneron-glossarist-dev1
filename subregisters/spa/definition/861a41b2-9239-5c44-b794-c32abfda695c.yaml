@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 7a01e6ab-776c-5a42-9eda-311fe7f7f349
+  definition: operación de coordenadas en la que los dos sistemas de referencia de
+    coordenadas están basados en diferentes datums
+  examples: []
+  notes:
+  - Una transformación de coordenadas usa parámetros obtenidos empíricamente a partir
+    de un conjunto de puntos con coordenadas conocidas en ambos sistemas de referencia
+    de coordenadas.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 861a41b2-9239-5c44-b794-c32abfda695c
+status: superseded

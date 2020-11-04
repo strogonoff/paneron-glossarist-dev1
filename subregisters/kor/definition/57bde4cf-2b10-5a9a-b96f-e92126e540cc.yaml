@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 1bf4c881-7e66-5a75-80fe-844fe3ccd78e
+  definition: 위성 체계와 인지된 고정 위치에 의해 표시된 위치들 사이의 차이를 전파하기 위해 GPS기능 을 향상시키는 것으로, GNSS와
+    DGNSS를 사용함
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 57bde4cf-2b10-5a9a-b96f-e92126e540cc
+status: valid

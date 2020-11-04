@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '2.42'
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: 918cdb55-fc1f-51cb-8ad6-6064ea82985e
+  definition: atributo del objeto geográfico que describe la representación espacial
+    del objeto geográfico mediante coordenadas, funciones matemáticas o relaciones
+    topológicas de frontera
+  examples: []
+  notes: []
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: a69997cb-9375-5bb8-b7f1-854d9e50838f
+status: valid

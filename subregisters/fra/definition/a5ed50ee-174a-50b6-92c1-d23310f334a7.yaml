@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: b8b15aa5-ebee-5508-a48c-60c66c0cb1b8
+  definition: relation entre deux domaines (tels que deux complexes) telle qu'il existe
+    une fonction préservant la structure de l'un vers l'autre
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: a5ed50ee-174a-50b6-92c1-d23310f334a7
+status: superseded

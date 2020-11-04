@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '3.12'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  concept: d862e3b4-2bfe-51e6-b3e4-67e4d60dcaba
+  definition: Localización, por ejemplo un andén, en un nodo de transbordo donde el
+    medio de transporte se detiene para permitir que el viajero suba o baje del medio
+    de transporte.
+  examples: []
+  notes: []
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: 365b0f14-2859-5208-9b22-ee0083d99972
+status: valid

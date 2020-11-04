@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 3d42ade2-ce3f-59b0-84bf-08057f3c8cdb
+  definition: objektin täydellinen esitys tiettynä ajanhetkenä
+  examples: []
+  notes:
+  - Käsite temporaalinen versio poikkeaa käsitteestä näyte siten, että versio edellyttää
+    täydellistä kuvausta. Tässä mielessä versio on täydellinen näyte, jota voidaan
+    tarkastella sen ajallisen sekvenssin ulkopuolella, johon se mahdollisesti kuuluu.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 541d68d8-1f91-5c60-a8b6-163e85e835f7
+status: valid

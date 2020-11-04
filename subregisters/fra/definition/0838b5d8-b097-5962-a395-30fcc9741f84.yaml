@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 6815dba5-f507-5db7-9ba8-a86f390a61b9
+  definition: collection sans ordre d'éléments liés (objets ou valeurs), sans répétition
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 0838b5d8-b097-5962-a395-30fcc9741f84
+status: valid

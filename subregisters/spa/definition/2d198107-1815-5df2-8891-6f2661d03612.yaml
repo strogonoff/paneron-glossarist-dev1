@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 6b7b6506-d4a7-5311-bf16-055cd9c38308
+  definition: símbolo compuesto por otros símbolos del mismo tipo
+  examples:
+  - Un símbolo puntual compuesto por dos puntos gráficos
+  notes: []
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 2d198107-1815-5df2-8891-6f2661d03612
+status: valid

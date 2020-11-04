@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.27'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 343b5254-6b7e-56d6-91a9-fadf3d0c9568
+  definition: 허가증의 범위 또는 적용성
+  examples: []
+  notes:
+  - The extent can be described in spatial, temporal. or any other parameter range
+    appropriate to the rights described in the licence.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 5e3cc501-ddc6-576c-ab59-9368186b9f3a
+status: valid

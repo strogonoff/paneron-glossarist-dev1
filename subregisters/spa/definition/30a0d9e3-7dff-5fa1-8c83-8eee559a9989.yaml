@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: '4.37'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 536edc0b-f0ea-5db1-9bbd-47ad58bebc94
+  definition: potencia por unidad de ángulo sólido de una fuente puntual en una determinada
+    dirección
+  examples: []
+  notes:
+  - Normalmente para lidar no se hace una adecuada calibración para calcular la intensidad
+    absoluta, por lo que generalmente se informa de la la intensidad relativa. En
+    los sistemas de modo lineal, este valor se suele proporcionar como un entero,
+    resultado de una correspondencia  en una tabla de consulta, entre la potencia
+    de la señal de retorno con un valor entero.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 30a0d9e3-7dff-5fa1-8c83-8eee559a9989
+status: valid

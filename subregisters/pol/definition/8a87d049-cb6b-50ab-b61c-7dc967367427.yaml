@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3bac65b8-a515-5229-91ab-f1ad0474193c
+  definition: skończona, uporządkowana kolekcja powiązanych elementów (obiektów lub
+    wartości), które mogą się powtarzać
+  examples: []
+  notes:
+  - W sensie logicznym sekwencję można uważać za kolekcję par typu <element, odsunięcie>.W
+    niniejszej Normie Międzynarodowej stosowana jest składnia LISP), w której sekwencje
+    oznacza się nawiasami okrągłymi, a elementy sekwencji oddziela przecinkami.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 8a87d049-cb6b-50ab-b61c-7dc967367427
+status: valid

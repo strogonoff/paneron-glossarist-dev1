@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7257.html
+    ref: ISO/IEC 2382-15:1999
+  concept: 8541ba1d-72f8-517c-af8a-824270f51b17
+  definition: Susunan yang telah ditetapkan bagi paparan, penyimpanan atau penggunaan
+    data, suruhan, kata, aksara atau fail.
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: b7c62e01-57a8-54f2-be94-b92e479cc78f
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  concept: 74625814-5e6c-5d9d-912b-0bbf662e287b
+  definition: PI매칭에 사용되는 서비스 인터페이스와 자료 구조 그룹
+  examples: []
+  notes: []
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: 776d23a9-c21a-53c2-a04b-30013d06a394
+status: valid

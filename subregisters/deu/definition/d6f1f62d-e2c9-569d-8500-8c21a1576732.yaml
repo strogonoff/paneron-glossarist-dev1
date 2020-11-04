@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.26
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 6d46a20b-9a90-5241-a5f0-cfe057076e4b
+  definition: Mittelpunkt aller Rahmenmarken, etwa in Bildmitte gelegen
+  examples: []
+  notes:
+  - When there are four fiducial marks, fiducial centre is the intersection of the
+    two lines connecting the pairs of opposite fiducial marks.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: d6f1f62d-e2c9-569d-8500-8c21a1576732
+status: valid

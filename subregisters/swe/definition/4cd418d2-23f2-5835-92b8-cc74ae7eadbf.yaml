@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 496d7ef8-0f46-5dcf-bfeb-97add1189d3e
+  definition: UML-element i klassdiagram för formell specifikation av datauppgifter
+    och semantik för representation av likartade företeelser eller egenskaper
+  examples: []
+  notes:
+  - 'A class may use a set of interfaces to specify collections of operations it provides
+    to its environment. See: interface.'
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 4cd418d2-23f2-5835-92b8-cc74ae7eadbf
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.2
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 2930cb62-743c-502b-9dd6-e5de715885ec
+  definition: segment of a curve
+  examples: []
+  notes: []
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 6cb4f8e0-0f2f-5106-89b0-3484d61d55a9
+status: valid

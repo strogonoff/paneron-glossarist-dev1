@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.30
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 421ae5e3-6466-5d3f-bf99-9407353d704e
+  definition: grafo embebido en un complejo topológico, compuesto por todos los arcos
+    y nodos conectados del complejo
+  examples: []
+  notes:
+  - El grafo arco-nodo es un subcomplejo dentro del complejo en el cuál está embebido.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 0ede9d2b-09e3-5e40-aa6c-5967aa95c98f
+status: valid

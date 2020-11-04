@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.38
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 84551b8a-41b1-5410-be83-5fc9fbfe5f7b
+  definition: dispositivo mecánico que consiste en dos o más anillos conectados de
+    tal manera que cada uno gira libremente sobre un eje que es el diámetro del siguiente
+    anillo hacia el exterior del conjunto
+  examples: []
+  notes:
+  - Un objeto montado en un cárdan de 3 anillos se mantendrá suspendido horizontalmente
+    en un plano entre los anillos con independencia de la estabilidad de la base
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 428ae0ea-cf50-5783-83b1-903ff20b4320
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.2
+    link: https://www.iso.org/standard/70742.html
+    ref: ISO 19112:2019
+  concept: 6c98a63c-151a-5594-81ab-7e434a8722e7
+  definition: rumlig reference i form af et mærke eller en kode, der identificerer
+    en lokalitet
+  examples:
+  - '"Spanien" er et eksempel på et landenavn, "SW1P 3AD" er et eksempel på et postnummer.'
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: fc47fb86-f736-5294-b593-0a84cd91b42e
+status: valid

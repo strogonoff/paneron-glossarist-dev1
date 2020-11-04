@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: b8a4dc2b-3188-5127-9e38-370e78ef7d0c
+  definition: concept that may be specified in detail as one or more feature attribute
+    types
+  examples:
+  - A "height" feature attribute concept describes length in the vertical direction
+    as a characteristic that may be shared by real world phenomena such as "human",
+    "tree" and "building."
+  notes: []
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: 0d8cc799-79f8-5fde-b8e7-8c67db7eb4bc
+status: valid

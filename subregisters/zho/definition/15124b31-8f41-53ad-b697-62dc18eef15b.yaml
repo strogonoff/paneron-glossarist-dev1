@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 6561fc5a-f0fd-5c27-a348-1f7b6a129248
+  definition: 元数据的子集合，由相关的元数据实体和元素组成。
+  examples: []
+  notes:
+  - 与UML术语的包同义。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 15124b31-8f41-53ad-b697-62dc18eef15b
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 4e2333ac-28e6-5694-8cc5-39db3801abf0
+  definition: organisation eller person som är mottagare av produkt
+  examples: []
+  notes:
+  - The customer can be internal or external to the supplier organisation.
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: c686d1f9-4b63-52db-b4a0-2b49f3e33346
+status: valid

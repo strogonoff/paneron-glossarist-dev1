@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: ec90a670-0f95-560e-9e0f-307276de0d04
+  definition: Zuordnung eines permanenten, eindeutigen und unmissverständlichen Identifikators
+    zu einem Eintrag
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 62da06fc-36f0-5581-a978-d2ab6038cd63
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 75004415-4619-50cb-82c0-477bbb17120e
+  definition: semanttinen ehto tai rajoitus
+  examples: []
+  notes:
+  - Jotkut UML:n rajoitteista ovat ennalta määrättyjä, toiset käyttäjän määritettävissä.
+    Rajoitteet ovat yksi UML:n kolmesta laajennusmekanismista. Katso myös leima (tagged
+    value) ja stereotyyppi.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 2cc7c13f-81a2-580d-827f-8a880baa2df4
+status: superseded

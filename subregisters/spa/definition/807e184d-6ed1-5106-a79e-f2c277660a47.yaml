@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.23'
+    link: https://www.iso.org/standard/63541.html
+    ref: ISO 19104:2016
+  concept: fec8286e-e4f9-5efa-8663-18b0de0a367c
+  definition: entorno geográfico y cultural en el que se concibe y percibe un concepto
+  examples: []
+  notes: []
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: 807e184d-6ed1-5106-a79e-f2c277660a47
+status: valid

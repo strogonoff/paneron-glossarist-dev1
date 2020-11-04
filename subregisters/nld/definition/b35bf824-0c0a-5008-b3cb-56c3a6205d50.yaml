@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 66a41f3b-5ab5-5d18-9047-8af3ad82ab8b
+  definition: verandering van coördinaten, gebaseerd op een één op één relatie van
+    het ene coördinaatreferentiesysteem tot het andere.
+  examples: []
+  notes:
+  - Een supertype van de coördinaat transformatie en de coördinaat conversie.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: b35bf824-0c0a-5008-b3cb-56c3a6205d50
+status: superseded

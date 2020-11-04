@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 32478141-cbb9-53c2-bf2e-a16fc3735aef
+  definition: en period när någonting existerar
+  examples: []
+  notes:
+  - Valid-time life span is the period during which an object exists in the modelled
+    reality.  Transaction-time life span is the period during which a database object
+    is current in the database.
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 8d3b7f12-4418-5615-8fd4-ce78862ab62b
+status: valid

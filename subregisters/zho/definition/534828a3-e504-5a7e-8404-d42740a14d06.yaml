@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: a9c532a7-982e-56ec-bdbe-6d5c01b20ff9
+  definition: 具有两个距离坐标和一个角度坐标的三维坐标系。
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 534828a3-e504-5a7e-8404-d42740a14d06
+status: superseded

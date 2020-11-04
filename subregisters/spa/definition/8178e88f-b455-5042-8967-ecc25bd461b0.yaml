@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.45'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: aa6af154-05c4-57ca-a7e8-a7e8f8d6b571
+  definition: valor de lo que puede perderse si se da una vulneración
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 8178e88f-b455-5042-8967-ecc25bd461b0
+status: valid

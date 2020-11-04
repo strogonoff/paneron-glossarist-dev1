@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 3b564846-1777-52cf-a8f0-9c9ea7be3b6c
+  definition: 어떤 인스턴트에 일어나는 행위
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: ea819ec0-27f9-5520-a397-c32741e52412
+status: valid

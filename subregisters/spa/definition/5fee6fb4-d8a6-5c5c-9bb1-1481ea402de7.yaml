@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/63541.html
+    ref: ISO 19104:2016
+  concept: 39dc95bb-793a-59dd-90d9-487a8b6a4a97
+  definition: área definida de conocimiento humano a la que se asigna una entrada
+    terminológica
+  examples: []
+  notes:
+  - Dentro de una base de datos u otra colección terminológica, generalmente se definirá
+    un conjunto de dominios. Más de un dominio se puede asociar con un concepto dado.
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: 5fee6fb4-d8a6-5c5c-9bb1-1481ea402de7
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 98cd99e5-1786-5a1f-a37a-c4c621c4df9b
+  definition: 一つ以上の地物インスタンスが存在しなくなって，別の一つ以上の地物インスタンスに置き換わること。
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 53d4d6b8-68d8-5984-82f8-f0ee73c849be
+status: valid

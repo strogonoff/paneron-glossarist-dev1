@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.53'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 18a675a5-bdfe-5613-9f67-bd75972047ee
+  definition: 일반적으로 킬로헤르츠(kHz)로 표현된 일정시간 동안 시스템이 펄스를 방출하는 횟수(e.g.LIDAR)
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 85ea6795-149a-5d8c-8c6b-dce348000eae
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: b2444a77-0558-50ec-9741-ac764f6c0423
+  definition: forma especial de asociación  que especifica una relación del todo con
+    una parte entre el agregado (el todo) y una parte componente
+  examples: []
+  notes:
+  - Véase la composición
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 4ef13daa-c8bb-5e2b-b76c-28f38aa8abd7
+status: valid

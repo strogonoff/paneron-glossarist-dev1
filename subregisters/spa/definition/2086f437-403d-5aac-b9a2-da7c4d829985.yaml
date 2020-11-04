@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.49
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: d2d09f04-3477-5841-9343-090d8c572bed
+  definition: objeto espacial que representa a un conjunto geométrico
+  examples: []
+  notes:
+  - Un objeto geométrico consta de una primitiva geométrica, de una colección de primitivas
+    geométricas o de un complejo geométrico que es tratado como una única entidad.
+    Un objeto geométrico puede ser una representación espacial de un objeto tal como
+    un objeto geográfico o una parte significativa de él.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2086f437-403d-5aac-b9a2-da7c4d829985
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: modified
+    ref: FindLaw
+  concept: 472dc454-2689-5c84-8a3a-b7d6eb5d0864
+  definition: 'alguien con un interés y dominio sobre contenidos como: a) propietario
+    legal, b) alguien con el derecho exclusivo de uso, control o posesión de los contenidos,
+    c) un comprador bajo un contrato de venta de un contenido real'
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: e87c399f-8412-518a-9aa7-97d654a8ee40
+status: valid

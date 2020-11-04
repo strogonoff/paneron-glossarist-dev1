@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 43344492-9056-500c-9123-861d80a573af
+  definition: одномерная координатная система отсчета, основанная на высотных [вертикальных]  датах
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: a7eca5f3-634a-5f85-8295-af37d3942534
+status: superseded

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: b6266e4b-b919-599c-9144-0064f19ec149
+  definition: графическое представление географической информации в виде файла в цифровом
+    графическом формате, пригодного для отображения на экране компьютера
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 91e7423a-6917-5e56-90c3-eaffec5c148b
+status: valid

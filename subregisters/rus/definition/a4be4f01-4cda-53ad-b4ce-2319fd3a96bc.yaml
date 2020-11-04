@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: 8ea4b660-e714-5c57-9147-5dc9ae4cf7e2
+  definition: компонент программного обеспечения, который   может вызвать операцию
+    с сервера
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: a4be4f01-4cda-53ad-b4ce-2319fd3a96bc
+status: valid

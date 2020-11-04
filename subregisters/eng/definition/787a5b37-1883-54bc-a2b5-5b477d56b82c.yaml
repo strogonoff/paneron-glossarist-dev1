@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.14
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: d554ffc1-aa85-5cb8-ba3c-2f751677e735
+  definition: containing all points on a "line" joining two interior points
+  examples: []
+  notes:
+  - The definition of convex requires a definition of line. For coordinate systems,
+    this is the usual linear interpolated arc, but in context, the "line" on a geometric
+    reference surface will be a "geodesic arc". The default in this document is the
+    linear interpolate.
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 787a5b37-1883-54bc-a2b5-5b477d56b82c
+status: valid

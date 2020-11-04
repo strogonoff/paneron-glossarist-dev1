@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: 83eb4472-4ad9-5239-8443-fc28eb126839
+  definition: clase de objetos geográficos que tienen características comunes
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 582a3950-e43d-532e-b6d4-0762d8b8013e
+status: valid

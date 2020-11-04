@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 3a68ce9b-5e07-51d2-baf9-d1f003419039
+  definition: datum que describe la relación de las alturas o profundidades relacionadas
+    con la gravedad con la Tierra
+  examples: []
+  notes:
+  - En la mayoría de los casos el datum vertical está referido al nivel medio del
+    mar. Las altitudes elipsoidales son tratadas como relativas a un sistema de coordenadas
+    elipsoidales tridimensional referido a un datum geodésico. Los datums verticales
+    incluyen datums de sondeos (usados para fines hidrográficos), en cuyo caso las
+    altitudes pueden ser negativas o profundidades.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: b46df872-cc22-5e03-84d8-f8041cfb3dc6
+status: superseded

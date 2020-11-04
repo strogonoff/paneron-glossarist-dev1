@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: bc70de69-abdc-5299-b358-b042e140cd99
+  definition: test, der er udviklet med henblik på at afgøre, om en IUT (Implementation
+    Under Test) opfylder kravene til en bestemt egenskab i en international standard
+    som beskrevet i testformålet
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 2e873091-a836-5ac5-8410-c401943b9f2b
+status: valid

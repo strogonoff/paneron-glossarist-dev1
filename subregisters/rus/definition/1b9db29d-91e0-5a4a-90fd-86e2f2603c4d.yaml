@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (derived from)
+    link: https://www.iso.org/standard/2517.html
+    ref: 'ISO 12620:1999 '
+  concept: c640b4ce-1d8f-546d-94b1-e8ea25ec1fbc
+  definition: отдельная область человеческих знаний, к которой относится терминологическая
+    запись
+  examples: []
+  notes:
+  - Адаптировано из  ISO 12620:1999
+  - в базе данных или другой терминологической коллекции обычно определяется набор
+    доменов. С данным понятием может быть связано несколько доменов.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 1b9db29d-91e0-5a4a-90fd-86e2f2603c4d
+status: valid

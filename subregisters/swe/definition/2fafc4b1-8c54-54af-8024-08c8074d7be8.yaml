@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40114.html
+    ref: ISO 19125-1:2004
+  concept: e4ea65ec-49e6-50f2-bebc-8b0a1db8d8f4
+  definition: objekttyp begränsad till tvådimensionell geometri med linjär interpolation
+    mellan hörnpunkter, och som har både rumsliga och icke-rumsliga attribut
+  examples: []
+  notes: []
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: 2fafc4b1-8c54-54af-8024-08c8074d7be8
+status: valid

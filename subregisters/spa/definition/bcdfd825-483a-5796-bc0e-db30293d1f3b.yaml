@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.16
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 33f7d335-25d2-5eea-a8ad-789eaf5f578b
+  definition: parte de un registro jerárquico que contiene ítems de una partición
+    de un dominio de información
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: bcdfd825-483a-5796-bc0e-db30293d1f3b
+status: valid

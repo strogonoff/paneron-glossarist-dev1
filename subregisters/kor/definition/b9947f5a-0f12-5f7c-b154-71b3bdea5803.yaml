@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: edd56f96-f0d5-51e5-8ee5-ef71458ca7ec
+  definition: 측지 원점을 바탕으로하는 좌표 참조 체계
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: b9947f5a-0f12-5f7c-b154-71b3bdea5803
+status: superseded

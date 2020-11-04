@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.54
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 42ebd917-da08-57fc-901d-6f20ff6a8d3c
+  definition: полярная ось эллипсоида
+  examples: []
+  notes:
+  - Для эллипсоида, представляющего Землю, это расстояние от его центра до любого
+    из полюсов
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 83decaae-40bc-5d30-80fc-e5826b6e3ffd
+status: valid

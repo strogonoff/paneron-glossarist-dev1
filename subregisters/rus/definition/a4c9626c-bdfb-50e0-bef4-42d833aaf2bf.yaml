@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 36d98aa3-af1b-50d7-89f8-4b71f9c23894
+  definition: механизм, описывающий структурные и поведенческие особенности
+  examples: []
+  notes:
+  - К классификаторам относятся интерфейсы, классы, типы данных и компоненты
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: a4c9626c-bdfb-50e0-bef4-42d833aaf2bf
+status: valid

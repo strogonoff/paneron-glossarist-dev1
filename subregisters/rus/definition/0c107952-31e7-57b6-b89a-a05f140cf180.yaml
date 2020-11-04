@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  concept: c3963843-a765-51eb-a5b8-9ad4d8fa99c7
+  definition: схема компонентов в XML-пространстве имен, «http://www.opengis.net/gml/3.2»,
+    определяемых ISO 19136
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 0c107952-31e7-57b6-b89a-a05f140cf180
+status: superseded

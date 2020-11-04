@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '3.6'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 09078ab2-ec39-5447-8b92-7469b1b44d60
+  definition: 행위와 연관된 일반 지형지물의 구조 및 행위를 통합하는 더윽 특정한 지형지물 작동원리
+  examples: []
+  notes: []
+dateAccepted: 2011-06-15 00:00:00+00:00
+id: 366a7700-13e5-5943-b534-ff1eb49f41d5
+status: valid

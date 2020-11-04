@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 1650a910-a57e-5ed3-af9f-098f9bb59303
+  definition: aluksi suoritettava kelpoisuustesti, jonka tarkoituksena on tunnistaa
+    tapaukset, joissa vaatimuksenmukaisuusehdot eivät selvästi täyty
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 09d4bde3-c790-52d0-81de-9527e4b0467c
+status: valid

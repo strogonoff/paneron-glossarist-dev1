@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.55
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 6998cc41-2658-5d4b-ba56-cb97724f1797
+  definition: категория объектов, имеющих некоторые общие характеристики и поэтому
+    получающих в определенной предметной области общее типовое имя
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: ca86ebe3-4622-5896-bc35-1893404121c7
+status: valid

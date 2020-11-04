@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 6815dba5-f507-5db7-9ba8-a86f390a61b9
+  definition: sekumpulan nombor, kuantiti, nama benda dll yg sekurang-kurangnya mempunyai
+    satu ciri yang sama.
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 50a241d9-3c62-5117-a708-d6f6c5af88e7
+status: valid

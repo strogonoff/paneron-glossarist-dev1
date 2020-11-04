@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: b2444a77-0558-50ec-9741-ac764f6c0423
+  definition: شكل خاص من أشكال الترابط يصف علاقة "الكل والجزء" بين الكل والجزء المكون
+    له.
+  examples: []
+  notes:
+  - أنظر التركيب
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 78394801-20e3-5056-86ac-7bf60aa7dc0c
+status: valid

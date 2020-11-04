@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 45e0ef0b-7f48-5bb0-aedf-c4a5dc013205
+  definition: red compuesta de dos o más conjuntos de curvas en las que los miembros
+    de cada conjunto se intersecan con los miembros de los otros conjuntos de forma
+    algorítmica
+  examples: []
+  notes:
+  - Las curvas dividen un espacio en celdas de la malla.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 6c9b04de-1564-5e69-b15b-d06df0fa04e3
+status: valid

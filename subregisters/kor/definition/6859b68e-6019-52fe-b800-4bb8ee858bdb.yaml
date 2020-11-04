@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 337e3766-b2fe-5d6f-bcbb-5f8864eea080
+  definition: 지표상의 위치를 묵시적 또는 명시적으로 참조하는 데이터
+  examples: []
+  notes:
+  - 지리 정보 또한 지표상의 위치에 묵시적 또는 명시적으로 관련하는 현상에 대한 정보를 의미하는 용어로 사용된다.
+dateAccepted: 2005-06-15 00:00:00+00:00
+id: 6859b68e-6019-52fe-b800-4bb8ee858bdb
+status: valid

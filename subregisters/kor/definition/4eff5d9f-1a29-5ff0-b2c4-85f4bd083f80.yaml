@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 2e232ba7-2447-5193-9226-1b90722d3851
+  definition: 영상 데이텀을 바탕으로하는 좌표 참조 체계
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 4eff5d9f-1a29-5ff0-b2c4-85f4bd083f80
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.26'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: ad18e552-d773-516d-b1b3-f52f6f449ab4
+  definition: долгота, широта и высота точки поверхности земли или высотной точки
+  examples: []
+  notes:
+  - Географические координаты связаны с системой координат или составной системой
+    координат. Глубина равна отрицательной высоте
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 283faf97-42ff-5ac4-8516-1a1c82ac0513
+status: valid

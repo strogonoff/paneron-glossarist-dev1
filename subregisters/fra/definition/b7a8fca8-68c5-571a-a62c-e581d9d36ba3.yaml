@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  concept: af830139-81bb-5ae1-aec1-5bfd70facdfc
+  definition: couverture qui a un domaine composé de points
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: b7a8fca8-68c5-571a-a62c-e581d9d36ba3
+status: valid

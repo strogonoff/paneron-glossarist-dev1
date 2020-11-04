@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.55
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 6998cc41-2658-5d4b-ba56-cb97724f1797
+  definition: 어떠한 공통적인 특징을 공유하여 특정 영역에서 고유한 유형의 이름을 부여 받은 객체의 카테고리
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 48416247-30fe-58f5-90a7-fcb99374f126
+status: valid

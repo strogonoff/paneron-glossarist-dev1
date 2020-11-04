@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  concept: 26610618-5e0f-55d0-befb-65880d5f21aa
+  definition: схема приложения, написанная на языке XML Schema в соответствии с правилами,
+    определенными в ISO 19136
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: d312cf08-a580-5dad-a3cb-1854f10a94f8
+status: superseded

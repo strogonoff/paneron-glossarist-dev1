@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.2.21
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 6a32a04e-4416-5f57-b784-98ef0e406199
+  definition: relation between two concepts where the intension of one of the concepts
+    includes that of the other concept and at least one additional delimiting characteristic
+  examples: []
+  notes:
+  - A generic relation exists between the concepts "word" and "pronoun", "vehicle"
+    and "car", "person" and "child".
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: df05d3f9-3f2b-5d5e-b7dd-37304326f398
+status: valid

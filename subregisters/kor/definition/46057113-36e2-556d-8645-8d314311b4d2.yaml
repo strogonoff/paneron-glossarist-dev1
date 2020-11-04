@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.24
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: b8a46146-7b56-513c-81d1-2cf41d0cf3a4
+  definition: 위치 측정을 위해 기구나 계산 컴포넌트를 갖는 시스템
+  examples: []
+  notes:
+  - 관성, 통합, 선형, 광학, 및 위성 측위 시스템이 포함된다.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 46057113-36e2-556d-8645-8d314311b4d2
+status: valid

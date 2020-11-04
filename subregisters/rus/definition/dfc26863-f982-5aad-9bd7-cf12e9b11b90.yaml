@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 7110c707-269d-59f3-bcf8-c4ea91bc8d56
+  definition: объединение внутренней области и границы топологического или геометрического
+    объекта
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: dfc26863-f982-5aad-9bd7-cf12e9b11b90
+status: superseded

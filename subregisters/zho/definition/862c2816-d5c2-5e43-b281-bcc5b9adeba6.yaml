@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 7dbeebed-7cbf-58ac-a3d8-69ba40779b0f
+  definition: 是圈的简单曲面。
+  examples: []
+  notes:
+  - 用来描述三维坐标系中体的边界组分。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 862c2816-d5c2-5e43-b281-bcc5b9adeba6
+status: retired

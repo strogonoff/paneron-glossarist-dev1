@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.1.2
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 340fad4f-24f0-5963-b255-355cd9c04067
+  definition: campo de conocimiento especializado
+  examples: []
+  notes: []
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: eaf99639-6661-5a1d-af6d-37d134847a8b
+status: valid

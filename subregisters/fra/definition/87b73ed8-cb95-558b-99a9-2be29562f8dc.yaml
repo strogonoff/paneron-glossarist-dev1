@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.12
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: dc48c61a-61d9-5728-b2f4-aad41e037106
+  definition: nœud de début ou de fin d'une ou plusieurs arêtes
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 87b73ed8-cb95-558b-99a9-2be29562f8dc
+status: valid

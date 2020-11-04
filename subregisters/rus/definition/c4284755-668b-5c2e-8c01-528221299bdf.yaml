@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.16
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 244dbd94-09ba-555c-9281-f71f035701eb
+  definition: данные, значения атрибута которых связаны с положениями на системе координат
+    сетки
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: c4284755-668b-5c2e-8c01-528221299bdf
+status: valid

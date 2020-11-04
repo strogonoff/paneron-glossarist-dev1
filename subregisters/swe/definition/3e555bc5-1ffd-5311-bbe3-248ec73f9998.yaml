@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.23'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 42be7cda-8054-5595-b42d-4147a95b148f
+  definition: formalisead beskrivning av hur datauppgifter, som beskrivs av ett applikationsschema,
+    ska lagras
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 3e555bc5-1ffd-5311-bbe3-248ec73f9998
+status: valid

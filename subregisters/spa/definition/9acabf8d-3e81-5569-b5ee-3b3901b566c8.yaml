@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20697.html
+    ref: ISO/IEC 10746-3:1996
+  concept: e56b8d93-73bf-50e5-8abf-c38d5cc5a6f3
+  definition: punto de vista de un sistema y su entorno que permite la distribución
+    a través de la descomposición funcional del sistema en objetos que interactúan
+    con interfaces
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 9acabf8d-3e81-5569-b5ee-3b3901b566c8
+status: superseded

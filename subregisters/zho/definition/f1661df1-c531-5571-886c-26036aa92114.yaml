@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: edd56f96-f0d5-51e5-8ee5-ef71458ca7ec
+  definition: 基于大地基准的坐标参照系。
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: f1661df1-c531-5571-886c-26036aa92114
+status: superseded

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.21
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 53c463c3-610c-52cf-a227-6c77832eade3
+  definition: single instance of a remote, mobile measuring system going by a target
+    of interest
+  examples: []
+  notes:
+  - In this part of ISO 19115, the measuring system will usually be a remote sensing
+    platform. In a navigation context, the measuring system might be a GPS satellite.
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: e905fe7e-8743-527e-928b-bf1756f1df6a
+status: valid

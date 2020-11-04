@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: 83eb4472-4ad9-5239-8443-fc28eb126839
+  definition: класс объектов, имеющих общие характеристики
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 76508c13-2a19-5145-b460-ff62fca9aa29
+status: valid

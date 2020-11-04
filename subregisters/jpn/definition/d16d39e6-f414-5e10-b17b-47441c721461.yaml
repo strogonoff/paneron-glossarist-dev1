@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: f65e08b0-46ec-5cca-8896-af6189c231f3
+  definition: 規格への適合の全体概要報告及びその全体概要の基となる試験結果の詳細報告。
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: d16d39e6-f414-5e10-b17b-47441c721461
+status: valid

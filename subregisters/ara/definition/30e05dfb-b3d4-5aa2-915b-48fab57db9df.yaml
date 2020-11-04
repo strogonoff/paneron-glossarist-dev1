@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 29639377-cf86-5299-b8bb-c8511dbdf270
+  definition: منحنى بسيط هو عبارة عن دائرة
+  examples: []
+  notes:
+  - تستخدم الأطواق لوصف مكونات الحدود الخارجية للأسطح في نظم الإحداثيات ذات البعدين
+    والثلاثة أبعاد.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 30e05dfb-b3d4-5aa2-915b-48fab57db9df
+status: retired

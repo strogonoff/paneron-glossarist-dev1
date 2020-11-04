@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 52f9e8cc-1a92-53ba-87be-ffa55f406c71
+  definition: process of following a route
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 65b7c003-c470-5454-b80d-503afac6039b
+status: valid

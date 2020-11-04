@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.46
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 05e6ba33-6fd3-5d76-b8f9-641257e7f264
+  definition: sistema de coordenadas unidimensional en el que las unidades del eje
+    son valores de un parámetro que no es inherentemente espacial
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 6a5f8426-cb51-5c3d-ae26-64c15d5bb4c7
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 564d1bb1-6321-5934-89c7-58b5aaa7b69e
+  definition: 집합 내 요소의 수
+  examples: []
+  notes:
+  - '반대: 다중성'
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 3b50aff6-6c64-5bed-a636-0b398b300b71
+status: valid

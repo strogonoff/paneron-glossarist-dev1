@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: '2.42'
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: 7e221a28-fca1-53df-86f2-f230101a53ca
+  definition: secuencia de mediciones y calibraciones utilizadas para relacionar el
+    resultado de un medida con una referencia
+  examples: []
+  notes:
+  - una cadena de trazabilidad metrológica se define a través de una jerarquía de
+    calibración.
+  - Una cadena de trazabilidad metrológica se utiliza para establecer la trazabilidad
+    metrológica de un resultado de la medición.
+  - Una comparación entre dos mediciones puede considerarse como una calibración si
+    la comparación se utiliza para comprobar y, si es necesario, corregir el valor
+    de la cantidad y la incertidumbre de la medición atribuida a uno de las normas
+    de medición.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: fa58ddc1-fe01-5d5b-a009-ffe51c2730b9
+status: valid

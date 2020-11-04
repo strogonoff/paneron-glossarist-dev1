@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/37796.html
+    ref: ISO 19118:2005
+  concept: 419fa15a-3b22-5657-a0a4-7f5b8c4f3e01
+  definition: 특정 상황에서 더 이상 나누어질 수 없는 데이터 단위
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: 1c7f3d2f-1e13-5d71-8a47-1121d1075c47
+status: retired

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 60f1ebd6-56fc-5a3b-8627-ccb87e7a25d9
+  definition: неограниченное тело в трехмерном комплексе
+  examples: []
+  notes:
+  - Универсальное тело – это трехмерный аналог универсальной грани, которое также
+    не является частью какого-либо пространственного объекта
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c40ec3e9-2938-5fbe-971e-d0979a1d9966
+status: retired

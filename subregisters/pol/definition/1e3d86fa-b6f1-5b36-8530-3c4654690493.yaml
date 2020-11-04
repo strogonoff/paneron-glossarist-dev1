@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: ceae7964-9639-54d8-953d-778411018218
+  definition: południk, względem którego oblicza się długości geodezyjne innych południków
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 1e3d86fa-b6f1-5b36-8530-3c4654690493
+status: valid

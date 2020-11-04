@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.16
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 244dbd94-09ba-555c-9281-f71f035701eb
+  definition: data som har attributvärden kopplade till positioner i ett rutnätskoordinatsystem
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: eb24eb71-0fd3-56bb-81f7-ff70b23bc007
+status: valid

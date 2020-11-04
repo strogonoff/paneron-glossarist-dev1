@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.10
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 8f2467b3-9571-5d01-8d37-df77a0d9f9ee
+  definition: spójny zbiór brył dołączonych, przylegających jedna do drugiej poprzez
+    współdzielone powierzchnie graniczne
+  examples: []
+  notes:
+  - Bryła kompozytowa, jako zbiór położeń bezpośrednich, ma wszystkie właściwości
+    bryły.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 4cc1c152-ee87-5630-9589-27e76d06eb9d
+status: valid

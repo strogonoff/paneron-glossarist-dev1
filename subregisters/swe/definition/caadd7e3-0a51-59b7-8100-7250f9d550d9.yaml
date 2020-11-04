@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: e52ba84f-684c-56ed-b521-7a36d530245b
+  definition: sätt att indela och representera verkliga företeelser utifrån klassificeringsdefinitioner
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: caadd7e3-0a51-59b7-8100-7250f9d550d9
+status: valid

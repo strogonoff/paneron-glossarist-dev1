@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.31'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: b571dfda-f6a0-5074-a385-8d10b8e6c88d
+  definition: gemensam uppsättning regler för samverkan inom distribuerade system
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 26624936-b818-50aa-bae5-4fb2aee51934
+status: valid

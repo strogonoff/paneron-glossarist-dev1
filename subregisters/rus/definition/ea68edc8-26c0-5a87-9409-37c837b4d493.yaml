@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.2'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 6daaa3e9-582c-5fa1-8c25-f594641524a0
+  definition: объект, к которому относится атрибутивное событие
+  examples: []
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: ea68edc8-26c0-5a87-9409-37c837b4d493
+status: valid

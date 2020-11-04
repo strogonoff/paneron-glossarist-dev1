@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.10
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 8f2467b3-9571-5d01-8d37-df77a0d9f9ee
+  definition: 沿着共享边界曲面相邻且相连的体的集合。
+  examples: []
+  notes:
+  - 组合体作为直接位置的集合，具有体的所有特征。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ad85c391-2ab7-561d-946d-30765c8573e9
+status: valid

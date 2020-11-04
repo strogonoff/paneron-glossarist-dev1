@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: 3450397c-0dc9-5f47-947e-680cd7b22d2c
+  definition: 1 huruf. 2 ist huruf, angka, atau simbol dsb yg dpt dilambangkan dgn
+    kod komputer.
+  examples: []
+  notes: []
+dateAccepted: 2002-08-16 00:00:00+00:00
+id: f1b6cb72-9eb0-59f3-a74a-9631189b8055
+status: valid

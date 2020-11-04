@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: fbd12ec8-ab4a-53d1-8cbb-c2cd8f4f650f
+  definition: number of measurements or axes needed to describe a position in a coordinate
+    system
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2e7b7137-e4cf-5d03-afea-2fde0821a1fa
+status: superseded

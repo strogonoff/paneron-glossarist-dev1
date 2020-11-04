@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/31367.html
+    ref: 'ISO/IEC 11179-3:2003 '
+  concept: a247c4b5-3b66-57b4-bf07-a97cce4759c5
+  definition: Sistem maklumat di mana suatu daftar dikekalkan.
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 05a4d6c8-6d81-56fb-b923-147e47620c73
+status: valid

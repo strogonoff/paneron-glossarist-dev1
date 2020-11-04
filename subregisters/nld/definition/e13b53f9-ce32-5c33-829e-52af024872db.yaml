@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 7a01e6ab-776c-5a42-9eda-311fe7f7f349
+  definition: coördinaatbewerking waarbij de twee coördinaatreferentiesystemen zijn
+    gebaseerd op verschillende datums
+  examples: []
+  notes:
+  - Een coördinaat transformatie gebruikt parameters die empirisch zijn afgeleid uit
+    een set punten met bekende coördinaten in beide coördinaatreferentiesystemen.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: e13b53f9-ce32-5c33-829e-52af024872db
+status: superseded

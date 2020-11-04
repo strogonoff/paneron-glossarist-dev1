@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.16
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 8b388673-a23e-54eb-9b5e-d1106ce2a7c8
+  definition: اتمته عمليه سير العمل كليا أو جزئيا بحيث يتم تمرير وثائق أو مهام العمل
+    من أحد المشاركين إلى آخر للإجراء اللازم وفقا لمجموعة محددة من القواعد الإجرائية
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 8a6402fe-f795-5a2b-aac0-30592e1512f8
+status: valid

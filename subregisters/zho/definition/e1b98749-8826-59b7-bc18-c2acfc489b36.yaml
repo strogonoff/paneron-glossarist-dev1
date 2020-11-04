@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.37'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: 6ac26900-de2a-5fba-a006-eab26e1d8863
+  definition: 允许值的集合。
+  examples:
+  - 28范围,所有整型数,任何ASCII字符,所有可接受值(绿,蓝,白)的枚举。
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: e1b98749-8826-59b7-bc18-c2acfc489b36
+status: valid

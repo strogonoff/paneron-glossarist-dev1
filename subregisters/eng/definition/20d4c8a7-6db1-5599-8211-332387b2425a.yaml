@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: 8ea4b660-e714-5c57-9147-5dc9ae4cf7e2
+  definition: software component that can invoke an operation from a server
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 20d4c8a7-6db1-5599-8211-332387b2425a
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.50
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 1832370f-d137-5d81-862e-35fc4f2abbbc
+  definition: меридиан, от которого отсчитывают долготы или другие меридианы
+  examples: []
+  notes:
+  - Большинство геодезических дат используют Гринвичский меридиан в качестве начального
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: aa8ae682-aa8f-528b-a49f-241935b8471b
+status: valid

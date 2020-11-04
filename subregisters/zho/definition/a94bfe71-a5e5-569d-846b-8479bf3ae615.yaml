@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 71236915-e5fd-5c87-982d-7947514d407d
+  definition: 对IUT是否正确开展严格证明的测试。
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: a94bfe71-a5e5-569d-846b-8479bf3ae615
+status: valid

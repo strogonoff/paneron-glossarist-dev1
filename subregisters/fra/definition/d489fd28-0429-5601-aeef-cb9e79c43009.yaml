@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: d8ebd211-773e-566d-bb73-d7ca03e17b61
+  definition: objet géométrique contenant toutes les positions directes dont la distance
+    à un objet géométrique spécifié est inférieure ou égale à une distance donnée
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: d489fd28-0429-5601-aeef-cb9e79c43009
+status: superseded

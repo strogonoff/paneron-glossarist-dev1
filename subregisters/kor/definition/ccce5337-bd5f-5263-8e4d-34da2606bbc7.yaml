@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 3855eb3a-2864-5cd2-8bb3-5be518475ef9
+  definition: 시공간 객체로 구성된 영역
+  examples: []
+  notes:
+  - 연속 커버리지의 시공간 영역은 시공간객체의 모음에 대한 관계로 정의된 직접 위치의 집합으로 구성된다.
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: ccce5337-bd5f-5263-8e4d-34da2606bbc7
+status: valid

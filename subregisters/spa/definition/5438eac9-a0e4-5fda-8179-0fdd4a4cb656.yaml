@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 230b254c-c1d8-5eca-a965-40f60bbebfbf
+  definition: objeto que hace efectiva una clase
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5438eac9-a0e4-5fda-8179-0fdd4a4cb656
+status: valid

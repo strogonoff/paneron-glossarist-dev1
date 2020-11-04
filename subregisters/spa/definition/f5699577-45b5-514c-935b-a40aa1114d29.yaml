@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (1997)
+    ref: 'ITU-R Rec.TF.686-1 '
+  concept: 5b041839-346a-5c73-a1a9-7c475c18c450
+  definition: escala temporal según la Oficina Internacional de Pesos y Medidas (Bureau
+    International des Poids et Mesures) y el Servicio Internacional de Rotación de
+    la Tierra, IERS (International Earth Rotation Service), que constituye la base
+    de una difusión coordinada de las frecuencias estándar y señales horarias
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: f5699577-45b5-514c-935b-a40aa1114d29
+status: valid

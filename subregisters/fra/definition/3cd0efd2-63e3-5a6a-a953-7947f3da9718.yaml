@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: '2.6'
+    ref: VIM:1993
+  concept: 7b23afbd-42a9-5484-8150-cbf5465a6056
+  definition: quantité particulière soumise à une mesure
+  examples: []
+  notes: []
+dateAccepted: 2006-12-01 00:00:00+00:00
+id: 3cd0efd2-63e3-5a6a-a953-7947f3da9718
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 7e79ff25-ee02-5034-8437-2736fa15d58c
+  definition: علاقة تصنيفية بين عنصر أكثر عمومية وعنصر أكثر تحديداً تنسجم انسجاماً
+    تاماً مع العنصر الأكثر عمومية وتحتوي على معلومات إضافية
+  examples: []
+  notes:
+  - يمكن استخدام مثال للعنصر الأكثر تحديدا في المواضع التي يسمح فيها بالعنصر الأكثر
+    عمومية. أنظر "إرث".
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 5e6c21c9-5431-593e-8764-3d8cdcc5da84
+status: superseded

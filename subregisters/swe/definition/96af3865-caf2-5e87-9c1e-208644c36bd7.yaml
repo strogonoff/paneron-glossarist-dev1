@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.99
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 767f0565-3a55-5813-8fbc-537ea051b3c6
+  definition: objekt (i UML) för representation av topologisk egenskap
+  examples: []
+  notes:
+  - A topological object is a topological primitive, a collection of topological primitives,
+    or a topological complex.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 96af3865-caf2-5e87-9c1e-208644c36bd7
+status: valid

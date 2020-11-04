@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3d3cffaf-2f01-561e-84af-f9c637e7f0f8
+  definition: 通常，計算幾何において実行される位相オブジェクトの演算の支援，拡張又は定義を行う位相的な概念，構造及び代数。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 6c4923a6-57ee-5871-857b-d98af8c3bfc8
+status: retired

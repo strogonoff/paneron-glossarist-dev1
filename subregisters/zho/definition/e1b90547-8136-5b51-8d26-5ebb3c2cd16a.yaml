@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 295b96c2-7d12-5f30-ab71-0887e87646a0
+  definition: 相关抽象测试用例的集合。
+  examples: []
+  notes:
+  - 抽象测试模块可以层次镶嵌。
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: e1b90547-8136-5b51-8d26-5ebb3c2cd16a
+status: valid

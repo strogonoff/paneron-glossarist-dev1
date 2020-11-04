@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: aa709872-1a2e-575c-a44c-04a40a2c22da
+  definition: координатная система отсчета, получаемая из двумерной геодезической
+    системы отсчета применением картографической проекции
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 0b6de3d9-11b3-54c8-b4fd-3d41419832e4
+status: superseded

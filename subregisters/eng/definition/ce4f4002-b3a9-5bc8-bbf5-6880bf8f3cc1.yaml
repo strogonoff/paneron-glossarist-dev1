@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/36760.html
+    ref: ISO 19131:2007
+  concept: 9061e5bf-63fa-54ce-9443-37e71118aa6b
+  definition: dataset or dataset series that conforms to a data product specification
+  examples: []
+  notes: []
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: ce4f4002-b3a9-5bc8-bbf5-6880bf8f3cc1
+status: valid

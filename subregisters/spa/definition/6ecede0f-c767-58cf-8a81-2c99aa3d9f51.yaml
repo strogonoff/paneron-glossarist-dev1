@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '3.5'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  concept: 1efa7f88-3879-5e29-ba46-977d6d0bd9da
+  definition: construcción física o área física a la que se puede acceder y usar
+  examples:
+  - Ascensores, áreas de restaurantes, salas de espera, asientos, sanitarios tiendas.
+  notes:
+  - Dichas instalaciones pueden estar disponibles a bordo de los medios de transporte
+    durante el transporte, en las llegadas y en las salidas de un nodo de conexión,
+    y en los nodos de transbordo.
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: 6ecede0f-c767-58cf-8a81-2c99aa3d9f51
+status: valid

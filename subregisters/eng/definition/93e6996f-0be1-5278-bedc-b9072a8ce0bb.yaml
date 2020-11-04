@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: fea02f9f-02e3-53ef-ab40-bdfcffbcc486
+  definition: implementation which satisfies the requirements
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 93e6996f-0be1-5278-bedc-b9072a8ce0bb
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.5
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: d887d941-069c-5c10-ae96-01c8553c329f
+  definition: resource that performs conversion
+  examples: []
+  notes:
+  - The resource can be a device or software.
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: f6f081e3-721d-5dfe-92d9-757263f52a3e
+status: valid

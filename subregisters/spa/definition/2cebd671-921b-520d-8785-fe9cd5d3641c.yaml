@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.24
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: f69511dd-249b-55e6-b078-bfca023690b9
+  definition: proceso de determinación de las incertidumbes de las cantidades derivadas
+    a partir del conocimiento de las incertidumbres de las cantidades de las que depende
+    la cantidad derivada
+  examples: []
+  notes:
+  - La propagación de errores está gobernada por la función matemática que relaciona
+    la cantidad derivada con las cantidades de las cuales ha sido derivada.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 2cebd671-921b-520d-8785-fe9cd5d3641c
+status: valid

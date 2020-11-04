@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 58714ced-239c-5a5a-8211-77878d6dab60
+  definition: fracaso al intentar satisfacer uno o más de los requisitos especificados
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: ef698241-2bd7-5b4f-9e23-1b2729babc00
+status: valid

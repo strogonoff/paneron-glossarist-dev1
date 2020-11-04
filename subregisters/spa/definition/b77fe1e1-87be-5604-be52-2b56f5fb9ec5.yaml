@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UNFAO LCCS 2:2005
+  concept: 01bb6daf-187e-5fe0-b8ef-76ad954ed3b8
+  definition: cubierta (bio)física observada sobre la superficie de la Tierra
+  examples: []
+  notes:
+  - cubierta terrestre es diferente de uso del suelo
+dateAccepted: 2012-07-01 00:00:00+00:00
+id: b77fe1e1-87be-5604-be52-2b56f5fb9ec5
+status: valid

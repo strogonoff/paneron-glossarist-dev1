@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 838acc70-10c8-58b5-af88-383cebeee0fc
+  definition: تسلسل ليس له بداية منطقية ولهذا يعتبر مماثلا لأي تحول دائري يتم تلقائيا
+    ؛ لذا فإن الجزء الأخير في التسلسل يعتبر متقدماً على الجزء الأول فيه
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b7bf612e-ed72-5633-8d4b-119f8104e2d4
+status: retired

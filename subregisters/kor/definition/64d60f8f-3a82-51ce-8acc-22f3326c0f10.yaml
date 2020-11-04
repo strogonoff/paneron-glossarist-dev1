@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 3.8.1
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 0e6ed565-f0ef-5dee-9531-6605950e54ba
+  definition: 개념 또는 지정된 바와 관계된 자료
+  examples: []
+  notes:
+  - The more common terminological data include entry term, definition, note, grammatical
+    label, subject label, language identifier, country identifier and source identifier.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 64d60f8f-3a82-51ce-8acc-22f3326c0f10
+status: valid

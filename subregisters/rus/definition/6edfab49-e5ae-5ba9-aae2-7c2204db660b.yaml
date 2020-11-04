@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.28'
+    link: https://www.iso.org/standard/60080.html
+    ref: ISO/TS 19159-1:2014
+  concept: afe40133-cc5c-5f0a-8ea1-627a6043b118
+  definition: Эталон измерения, предназначенный для калибровки других эталонов величин
+    данного вида в данной организации или в определенном месте
+  examples: []
+  notes: []
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 6edfab49-e5ae-5ba9-aae2-7c2204db660b
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.21
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 53c463c3-610c-52cf-a227-6c77832eade3
+  definition: instancia única de un sistema de medición remoto y móvil que pasa por
+    un objetivo de interés
+  examples: []
+  notes:
+  - En esta parte de la Norma ISO 19115, los sistemas de medida serán normalmente
+    una plataforma de teledetección. En un contexto de navegación el sistema de medida
+    puede ser un satélite GPS
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: e027a6f1-61b0-5d4b-9b1e-069a7eea804e
+status: valid

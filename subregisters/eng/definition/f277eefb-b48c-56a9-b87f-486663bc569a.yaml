@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: OWL
+  concept: 57eafbcf-d498-5e5a-ac71-c92087515395
+  definition: semantic association between an individual and a typed literal
+  examples: []
+  notes:
+  - Data properties were sometimes referred to as ‘concrete properties’ in Description
+    Logic.
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: f277eefb-b48c-56a9-b87f-486663bc569a
+status: valid

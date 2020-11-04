@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.6
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 92eee17a-9534-5597-80d5-c6848471a6ac
+  definition: descripción formal de un modelo conceptual
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: c2673113-27cb-52d5-9297-9c210852c6c4
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.53
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 2804d955-5b4b-5723-a90e-789db930b33b
+  definition: Ebene innerhalb eine Kamera, auf der der Bildsensor sitzt
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 75bd806c-3b0c-5bef-9778-d9ae3f3868f8
+status: valid

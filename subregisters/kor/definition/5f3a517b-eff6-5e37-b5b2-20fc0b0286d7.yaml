@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.10
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 69af39dc-62b1-5ef8-a70c-b2090a8ff59b
+  definition: 객체 실행을 호출할 수 있는 변환 및 질의에 대한 사양
+  examples: []
+  notes:
+  - 연산은 이름과 매개 변수 목록을 갖는다.
+  - 연산에 대한 논의는 KS X ISO 19119의 7.2절을 참조하라.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 5f3a517b-eff6-5e37-b5b2-20fc0b0286d7
+status: valid

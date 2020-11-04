@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.20'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 4531647a-c252-5ca2-b4bd-7f14b5d77951
+  definition: 論議領域の記述，及び論議領域をデータ集合へ写像するための仕様。
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 0a406b6f-442f-527a-bb15-6878b49330fb
+status: retired

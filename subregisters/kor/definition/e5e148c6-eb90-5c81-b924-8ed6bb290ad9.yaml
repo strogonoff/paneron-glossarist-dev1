@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.40
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 1fddcdac-11cd-57fd-bce5-5903d7332874
+  definition: 타원 체좌표계를 평면으로 좌표 전환
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: e5e148c6-eb90-5c81-b924-8ed6bb290ad9
+status: valid

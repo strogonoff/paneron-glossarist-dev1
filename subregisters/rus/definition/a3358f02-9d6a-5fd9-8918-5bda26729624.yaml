@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  concept: 7b9c7c51-7ef3-542f-b217-0df86b44159c
+  definition: идентифицируемая  часть любого пространства
+  examples: []
+  notes: []
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: a3358f02-9d6a-5fd9-8918-5bda26729624
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.10
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 8f2467b3-9571-5d01-8d37-df77a0d9f9ee
+  definition: 共有された境界曲面に沿って互いに隣接する立体の連結した集合。
+  examples: []
+  notes:
+  - 合成立体は，直接位置の集合として，立体すべての性質をもつ。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 040b2031-c38a-5812-af0c-31d1c9d4f6ec
+status: valid

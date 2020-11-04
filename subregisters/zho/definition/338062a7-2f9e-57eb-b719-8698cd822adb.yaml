@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.15
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: a730d9c7-aa91-5acc-8e63-86938a7212a6
+  definition: 经注册表所有者授权的提请修改注册表内容的机构。
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 338062a7-2f9e-57eb-b719-8698cd822adb
+status: valid

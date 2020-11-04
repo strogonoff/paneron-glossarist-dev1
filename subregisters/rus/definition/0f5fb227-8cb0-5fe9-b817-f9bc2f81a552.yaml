@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: a730d9c7-aa91-5acc-8e63-86938a7212a6
+  definition: организация, уполномоченная владельцем реестра предлагать изменения
+    в его содержание
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 0f5fb227-8cb0-5fe9-b817-f9bc2f81a552
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 3efd65f1-ee28-5305-9470-c526ba241392
+  definition: отбор множества [геометрических] объектов из области определения покрытия
+    на основе атрибутивных значений связанных с ними пространственных объектов
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 0358c646-26f4-5cfc-a5c5-77aabd2462d5
+status: valid

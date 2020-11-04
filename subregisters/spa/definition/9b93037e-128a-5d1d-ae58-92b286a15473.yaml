@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: c1608e01-b241-5f86-bb03-b5eb22379bec
+  definition: punto en el espacio objeto (terreno) que se utiliza para estimar la
+    exactitud posicional de un conjunto de datos geoespaciales comparándolo con una
+    fuente independiente de mayor exactitud
+  examples: []
+  notes: []
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: 9b93037e-128a-5d1d-ae58-92b286a15473
+status: valid

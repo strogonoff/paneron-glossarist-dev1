@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: 45fd36e2-71f5-5c9a-b9f2-aa3a13cf6164
+  definition: концептуальная схема, описывающая метаданные
+  examples: []
+  notes:
+  - ISO 19115 является международным стандартом, определяющим схему метаданных
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 8a12d4a8-f0fd-5ccb-b872-7edff7c32387
+status: изъятый

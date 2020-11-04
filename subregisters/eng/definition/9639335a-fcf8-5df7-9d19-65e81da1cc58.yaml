@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.22'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 54e48fef-66f2-5fc6-b54d-467cc9537148
+  definition: prevention of an act of a principal consistent with rights granted to
+    that principal on a resource
+  examples: []
+  notes:
+  - Infringement of a right is a fault in the DRM system. If rights can be infringed
+    without bypassing the DRM system, then the system is not properly restricted to
+    that which is necessary.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 9639335a-fcf8-5df7-9d19-65e81da1cc58
+status: valid

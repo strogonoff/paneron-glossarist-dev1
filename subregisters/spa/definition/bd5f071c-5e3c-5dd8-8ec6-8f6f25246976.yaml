@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.10
+    link: https://www.iso.org/standard/33636.html
+    ref: ISO 5127:2001
+  concept: 055f47e7-1bf7-5697-845f-a16e5769645c
+  definition: organización o individuo que ha creado, acumulado, mantenido y utilizado
+    registros
+  examples: []
+  notes: []
+dateAccepted: 2014-04-01 00:00:00+00:00
+id: bd5f071c-5e3c-5dd8-8ec6-8f6f25246976
+status: valid

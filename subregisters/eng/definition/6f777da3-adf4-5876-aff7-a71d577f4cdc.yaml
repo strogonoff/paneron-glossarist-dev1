@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 90fd29a6-f0a0-532b-956b-c648d759337c
+  definition: finite, unordered collection of related items (objects or values) that
+    may be repeated
+  examples: []
+  notes:
+  - Logically, a bag is a set of pairs <item, count>.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 6f777da3-adf4-5876-aff7-a71d577f4cdc
+status: retired

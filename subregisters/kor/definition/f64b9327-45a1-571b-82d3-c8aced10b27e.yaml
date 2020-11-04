@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 03b8e055-909e-57d7-99ed-44c66286b539
+  definition: 선형 요소를 따라(그리고 선택적으로 상쇄된) 측정된 방법
+  examples: []
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: f64b9327-45a1-571b-82d3-c8aced10b27e
+status: valid

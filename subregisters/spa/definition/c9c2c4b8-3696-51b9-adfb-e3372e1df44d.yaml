@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: 951a821d-3b16-56f8-83c8-01f7a007f85e
+  definition: ajuste de un sistema de sensor lídar, equipado con una Unidad de Medida
+    Inercial (IMU) y un Sistema Global de Navegación por Satélite (GNSS), para determinar
+    o establecer con exactitud su posición y orientación
+  examples: []
+  notes:
+  - La posición del sistema de sensor lídar (x, y, z) se determina con respecto a
+    la antena GNSS. La orientación (alabeo, cabeceo, guiñada) del sistema de sensor
+    lidar se determina con respecto al vuelo recto y nivelado.
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: c9c2c4b8-3696-51b9-adfb-e3372e1df44d
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: b0302a1a-5bab-51fa-9bfb-a5dd692e8496
+  definition: 'sekvens av sträckor (länkar) som beskriver en
+
+    väg mellan två punkter (noder)'
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: b411702b-3e24-53cc-905e-9523cbbba0c1
+status: valid

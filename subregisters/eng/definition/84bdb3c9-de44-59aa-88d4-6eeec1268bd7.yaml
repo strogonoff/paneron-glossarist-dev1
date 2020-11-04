@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.45
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: bd657a2a-bc11-5f5c-bc92-ed8476959f9e
+  definition: coordinate reference system based on a parametric datum
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 84bdb3c9-de44-59aa-88d4-6eeec1268bd7
+status: valid

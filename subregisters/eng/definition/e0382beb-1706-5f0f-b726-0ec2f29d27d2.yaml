@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.15
+    link: https://www.iso.org/standard/74032.html
+    ref: ISO/TS 19159-3:2018
+  concept: 6aaa5e15-e57d-5ee7-a178-40b76ddb0061
+  definition: ratio between the side lobe power and the main lobe power of the impulse
+    response of point targets in the radar imaging scene
+  examples: []
+  notes:
+  - The integrated side lobe ratio (ISLR) can be obtained by integrating the power
+    of the impulse response over suitable regions. The ISLRis expressed as  `ISLR
+    = 10log_(10) {(P_(text(total))-P_(text(main)))/(P_(text(main)))}` where  `P_(text(total))`
+    is the total power, `P_(text(main))` is the main lobe power.
+  - The main lobe width can be taken as α times the impulse response width (IRW),
+    centred around the peak, where α is a predefined constant, usually between 2 and
+    2,5.
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: e0382beb-1706-5f0f-b726-0ec2f29d27d2
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39242.html
+    ref: ISO 6709:2008
+  concept: 03f169c4-2867-5b34-b036-a6af58a9a63a
+  definition: Höhe, bei der die gewählte Bezugsfläche das Normalnull ist
+  examples: []
+  notes: []
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: e004075d-2e9d-5100-84cb-2140a8e3e986
+status: valid

@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: '4.25'
+    link: https://www.iso.org/standard/32572.html
+    ref: ISO 19154:2014
+  concept: 00bdf6c8-a954-50c9-8e6e-064103de0bf2
+  definition: servicio que posibilita que los usuarios finales tengan acceso fácil
+    e interoperable a tipos específicos de datos, independientemente de su localización  o
+    dispositivo de acceso, y que satisfacen sus criterios de interés
+  examples:
+  - Servicio de Datos Geográficos Enlazados
+  notes:
+  - En el ejemplo, el Servicio de Datos Geográficos Enlazados es responsable de interconectar
+    información geográfica de manera abierta con repositorios externos o recursos
+    web, utilizando una transformación al Formato de Descripción de Recursos  (RDF)
+    o al Lenguaje Web de Ontologías (OWL).
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: a4dba00c-5a63-51d4-ab8e-1139e8f25261
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UNFAO LCCS 2:2005
+  concept: 01bb6daf-187e-5fe0-b8ef-76ad954ed3b8
+  definition: наблюдаемый (био)физический покров на поверхности Земли
+  examples: []
+  notes:
+  - земельный покров отличается от землепользования
+dateAccepted: 2012-07-01 00:00:00+00:00
+id: 3f335821-b3b6-5785-b430-74ff963d421d
+status: valid

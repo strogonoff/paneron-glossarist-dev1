@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 772db77f-e23a-59cf-a32a-a83f971bea15
+  definition: 속성값 또는 다른 지형지물의 지형지물을 따라 발생하는 사건
+  examples: []
+  notes:
+  - The event location is specified using linearly referenced locations.
+  - A linearly located event may be qualified by the instant in which, or period during
+    which, the linearly located event occurred.
+  - ISO 19108 limits events to a single instant in time and does not include the specification
+    of a location.
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: e9d82531-934d-5254-a068-d0cb0e00042f
+status: valid

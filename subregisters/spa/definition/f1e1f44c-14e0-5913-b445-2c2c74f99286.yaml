@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/61710.html
+    ref: ISO 19160-1:2015
+  concept: 7a585920-2601-5c10-bef8-3aa1b3614ea0
+  definition: objeto direccionable que contiene completamente a uno o más objetos
+    direccionables
+  examples:
+  - Un edificio de apartamentos con muchos apartamentos dentro.
+  - En Japón, un gaiku (manzana) con muchos jukyo bango (números de residencia).
+  - Un complejo de muchos edificios. En Corea, un grupo de edificios con muchas dong
+    (alas o secciones de un edificio).
+  notes: []
+dateAccepted: 2015-12-15 00:00:00+00:00
+id: f1e1f44c-14e0-5913-b445-2c2c74f99286
+status: valid

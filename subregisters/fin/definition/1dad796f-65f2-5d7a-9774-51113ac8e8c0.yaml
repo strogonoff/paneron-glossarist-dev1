@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: b2444a77-0558-50ec-9741-ac764f6c0423
+  definition: assosiaation erityinen laji, joka määrittää kokonaisuuden (aggregaatin)
+    ja sen osan välisen suhteen
+  examples: []
+  notes:
+  - Katso vahva/aito kooste (composition).
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 1dad796f-65f2-5d7a-9774-51113ac8e8c0
+status: valid

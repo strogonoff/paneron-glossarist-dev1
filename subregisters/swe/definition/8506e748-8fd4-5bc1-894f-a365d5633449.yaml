@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.14
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 0af79ebf-6489-5f51-bccf-a55cb9a2c604
+  definition: förekomst av en viss objekttyp vars attribut har tilldelats värden
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: 8506e748-8fd4-5bc1-894f-a365d5633449
+status: valid

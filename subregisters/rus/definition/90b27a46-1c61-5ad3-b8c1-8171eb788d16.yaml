@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 987db750-08f7-5e09-9716-dab50180014c
+  definition: пространственная единица на пороге между 2D и 3D представлениями
+  examples: []
+  notes: []
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 90b27a46-1c61-5ad3-b8c1-8171eb788d16
+status: valid

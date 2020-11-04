@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.35
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: beb13e7f-d3b0-5c35-ad7d-530e4d6259e0
+  definition: XML-документ, содержащий в качестве корневого один из элементов AbstractFeature,
+    Dictionary или TopoComplex, определенные в схеме GML, либо любой элемент из групп
+    замещения вышеперечисленных элементов
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: c117a413-ceab-59ca-8db7-33919d398091
+status: valid

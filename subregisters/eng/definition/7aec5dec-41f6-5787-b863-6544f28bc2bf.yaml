@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.7
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: a018914f-5aff-5c24-a0fa-a9520a3ce9ae
+  definition: resolution in the cross-range direction
+  examples: []
+  notes:
+  - This is usually measured in terms of the impulse response of the SAR sensor and
+    processing system. It is a function of the size of the synthetic aperture, or
+    alternatively the dwell time (i.e. a larger aperture results in a longer dwell
+    time results in better resolution).
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 7aec5dec-41f6-5787-b863-6544f28bc2bf
+status: valid

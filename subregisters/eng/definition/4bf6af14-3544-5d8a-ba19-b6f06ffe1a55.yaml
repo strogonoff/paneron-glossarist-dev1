@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.70'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 80610bba-4689-5361-a49e-c80d2f59e3c9
+  definition: type of SONAR that produces one narrow SONAR beam directly beneath the
+    transducer/receiver and receives a return echo from the closest object
+  examples: []
+  notes:
+  - 'Single beam sonar is commonly called a single beam echosounder (abbr: SBES).'
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 4bf6af14-3544-5d8a-ba19-b6f06ffe1a55
+status: valid

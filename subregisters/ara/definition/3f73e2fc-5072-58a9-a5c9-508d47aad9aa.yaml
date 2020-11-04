@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: Fourth Edition, Oxford University Press
+    ref: Dictionary of Computing
+  concept: 8af9a500-87e1-5fe5-9ae2-cf361b61b9eb
+  definition: مجموعة هندسية يكون كل موقع مباشر على المقطع المستقيم الذي يصل بين أي
+    موقعين مباشرين فيها مشمولا هو الآخر في المجموعة
+  examples: []
+  notes:
+  - المجموعات المحدَّبة "متصلة اتصالا بسيطاً" بمعنى أنها لا تحتوى على ثقوب داخلية,
+    ويمكن أن تعتبر بشكل عادي مماثلة طوبولوجيا لكرة من كرات إقليدس لها أبعاد تتناسب
+    معها. لذا يمكننا اعتبار السطح الكروي محدَّباً جيوديسيا.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3f73e2fc-5072-58a9-a5c9-508d47aad9aa
+status: valid

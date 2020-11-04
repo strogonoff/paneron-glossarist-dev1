@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: bded3e8d-1466-5077-8b27-0edda66f0fed
+  definition: relation entre deux éléments du modèle, dans laquelle un changement
+    d'un élément du modèle (l'élément indépendant) affectera l'autre élément du modèle
+    (l'élément dépendant)
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 2aa338cf-6be9-57c8-80cf-48ea584889ae
+status: superseded

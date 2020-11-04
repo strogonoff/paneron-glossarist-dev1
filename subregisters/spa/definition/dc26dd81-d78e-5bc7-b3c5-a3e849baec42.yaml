@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 9cf33fc2-b129-5a1a-85bc-3bd1a2f6af3b
+  definition: obligación formal o no formalizada de hacer algo
+  examples:
+  - La responsabilidad de limpiar una acequia, de mantener la acera sin nieve o de
+    eliminar los carámbanos de los tejados durante el invierno, o de mantener un monumento
+  notes: []
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: dc26dd81-d78e-5bc7-b3c5-a3e849baec42
+status: valid

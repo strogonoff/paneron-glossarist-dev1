@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.24
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: f516e970-7157-527f-97f1-062cee4d864a
+  definition: 단일 평면으로 비추어지는 복사, 특히 빛과 진동을 제한하는 것
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 09ec275e-f881-55a6-8e4d-5510f082c4dd
+status: valid

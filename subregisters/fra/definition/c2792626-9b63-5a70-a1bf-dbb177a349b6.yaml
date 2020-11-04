@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 16ee326a-ae17-5463-84d7-4e32098ee7fa
+  definition: capacité pour toute instance de classe qui descend par héritage ou réalisation
+    d'une autre classe, type ou interface à être utilisée au lieu d'une instance de
+    son ancêtre dans n'importe quel contexte
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c2792626-9b63-5a70-a1bf-dbb177a349b6
+status: retired

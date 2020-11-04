@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  concept: 022f0802-382f-5be0-89b7-5436b3c184ce
+  definition: structure abstraite se composant d'un ensemble d'objets de dimension
+    nulle appelés jonctions et d'un ensemble d'objets de dimension 1 appelés liens
+    connectant les jonctions, chaque lien étant associé à une jonction de début (origine,
+    source) et une jonction finale (destination, puits)
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: fced26e6-07e4-5d89-b06d-ce91ae445575
+status: valid

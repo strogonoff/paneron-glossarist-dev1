@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.14
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 8d02598d-e394-5b96-8983-bcc3fe3655c5
+  definition: Koordinatenreferenzsystem, bei dem eine Position relativ zu Schnittpunkten
+    von Kurven definiert ist
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: adbc63b4-20a1-5e47-8815-128477592b4e
+status: valid

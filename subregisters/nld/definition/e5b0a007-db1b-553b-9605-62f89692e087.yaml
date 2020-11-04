@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.43
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: fd5323bb-2f2d-55aa-8bc7-d27f9a6b6e7c
+  definition: afstand in een coördinaatsysteem, noordwaarts (positief) of zuidwaarts
+    (negatief) gerekend vanaf een oost-west georiënteerde referentielijn
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: e5b0a007-db1b-553b-9605-62f89692e087
+status: valid

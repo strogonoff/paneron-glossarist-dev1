@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 1824ee60-6aeb-5360-9870-763f6a76ed60
+  definition: posición en una red sobre un enlace definida por alguna medida estrictamente
+    monótona asociada a este enlace
+  examples: []
+  notes:
+  - La posición de un enlace está frecuentemente asociada a un objeto geográfico destino
+    que no es parte de la red. Las medidas de enlace más común¬mente usadas para esto
+    son la distancia desde el nodo de inicio o dirección. El uso más común de la posición
+    del enlace es geolocalizar una "dirección".
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: bb8533b1-6a5f-5fa7-9929-bb007a6521b2
+status: valid

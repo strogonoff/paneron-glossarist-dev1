@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: d2082911-3804-540f-bc6c-2493adf808e2
+  definition: relación entre dos conceptos en la cual uno de los conceptos constituye
+    el todo y el otro una parte de ese todo
+  examples: []
+  notes:
+  - Existe una relación partitiva entre los conceptos "semana" y "día", "molécula"
+    y "átomo".
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 983542f6-e9c6-5ed7-a0e2-146985514699
+status: retired

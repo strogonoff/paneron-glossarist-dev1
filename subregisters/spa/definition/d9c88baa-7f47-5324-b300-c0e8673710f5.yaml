@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.29'
+    link: https://www.iso.org/standard/63541.html
+    ref: ISO 19104:2016
+  concept: db538a70-676d-5901-af32-9efced815e92
+  definition: idioma que no es el idioma de referencia
+  examples: []
+  notes:
+  - Las entradas terminológicas presentadas en un idioma de entrega están traducidas
+    de sus equivalentes entradas terminológicas en el idioma de referencia.
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: d9c88baa-7f47-5324-b300-c0e8673710f5
+status: valid

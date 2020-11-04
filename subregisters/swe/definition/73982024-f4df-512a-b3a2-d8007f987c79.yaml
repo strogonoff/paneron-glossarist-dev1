@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.14
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 8894b795-1954-51b3-aeed-1b21111bf2bf
+  definition: lägesbestämningssystem som förenar och hanterar data som kommer från
+    olika håll eller som förenar olika tekniker
+  examples: []
+  notes:
+  - The measurements produced by each positioning technology in an integrated system
+    may be any of position, motion, or attitude.  There may be redundant measurements.  When
+    combined, a unified position, motion, or attitude is determined.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 73982024-f4df-512a-b3a2-d8007f987c79
+status: valid

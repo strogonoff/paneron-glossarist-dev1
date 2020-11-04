@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/40395.html
+    ref: ISO 19117:2005
+  concept: 59f562d4-b633-5f40-a9a4-f30be67b2c2d
+  definition: collection de règles de présentation qui s'appliquent à une instance
+    d'entité
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: f0b1a036-583b-5534-aba3-56f5de73da0d
+status: retired

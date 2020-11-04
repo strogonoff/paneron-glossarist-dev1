@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 90fd29a6-f0a0-532b-956b-c648d759337c
+  definition: конечная неупорядоченная совокупность элементов (объектов или значений),
+    в которой  допускается их повторение
+  examples: []
+  notes:
+  - Логически, мультимножество – это набор пар < item, count >.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c1e11edf-cf84-5dc5-ac75-9ab7a1b05ac8
+status: retired

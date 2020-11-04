@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 3855eb3a-2864-5cd2-8bb3-5be518475ef9
+  definition: <pokrycie>Dziedzina złożona z obiektów czasoprzestrzennych
+  examples: []
+  notes:
+  - Dziedzina czasoprzestrzenna pokrycia ciągłego jest zbiorem bezpośrednich położeń
+    zdefiniowanych w relacji do kolekcji obiektów czasoprzestrzennych.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 9a66bc59-d5f1-531c-ade7-11c21ff58408
+status: valid

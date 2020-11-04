@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/30726.html
+    ref: ISO/IEC TR 10000-1:1998
+  concept: c663e0d1-8462-5759-9264-e874de9c2e91
+  definition: set of one or more base standards or subsets of base standards, and,
+    where applicable, the identification of chosen clauses, classes, options and parameters
+    of those base standards, that are necessary for accomplishing a particular function
+  examples: []
+  notes:
+  - A profile is derived from base standards so that by definition, conformance to
+    a profile is conformance to the base standards from which it is derived.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 1994b75f-289e-5124-b6f5-e43749f177ae
+status: valid

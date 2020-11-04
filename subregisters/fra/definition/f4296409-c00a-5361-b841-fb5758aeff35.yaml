@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: b15ab49a-febc-5cf0-884b-2225640b06a1
+  definition: unité élémentaire de métadonnée
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: f4296409-c00a-5361-b841-fb5758aeff35
+status: valid

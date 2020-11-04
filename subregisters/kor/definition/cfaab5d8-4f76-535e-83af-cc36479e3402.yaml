@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.15
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: a730d9c7-aa91-5acc-8e63-86938a7212a6
+  definition: 등록물 소유자로부터 등록물의 내용에 대한 변경을 제안하도록 위임 받은 기구
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: cfaab5d8-4f76-535e-83af-cc36479e3402
+status: valid

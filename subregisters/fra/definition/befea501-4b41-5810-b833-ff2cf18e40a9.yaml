@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.41
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 24ba2521-05d1-55ce-a95e-f5e042adbd16
+  definition: valeur décrite en utilisant une valeur numérique avec une échelle ou
+    en utilisant un système de référence scalaire
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: befea501-4b41-5810-b833-ff2cf18e40a9
+status: valid

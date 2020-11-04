@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 1.7.2, modified
+    link: https://www.iso.org/standard/57284.html
+    ref: ISO 14721:2012
+  concept: c71ce0e9-4c5f-52fb-9882-94e6fc632051
+  definition: marco para la comprensión de las relaciones significativas entre entidades
+    de un entorno y para el desarrollo de normas o especificaciones consistentes que
+    respalden ese entornos
+  examples: []
+  notes:
+  - Un modelo de referencia se basa en un número pequeño de conceptos unificados y
+    se puede usar como base para la formación y explicación de las normas a personas
+    no especialistas
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: 1793ed1a-69de-545a-9f7c-f831b24767cc
+status: valid

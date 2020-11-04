@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: e318421f-f2b1-5f57-8893-0422ff872876
+  definition: أي مسلك يكون مستوفيا لجميع القيود المشمولة في طلب تحديد مسلك أو مسار
+    مع احتمال استثناء أفضلية دالة التكلفة
+  examples: []
+  notes:
+  - الملاحة هي عملية إيجاد المسار المرشح الذي يعطي أفضل النتائج بناء على دالة تكلفة
+    مختارة
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: edf18b1d-3dc9-54b8-876d-f62f9e637250
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 29639377-cf86-5299-b8bb-c8511dbdf270
+  definition: prosta krzywa, która jest cyklem
+  examples: []
+  notes:
+  - Pierścienie są stosowane do opisu składowych granic powierzchni w 2- wymiarowych
+    i 3-wymiarowych układach współrzędnych.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3ecf1c5b-7607-5bbe-b943-600c9274df9b
+status: valid

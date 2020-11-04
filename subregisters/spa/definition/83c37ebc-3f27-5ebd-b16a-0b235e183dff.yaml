@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 4.1.6
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 50fb988a-876d-5366-9ea0-10115b2d3d9d
+  definition: componente de una edificación (el espacio legal, registrado o informal
+    de la entidad física)
+  examples:
+  - Un apartamento, un tramo de escaleras, un portal, un garaje, una plaza de aparcamiento
+    o la lavandería
+  notes:
+  - Una edificación se puede usar para diferentes propósitos (por ejemplo, como vivienda
+    o comercio) o puede estar en construcción
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 83c37ebc-3f27-5ebd-b16a-0b235e183dff
+status: valid

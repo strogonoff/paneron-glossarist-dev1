@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 12321a17-f542-5f1f-a338-bd1f970a0864
+  definition: Синтаксическое описание географического местоположения  точки в хорошо
+    известном формате
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 5791f10a-4beb-5fa9-b3f5-1178f7d6539a
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.23
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 90ce3360-3ffb-596c-b80c-ecd98e8ddf8e
+  definition: конструкция, которая поддерживает датчик или датчики
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 213f1fd2-f076-5951-b5b0-bd07175edd75
+status: valid

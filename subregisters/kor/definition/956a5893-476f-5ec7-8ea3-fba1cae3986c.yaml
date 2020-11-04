@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.42'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 72560f9e-815c-519f-bd5d-8d1bf72b80b9
+  definition: 일반적으로 ARP로 측정되는 플랫폼 하부 방향에서 경사 범위 방향으로의 수직각
+  examples: []
+  notes:
+  - It is approximately the complement of the depression angle.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 956a5893-476f-5ec7-8ea3-fba1cae3986c
+status: valid

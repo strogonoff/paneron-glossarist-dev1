@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '3.3'
+    link: https://www.iso.org/standard/28928.html
+    ref: ISO/TR 19120:2001
+  concept: c8b3c183-1cbd-55cf-816f-32a772ae17ef
+  definition: 프로파일 구성에 사용 가능한 기저 표준의 사전정의된 요소 집합
+  examples: []
+  notes: []
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: ca78c041-6973-5659-9a82-ed15874587bc
+status: valid

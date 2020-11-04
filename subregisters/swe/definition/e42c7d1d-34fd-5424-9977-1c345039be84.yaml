@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 4.1.10
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 69af39dc-62b1-5ef8-a70c-b2090a8ff59b
+  definition: specification of a transformation or query that an object may be called
+    to execute
+  examples: []
+  notes:
+  - An operation has a name and a list of parameters.
+  - See 7.2 [of ISO 19119] for a discussion of operation
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: e42c7d1d-34fd-5424-9977-1c345039be84
+status: valid

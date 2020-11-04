@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/45020.html
+    ref: ISO/TS 19104:2008
+  concept: 74f0ce6f-af0a-51bf-bb3e-1ea25da859a5
+  definition: Уникальный, недвусмысленный и лингвистически нейтральный идентификатор,
+    присвоенный терминологической записи
+  examples: []
+  notes: []
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 87cb994f-5918-5d88-af88-cd8538723827
+status: valid

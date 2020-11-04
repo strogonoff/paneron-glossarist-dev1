@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  concept: c3a5825e-469a-5841-b0af-c277d8c49052
+  definition: condition selon laquelle un lien ou une intersection permet ou limite
+    la traversée de tout le trafic, par opposition à une contrainte de navigation
+    plus précise
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: dd1000c9-126b-597d-bd95-25698c3c8b85
+status: valid

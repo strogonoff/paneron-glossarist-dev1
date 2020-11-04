@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: fa7bdad4-ba97-57c5-a5dc-abdb01c54453
+  definition: заключение по результатам тестирования, сообщающее о несоответствии
+  examples: []
+  notes:
+  - Может быть несоответствие цели тестирования либо, по крайней мере,  одному из
+    требований соответствия определенному стандарту (или стандартам)
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 8d7c88e5-47a4-5ae2-9135-fcba72b6085b
+status: valid

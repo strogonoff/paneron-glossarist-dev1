@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 39f46e42-b479-5376-8e73-18ecb273d9d3
+  definition: 인스턴스간의 연결을 규정하는 두 개 이상 분류자 간의 의미론적 관계
+  examples: []
+  notes:
+  - 이진 연관 관계는 정확하게 두 분류자 간의 연관 관계이다.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 3b1a1473-0ec0-578a-8318-961aff0b83b3
+status: superseded

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: f1991022-bb14-5018-aac7-330c677baa7a
+  definition: 地理上可识别的地方。
+  examples:
+  - “埃菲尔铁塔”、“马德里”、“加利福尼亚”。
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: a1c3d6ec-af82-50b7-a553-8ff3b6822f70
+status: superseded

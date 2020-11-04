@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 8ce91f63-2c22-5ea2-8a3a-e308c1b9c551
+  definition: 位相プリミティブとその向きの一つとの間の論理的な関連を表す位相オブジェクト。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 68fe3349-657d-551c-8b9a-cb22867d42e9
+status: retired

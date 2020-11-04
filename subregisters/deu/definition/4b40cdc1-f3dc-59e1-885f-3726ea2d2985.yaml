@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.21
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 84079d27-6841-5537-afcf-59be952aa897
+  definition: Abstand in einem Koordinatensystem, ostwärts (positiv) oder westwärts
+    (negativ) von einer Nord-Süd-Bezugslinie
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 4b40cdc1-f3dc-59e1-885f-3726ea2d2985
+status: valid

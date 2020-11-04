@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: 39b6840d-b509-53a0-910e-e7300e5d811f
+  definition: 필터 표현을 처리하는 시스템의 요소
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: d7a62bd8-45c0-5822-ac9f-81106054c2c8
+status: valid

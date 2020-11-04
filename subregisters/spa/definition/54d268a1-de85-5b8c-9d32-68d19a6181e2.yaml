@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.21
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: e1da8a45-43f8-5a60-9a5e-bf13be3e1ad6
+  definition: parámetros internos de los sistemas de posicionamiento indicadores del
+    nivel de prestaciones conseguido
+  examples: []
+  notes:
+  - Los indicadores de prestaciones pueden ser utilizados como una prueba de control
+    de calidad de los sistemas de posicionamiento y/o solución de posición. El control
+    interno de calidad puede incluir factores como la potencia de la señal de radio
+    recibida [en relación señal/ruido (SNR)], cifras que indiquen la dilución de precisión
+    (DOP) debida a restricciones geométricas en los sistemas de radiolocalización,
+    y cualquier otro valor significativo digno de mención específico de un determinado
+    sistema (Factor de calidad, FOM).
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 54d268a1-de85-5b8c-9d32-68d19a6181e2
+status: valid

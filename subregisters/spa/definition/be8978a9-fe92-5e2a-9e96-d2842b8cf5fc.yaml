@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.4.19
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 6ed162ef-6c91-5c05-bec0-456267b8bf44
+  definition: relación entre términos que representan un mismo concepto en una lengua
+  examples: []
+  notes:
+  - Existe, por ejemplo, una relación de sinonimia entre deuterio e hidrógeno pesado.
+  - Los términos intercambiables en todos los contextos se denominan sinónimos; si
+    sólo son intercambiables en algunos contextos, cuasi sinónimos.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: be8978a9-fe92-5e2a-9e96-d2842b8cf5fc
+status: valid

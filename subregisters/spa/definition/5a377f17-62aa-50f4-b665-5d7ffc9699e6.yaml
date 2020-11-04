@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.4
+    link: https://www.iso.org/standard/57466.html
+    ref: ISO 19150-2:2015
+  concept: 0134d81d-082c-5b2b-b06d-24598806ed37
+  definition: ontología que representa los conceptos y relaciones en un esquema de
+    aplicación
+  examples: []
+  notes: []
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 5a377f17-62aa-50f4-b665-5d7ffc9699e6
+status: valid

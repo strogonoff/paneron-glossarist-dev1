@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.2.3
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: ba0f9647-d0fa-54e7-a56d-af2b30fed873
+  definition: 공통적 특성을 가졌다는 이유로 그룹을 형성하는 두 개 이상의 개체와 대응하는 개념
+  examples: []
+  notes:
+  - Examples of general concepts are "planet", "tower".
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 34931a77-43c6-5176-b450-17e5ac0fb76a
+status: valid

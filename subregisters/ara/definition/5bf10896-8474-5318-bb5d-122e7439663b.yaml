@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  concept: c3963843-a765-51eb-a5b8-9ad4d8fa99c7
+  definition: مكونات المخطط في حيز الأسماء  بلغة XML وهو http://www.opengis.net/gml/3.2
+    كما هو محدد في  في هذا المقياس الدولي
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 5bf10896-8474-5318-bb5d-122e7439663b
+status: superseded

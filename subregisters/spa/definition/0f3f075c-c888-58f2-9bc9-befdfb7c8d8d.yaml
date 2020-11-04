@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.41'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 84bcdf21-9f4a-5d4f-8dfb-37dc4e311ffe
+  definition: acción o proceso de corregir un fallo o deficiencia
+  examples: []
+  notes:
+  - La corrección permite una mayor confianza porque disminuye el riesgo esperado.
+    La primera acción en una corrección es la detección del fallo.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 0f3f075c-c888-58f2-9bc9-befdfb7c8d8d
+status: valid

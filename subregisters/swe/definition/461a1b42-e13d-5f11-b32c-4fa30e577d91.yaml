@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 838acc70-10c8-58b5-af88-383cebeee0fc
+  definition: sekvens som upprepas från början när den kommit till sista elementet
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 461a1b42-e13d-5f11-b32c-4fa30e577d91
+status: retired

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: b9892b48-1f9d-5993-93fa-2fea76f84c99
+  definition: 동종의 보간법 및 정의 방법을 사용하여 표면의 연속적인 부분을 표현하는데 사용되는 2차원의 연결된 기하 객체
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 1bfed16a-e165-5f7f-91c3-8b705f87cab3
+status: retired

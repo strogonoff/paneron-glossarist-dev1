@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 6b91532d-745c-5b5f-897a-f32dd10c446f
+  definition: spatial object without a boundary
+  examples: []
+  notes:
+  - Cycles are used to describe boundary components (see shell, ring). A cycle has
+    no boundary because it closes on itself, but it is bounded (i.e., it does not
+    have infinite extent).  A circle or a sphere, for example, has no boundary, but
+    is bounded.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5b24ea83-b487-5d3b-b4e9-0ba5fbb826c3
+status: retired

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 4a7b3124-f4e5-540f-a804-0efb4780a046
+  definition: 被报告质量信息的数据的范围或特征。
+  examples: []
+  notes:
+  - 一个数据集的数据质量范围可以由该数据集所属的数据集系列组成，也可以由该数据集本身，或是物理上位于数据集中、拥有共同特性的较小的数据组组成。共同特性可以是相同的要素类型、要素属性或要素关系；可以是相同的数据采集标准；或是一个指定的地理或时间范围。
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 4875fbca-02ec-5842-bbc3-3472836570bd
+status: retired

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0d4997ad-c2bd-5de2-942e-b79af22736ea
+  definition: 좌표의 연속으로 구성된 튜플
+  examples: []
+  notes:
+  - 좌표 튜플의 좌표 개수는 좌표 체계의 차원과 같다. 좌표 튜플의 좌표 순서는 좌표 체계의 축 순서와 같다.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: f242fcc1-ffc4-524b-969f-b745d9af4cf3
+status: superseded

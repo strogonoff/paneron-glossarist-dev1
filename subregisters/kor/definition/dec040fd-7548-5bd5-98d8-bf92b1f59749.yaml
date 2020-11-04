@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: 492dd18e-e8a4-516e-b7df-e5cf08bb54d8
+  definition: 지역 자원 또는 원거리 자원을 참조하는 속성
+  examples: []
+  notes:
+  - In XML, this attribute is commonly called an href and contains a URI reference
+    to the remote resource (see W3C XLink)
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: dec040fd-7548-5bd5-98d8-bf92b1f59749
+status: valid

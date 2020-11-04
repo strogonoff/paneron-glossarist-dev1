@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: 39299cb8-fbe5-5e63-9c0d-ca8695af1a4e
+  definition: 범주, 유형, 개체의 명칭
+  examples:
+  - '"Deciduous needle leaf" is a nominal value that identifies a vegetation type.'
+  notes:
+  - Many feature attributes take nominal rather than numerical values.  The value
+    domain of such an attribute is usually specified as an enumeration or a code list.
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: 19a55025-3adc-562a-92e1-0d5c974bb9ec
+status: valid

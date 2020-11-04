@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: part 5, modified
+    ref: XrML 2.0 specification
+  concept: 6e1ad830-90df-58c3-9797-c858ebb06c0e
+  definition: representación de cesiones que otorgan a unos titulares el derecho de
+    uso de unos recursos específicos bajo unas condiciones concretas
+  examples: []
+  notes:
+  - Una licencia representa, aunque no lo es, un contrato que concede derechos explícitos
+    a un individuo para utilizar la propiedad intelectual.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 36bd8d4b-57d4-5abe-907f-fa63c4ed0ba7
+status: valid

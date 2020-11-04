@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: 964056e6-1059-593e-a045-78c48d27589c
+  definition: estimación del valor de una propiedad determinado a través de un procedimiento
+    de observación conocido
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: f08255ce-5150-5129-b59c-2630604ae601
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 2faca867-1594-5687-9975-54553965b524
+  definition: 선형참조체계를 사용해 파악된 위치
+  examples: []
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 175e52a6-b743-5cc1-9aa1-f2e2a8c32e5b
+status: valid

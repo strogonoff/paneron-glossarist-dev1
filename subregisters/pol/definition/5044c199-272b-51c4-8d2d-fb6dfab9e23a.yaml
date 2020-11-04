@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '2121317'
+    ref: ISO/IEC 2382:2009
+  concept: 08d2a402-56c4-5d3f-ac5a-6360701502c7
+  definition: zdolność do komunikowania, wykonywania programów lub dokonywania transferu
+    danych między różnymi jednostkami funkcjonalnymi w sposób, który w niewielkim
+    stopniu lub w ogóle nie wymaga od użytkownika wiedzy o indywidualnych cechach
+    tych jednostek
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 5044c199-272b-51c4-8d2d-fb6dfab9e23a
+status: valid

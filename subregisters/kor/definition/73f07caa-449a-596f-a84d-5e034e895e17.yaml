@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.16
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 33f7d335-25d2-5eea-a8ad-789eaf5f578b
+  definition: 정보 영역의 한 부분에 대한 항목을 포함하는 계층적 등록물의 일부
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 73f07caa-449a-596f-a84d-5e034e895e17
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 1650a910-a57e-5ed3-af9f-098f9bb59303
+  definition: 부적합 경우와 적합한 경우를 명확하게 식별하기 위해 실시하는 최초의 기능 시험
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 69ca1184-dd1e-53da-bb15-dcd7a87fc9cb
+status: valid

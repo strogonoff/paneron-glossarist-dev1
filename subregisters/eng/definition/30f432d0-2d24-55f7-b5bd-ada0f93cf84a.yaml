@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - ref: Adapted from NISTIR 7117
+  concept: 08c7560f-4170-57b3-b9c9-184ced28e4f1
+  definition: data collected by the receiver as a result of all returns from a single
+    emitted pulse
+  examples: []
+  notes:
+  - A complete 3D data sample of the world produced by a LIDAR taken at a certain
+    time, place, and orientation. A single LIDAR frame is also referred to as a range
+    image.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 30f432d0-2d24-55f7-b5bd-ada0f93cf84a
+status: valid

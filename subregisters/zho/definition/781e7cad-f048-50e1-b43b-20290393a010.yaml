@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.17
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 7979460e-e8e0-52c9-ba9c-a207c18cd2aa
+  definition: 一维几何单形，表达一条线的连续映像。
+  examples: []
+  notes:
+  - 一条曲线的边界是曲线的两端的点的集合。如果曲线是一个圈，两个端点相同，并且这条曲线（如果拓扑上是闭合的）被认为没有边界。这第一个点被称作起点，最后一个点被称作终点，曲线的连通性被“一条线的连续映射”条款所保证。拓扑法则认为一个连续集合的连续映射是连续的。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 781e7cad-f048-50e1-b43b-20290393a010
+status: valid

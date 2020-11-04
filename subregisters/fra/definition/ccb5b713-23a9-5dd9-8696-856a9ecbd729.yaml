@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: 267a5296-2584-553a-9df2-469109d95e5b
+  definition: moyen accomplissant une exigence
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ccb5b713-23a9-5dd9-8696-856a9ecbd729
+status: superseded

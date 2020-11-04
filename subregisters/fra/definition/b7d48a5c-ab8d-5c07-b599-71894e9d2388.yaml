@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.12
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 9903de21-55d9-5ed9-b023-b1b0011c92e2
+  definition: système de positionnement employant des accéléromètres, des gyroscopes
+    et un calculateur comme composants intégraux pour déterminer les coordonnées de
+    points ou d'objets par rapport à un point de référence initial connu
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: b7d48a5c-ab8d-5c07-b599-71894e9d2388
+status: valid

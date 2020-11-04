@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: W3C XML
+  concept: 06fab249-f441-59ff-abf9-1b8a01a13944
+  definition: colección de nombres, identificada por una URL, que se usan en documentos
+    XML como nombres de elementos y atributos
+  examples: []
+  notes: []
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 612de275-4266-526e-9d6c-fd1734def50f
+status: valid

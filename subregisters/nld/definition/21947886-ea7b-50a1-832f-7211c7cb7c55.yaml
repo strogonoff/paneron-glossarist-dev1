@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 3a68ce9b-5e07-51d2-baf9-d1f003419039
+  definition: datum welke de relatie tussen zwaartekracht gerelateerde hoogten of
+    diepten ten opzichte van de aarde beschrijft
+  examples: []
+  notes:
+  - In de meeste gevallen is het verticale datum gerelateerd aan het gemiddeldr zeeniveau.
+    Ellipsoïde hoogten worden beschouwd als gerelateerd aan een driedimensionaal coördinaatsysteem
+    wat gerefereerd is ten opzichte van een geodetisch datum. Onder verticale datums
+    vallen bijvoorbeeld hydrografische datums waarbij de hoogten getoond kunen worden
+    als negatieve hoogten of diepten.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 21947886-ea7b-50a1-832f-7211c7cb7c55
+status: superseded

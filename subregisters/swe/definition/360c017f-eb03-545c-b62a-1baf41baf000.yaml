@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (derived from)
+    link: https://www.iso.org/standard/2517.html
+    ref: 'ISO 12620:1999 '
+  concept: a2c2b0c3-ad9b-5fa3-bb23-385828e2e7c2
+  definition: begreppssystem som bygger på en viss icke-hierarkisk tematisk samhörighet
+    mellan begreppens referenter
+  examples: []
+  notes:
+  - Adapted from ISO 12620:1999.
+  - An associative relation exists between the concepts "education" and "teaching",
+    "baking" and "oven".
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 360c017f-eb03-545c-b62a-1baf41baf000
+status: superseded

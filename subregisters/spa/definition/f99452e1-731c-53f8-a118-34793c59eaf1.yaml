@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: f800b94d-fbfc-5021-878e-662897db2217
+  definition: colección de enlaces y giros relacionados usados en combinación en una
+    ruta
+  examples: []
+  notes:
+  - Las maniobras se utilizan para agrupar giros en una combinación legal y conveniente.
+    Pueden ser tan simples como un giro simple, una combinación de giros cortos ("jogs",
+    quiebros, en el medio oeste americano, consistente en un giro seguido inmediatamente
+    de otro giro en dirección opuesta) o en una combinación muy compleja de entradas,
+    salidas y caminos de conexión ("magic roundabouts", rotondas mágicas, en el Reino
+    Unido).
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f99452e1-731c-53f8-a118-34793c59eaf1
+status: valid

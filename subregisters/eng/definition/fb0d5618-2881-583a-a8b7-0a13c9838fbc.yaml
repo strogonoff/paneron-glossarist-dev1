@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.16'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: e3b5ec25-6fc6-521b-9831-d84bc6f5e323
+  definition: capable of maintaining GeoDRM extended resources and enforcing GeoDRM
+    defined rights and protections
+  examples: []
+  notes:
+  - Applied to processing resources.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: fb0d5618-2881-583a-a8b7-0a13c9838fbc
+status: valid

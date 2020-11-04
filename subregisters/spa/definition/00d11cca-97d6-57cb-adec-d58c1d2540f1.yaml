@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.21
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 84079d27-6841-5537-afcf-59be952aa897
+  definition: distancia en un sistema de coordenadas, hacia el este (positiva) o hacia
+    el oeste (negativa) desde una línea norte-sur de referencia
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 00d11cca-97d6-57cb-adec-d58c1d2540f1
+status: valid

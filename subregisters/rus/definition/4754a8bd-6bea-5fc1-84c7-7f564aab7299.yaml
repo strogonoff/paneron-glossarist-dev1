@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: modified
+    ref: FindLaw
+  concept: e3da19ff-d9c2-585f-adcb-c5c1f71ad5d2
+  definition: соглашение двух или более лиц, которое создает для каждого лица обязательство
+    совершать или не совершать что-либо и права на выполнение других обязательств
+    или средства правовой защиты при нарушении других обязательств
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 4754a8bd-6bea-5fc1-84c7-7f564aab7299
+status: valid

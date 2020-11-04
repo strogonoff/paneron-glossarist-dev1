@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: fe829ed0-6749-576a-9d19-a3730a859ef8
+  definition: 각 집합의 프리즘 내 각 점이 유일한 궤도 및 리프인 기하학적 매개변수
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 2c6f592e-b55d-581b-b729-46322e2b34a1
+status: valid

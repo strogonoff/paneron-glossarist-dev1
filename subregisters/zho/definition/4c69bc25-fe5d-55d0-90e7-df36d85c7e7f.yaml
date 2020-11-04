@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.56
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 6473854c-5a71-5515-b88a-1b83dc7dc519
+  definition: 现实世界位置的描述。
+  examples: []
+  notes:
+  - 这可能采用标记、代码或坐标元组等形式。
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 4c69bc25-fe5d-55d0-90e7-df36d85c7e7f
+status: valid

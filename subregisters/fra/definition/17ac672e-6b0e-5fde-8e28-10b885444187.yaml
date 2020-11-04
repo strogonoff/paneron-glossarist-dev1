@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/26019.html
+    ref: ISO 19114:2003
+  concept: 64010e25-e144-5cd6-8c2d-36da347af5f5
+  definition: inspection de chaque élément dans un jeu de données
+  examples: []
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 17ac672e-6b0e-5fde-8e28-10b885444187
+status: retired

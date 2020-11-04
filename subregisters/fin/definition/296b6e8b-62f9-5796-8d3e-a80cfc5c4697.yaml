@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dd4be28e-95ba-58ca-8065-60b1d86b49f6
+  definition: määritysprosessi, miten hyvin testattavana oleva toteutus (Implementation
+    Under Test, IUT) käsittelee virheitä sisältävää tietoa
+  examples: []
+  notes:
+  - Vakaustestaus ei kuulu vaatimuksenmukaisuuden testaukseen.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 296b6e8b-62f9-5796-8d3e-a80cfc5c4697
+status: valid

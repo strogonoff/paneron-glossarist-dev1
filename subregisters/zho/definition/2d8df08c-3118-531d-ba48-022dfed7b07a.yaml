@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  concept: e2a8c291-076a-5aeb-9d8e-9e05388f4de6
+  definition: 与地球上位置相关的现实世界现象的表达。
+  examples: []
+  notes: []
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: 2d8df08c-3118-531d-ba48-022dfed7b07a
+status: valid

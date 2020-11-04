@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44873.html
+    ref: ISO 19146:2010
+  concept: 5089d082-0888-5e0d-ae68-2ed57b8b90b0
+  definition: 의미 동치를 결정하기 위해 서로 다른 영역들의 전문용어 엔트리를 비교하는 것
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: ec648580-84fb-5ca5-9d54-f869e401ed04
+status: superseded

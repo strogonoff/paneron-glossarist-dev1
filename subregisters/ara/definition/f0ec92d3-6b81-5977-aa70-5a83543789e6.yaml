@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.68
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 07a25d32-cca1-5e33-99e4-4bde8c56c074
+  definition: جهاز استشعار يجمع عبر خط المسار صورة واحدة في وقت واحد وينشيء صورة أكبر
+    من مجموعة خطوط متجاورة ناتجة عن الحركة على طول المسار لجهاز الاستشعار
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: f0ec92d3-6b81-5977-aa70-5a83543789e6
+status: valid

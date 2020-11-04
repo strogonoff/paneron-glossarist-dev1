@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '2121317'
+    ref: ISO/IEC 2382:2009
+  concept: 08d2a402-56c4-5d3f-ac5a-6360701502c7
+  definition: capacidad de comunicarse, ejecutar programas o transferir datos entre
+    distintas unidades funcionales de modo que el usuario sólo necesite un conocimiento
+    escaso o nulo sobre las características particulares de tales unidades
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 91a1244e-c9f3-5486-9de1-51e026be8d71
+status: valid

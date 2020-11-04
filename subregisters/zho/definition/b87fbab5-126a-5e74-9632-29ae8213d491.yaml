@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: 267a5296-2584-553a-9df2-469109d95e5b
+  definition: 能满足某种需求的资产或手段。
+  examples:
+  - 数据集、服务、文档、人力或机构。
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b87fbab5-126a-5e74-9632-29ae8213d491
+status: superseded

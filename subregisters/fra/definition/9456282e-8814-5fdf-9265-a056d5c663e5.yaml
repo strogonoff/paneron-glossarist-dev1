@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dc035708-59ca-567e-98de-dc011bb596a3
+  definition: test généralisé relatif à une exigence particulière
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 9456282e-8814-5fdf-9265-a056d5c663e5
+status: valid

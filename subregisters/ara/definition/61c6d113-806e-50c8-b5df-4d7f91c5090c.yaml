@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.26
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 6d46a20b-9a90-5241-a5f0-cfe057076e4b
+  definition: نقطة تحدد على أساس علامات إسناد الكاميرا
+  examples: []
+  notes:
+  - عندما تكون هناك أربع علامات إسناد فإن مركز الإسناد هو نقطة تقاطع الخطين الموصلين
+    بين الزوجين المتقابلين من علامات الإسناد.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 61c6d113-806e-50c8-b5df-4d7f91c5090c
+status: valid

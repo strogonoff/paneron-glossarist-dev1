@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: e93be2a0-04b0-544f-ad5a-7362a2e484f4
+  definition: information about the occurrence of a located feature along a locating
+    feature
+  examples: []
+  notes:
+  - A feature event includes the linearly referenced location of the located feature
+    along the locating feature.
+  - A feature event may be qualified by the instant in which, or period during which,
+    the feature event occurred.
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 9d5c09f6-f934-5349-90ce-da15d617e074
+status: valid

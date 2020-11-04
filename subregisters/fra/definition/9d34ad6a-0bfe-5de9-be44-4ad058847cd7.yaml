@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dd4be28e-95ba-58ca-8065-60b1d86b49f6
+  definition: processus déterminant comment une implémentation soumise à test traite
+    des données contenant des erreurs
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 9d34ad6a-0bfe-5de9-be44-4ad058847cd7
+status: valid

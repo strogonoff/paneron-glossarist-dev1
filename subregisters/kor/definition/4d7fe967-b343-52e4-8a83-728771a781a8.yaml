@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: 8ea4b660-e714-5c57-9147-5dc9ae4cf7e2
+  definition: 서버에게 연산을 호출할 수 있는 소프트웨어 컴포넌트
+  examples: []
+  notes: []
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: 4d7fe967-b343-52e4-8a83-728771a781a8
+status: valid

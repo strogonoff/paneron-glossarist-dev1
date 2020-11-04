@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: d5de3f16-9a8e-5f79-a1ec-cc3cbefb5222
+  definition: object representing a set of direct positions in space and time
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 57656e59-a9e0-5122-aa85-8f6c758f7376
+status: valid

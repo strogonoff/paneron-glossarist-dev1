@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: aa709872-1a2e-575c-a44c-04a40a2c22da
+  definition: coördinaatreferentiesysteem afgeleid van een tweedimensionaal geodetisch
+    referentiesysteem door het toepassen van een kaartprojectie
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: db073db2-128f-5cb8-a708-fa62cf3d9d51
+status: superseded

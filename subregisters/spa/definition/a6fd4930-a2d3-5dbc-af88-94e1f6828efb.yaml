@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 625c0bf1-92b1-58cc-84f0-550664b3cc99
+  definition: prueba específica de una implementación para satisfacer requerimientos
+    particulares
+  examples: []
+  notes:
+  - Instanciación de una de prueba genérica con valores concretos.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: a6fd4930-a2d3-5dbc-af88-94e1f6828efb
+status: valid

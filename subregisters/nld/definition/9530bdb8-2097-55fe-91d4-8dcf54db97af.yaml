@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: a9c532a7-982e-56ec-bdbe-6d5c01b20ff9
+  definition: driedimensionaal coördinaatsysteem met twee afstandgebaseerde en een
+    hoekgebaseerde coördinaat
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 9530bdb8-2097-55fe-91d4-8dcf54db97af
+status: superseded

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.42
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: f1cbe5e4-4cba-59e5-a3fa-e8bf01779453
+  definition: snittlinje som erhålles då en sfär eller rotationsellipsoid skäres med
+    ett plan innehållande rotationsaxeln
+  examples: []
+  notes:
+  - This term is often used for the pole-to-pole arc rather than the complete closed
+    figure.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: a8ae1cd2-bcff-5597-bf49-bf2d756e10f3
+status: valid

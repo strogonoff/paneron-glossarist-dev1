@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  concept: e2a8c291-076a-5aeb-9d8e-9e05388f4de6
+  definition: objekt som representerar en förekomst av en geografisk företeelse
+  examples: []
+  notes: []
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: 5b698860-93f4-5245-b4b8-aeb3cdd14f10
+status: valid

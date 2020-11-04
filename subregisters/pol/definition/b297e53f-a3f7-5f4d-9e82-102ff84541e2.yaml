@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: 267a5296-2584-553a-9df2-469109d95e5b
+  definition: aktywa lub środki, które zaspokajają wymaganie
+  examples:
+  - Zbiór danych, usługa, dokument, osoba lub organizacja
+  notes:
+  - Status wycofanej pozycji zmienia się z „valid” na „retired”. Wycofana pozycja
+    jest utrzymywana w rejestrze, aby umożliwić interpretację danych wytworzonych
+    przed jej wycofaniem.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b297e53f-a3f7-5f4d-9e82-102ff84541e2
+status: valid

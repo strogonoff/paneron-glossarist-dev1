@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: d4bf30fb-a5cf-5d15-9174-c631f21b5e26
+  definition: 공통 특성을 가진 동일한 아이템 클래스와 협조적 운영을 공유하는 다수 레지스터를 탑재한 레지스트리
+  examples: []
+  notes:
+  - The common characteristic may be a shared namespace for the assignment of names
+    and/or codes.
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: 7377b972-206a-5391-ae00-3603d147aa11
+status: valid

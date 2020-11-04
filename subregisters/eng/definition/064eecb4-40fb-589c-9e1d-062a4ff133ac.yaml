@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 15a4a183-9aec-58a0-9ca0-4b268efc7621
+  definition: named set of operations that characterize the behaviour of an entity
+  examples: []
+  notes:
+  - See 7.2 [of ISO 19119] for a discussion of interface
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 064eecb4-40fb-589c-9e1d-062a4ff133ac
+status: valid

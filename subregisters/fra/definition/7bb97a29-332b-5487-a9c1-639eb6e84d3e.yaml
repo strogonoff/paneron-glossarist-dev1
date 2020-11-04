@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 66a41f3b-5ab5-5d18-9047-8af3ad82ab8b
+  definition: changement de coordonnées, basé sur une relation 1:1, d'un système de
+    coordonnées de référence à un autre
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 7bb97a29-332b-5487-a9c1-639eb6e84d3e
+status: superseded

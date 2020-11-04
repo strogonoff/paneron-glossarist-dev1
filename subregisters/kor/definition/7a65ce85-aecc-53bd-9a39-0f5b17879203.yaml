@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.4
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 5e1adc3a-f013-5942-aa6d-5b5573b8f04c
+  definition: 합성개구 중심의 3차원 위치
+  examples: []
+  notes:
+  - It is usually expressed in ECEF coordinates in metres.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 7a65ce85-aecc-53bd-9a39-0f5b17879203
+status: valid

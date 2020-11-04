@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.11
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 946c702e-dfad-5a47-ae83-dc6ceb81ee2f
+  definition: conjunto conectado de superficies que son colindantes unas con otras
+    a través de las curvas de frontera que comparten
+  examples: []
+  notes:
+  - Un sólido compuesto, como conjunto de posiciones directas, tiene todas las propiedades
+    de un sólido.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 9e06fd6f-2fce-5cae-9e3d-85f8cab0e988
+status: valid

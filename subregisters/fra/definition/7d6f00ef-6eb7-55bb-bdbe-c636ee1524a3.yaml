@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: c091a7e9-97a5-5339-94cf-336864bd5e77
+  definition: livraison, réception et interprétation de données
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 7d6f00ef-6eb7-55bb-bdbe-c636ee1524a3
+status: valid

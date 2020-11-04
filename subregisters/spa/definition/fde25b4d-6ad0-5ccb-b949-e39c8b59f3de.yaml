@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 95d7c7bf-8360-5011-bf34-419114dfff98
+  definition: conjunto de ítems con propiedades comunes
+  examples: []
+  notes:
+  - La clase se utiliza en este contexto para referirse a un conjunto de instancias,
+    no al concepto genérico de ese conjunto de instancias.
+  - En esta norma internacional se utiliza la expresión “clase de ítems de registro”
+    para evitar potenciales ambigüedades.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: fde25b4d-6ad0-5ccb-b949-e39c8b59f3de
+status: valid

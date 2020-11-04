@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 95d7c7bf-8360-5011-bf34-419114dfff98
+  definition: ensemble d'éléments avec des propriétés communes
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 15051182-6313-5d75-a531-2e570b1a1e18
+status: valid

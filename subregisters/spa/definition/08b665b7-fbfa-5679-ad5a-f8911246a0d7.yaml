@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  concept: 482a1469-c431-537c-8ca5-b865bb2a108e
+  definition: procedimiento por el que un cliente se asegura de que sus proveedores
+    son capaces de entregar el producto de acuerdo a la calidad requerida y de manera
+    consistente
+  examples: []
+  notes:
+  - El aseguramiento de la calidad es una actividad de determinación de la conformidad
+    secundaria (del cliente)..
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 08b665b7-fbfa-5679-ad5a-f8911246a0d7
+status: valid

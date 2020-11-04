@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.35
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 577c75de-61d0-523e-970d-4831a07baff9
+  definition: statement of or methodology for describing the nature and magnitude
+    of the errors which affect the results of a calculation
+  examples: []
+  notes:
+  - In the most usual case, error budgets in this document describe metric calculations
+    using representational geometry objects to estimate real-world metrics, such as
+    distance and area.
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 7fa6f4c8-197d-5ea7-8bc3-03fd3723ea5e
+status: valid

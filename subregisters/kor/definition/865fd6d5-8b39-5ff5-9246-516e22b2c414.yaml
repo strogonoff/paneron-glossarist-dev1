@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 9839cebf-75da-558a-97ee-d3a5072b28aa
+  definition: 품질 요구사항 충족에 초점을 맞춘 품질 관리의 부분
+  examples: []
+  notes: []
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 865fd6d5-8b39-5ff5-9246-516e22b2c414
+status: valid

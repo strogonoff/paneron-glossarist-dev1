@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.57
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: e4004fa9-7f02-5e50-be8f-b1eb87bab797
+  definition: primitive géométrique bidimensionnelle représentant localement une image
+    continue d'une région d'un plan
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: dd12a7a2-dbce-5f64-a66f-42ab378e5599
+status: valid

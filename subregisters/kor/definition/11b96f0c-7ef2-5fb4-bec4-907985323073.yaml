@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  concept: b36c2070-dad5-5e8a-9b21-035ccbc983a0
+  definition: 행은 피처 속성을 나타내고, 열은 피처를 나타내는 테이블
+  examples: []
+  notes: []
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: 11b96f0c-7ef2-5fb4-bec4-907985323073
+status: valid

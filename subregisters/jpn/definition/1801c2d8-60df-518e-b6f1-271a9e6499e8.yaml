@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3bac65b8-a515-5229-91ab-f1ad0474193c
+  definition: 繰返しを許した，関連する項目（オブジェクト又は値）の，有限で順序をもつ集まり。
+  examples: []
+  notes:
+  - 論理的には，列は <項目，相対位置> の対の集合である。この規格では，括弧で列を区切り，列の要素をコンマで分けるLISP構文を用いる。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 1801c2d8-60df-518e-b6f1-271a9e6499e8
+status: valid

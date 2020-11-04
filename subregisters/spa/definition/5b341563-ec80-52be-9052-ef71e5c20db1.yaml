@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/63541.html
+    ref: ISO 19104:2016
+  concept: 32ace015-a07a-52f5-a988-60dd19d4ed37
+  definition: cada una de dos o más palabras que se pronuncian igual pero difieren
+    en significado, origen y, a veces, ortografía
+  examples:
+  - night (noche) y knight (caballero)
+  notes: []
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: 5b341563-ec80-52be-9052-ef71e5c20db1
+status: valid

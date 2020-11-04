@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  concept: e9e8bd57-8911-51e6-b922-4925302a4d61
+  definition: Последовательность, в которой перечислены ячейки сетки
+  examples: []
+  notes: []
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 521fd36a-a58a-5450-802d-3175fe10fe05
+status: valid

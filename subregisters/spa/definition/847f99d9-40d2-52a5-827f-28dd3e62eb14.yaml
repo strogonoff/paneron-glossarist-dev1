@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.20
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 7f79b660-17d0-5c55-a2ef-861bd03b93d2
+  definition: posición descrita por un único conjunto de coordenadas dentro de un
+    sistema de referencia de coordenadas
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 847f99d9-40d2-52a5-827f-28dd3e62eb14
+status: valid

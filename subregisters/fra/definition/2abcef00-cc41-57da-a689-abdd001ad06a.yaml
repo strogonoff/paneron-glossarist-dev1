@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: (1994)
+    ref: 'Jensen et al. '
+  concept: 4fa4b3ee-6229-5130-bc2d-bc7d3e1c5c1e
+  definition: moment auquel un fait est vrai dans la réalité abstraite
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 2abcef00-cc41-57da-a689-abdd001ad06a
+status: valid

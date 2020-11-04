@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 01350d72-b827-5244-bd04-c4e2c7145968
+  definition: 適合性評価過程を実施する組織。
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 0f6e4795-afe9-51d9-85a4-a63eefd394fe
+status: valid

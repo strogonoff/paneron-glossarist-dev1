@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/37796.html
+    ref: ISO 19118:2005
+  concept: 419fa15a-3b22-5657-a0a4-7f5b8c4f3e01
+  definition: unité de donnée qui, dans un certain contexte, est considérée comme
+    indivisible
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 375e64a0-846e-5439-b74b-de06c35e6e29
+status: retired

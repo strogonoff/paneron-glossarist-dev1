@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 66a41f3b-5ab5-5d18-9047-8af3ad82ab8b
+  definition: zamiana współrzędnych, oparta na związku jeden do jednego, jednego systemu
+    odniesienia na współrzędne drugiego systemu odniesienia
+  examples: []
+  notes:
+  - Jest to nadtyp transformacji współrzędnych i konwersji współrzędnych.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 2d6efb1c-1cc5-5096-9f94-69890c9d0886
+status: valid

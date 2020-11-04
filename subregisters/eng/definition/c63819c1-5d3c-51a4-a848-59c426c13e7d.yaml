@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.46
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 7a9fb7f7-eeb0-50cb-9406-dc2d7d28fa6c
+  definition: boundary represented by a set of geometric primitives that limits the
+    extent of a geometric object
+  examples: []
+  notes: []
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: c63819c1-5d3c-51a4-a848-59c426c13e7d
+status: valid

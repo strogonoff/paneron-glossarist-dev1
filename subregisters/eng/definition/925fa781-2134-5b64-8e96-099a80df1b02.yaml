@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.22
+    link: https://www.iso.org/standard/72217.html
+    ref: ISO 19146:2018
+  concept: 28d64894-c6cc-5b6d-ae8b-888c2b858424
+  definition: vocabulary that is not a reference vocabulary
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 925fa781-2134-5b64-8e96-099a80df1b02
+status: valid

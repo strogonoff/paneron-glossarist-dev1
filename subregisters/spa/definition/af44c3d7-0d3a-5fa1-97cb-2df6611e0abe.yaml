@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.101
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 84295357-016e-5064-9f2b-b9497d7c6b8b
+  definition: primitiva topológica tridimensional
+  examples: []
+  notes:
+  - El límite de un sólido topológico consta de un conjunto de caras orientadas.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: af44c3d7-0d3a-5fa1-97cb-2df6611e0abe
+status: valid

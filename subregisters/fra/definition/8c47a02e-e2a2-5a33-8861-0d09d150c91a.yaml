@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.17
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 7979460e-e8e0-52c9-ba9c-a207c18cd2aa
+  definition: primitive géométrique à une dimension représentant l'image continue
+    d'une ligne
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 8c47a02e-e2a2-5a33-8861-0d09d150c91a
+status: valid

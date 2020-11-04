@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: f4caa91b-0957-599e-8994-16a4ac63ee76
+  definition: データ品質評価結果を報告するための値の型。
+  examples:
+  - 　“ブール変数”，“百分率”，“比率”。
+  notes:
+  - 　データ品質評価値型は，常にデータ品質評価結果に対して定める。
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 831d5da3-b1cc-58c4-8690-451ff16b25e4
+status: retired

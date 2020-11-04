@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: e1669710-e900-5d69-b11c-068573990bd8
+  definition: 允许在值域内对值进行操作的值域的说明。
+  examples:
+  - 整型、实型、布尔型、字符串、日期型和SG点（将数据转换成系列编码）。
+  notes:
+  - 数据类型包括基本预定义类型和用户定义类型。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: eed4d5be-c2be-596d-be31-1df4ee06fa41
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/44342.html
+    ref: ISO 19144-2:2012
+  concept: fe5c6b64-d160-5379-8b3b-05bf1af5c02f
+  definition: 근본적 또는 과학적 특성에 대한 참조 없이 보여지는 객체 또는 지형의 일반적 모습
+  examples: []
+  notes: []
+dateAccepted: 2012-07-01 00:00:00+00:00
+id: aca36c16-e23d-5f78-871a-7bdce9e9354b
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 49173f15-7cf6-5e40-b8c7-db65ba28fd30
+  definition: 자원 생산에 사용된 산지, 원지와 생산처리과정
+  examples: []
+  notes: []
+dateAccepted: 2014-04-01 00:00:00+00:00
+id: ba399057-7823-5bd1-a53a-12d4359dcc61
+status: valid

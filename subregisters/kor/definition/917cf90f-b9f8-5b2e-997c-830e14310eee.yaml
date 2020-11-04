@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.17
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: f82049d8-dd14-5b4d-a273-6542e62fb907
+  definition: 명확한 지리적 위치가 나타난 지상점
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 917cf90f-b9f8-5b2e-997c-830e14310eee
+status: valid

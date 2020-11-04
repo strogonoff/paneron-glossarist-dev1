@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.46
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 05e6ba33-6fd3-5d76-b8f9-641257e7f264
+  definition: endimesionellt koordinatsystem i vilket enheten inte naturligt är en
+    rumsstorhet
+  examples: []
+  notes:
+  - Ett parametriskt koordinatsystem kan exempelvis baseras på lufttrycket.
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: a3fb9c2b-902d-5dce-a57d-304fb5d454d5
+status: valid

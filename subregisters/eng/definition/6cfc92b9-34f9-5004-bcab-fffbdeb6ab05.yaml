@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40147.html
+    ref: ISO 3534-2
+  concept: 2eb5b571-8095-5968-9309-76accdd38353
+  definition: totality of items under consideration
+  examples:
+  - All points in a dataset.
+  - Names of all roads in a certain geographic area.
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 6cfc92b9-34f9-5004-bcab-fffbdeb6ab05
+status: retired

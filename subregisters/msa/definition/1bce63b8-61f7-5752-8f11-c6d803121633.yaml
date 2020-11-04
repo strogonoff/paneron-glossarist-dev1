@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 0c38c28e-df13-5d51-bda9-840a2bfa53b2
+  definition: objek aktif yang memulakan permohonan terhadap perkhidmatan kepada sistem
+  examples: []
+  notes:
+  - Users are usually objects that act as proxies for people accessing the functionality
+    of the system.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 1bce63b8-61f7-5752-8f11-c6d803121633
+status: valid

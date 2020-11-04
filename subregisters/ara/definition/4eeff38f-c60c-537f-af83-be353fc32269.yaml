@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.20'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 4531647a-c252-5ca2-b4bd-7f14b5d77951
+  definition: وصف المجموعة الشاملة محل البح ومواصفات لتعيين وربط تلك المجموعة الشاملة
+    محل البحث وفقا لمجموعة بيانات محددة
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 4eeff38f-c60c-537f-af83-be353fc32269
+status: retired

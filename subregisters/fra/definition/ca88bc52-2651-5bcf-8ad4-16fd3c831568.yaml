@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.16
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 8b388673-a23e-54eb-9b5e-d1106ce2a7c8
+  definition: automatisation d'un processus "business", global ou partiel, pour lequel
+    des documents, informations ou tâches sont transférés d'un participant à un autre
+    pour action, selon un ensemble de règles procédurales
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: ca88bc52-2651-5bcf-8ad4-16fd3c831568
+status: valid

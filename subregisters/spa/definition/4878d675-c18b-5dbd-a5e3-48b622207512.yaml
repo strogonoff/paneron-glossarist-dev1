@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.11
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 5555c8ed-20df-55f2-8929-be17f63b399c
+  definition: lugar geográfico bien definido descrito por una tupla de coordenadas
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 4878d675-c18b-5dbd-a5e3-48b622207512
+status: valid

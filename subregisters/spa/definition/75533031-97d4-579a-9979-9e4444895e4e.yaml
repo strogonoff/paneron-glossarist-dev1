@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - ref: ANSI T1.523-2001
+  concept: 517d4d02-cfb9-588a-acda-d7f58e6c4333
+  definition: reducción del número de elementos de un conjunto de datos, ancho de
+    banda, costo y tiempo para la generación, transmisión y almacenamiento de datos
+    sin pérdida de información mediante la eliminación de redundancias innecesarias,
+    de irrelevancias o del uso de una codificación especial.
+  examples: []
+  notes:
+  - Mientras que la compactación reduce la cantidad de datos usados para representar
+    una cantidad dada de información, la compresión de datos no.
+  - La compactación de datos puede hacerse a través de la agregación de valores similares
+    de celdas adyacentes, esquemas de teselado u otros medios de eliminación de información
+    que no es relevante.
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 75533031-97d4-579a-9979-9e4444895e4e
+status: valid

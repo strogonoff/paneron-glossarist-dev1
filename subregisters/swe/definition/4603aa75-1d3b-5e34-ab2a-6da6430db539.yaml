@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: f0f91892-1133-5b08-b34a-8eb1777cd98f
+  definition: tillämpning av klassificering inom ett specifikt geografiskt område,
+    vid en viss kartskala och för en viss datamängd
+  examples: []
+  notes:
+  - Taken from FAO LCCS version 2 (see Reference [2] in ISO 19144-1:2009).
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 4603aa75-1d3b-5e34-ab2a-6da6430db539
+status: valid

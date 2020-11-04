@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39891.html
+    ref: ISO 19109:2005
+  concept: 63d54d38-10f7-5a5d-b143-9e06f65eaae4
+  definition: пространственный объект, состоящий из нескольких простых и/или сложных
+    пространственных объектов
+  examples: []
+  notes: []
+dateAccepted: 2005-06-15 00:00:00+00:00
+id: f70b6ffd-55cb-5782-b413-7e771c071eee
+status: valid

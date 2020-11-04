@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: c75138c5-f0cb-5374-a300-a2e3ca8a6ab5
+  definition: semantic connection among model elements
+  examples: []
+  notes:
+  - Kinds of relationships include association, generalization, metarelationship,
+    flow and several kinds grouped under dependency.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: b1306de3-b181-5bf0-9448-5d3655ca648e
+status: valid

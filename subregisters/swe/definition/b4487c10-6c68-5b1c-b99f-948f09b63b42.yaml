@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40147.html
+    ref: ISO 3534-2:2006
+  concept: eecb63c4-3332-5741-b22b-684db4abb0d4
+  definition: graden av överensstämmelse mellan ett observerat, beräknat eller skattat
+    värde och ett värde som betraktas som sant
+  examples: []
+  notes:
+  - Ibland talar man hellre om onoggrannhet istället för noggrannhet, om medelfelet
+    ökar, ökar också onoggrannheten
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: b4487c10-6c68-5b1c-b99f-948f09b63b42
+status: valid

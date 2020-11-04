@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: a9c532a7-982e-56ec-bdbe-6d5c01b20ff9
+  definition: трёхмерная система координат с двумя координатами расстояний и одной
+    угловой координатой
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 73a2fee4-558a-5900-b48d-f04a61d9596e
+status: superseded

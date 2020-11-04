@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: ecd8a842-30cd-5a49-9272-85dd818cbbe1
+  definition: 지구상의 위치와 직접적 또는 간접적으로 관련된 현상에 대한 정보
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: dddb5772-380e-5511-99bd-2af5bac37b15
+status: valid

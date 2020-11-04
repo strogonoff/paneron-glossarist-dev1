@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 1.7.2, modified — Supporting content has been relocated to an example.
+    link: https://www.iso.org/standard/57284.html
+    ref: ISO 14721:2012
+  concept: bb25b3cf-b9a3-5561-93d1-e6239b22195d
+  definition: digital migration in which there is an alteration to the content information
+    or PDI of an archival information package
+  examples:
+  - Changing ASCII codes to UNICODE in a text document being preserved is a transformation.
+  notes: []
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: f71d8578-06b6-5f6e-ba00-87dc4a723731
+status: valid

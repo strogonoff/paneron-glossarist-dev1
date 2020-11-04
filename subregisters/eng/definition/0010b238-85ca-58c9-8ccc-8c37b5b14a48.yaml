@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.44
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: e53274ae-d0d1-5df4-8f4d-9330a827c707
+  definition: epoch at which the parameter values of a time-dependent coordinate transformation
+    are valid
+  examples: []
+  notes:
+  - The transformation parameter values first need to be propagated to the epoch of
+    the coordinates before the coordinate transformation can be applied.
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: 0010b238-85ca-58c9-8ccc-8c37b5b14a48
+status: valid

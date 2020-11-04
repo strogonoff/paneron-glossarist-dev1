@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dc035708-59ca-567e-98de-dc011bb596a3
+  definition: generaliseret test for et bestemt krav
+  examples: []
+  notes:
+  - Et abstrakt testforløb er et formelt grundlag for at kunne udvikle eksekverbare
+    testforløb. Et eller flere testformål er samlet i det abstrakte testforløb. Et
+    abstrakt testforløb er både uafhængigt af implementeringen og af værdierne. Testforløbet
+    bør være fuldstændigt, dvs. tilstrækkeligt omfattende til at fremkomme med en
+    testafgørelse, som kan knyttes utvetydigt til ethvert muligt testudfald (fx en
+    sekvens af test events).
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 3c74e560-bc23-569e-9f02-5a5eb0487a33
+status: valid

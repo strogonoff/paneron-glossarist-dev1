@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 9a63c2c9-cf35-5484-8bb7-9c2ec5ae27da
+  definition: propriété d'un objet géométrique dont l'intérieur est isotrope (tous
+    les points ont des voisinages isomorphes) et de là, partout localement isomorphe
+    à un sous-ensemble ouvert d'un espace de coordonnée Euclidien de la dimension
+    appropriée
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b5050543-d5e6-5345-8ca6-2c86022ba6e4
+status: superseded

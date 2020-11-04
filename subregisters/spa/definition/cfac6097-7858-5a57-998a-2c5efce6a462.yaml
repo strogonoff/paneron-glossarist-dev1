@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.37
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 1ffc21eb-905d-5004-baf0-240d972f1971
+  definition: descripción de las características geométricas y radiométricas de un
+    sensor
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: cfac6097-7858-5a57-998a-2c5efce6a462
+status: valid

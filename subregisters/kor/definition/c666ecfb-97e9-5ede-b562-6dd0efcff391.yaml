@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 6b617081-408d-5cd1-915b-2d469ab25094
+  definition: 타인의 대리로 업무를 수행하는 자
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: c666ecfb-97e9-5ede-b562-6dd0efcff391
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.67
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 5323e7a6-d499-5914-ab73-53633b6b85b4
+  definition: centre of the circles of equal distortion of the lens positioned in
+    the image plane
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 51293282-18cf-5fff-a54a-34cd6d043fa3
+status: valid

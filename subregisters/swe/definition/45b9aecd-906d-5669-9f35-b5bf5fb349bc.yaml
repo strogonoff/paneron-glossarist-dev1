@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 815e3b8d-01eb-5627-8c3a-668d41c6cbde
+  definition: data som är tillräckliga för att identifiera ett objekt över tid, oberoende
+    av objektets tillstånd
+  examples: []
+  notes:
+  - An identity is usually a persistent and constant key member attribute value of
+    the object. Since it is temporally constant and unique, it will be the same in
+    any state associated to the object regardless of its timestamp. A moving object's
+    identity is independent of both time and location.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 45b9aecd-906d-5669-9f35-b5bf5fb349bc
+status: valid

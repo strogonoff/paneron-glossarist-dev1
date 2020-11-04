@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: eaa65aba-9adb-5857-b5de-b965869c6980
+  definition: odległość punktu od wybranej powierzchni odniesienia mierzona wzdłuż
+    linii prostopadłej do tej powierzchni
+  examples: []
+  notes:
+  - Wysokość poniżej powierzchni odniesienia ma wartośc ujemną.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: db3d4601-6733-5be2-9c2a-629102cc0783
+status: valid

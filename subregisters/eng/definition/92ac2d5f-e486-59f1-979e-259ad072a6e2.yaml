@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: be46792d-05d5-527d-91b0-1269595f584b
+  definition: set of feature attribute values associated by a function with the elements
+    of the domain of a coverage
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 92ac2d5f-e486-59f1-979e-259ad072a6e2
+status: valid

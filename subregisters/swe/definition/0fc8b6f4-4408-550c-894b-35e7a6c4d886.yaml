@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 90fd29a6-f0a0-532b-956b-c648d759337c
+  definition: oordnad, ändlig mängd av samhörande data
+  examples: []
+  notes:
+  - Logically, a bag is a set of pairs <item, count>.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 0fc8b6f4-4408-550c-894b-35e7a6c4d886
+status: retired

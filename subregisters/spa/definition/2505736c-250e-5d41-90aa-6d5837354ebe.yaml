@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: 267a5296-2584-553a-9df2-469109d95e5b
+  definition: factor o medio que satisface un requisito
+  examples:
+  - Conjunto de datos, servicio, documento, persona u organización.
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2505736c-250e-5d41-90aa-6d5837354ebe
+status: superseded

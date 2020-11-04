@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.18
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 3c21971e-80d6-58d8-bd59-c6ca8f683dc9
+  definition: rutnätsbaserad domänobjekttyp  vars attribut är en numerisk representation
+    av en fysisk parameter
+  examples: []
+  notes:
+  - The physical parameters are the result of measurement by a sensor or a prediction
+    from a model
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 0540b98a-e615-5295-bcba-567c0bc81b72
+status: valid

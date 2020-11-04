@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3decb52f-923e-5c15-9d6b-1dc485f4bdea
+  definition: det största heltal n sådant att varje koodinatangiven position i en
+    positionsmängd kan förknippas med en delmängd som har sin koodinatangivna position
+    i dess innanförmängd och liknar (är isomorf med) ett  n-dimensionellt euklidiskt
+    rum
+  examples: []
+  notes:
+  - Curves, because they are continuous images of a portion of the real line, have
+    geometric dimension 1. Surfaces cannot be mapped to R2 in their entirety, but
+    around each point position, a small neighbourhood can be found that resembles
+    (under continuous functions) the interior of the unit circle in R2, and are therefore
+    2-dimensional. In this International Standard, most surface patches (instances
+    of GM_SurfacePatch) are mapped to portions of R2 by their defining interpolation
+    mechanisms.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: d8b283bb-f189-506f-ae2e-a073fb5496e0
+status: superseded

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.30
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 421ae5e3-6466-5d3f-bf99-9407353d704e
+  definition: graf osadzony wewnątrz złożonego elementu topologicznego, zbudowany
+    ze wszystkich krawędzi i węzłów dołączonych należących do tego elementu złożonego
+  examples: []
+  notes:
+  - Graf krawędź-węzeł jest podelementem złożonym elementu złożonego, w którym jest
+    osadzony.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c11b8be0-8778-537c-8400-8728e3d88d27
+status: valid

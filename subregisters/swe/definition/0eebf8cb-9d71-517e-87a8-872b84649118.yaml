@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dc035708-59ca-567e-98de-dc011bb596a3
+  definition: "specifikation av de åtgärder som ska vidtas för\n att avgöra om ett\
+    \ visst krav är uppfyllt eller ej"
+  examples: []
+  notes:
+  - An abstract test case is a formal basis for deriving executable test cases One
+    or more test purposes are encapsulated in the abstract test case. An abstract
+    test case is independent of both the implementation and the values. It should
+    be complete in the sense that it is sufficient to enable a test verdict to be
+    assigned unambiguously to each potentially observable test outcome (i.e. sequence
+    of test events).
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 0eebf8cb-9d71-517e-87a8-872b84649118
+status: valid

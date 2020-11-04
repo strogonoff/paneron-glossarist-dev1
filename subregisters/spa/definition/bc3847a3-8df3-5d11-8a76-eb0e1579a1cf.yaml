@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 219cf47a-e0ae-50bd-9595-ebf6075d539d
+  definition: aplicación que combina u ofrece servicios de nivel inferior para las
+    necesidades específicas de los usuarios
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: bc3847a3-8df3-5d11-8a76-eb0e1579a1cf
+status: valid

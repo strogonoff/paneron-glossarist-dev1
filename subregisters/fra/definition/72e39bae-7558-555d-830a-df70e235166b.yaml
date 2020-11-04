@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.55
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 6998cc41-2658-5d4b-ba56-cb97724f1797
+  definition: catégorie d'objets partageant des caractéristiques communes auxquelles
+    sont ainsi donnés un nom de type permettant de les identifier dans un domaine
+    particulier de discours
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 72e39bae-7558-555d-830a-df70e235166b
+status: valid

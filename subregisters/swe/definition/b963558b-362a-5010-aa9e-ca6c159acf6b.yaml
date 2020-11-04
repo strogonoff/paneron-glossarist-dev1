@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 5604967e-60d3-5bcf-885d-9ec4d51ee0f5
+  definition: ett eller flera tröskelvärden för datas kvalitet vilka används för att
+    bedöma hur väl en datamängd uppfyller användarkraven eller kraven i dataproduktspecifikationen
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: b963558b-362a-5010-aa9e-ca6c159acf6b
+status: valid

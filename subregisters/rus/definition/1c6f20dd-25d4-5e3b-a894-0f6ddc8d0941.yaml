@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: 5563e0b7-492a-51e0-8489-abdbc0a65dfc
+  definition: ресурс, находящийся под прямым контролем системы
+  examples: []
+  notes:
+  - в настоящем стандарте система является сервисом веб-функций, а ресурс хранится
+    в хранилище данных, которое непосредственно управляется этим сервисом.
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 1c6f20dd-25d4-5e3b-a894-0f6ddc8d0941
+status: valid

@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.19
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 88cc1b44-ea8e-5fb3-adb7-f96596e2e94f
+  definition: parámetros que influyen en la determinación de los valores de las coordenadas
+    producidas por un sistema de posicionamiento
+  examples: []
+  notes:
+  - Las medidas adquiridas sobre el terreno están afectadas por distintos factores
+    instrumentales y ambientales, incluyendo condiciones metereo¬lógicas, métodos
+    y limitaciones de cálculo, defectos en la construcción de los instrumentos, problemas
+    de ajuste o calibración instrumental y, en el caso de sistemas ópticos de medida,
+    el error personal del observador. Las soluciones para las posiciones pueden estar
+    afectadas por las relaciones geométricas entre los datos observados y/o el modelo
+    matemático empleado en el software de proceso.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: c77cae68-e088-5b2a-8344-2d9e976afaa2
+status: valid

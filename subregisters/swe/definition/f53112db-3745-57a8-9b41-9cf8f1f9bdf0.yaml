@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: afc13d27-3d6d-51c7-9bab-0848f3a86970
+  definition: fastställande av position och färdväg
+  examples: []
+  notes:
+  - This is essentially the common term navigation, but the definition decomposes
+    the process in terms used in the packages defined in this International Standard.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f53112db-3745-57a8-9b41-9cf8f1f9bdf0
+status: valid

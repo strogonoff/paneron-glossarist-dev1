@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.11
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: b18b7e9c-6b39-5127-88ea-ac9a670cdaea
+  definition: den som upprättar och ansvarar för innehållet i ett register
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: b78f9c7b-2320-5c40-9e1b-963442d7886c
+status: valid

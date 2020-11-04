@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 01350d72-b827-5244-bd04-c4e2c7145968
+  definition: organisation effectuant le processus d'évaluation de conformité
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 56744998-68c2-5f7f-a546-0232e504067b
+status: valid

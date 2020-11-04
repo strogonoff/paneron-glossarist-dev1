@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 43344492-9056-500c-9123-861d80a573af
+  definition: endimensionellt koordinatsystem för angivande av tyngdkraftsrelaterad
+    höjd respektive djup
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 23011887-d4b2-5e86-bb84-a62653610d80
+status: superseded

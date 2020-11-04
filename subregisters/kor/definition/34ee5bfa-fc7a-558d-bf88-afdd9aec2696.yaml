@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 12b2581a-73d0-5032-93c5-219eddbd9028
+  definition: 대리인과 본인 사이 관계에서 연속적인 대리가 발생하는 가운데 각 관계의 대리인이 차기 사슬망에서는 본인인 것
+  examples: []
+  notes:
+  - A chain of agency, with the proper agreements at each step creates a transitive
+    agency between the agent of the first link and the principal of the last. This
+    chain can be spoken of in either direction, either as “principal -> agent = principal
+    -> agent” (normal or granting order) or “agent -> principal = agent -> principal”
+    (reverse, acceptance, verification or tracing order).
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 34ee5bfa-fc7a-558d-bf88-afdd9aec2696
+status: valid

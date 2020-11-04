@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.14
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 0af79ebf-6489-5f51-bccf-a55cb9a2c604
+  definition: individuo de un tipo de objeto geográfico que tiene especificados valores
+    de atributos de objeto geográfico
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: c1cb645f-3080-5ba3-a48e-be64552a21c5
+status: valid

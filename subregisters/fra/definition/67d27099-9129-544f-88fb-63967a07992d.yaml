@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.99
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 767f0565-3a55-5813-8fbc-537ea051b3c6
+  definition: objet spatial représentant des caractéristiques spatiales invariantes
+    sous des transformations continues
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 67d27099-9129-544f-88fb-63967a07992d
+status: valid

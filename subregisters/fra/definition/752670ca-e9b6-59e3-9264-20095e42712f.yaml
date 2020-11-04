@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128
+  concept: db11ab01-3710-5083-9548-0a80eccfdf78
+  definition: résultat d’une opération renvoyé d’un serveur à un client
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 752670ca-e9b6-59e3-9264-20095e42712f
+status: valid

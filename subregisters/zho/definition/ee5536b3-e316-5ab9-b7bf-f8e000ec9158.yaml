@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 496d7ef8-0f46-5dcf-bfeb-97add1189d3e
+  definition: <UML>具有相同的属性（域）、操作方法、关系与语义的对象集的描述。
+  examples: []
+  notes:
+  - 类可以用接口的集合来定义它所提供给它的外界（环境）的操作集。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ee5536b3-e316-5ab9-b7bf-f8e000ec9158
+status: valid

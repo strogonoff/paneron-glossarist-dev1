@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: 3b11e1ef-4c00-5db6-b50c-382e5310ce7c
+  definition: condición o constricción expresada en texto en lenguaje natural o en
+    un lenguaje legible por máquina con el fin de declarar parte de la semántica de
+    un elemento
+  examples: []
+  notes: []
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 8b8f5afa-5ff5-521d-b699-35fadfbdbcda
+status: valid

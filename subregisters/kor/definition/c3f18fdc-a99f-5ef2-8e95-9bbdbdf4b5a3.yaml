@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: Fourth Edition, Oxford University Press
+    ref: Dictionary of Computing
+  concept: 8af9a500-87e1-5fe5-9ae2-cf361b61b9eb
+  definition: 내부의 임의 두 직접 위치를 잇는 직선 조각상의 모든 점을 포함할 수 있는 기하 집합
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c3f18fdc-a99f-5ef2-8e95-9bbdbdf4b5a3
+status: valid

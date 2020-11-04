@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: f615f354-68aa-5dde-aa74-88c87135d0ec
+  definition: atributo en un estereotipo usado para extender un elemento del modelo
+  examples: []
+  notes: []
+dateAccepted: 2015-12-01 00:00:00+00:00
+id: 6e54ab99-55f6-5e88-9b21-047e59fbb539
+status: valid

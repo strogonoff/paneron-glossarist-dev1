@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.31'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: b571dfda-f6a0-5074-a385-8d10b8e6c88d
+  definition: 定义分布式系统间交互规则的通用集合。
+  examples: []
+  notes:
+  - 转换数据集不一定象原数据集那样标识。
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 7ceefa31-286f-50cf-9980-a35eeccc7bea
+status: valid

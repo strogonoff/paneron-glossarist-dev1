@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105
+  concept: 625c0bf1-92b1-58cc-84f0-550664b3cc99
+  definition: test spécifique d'une implémentation destiné à satisfaire des exigences
+    particulières
+  examples: []
+  notes: []
+dateAccepted: 2000-11-16 00:00:00+00:00
+id: aa610178-c230-5564-953f-d5a6f4e3e28d
+status: valid

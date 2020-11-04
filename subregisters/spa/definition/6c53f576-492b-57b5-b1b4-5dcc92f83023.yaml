@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.1'
+    link: https://www.iso.org/standard/60080.html
+    ref: ISO/TS 19159-1:2014
+  concept: fd4e42b8-aa2c-5dd5-bcde-06e0f528e547
+  definition: desbordamiento de una señal sobresaturada de un píxel hacia el píxel
+    vecino
+  examples: []
+  notes: []
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 6c53f576-492b-57b5-b1b4-5dcc92f83023
+status: valid

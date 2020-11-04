@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 6c5d69ed-76aa-5388-a5c3-91754b0e25a1
+  definition: offline process to perform a global conversion of a large amount of
+    data
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 924aaef8-b315-5997-be01-6c9d95ca54f6
+status: valid

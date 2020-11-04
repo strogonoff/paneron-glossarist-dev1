@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.47'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: da19de76-5216-5bc1-82f1-1499605ef9ff
+  definition: тип пассивного датчика, который только принимает звуковые волны от внешних
+    источников и никаких звуковых волн не передает
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: f352f073-6569-503d-aca1-8627ee701c38
+status: valid

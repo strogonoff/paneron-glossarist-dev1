@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: d1759516-028d-5fe8-b04d-b40eaa98bddc
+  definition: ensemble géométrique contenant une position directe spécifiée en son
+    intérieur, ainsi que toutes les positions directes à une distance spécifiée
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 1f4fe8be-e926-5a98-ba26-01c6b9f9a7c5
+status: valid

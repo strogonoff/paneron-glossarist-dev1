@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: 1076e37e-cd82-5fd5-9573-c9d7734e2747
+  definition: 定量描述数据集质量的组成部分。
+  examples: []
+  notes:
+  - 数据质量元素对数据集的适用性依赖于数据集的内容及其产品规范；究其原因不是所有的数据质量元素适用于所有的数据集。
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 88ade9ff-667e-59c5-aff3-ec543f255ada
+status: retired

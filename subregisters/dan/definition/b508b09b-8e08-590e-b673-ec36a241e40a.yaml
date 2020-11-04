@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: d8ebd211-773e-566d-bb73-d7ca03e17b61
+  definition: geometrisk objekt, der indeholder alle de direkte positioner, hvis afstand
+    fra et specificeret geometrisk objekt er mindre end eller lig med en given afstand
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b508b09b-8e08-590e-b673-ec36a241e40a
+status: superseded

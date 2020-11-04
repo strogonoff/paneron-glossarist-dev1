@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 66e14a20-d3b3-5b78-9351-4c1edf1192ce
+  definition: movimiento de datos de un punto a otro a través de un medio
+  examples: []
+  notes:
+  - La transferencia de información implica la transferencia de datos.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: dee80b48-3123-53fa-8ba4-c0e3a6a411b3
+status: valid

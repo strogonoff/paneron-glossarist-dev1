@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: d1759516-028d-5fe8-b04d-b40eaa98bddc
+  definition: zbiór geometryczny zawierający w swoim wnętrzu określone położenie bezpośrednie
+    i wszystkie położenia bezpośrednie znajdujące się w odległości nie większej niż
+    ustalona odległość od tego położenia bezpośredniego
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b29b0d27-70b7-5eac-8e14-3b416383a674
+status: valid

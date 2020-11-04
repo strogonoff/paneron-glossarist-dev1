@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.16'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: e370a73a-1464-5b33-bf13-5701e08506ad
+  definition: Местоположение, позиция которого задается с использованием линейной
+    привязки
+  examples: []
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 10ca5f9e-e8dd-5283-8a75-ce58e98e6baf
+status: valid

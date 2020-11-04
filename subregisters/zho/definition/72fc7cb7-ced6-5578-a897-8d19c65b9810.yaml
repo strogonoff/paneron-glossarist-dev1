@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 621183d7-70d7-5ec1-88f8-63fdc2e6b6ec
+  definition: 扩展元模型语义的新的建模元素类型。
+  examples: []
+  notes:
+  - 构造型必须基于元模型中某些已有的类型或类。构造型可以扩展语义，但不可以扩展已有的类型和类的结构。某些构造型在UML中预先定义，而在其他情况下可以是用户定义。构造型是UML三种扩展机制之一。另外两个是限制和标记值。
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 72fc7cb7-ced6-5578-a897-8d19c65b9810
+status: superseded

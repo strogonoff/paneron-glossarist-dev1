@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/51789.html
+    ref: ISO/TS 19130:2010
+  concept: 351e3d85-cf58-503c-81c4-a095fd2ad868
+  definition: Определение географического положения объекта
+  examples: []
+  notes:
+  - Хотя существует много методов геопозиционирования, эта техническая спецификация
+    ориентирована на геопозиционирование по координатам изображения
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: ffcf84b7-6fe4-5aa7-af1b-8028a937f533
+status: superseded

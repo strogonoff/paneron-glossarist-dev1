@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0d4997ad-c2bd-5de2-942e-b79af22736ea
+  definition: tuple composed of a sequence of coordinates
+  examples: []
+  notes:
+  - The number of coordinates in the coordinate tuple equals the dimension of the
+    coordinate system; the order of coordinates in the coordinate tuple is identical
+    to the order of the axes of the coordinate system.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 30ff78d8-7a0c-5e06-a705-11386c78e0b7
+status: superseded

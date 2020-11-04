@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.3.1
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: dd91cb7a-848b-5b2b-9f92-cafb777ab74a
+  definition: 연관 개념들과 차별화하기 위한 묘사적 기술을 통한 개념 표현
+  examples: []
+  notes: []
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 52a38c8a-1e0e-5848-92e1-7ccaba128095
+status: valid

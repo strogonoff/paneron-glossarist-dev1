@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 4a7b3124-f4e5-540f-a804-0efb4780a046
+  definition: omfang af eller egenskaber ved de data, for hvilke der rapporteres kvalitetsinformation
+  examples: []
+  notes:
+  - Datakvalitetsomfang for et datasæt kan omfatte en datasætserie, som datasættet
+    hører til, datasættet selv eller en mindre gruppe af data i datasættet, som deler
+    de samme egenskaber. Samme egenskaber kan være en identificeret featuretype, featureattribut
+    eller featurerelation, dataindsamlingskriterier, oprindelig kilde eller en specificeret
+    geografisk eller temporal udbredelse.
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 62db9796-e979-5688-8741-a0276b243b05
+status: retired

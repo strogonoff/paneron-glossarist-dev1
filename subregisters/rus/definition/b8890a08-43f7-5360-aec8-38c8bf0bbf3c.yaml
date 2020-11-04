@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.43
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: fd5323bb-2f2d-55aa-8bc7-d27f9a6b6e7c
+  definition: расстояние в системе координат от отсчетной линии «восток-запад», положительное  по
+    направлению на север и отрицательное по направлению на юг
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: b8890a08-43f7-5360-aec8-38c8bf0bbf3c
+status: valid

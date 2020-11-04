@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.23
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 66d7ff22-9413-57b3-a5ba-d480fd5d2dd7
+  definition: élément de base d'information d'un document XML contenant les éléments
+    fils, les attributs et des données de typage
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 3ebe87e1-f0e5-5757-8bdb-ede5c9b7c21d
+status: valid

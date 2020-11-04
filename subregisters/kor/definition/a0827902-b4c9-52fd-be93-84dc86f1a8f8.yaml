@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 7a01e6ab-776c-5a42-9eda-311fe7f7f349
+  definition: 서로 다른 데이텀을 기준으로 하는 두 개의 좌표 참조 체계에서의 좌표 연산
+  examples: []
+  notes:
+  - 좌표 변환은 경험적 매개 변수를 사용한다. 이는 두 개의 좌표 참조 체계에서 미리 알려진 좌표 점의 집합을 통해 도출된 것이다.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: a0827902-b4c9-52fd-be93-84dc86f1a8f8
+status: superseded

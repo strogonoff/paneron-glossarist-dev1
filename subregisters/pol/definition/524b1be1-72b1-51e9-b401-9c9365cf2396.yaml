@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.23
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 511210c8-5d3d-5ee2-bd10-dca74f7983a8
+  definition: skierowany obiekt topologiczny, który reprezentuje powiązanie między
+    krawędzią a jedną z jej orientacji
+  examples: []
+  notes:
+  - Krawędź skierowana ma orientację dodatnią (+), jeżeli jest zgodna z orientacją
+    danej krawędzi, w przeciwnym razie ma orientację ujemną (-). Krawędź skierowana
+    jest stosowana w topologii do odróżnienia prawej strony (-) od strony lewej(+)
+    krawędzi, do odróżniania węzła poczatkowego (-) od węzła końcowego (+) tej samej
+    krawędzi oraz do reprezentowania tych pojęć w topologii obliczeniowej.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 524b1be1-72b1-51e9-b401-9c9365cf2396
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: a3454830-25b6-535a-98b2-65590ebaf09a
+  definition: frontière représentée par un ensemble de primitives géométriques de
+    la plus petite dimension géométrique limitant l'étendue d'un objet géométrique
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 7e86dc2c-71d7-55d1-90e3-d9f7299a1d22
+status: superseded

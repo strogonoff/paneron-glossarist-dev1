@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 7819f6ae-b83f-5e56-aa9a-78f6607c7658
+  definition: järjestynyt jono aikoja, jotka liittyvät samaan kohteeseen
+  examples: []
+  notes:
+  - Ajallisen jonon ei edellytetä olevan tasaisesti jakautunut ajan eikä etäisyyden
+    mukaan. Diskreetin muutoksen ensimmäisessä pisteessä kuvataan aika ja muut ominaisuuksien
+    arvot. Muissa voidaan kuvata vain muuttuneet ominaisuudet. Ajoneuvon seurannassa
+    voidaan kuvata vain keskipiste ja suunta. Muuttuvan kohteen liike vaatisi enemmän
+    tietoa.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 30a0b2c1-1cfd-5bad-8b81-f749ae2d7833
+status: valid

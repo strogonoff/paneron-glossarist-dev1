@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 53ce0f2f-c91e-534c-a9e2-9291255878a6
+  definition: 结点集，有些结点与边相连。
+  examples: []
+  notes:
+  - 在地理信息系统中，一个图可以有多于一条边连在两个结点上，也可以一条边的首尾结点相同。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 4d194d3b-b647-5e1b-93bd-ab9ac20c0eb0
+status: retired

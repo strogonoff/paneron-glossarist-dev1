@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: Web Services Glossary
+    ref: W3C
+  concept: 876e19ee-3b23-5ec0-99cd-fdbb0c9d862d
+  definition: подтверждение того, что потенциальный партнер в разговоре способен представлять
+    человека или организацию
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 856a41cf-21ef-5df1-b2ea-397b7a161d7d
+status: valid

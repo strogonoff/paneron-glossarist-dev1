@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 564d1bb1-6321-5934-89c7-58b5aaa7b69e
+  definition: antal elementer i en mængde
+  examples: []
+  notes:
+  - 'Kontrast: multiplicitet.'
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 1b2a0087-bba3-5791-9a0b-2fa1e055578e
+status: valid

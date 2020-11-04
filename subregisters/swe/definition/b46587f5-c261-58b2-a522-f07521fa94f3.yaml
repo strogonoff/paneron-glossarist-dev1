@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.33
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 78f755ad-932d-5a16-82a0-eb84a8544d9a
+  definition: 'vinkel mellan referensellipsoidens meridianplan
+
+    och ett godtyckligt valt nollmeridianplan, positiv österut'
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: b46587f5-c261-58b2-a522-f07521fa94f3
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 230b254c-c1d8-5eca-a965-40f60bbebfbf
+  definition: obiekt, który jest realizacją klasy
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 17c249c3-a4c3-5d25-b811-20faaabd3a72
+status: valid

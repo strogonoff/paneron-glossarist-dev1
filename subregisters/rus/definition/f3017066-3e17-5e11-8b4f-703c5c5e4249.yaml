@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.2.4
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 9e160891-b1b3-5996-bc78-8ebbe1467a91
+  definition: Абстракция свойства объекта или набора объектов
+  examples: []
+  notes:
+  - .Характеристики используются для описания понятий
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: f3017066-3e17-5e11-8b4f-703c5c5e4249
+status: valid

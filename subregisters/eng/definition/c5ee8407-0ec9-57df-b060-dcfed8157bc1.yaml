@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: addf6585-f57e-5112-8c8f-4f281e42b297
+  definition: sensing system that emits energy that the sensor uses to perform sensing
+  examples: []
+  notes: []
+dateAccepted: 2018-09-01 00:00:00+00:00
+id: c5ee8407-0ec9-57df-b060-dcfed8157bc1
+status: valid

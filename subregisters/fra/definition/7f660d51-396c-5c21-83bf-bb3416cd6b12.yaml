@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 01cc734d-fdf1-52e5-a399-d3255e183066
+  definition: système de positionnement qui mesure la distance à un point de référence
+    le long d'un itinéraire (entité)
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 7f660d51-396c-5c21-83bf-bb3416cd6b12
+status: superseded

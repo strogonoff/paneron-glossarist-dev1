@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: eba1913c-c286-518d-aa9d-56f45f6c40ee
+  definition: oversættelse af én form for lokalitet til en anden
+  examples: []
+  notes:
+  - Geokodning henviser normalt til oversættelse af "adresse" eller "knudepunkt" til
+    "direkte position". Mange udbydere indbygger også en "omvendt geokodning"-grænseflade
+    i deres geokoder og udvider dermed definitionen af denne tjeneste til en generel
+    oversætter af lokalitet. Eftersom rutetjenester anvender interne lokalitetskodninger,
+    som almindeligvis ikke er tilgængelige for andre, er en geokoder en integreret
+    del af en sådan tjeneste.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 0ea6190d-f410-566b-aed4-3876a96323a9
+status: valid

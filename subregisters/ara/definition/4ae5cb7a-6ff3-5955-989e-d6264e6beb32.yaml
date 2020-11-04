@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.21
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 84079d27-6841-5537-afcf-59be952aa897
+  definition: المسافة ، في نظام للإحداثيات ، باتجاه الشرق ( إيجابا ) أو باتجاه الغرب
+    (سلبا) من خط مرجعي يمتد شمالاً وجنوباً
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 4ae5cb7a-6ff3-5955-989e-d6264e6beb32
+status: valid

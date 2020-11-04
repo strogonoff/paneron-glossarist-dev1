@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.56
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 6473854c-5a71-5515-b88a-1b83dc7dc519
+  definition: description de la position dans le monde réel
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 10d10d00-3bc0-5a0b-bc28-76e09bb93a74
+status: valid

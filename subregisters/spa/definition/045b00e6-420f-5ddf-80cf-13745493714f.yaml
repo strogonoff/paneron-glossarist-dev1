@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.16
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 8b388673-a23e-54eb-9b5e-d1106ce2a7c8
+  definition: automatización de un proceso de negocio, total o parcialmente, por el
+    que se pasan los documentos, informaciones y tareas de un participante a otro
+    por acciones, de acuerdo a un conjunto de reglas de procesamiento
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 045b00e6-420f-5ddf-80cf-13745493714f
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: 5fd6bf28-1a19-5238-b965-ddd6af7355df
+  definition: relación semántica que se puede dar entre instancias escritas
+  examples: []
+  notes:
+  - Una asociación binaria es una asociación entre exactamente dos clasificadores
+    (incluyendo la posibilidad de una asosciación de un clasificador consigo mismo).
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 81fc339d-f2d5-5166-999d-404d986ac33d
+status: valid

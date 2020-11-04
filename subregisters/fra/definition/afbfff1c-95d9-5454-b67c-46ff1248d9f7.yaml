@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: b2444a77-0558-50ec-9741-ac764f6c0423
+  definition: forme spéciale d'association qui spécifie une relation ensemble-composant
+    entre l'agrégat (ensemble) et la partie composante
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: afbfff1c-95d9-5454-b67c-46ff1248d9f7
+status: valid

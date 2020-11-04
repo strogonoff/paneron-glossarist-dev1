@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.33
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 598b17ce-3a28-56e6-bcce-29c05e4b1679
+  definition: 본초 자오선면으로부터 어떤 점의 자오선면까지의 각도로서, 동으로 향하는 것을 정(+)으로 함
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: a612d943-f2c9-5286-8805-c366b04c3916
+status: valid

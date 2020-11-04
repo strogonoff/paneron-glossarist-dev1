@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: fb262300-c91b-5ece-b2ab-d743f7a3d475
+  definition: conjunto de pruebas ejecutables
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: fc675f10-e32c-5a42-b5d4-e5028a0735c5
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3bac65b8-a515-5229-91ab-f1ad0474193c
+  definition: finite, ordered collection of related items (objects or values) that
+    may be repeated
+  examples: []
+  notes:
+  - Logically, a sequence is a set of pairs <item, offset>. LISP syntax, which delimits
+    sequences with parentheses and separates elements in the sequence with commas,
+    is used in this International Standard.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 86af79c2-f0e8-5354-89b6-c1de9493574f
+status: valid

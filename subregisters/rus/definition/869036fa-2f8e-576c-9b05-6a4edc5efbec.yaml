@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: eb493507-32a1-58e4-9990-f85c32bc530a
+  definition: расстояние точки от выбранной отсчетной поверхности, измеряемое вдоль
+    нормали к этой поверхности вниз
+  examples: []
+  notes:
+  - Глубина над выбранной отсчетной поверхностью будет иметь отрацательное значение
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 869036fa-2f8e-576c-9b05-6a4edc5efbec
+status: superseded

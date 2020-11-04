@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/1141.html
+    ref: ISO 2859-1
+  concept: 2460e3da-a989-504d-9293-84d6ab426479
+  definition: that which can be individually described or considered
+  examples: []
+  notes:
+  - An item can be any part of a dataset, such as a feature, feature relationship,
+    feature attribute, or combination of these.
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 91eca869-e177-5d02-9540-458f6d3c041d
+status: retired

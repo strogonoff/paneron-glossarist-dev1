@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.74'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 7388bfc0-050f-5fb0-b016-585ae4f169d8
+  definition: modo de escaneo que consiste en un patrón escalonado
+  examples: []
+  notes:
+  - Esto se aplica a un transceptor Harlie, sobre la base de un elemento óptico holográfico
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: fcfb3afe-0b51-5518-9e10-69e43bba28a0
+status: valid

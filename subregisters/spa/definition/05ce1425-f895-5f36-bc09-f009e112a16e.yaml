@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.26'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 7d8ca166-5a2c-5b94-b14f-4ff35abdecc1
+  definition: sustancia o agente para almacenar o transmitir datos
+  examples:
+  - Disco compacto, Internet[1], ondas de radio, etc..
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 05ce1425-f895-5f36-bc09-f009e112a16e
+status: valid

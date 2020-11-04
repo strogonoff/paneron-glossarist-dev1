@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.40
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 1fddcdac-11cd-57fd-bce5-5903d7332874
+  definition: Satu sistem meridian dan garis selari yang teratur di atas permukaan
+    satah untuk menggambarkan permukaan melengkung sfera terestrial atau cakerawala
+    atau pun sferoid.
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 90b5654d-4856-5fa4-ac5c-93ab05389126
+status: valid

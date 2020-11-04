@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  concept: 2a46990b-a5c9-585b-a3b8-40780eda76e4
+  definition: 'franja o banda del fondo registrada por una ecosonda de haces múltiples
+    situada en un buque
+
+    hidrográfico a lo largo de su rumbo'
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 2fb62947-5bd7-5786-a0d4-99ad129419f2
+status: valid

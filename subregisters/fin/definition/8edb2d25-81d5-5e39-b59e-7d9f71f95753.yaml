@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: b6266e4b-b919-599c-9144-0064f19ec149
+  definition: paikkatiedon esittäminen tietokoneen ruudulla näytettävänä kuvatiedostona
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 8edb2d25-81d5-5e39-b59e-7d9f71f95753
+status: valid

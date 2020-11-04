@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132
+  concept: 815e3b8d-01eb-5627-8c3a-668d41c6cbde
+  definition: donnée suffisant à identifier un objet au cours du temps, indépendamment
+    de son état
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 73467e08-f88a-5fdd-a198-9e60a2cb1ce5
+status: valid

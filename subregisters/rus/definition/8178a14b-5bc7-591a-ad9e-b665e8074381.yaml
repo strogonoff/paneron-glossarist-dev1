@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '2004'
+    ref: UN/ECE
+  concept: 2d78c69a-6eea-58f9-b5f7-5f74f4a8edc1
+  definition: поверхность Земли, материалы под ней, воздушная среда выше и все, что
+    связано с почвой
+  examples: []
+  notes: []
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 8178a14b-5bc7-591a-ad9e-b665e8074381
+status: valid

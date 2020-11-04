@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: af830139-81bb-5ae1-aec1-5bfd70facdfc
+  definition: 域由点组成的覆盖。
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 854a9207-6e5f-596f-87bf-038e0f2d90ee
+status: valid

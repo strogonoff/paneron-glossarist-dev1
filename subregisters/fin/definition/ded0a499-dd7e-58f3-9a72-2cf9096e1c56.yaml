@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.21
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: e1da8a45-43f8-5a60-9a5e-bf13be3e1ad6
+  definition: paikannusjärjestelmien sisäiset muuttujat, jotka ilmaisevat saavutetun
+    suoritustason
+  examples: []
+  notes:
+  - Suoritusindikaattoreita voidaan käyttää ilmaisuna paikannusjärjestelmän tai paikannusratkaisun
+    laadunvalvonnasta. Sisäinen laadunvalvonta voi liittyä mm. vastaanotettujen radiosignaalien
+    vahvuuteen (signaali/kohina-suhde, SNR); nämä luvut ilmaisevat radiopaikannusjärjestelmien
+    geometrisistä rajoituksista johtuvaa tarkkuuden epävarmuutta (dilution of precision,
+    DOP) sekä järjestelmäkohtaisen  hyvyyden (figure of merit, FOM).
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: ded0a499-dd7e-58f3-9a72-2cf9096e1c56
+status: valid

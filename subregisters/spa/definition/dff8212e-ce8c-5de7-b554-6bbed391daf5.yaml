@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.79'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 0e18be31-e6e2-5e85-96b7-954c4a6338c5
+  definition: componente de sónar que convierte un impulso eléctrico en una onda de
+    sonido y la envía a través del agua
+  examples: []
+  notes:
+  - ': El transmisor también se llama proyector de ecosonda multihaz.'
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: dff8212e-ce8c-5de7-b554-6bbed391daf5
+status: valid

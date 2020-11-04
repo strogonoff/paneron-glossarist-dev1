@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: Manual of Photogrammetry
+  concept: ee965cf6-2df0-5d7f-99aa-31354e7dc04d
+  definition: region instantánea visible por  un único elemento del sensor, medida
+    como una apertura angular
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 2cc6ac6b-90d0-5639-a2d9-609223a85dc3
+status: valid

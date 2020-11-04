@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.56
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 1bcd3f49-d210-5d30-890e-32350e1e8b45
+  definition: ancho del retorno generado por un reflector puntual pequeño, que es
+    equivalente a la menor distancia posible entre dos reflectores puntuales que pueden
+    ser distinguidos como dos objetos
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: ff770791-6a28-54f5-a975-ce683b0d984e
+status: valid

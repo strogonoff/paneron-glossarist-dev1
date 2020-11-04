@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - clause: '2.15'
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guía 99:2007
+  concept: 482570c8-fe90-52ea-af9a-5903c1c5c8c5
+  definition: cercanía de concordancia entre las indicaciones o los valores cuantitativos
+    medidos obtenidos por mediciones repetidas sobre los mismos objetos u objetos
+    similares bajo condiciones específicas
+  examples: []
+  notes:
+  - La precisión de la medición generalmente se expresa numéricamente mediante medidas
+    de imprecisión, como la desviación típica la varianza o el coeficiente de variación
+    en las condiciones de medición especificadas.
+  - 'a: Las "condiciones especificadas" pueden ser, por ejemplo, condiciones de repetición
+    de medida, condiciones de medición de precisión intermedias o condiciones de medición
+    de reproducibilidad (ver Norma ISO 5725-3).'
+  - La precisión de medición se utiliza para definir la repetibilidad de la medición,
+    la precisión de medición intermedia y la reproducibilidad de la medición.
+  - A veces, la "precisión de medición" se usa erróneamente para significar exactitud
+    de medición.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 3560642d-5357-57ca-96d1-9635f01d96a0
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.30
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 421ae5e3-6466-5d3f-bf99-9407353d704e
+  definition: graf som omfattar alla länkar och noder i ett topologiskt komplex
+  examples: []
+  notes:
+  - The edge-node graph is a subcomplex of the complex within which it is embedded.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 34f56956-2cfc-5f9f-aa44-36a207dde254
+status: valid

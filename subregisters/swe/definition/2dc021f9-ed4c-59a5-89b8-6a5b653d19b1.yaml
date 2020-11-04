@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 2e3b9bcc-c1be-5583-b8f5-abe6224ef049
+  definition: skapa objekt från objekttyper eller klasser
+  examples: []
+  notes:
+  - A class or data element definition instantiates a type if it creates the ability
+    to create objects or data elements respectively, that can represent the concepts
+    (instance data and /or operations) defined by that type. A class is instantiated
+    by an object if the class defines that object's structure and function. A data
+    schema is instantiated by a data element if the data schema defines that element's
+    structure.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 2dc021f9-ed4c-59a5-89b8-6a5b653d19b1
+status: valid

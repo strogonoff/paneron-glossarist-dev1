@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 17411730-3d0e-5c4e-b284-3a6eedcfaf53
+  definition: punkt där två eller flera linjer i ett rutnät skär varandra
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 09005bc9-0c07-554c-819e-4c7b7aac268e
+status: valid

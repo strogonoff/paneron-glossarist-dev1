@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.27'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: ec69c8cc-9b35-5125-9c38-3ff579e12280
+  definition: '[условная] граница между  автоматизированной системой или человеком
+    – и другой автоматизированной системой или [другим] человеком'
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: dc7aa359-631a-5634-8208-5bff5ef0cd06
+status: изъятый

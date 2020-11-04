@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.5
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  concept: a265cc80-0dcc-55bf-9df2-c17c352b9924
+  definition: punkt widzenia (4.7) na dany system ODP (otwartego przetwarzania rozproszonego)
+    oraz jego otoczenie, który skupia się na wyborze technologii systemu
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 8002dfcf-28ce-5432-96d9-9a87c9d8d429
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/26780.html
+    ref: 'ISO 8601:2000 '
+  concept: 5fce7691-bf4e-50d8-a13c-94d1ee096359
+  definition: 1582年引入的通用日历，所定义的年比儒略历的更接近回归年。
+  examples: []
+  notes:
+  - 公历的引入消除了儒略年的累积误差。在公历中，历年或为平年，或为闰年，均分为12个顺序月。
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: c04f5c02-f049-5b0d-bb2a-655787161065
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: fbd12ec8-ab4a-53d1-8cbb-c2cd8f4f650f
+  definition: عدد القياسات أو المحاور المطلوبة لوصف موقع ما في إطار نظام إحداثي
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ba720ebf-96bc-5165-a2dc-85628b3fbfb1
+status: superseded

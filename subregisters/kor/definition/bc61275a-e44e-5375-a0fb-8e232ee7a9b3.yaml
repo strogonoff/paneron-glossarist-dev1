@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: a3454830-25b6-535a-98b2-65590ebaf09a
+  definition: 보다 낮은 기하 차원의 기하 원시 객체 집합으로 기하 객체의 범위를 표현하는 경계
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: bc61275a-e44e-5375-a0fb-8e232ee7a9b3
+status: superseded

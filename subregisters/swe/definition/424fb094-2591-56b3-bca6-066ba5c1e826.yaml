@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.24
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: b8a46146-7b56-513c-81d1-2cf41d0cf3a4
+  definition: system för att kunna bestämma ett objekts läge
+  examples: []
+  notes:
+  - Examples include inertial, integrated, linear, optical, and satellite positioning
+    systems.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 424fb094-2591-56b3-bca6-066ba5c1e826
+status: valid

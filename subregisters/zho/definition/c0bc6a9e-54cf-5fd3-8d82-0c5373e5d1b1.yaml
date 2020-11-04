@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 3d81e936-d581-53da-960d-eb3f29ef46c4
+  definition: 对象请求的、影响行为的服务。
+  examples: []
+  notes:
+  - 操作有一个特征标记，可以限制可能的实际参数。
+  - UML参考手册的定义：对象可以调用执行的变换或查询的描述。
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: c0bc6a9e-54cf-5fd3-8d82-0c5373e5d1b1
+status: superseded

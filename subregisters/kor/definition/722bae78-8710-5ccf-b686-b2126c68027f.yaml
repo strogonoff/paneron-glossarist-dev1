@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: 118644b2-f335-52cb-9afc-45473c04299d
+  definition: 지형지물 목록에 자세히 명시되어 있을 가능성이 있는 개념에 관계된 서술적 연관 정보와 정의를 담고 있는 사전
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 722bae78-8710-5ccf-b686-b2126c68027f
+status: valid

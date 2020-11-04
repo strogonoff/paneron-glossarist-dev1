@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: 840d6e87-6717-5f05-9619-65869570d3cb
+  definition: filter expression that includes one or more clauses that constrain properties
+    from two different entity types
+  examples: []
+  notes:
+  - In this International Standard, the entity types are resource types.
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: ee38bad7-f541-5127-942c-7265262f6076
+status: valid

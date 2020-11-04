@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.25
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 17eb3a74-e8e9-5cfc-aed7-7832b8a706ad
+  definition: objekts position angivet som relation till andra objekt
+  examples: []
+  notes:
+  - The spatial relationship of one point relative to another may be one-, two- or
+    three-dimensional.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: d4da04fe-c633-5f96-ba98-39a75939235e
+status: valid

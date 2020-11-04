@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: d5de3f16-9a8e-5f79-a1ec-cc3cbefb5222
+  definition: 공간 및 시간에서 직접 위치의 집합을 표현하는 객체
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: dbccfceb-a973-5df9-97a6-6d6594d705b3
+status: valid

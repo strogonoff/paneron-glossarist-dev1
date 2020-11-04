@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.4
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: d1c850af-2a22-57ba-9efd-4af974729263
+  definition: operacja na współrzędnych składająca się z sekwencyjnych operacji na
+    współrzędnych
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 124041fd-9ac1-5038-902d-da8ab25ab9d8
+status: valid

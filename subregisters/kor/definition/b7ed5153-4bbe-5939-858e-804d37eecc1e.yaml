@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 6c5d69ed-76aa-5388-a5c3-91754b0e25a1
+  definition: 다량의 자료를 광역 전환하기 위해 진행되는 오프라인 처리과정
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: b7ed5153-4bbe-5939-858e-804d37eecc1e
+status: valid

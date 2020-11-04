@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.97
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: e97a476d-3176-5e63-a30d-725a0de3e599
+  definition: collection de primitives topologiques fermée selon les opérations de
+    frontière
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 1c0688f0-47fe-5538-bff9-841280b2a110
+status: valid

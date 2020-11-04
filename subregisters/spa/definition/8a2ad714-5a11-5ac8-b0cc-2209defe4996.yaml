@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: https://searchcio.techtarget.com/
+  concept: 46bc20ce-ce9a-5565-bb5b-116ad13dc889
+  definition: característica de ser capaz de asignar un significado o aplicación diferente
+    a algo en diferentes contextos, específicamente, permitir a una entidad, como
+    una variable, una función o un objeto, tener más de una forma
+  examples: []
+  notes:
+  - Hay diferentes tipos de polimorfismo
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 8a2ad714-5a11-5ac8-b0cc-2209defe4996
+status: valid

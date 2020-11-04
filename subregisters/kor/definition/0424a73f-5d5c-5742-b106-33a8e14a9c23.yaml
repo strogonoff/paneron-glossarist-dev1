@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.23
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 66d7ff22-9413-57b3-a5ba-d480fd5d2dd7
+  definition: 자식 요소, 속성 및 문자 데이터 등을 갖는 XML 문서의 기초 정보 항목
+  examples: []
+  notes:
+  - XML Information Set에서는 "모든 XML 문서는 start 꼬리표와 end 꼬리표로 범위 지워진 한 개 혹은 여러 개의 요소로
+    구성되며, 내용이 없는 경우에는 empty 꼬리표를 사용한다. 각각의 요소는 종종 '고유 식별자(GI)'라 불리우며 명칭에 의해 식별되는 유형과
+    속성 사양 집합을 갖는다. 각각의 속성은 명칭과 값을 갖게 된다.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 0424a73f-5d5c-5742-b106-33a8e14a9c23
+status: valid

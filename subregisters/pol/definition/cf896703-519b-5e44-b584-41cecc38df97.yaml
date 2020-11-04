@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40114.html
+    ref: ISO 19125-1:2004
+  concept: e4ea65ec-49e6-50f2-bebc-8b0a1db8d8f4
+  definition: obiekt (4.11) ograniczony do geometrii 2-wymiarowej,określony metodą
+    liniowej interpolacji między wierzchołkami, mający zarówno przestrzenne, jak i
+    nieprzestrzenne atrybuty
+  examples: []
+  notes: []
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: cf896703-519b-5e44-b584-41cecc38df97
+status: valid

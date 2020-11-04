@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  concept: afc13d27-3d6d-51c7-9bab-0848f3a86970
+  definition: combinaison de routage, guidage et suivi d'itinéraire
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 7f8b1cda-72c3-58e5-b74c-3d4e59540163
+status: valid

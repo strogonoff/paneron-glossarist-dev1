@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: c75138c5-f0cb-5374-a300-a2e3ca8a6ab5
+  definition: connexion sémantique entre éléments du modèle
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: acf2faa6-996e-590d-8a26-9f999d9b8385
+status: valid

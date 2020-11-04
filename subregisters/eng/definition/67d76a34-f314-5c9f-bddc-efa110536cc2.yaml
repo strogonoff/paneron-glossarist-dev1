@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.50'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: aea2362b-5144-58e7-be29-8b4df6eaebee
+  definition: downward normal to the platform horizontal plane
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 67d76a34-f314-5c9f-bddc-efa110536cc2
+status: valid

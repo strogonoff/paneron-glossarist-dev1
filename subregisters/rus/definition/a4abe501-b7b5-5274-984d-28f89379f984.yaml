@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: e22d42d5-0e50-5ac7-8dc0-849bc4a6722e
+  definition: единица измерения для представления результатов оценки качества данных
+  examples:
+  - «Метр»
+  notes:
+  - Единица измерения качества данных присутствует при условии ее применимости к результату
+    оценки качества
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: a4abe501-b7b5-5274-984d-28f89379f984
+status: изъятый

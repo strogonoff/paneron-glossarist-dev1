@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: fa7bdad4-ba97-57c5-a5dc-abdb01c54453
+  definition: testitulos, joka osoittaa, etteivät vaatimukset täyty
+  examples: []
+  notes:
+  - Hylkäys voi johtua siitä, ettei testikohde testin mukaan sovellu tarkoitukseensa
+    tai siitä, ettei testikohde täytä yhtä tai useampaa asiaankuuluvissa standardeissa
+    mainittua vaatimusta.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: c6974c86-a175-56f9-b33e-b1ec262f5aac
+status: valid

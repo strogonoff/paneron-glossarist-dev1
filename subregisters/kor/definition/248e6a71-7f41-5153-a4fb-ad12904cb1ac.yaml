@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.1'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: b3c6a1c9-48cf-514f-b7c3-1de053a5ce75
+  definition: 탐지 수행을 위해 사용되는 에너지를 생성하는 센서
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 248e6a71-7f41-5153-a4fb-ad12904cb1ac
+status: valid

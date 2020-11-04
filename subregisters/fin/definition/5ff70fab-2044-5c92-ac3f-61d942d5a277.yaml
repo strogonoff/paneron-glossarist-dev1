@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40611.html
+    ref: ISO/IEC TR 21000-1:2004
+  concept: 1ed7b73b-c034-527a-982c-5579dcec8f35
+  definition: rakenteinen digitaalinen objekti [esine, työ, palvelu, tieto tai informaatio],
+    jolla on standardimuotoinen rakenne esittämistä, yksilöintiä ja metatietoa varten
+  examples: []
+  notes: []
+dateAccepted: 2005-10-17 00:00:00+00:00
+id: 5ff70fab-2044-5c92-ac3f-61d942d5a277
+status: valid

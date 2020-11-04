@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 8ce91f63-2c22-5ea2-8a3a-e308c1b9c551
+  definition: topologiskt objekt som anger det logiska sambandet mellan ett topologisk
+    grundelement och en av dess orienteringar
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: d6f3ca0b-4653-59e7-8de5-7dc77d8d2f1b
+status: retired

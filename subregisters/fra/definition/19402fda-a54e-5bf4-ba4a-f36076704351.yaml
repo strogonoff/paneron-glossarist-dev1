@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  concept: b0302a1a-5bab-51fa-9bfb-a5dd692e8496
+  definition: séquence de liens et / ou liens partiels décrivant un chemin, en général
+    entre deux positions, dans un réseau
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 19402fda-a54e-5bf4-ba4a-f36076704351
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: Adapted from STM E2544
+  concept: c4916307-b0a7-5e65-8c16-6f6344e0d9df
+  definition: первый отраженный сигнал, который регистрируетсяя системой 3D-изображений,
+    по типу (TOF) времени полета, для заданного  положения  выборки и заданного испускаемого
+    импульса
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: d961f715-53f3-5f01-bfa7-11a82b9872d7
+status: valid

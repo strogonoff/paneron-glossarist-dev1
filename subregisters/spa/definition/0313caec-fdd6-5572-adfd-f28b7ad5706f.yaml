@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 2b60e0e0-8e94-5752-bcb2-8c8263825263
+  definition: limitación sobre cómo un enlace o un giro puede ser recorrido por un
+    vehículo,  por ejemplo, según la categoría del vehículo, o sus restricciones físicas
+    o temporales
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 0313caec-fdd6-5572-adfd-f28b7ad5706f
+status: valid

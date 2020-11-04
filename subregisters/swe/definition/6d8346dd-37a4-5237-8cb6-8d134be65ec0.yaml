@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20697.html
+    ref: ISO/IEC 10746-3:1996
+  concept: e56b8d93-73bf-50e5-8abf-c38d5cc5a6f3
+  definition: perspektiv på ett system och dess omgivning som ger möjlighet att dela
+    upp systemet i funktioner som samverkar via gränssnitt
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 6d8346dd-37a4-5237-8cb6-8d134be65ec0
+status: superseded

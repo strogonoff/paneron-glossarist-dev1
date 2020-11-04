@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 676d1d6a-ae13-5ac9-8d9a-726e9ed7c0e4
+  definition: 입력 데이터 구조의 인스턴스를 출력 자료 구조의 인스턴스로 바꾸는 규칙
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: 6d04a793-bcea-54a8-a918-769f9137271d
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.39
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: e2438fb8-a68f-5474-bf64-07f6eadbd984
+  definition: вертикальный угол от касательной плоскости локальной поверхности до
+    направления наклонной дальности
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 90374d6e-7ecf-52c4-b7d7-b218672ae484
+status: valid

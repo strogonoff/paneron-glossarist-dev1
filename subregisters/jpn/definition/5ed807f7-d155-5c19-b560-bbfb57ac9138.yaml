@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 1776de4d-059e-59a8-a134-d2cd997b84b9
+  definition: 位相複体の位相プリミティブに一対一対応した幾何プリミティブをもつ幾何複体。その二つの複体の境界関係は一致する。
+  examples: []
+  notes:
+  - この実現では，位相プリミティブは，対応する幾何プリミティブの内部を表現するものとみなす。合成したものは閉じている。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5ed807f7-d155-5c19-b560-bbfb57ac9138
+status: superseded

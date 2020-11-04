@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.46'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: c7eb6ef4-878c-51e8-999b-6b12cf71976a
+  definition: 광학 시스템의 초기 또는 첫 영상을 구성하고 객체로부터 빛을 수신하는 광학 소자
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: b88d1eb7-5109-536e-aed0-48e5ab2eb22a
+status: valid

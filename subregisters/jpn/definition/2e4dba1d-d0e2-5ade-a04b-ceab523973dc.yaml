@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 838acc70-10c8-58b5-af88-383cebeee0fc
+  definition: 論理的な開始点をもたないために，それ自身のどのような循環的なシフトとも同一になり，結果として最後の項目が順列の最初の項目に先行するとみなされる列。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2e4dba1d-d0e2-5ade-a04b-ceab523973dc
+status: retired

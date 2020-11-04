@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.16'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: e3b5ec25-6fc6-521b-9831-d84bc6f5e323
+  definition: способность поддерживать расширенные ресурсы GeoDRM и усиливать GeoDRM
+    определенными правами и защитой
+  examples: []
+  notes:
+  - Распространяется на ресурсы для обработки информации.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 97ee1381-e3dc-55b5-9c9e-4fe4b4ddb247
+status: valid

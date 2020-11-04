@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  concept: c3963843-a765-51eb-a5b8-9ad4d8fa99c7
+  definition: componentes de esquema en el espacio de nombres XML«http://www.opengis.net/gml/3.2»
+    tal y como se especifica en esta Norma Internacional
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: e69606b0-0795-5666-a66d-677b55641a4d
+status: superseded

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.34
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: e6ea1320-766f-5dd7-b9c9-55af0c62cc0e
+  definition: descripción formal de un modelo
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: b1c5fa52-84b5-5170-9255-29ba1bb9717e
+status: valid

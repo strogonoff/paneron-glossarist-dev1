@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  concept: c3963843-a765-51eb-a5b8-9ad4d8fa99c7
+  definition: composants de schéma dans l'espace de nommage XML "http://www.opengis.net/gml/3.2",
+    comme spécifié dans cette Norme Internationale (19136)
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 353ffca0-746b-5f14-b5bf-aae1c5b8b0e6
+status: superseded

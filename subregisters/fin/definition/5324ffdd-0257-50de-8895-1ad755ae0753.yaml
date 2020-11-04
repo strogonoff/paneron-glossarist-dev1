@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 6b5f2f1c-1ba3-5f4b-bb8b-3f4dedc3abde
+  definition: hyvinmääritelty joukko
+  examples: []
+  notes:
+  - Määritysjoukkoja käytetään ominaisuuksien, operaattoreiden ja funktioiden arvojoukkojen
+    määrittelyyn.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5324ffdd-0257-50de-8895-1ad755ae0753
+status: valid

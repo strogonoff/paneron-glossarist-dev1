@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 66a41f3b-5ab5-5d18-9047-8af3ad82ab8b
+  definition: изменение координат пространственных объектов с использованием их математической
+    связи при переходе от одной системы координат к другой
+  examples: []
+  notes:
+  - Общий случай трансформирования или перевычисления
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 2e99b242-0ae8-5f18-b4e5-fa39ae5fdbac
+status: superseded

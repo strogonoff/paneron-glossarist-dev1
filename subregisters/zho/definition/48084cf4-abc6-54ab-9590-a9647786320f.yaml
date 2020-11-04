@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: ce8698ba-3737-5647-a92f-3772ec842f0b
+  definition: 在一个数据覆盖域中，任何一个空间对象、时间对象或时空对象的不同直接位置都返回相同要素属性值。
+  examples: []
+  notes:
+  - 离散数据覆盖域由空间对象、时间对象、时空对象的有限集组成。
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 48084cf4-abc6-54ab-9590-a9647786320f
+status: valid

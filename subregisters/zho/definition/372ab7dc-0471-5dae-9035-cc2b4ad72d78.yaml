@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.9
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: cd1bc0ad-5a39-5d5b-8025-93ffe91dc90f
+  definition: 通过基准与现实世界相关联的坐标系
+  examples: []
+  notes:
+  - 对大地基准和高程基准而言，对象是地球。
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 372ab7dc-0471-5dae-9035-cc2b4ad72d78
+status: valid

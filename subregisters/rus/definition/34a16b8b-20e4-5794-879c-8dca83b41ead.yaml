@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: modified
+    ref: New Concepts in BASIS Licensing
+  concept: 135cf34c-8aee-5ee4-90df-c2e5d88d7e4e
+  definition: приложение, которое отслеживает лицензии, доступные организации, и координирует
+    выдачу этих лицензий запрашивающим клиентам
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 34a16b8b-20e4-5794-879c-8dca83b41ead
+status: valid

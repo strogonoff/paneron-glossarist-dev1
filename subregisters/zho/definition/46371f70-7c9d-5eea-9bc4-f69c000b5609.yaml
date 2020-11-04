@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 482f5a0f-5835-5fd1-9519-10b6dbef5394
+  definition: 两个结点（连接点）之间有向的拓扑连接，由一条边和一个方向组成。
+  examples: []
+  notes:
+  - 有向路段是有向边的别名。
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 46371f70-7c9d-5eea-9bc4-f69c000b5609
+status: valid

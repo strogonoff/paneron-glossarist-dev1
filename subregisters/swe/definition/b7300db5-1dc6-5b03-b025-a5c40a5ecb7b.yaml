@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 3.2.4
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 9e160891-b1b3-5996-bc78-8ebbe1467a91
+  definition: abstraktion av en egenskap hos en viss referent eller hos en grupp av
+    referenter
+  examples: []
+  notes:
+  - Characteristics are used for describing concepts.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: b7300db5-1dc6-5b03-b025-a5c40a5ecb7b
+status: valid

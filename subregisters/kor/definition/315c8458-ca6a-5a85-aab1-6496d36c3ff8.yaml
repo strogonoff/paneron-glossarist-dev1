@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: 36672181-38f9-52d7-93cc-a6c9d2c9fbc3
+  definition: 질의 연산에 대한 응답으로 나타날 수 있는 각 피쳐 유형의 속성을 정의하는 스키마
+  examples: []
+  notes:
+  - This is the schema of feature types that a client can obtain using the DescribeFeatureType
+    operation (see Clause 9).
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 315c8458-ca6a-5a85-aab1-6496d36c3ff8
+status: valid

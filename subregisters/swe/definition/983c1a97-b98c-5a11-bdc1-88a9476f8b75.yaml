@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 63d54d38-10f7-5a5d-b143-9e06f65eaae4
+  definition: objekt sammansatt av andra objekt
+  examples: []
+  notes: []
+dateAccepted: 2005-06-15 00:00:00+00:00
+id: 983c1a97-b98c-5a11-bdc1-88a9476f8b75
+status: valid

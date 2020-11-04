@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 6a4ef526-911f-561b-8d47-8c1851a33adf
+  definition: '<hos attribut> det att attributet endast kan anta
+
+    vissa värden mellan två angivna värden'
+  examples: []
+  notes:
+  - Legal changes of parcel changes are discrete, having occurred at a specific time.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: e89abfa5-8fb9-5d90-9d40-c9ed11019100
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.6
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 954107c1-b89c-513f-9be1-e48a5a681312
+  definition: conjunto que representa el límite de una entidad
+  examples: []
+  notes:
+  - El término frontera se usa normalmente en el contexto de geometría, siendo conjunto,
+    una colección de puntos o de objetos que representan a esos puntos. En otros ámbitos,
+    el término se usa metafóricamente para describir la transición entre una entidad
+    y el resto del universo de discurso.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 50847662-36a5-5243-b58a-511e14936858
+status: valid

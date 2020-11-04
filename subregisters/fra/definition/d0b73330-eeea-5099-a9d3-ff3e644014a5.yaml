@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: ( Adapted from)
+    link: https://www.iso.org/standard/26780.html
+    ref: ISO 8601:2000
+  concept: 5fce7691-bf4e-50d8-a13c-94d1ee096359
+  definition: calendrier d'usage courant; introduit pour la première fois en 1582
+    pour définir l'année qui approximait plus précisément l'année tropique que le
+    calendrier Julien
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: d0b73330-eeea-5099-a9d3-ff3e644014a5
+status: valid

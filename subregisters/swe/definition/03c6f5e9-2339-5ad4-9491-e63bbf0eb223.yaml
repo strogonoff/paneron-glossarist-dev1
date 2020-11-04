@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  concept: 482a1469-c431-537c-8ca5-b865bb2a108e
+  definition: sätt för en kund att försäkra sig om att en leverantör har förmågan
+    att varaktigt leverera till efterfrågad kvalitet
+  examples: []
+  notes:
+  - The assessment procedure is a second-party (customer) conformity assessment activity.
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 03c6f5e9-2339-5ad4-9491-e63bbf0eb223
+status: valid

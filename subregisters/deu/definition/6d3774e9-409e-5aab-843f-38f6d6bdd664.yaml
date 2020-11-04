@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.10
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: e24e8597-01ba-50aa-8c49-1f07591f2757
+  definition: Information über die Georeferenzierung von Bildern
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 6d3774e9-409e-5aab-843f-38f6d6bdd664
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: c466728d-152a-5086-8600-1f817866b132
+  definition: расстояние от эллипсоида до точки на физической поверхности Земли по
+    нормали к его поверхности
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 47863f1b-8291-5045-bbec-ca304bd910bc
+status: superseded

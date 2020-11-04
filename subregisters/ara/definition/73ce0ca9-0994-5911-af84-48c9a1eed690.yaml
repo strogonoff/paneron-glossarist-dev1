@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: 267a5296-2584-553a-9df2-469109d95e5b
+  definition: أصول أو وسائل تفي بشرط أو متطلب معيَّن
+  examples:
+  - مجموعة بيانات , أو خدمة , أو وثيقة , أو شخص أو هيئة أو منظمة.
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 73ce0ca9-0994-5911-af84-48c9a1eed690
+status: superseded

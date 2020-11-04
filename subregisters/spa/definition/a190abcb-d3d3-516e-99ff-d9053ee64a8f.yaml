@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 23f6cc83-1107-565f-8081-549d4b7171bc
+  definition: parte de la gestión de la calidad centrada en dar confianza en que los
+    requisitos de calidad serán satisfechos
+  examples: []
+  notes: []
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: a190abcb-d3d3-516e-99ff-d9053ee64a8f
+status: valid

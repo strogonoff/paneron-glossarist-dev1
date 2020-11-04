@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: 6552fdb1-31bd-517e-be68-11c5ec3500a6
+  definition: modelo digital de elevaciones (MDE) que representa las elevaciones sobre
+    las superficies de edificios, árboles, torres y otros objetos geográficos elevados
+    sobre el terreno desnudo.
+  examples: []
+  notes:
+  - Los MDS son especialmente relevantes en la gestión de telecolumnicaciones, en
+    seguridad aérea, en gestión forestal, y en el modelado y simulación 3D.
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: 64a7ef98-6f06-582d-bb89-6738d5c056d1
+status: valid

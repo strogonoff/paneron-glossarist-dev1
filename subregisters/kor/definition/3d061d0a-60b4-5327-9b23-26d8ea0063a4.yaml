@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.20'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 4531647a-c252-5ca2-b4bd-7f14b5d77951
+  definition: 논의의 영역과 이를 데이터셋에 매핑하기 위한 사양에 대한 기술
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 3d061d0a-60b4-5327-9b23-26d8ea0063a4
+status: retired

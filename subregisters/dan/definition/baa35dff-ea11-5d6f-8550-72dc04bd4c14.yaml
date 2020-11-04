@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 2e421d4e-625d-5949-828f-6474295009ee
+  definition: regel, der forbinder ethvert element fra et domæne (kilde eller funktionens
+    domæne) med et entydigt element i et andet domæne (mål, fællesdomæne eller interval)
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: baa35dff-ea11-5d6f-8550-72dc04bd4c14
+status: superseded

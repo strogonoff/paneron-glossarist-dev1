@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: e23c40e5-674d-5544-bb6c-c2bf1232f854
+  definition: Verhältnis der Differenz zwischen der großen (a) und kleinen Halbachse
+    (b) zur großen Halbachse dieses Ellipsoids; f = (a - b)/a
+  examples: []
+  notes:
+  - Sometimes inverse flattening 1/f = a/(a-b) is given instead; 1/f is also known
+    as reciprocal flattening.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 52489973-6443-5bc4-b975-6e91e35136e7
+status: superseded

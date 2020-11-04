@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.31'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 44833273-eb7f-5900-9870-f69df4097515
+  definition: representation av information som till sin natur kan vara grafisk, hörbar
+    eller taktil, eller en kombination av dessa
+  examples: []
+  notes: []
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 9c9f8223-883a-5c14-8ffb-bc66972c9bb3
+status: valid

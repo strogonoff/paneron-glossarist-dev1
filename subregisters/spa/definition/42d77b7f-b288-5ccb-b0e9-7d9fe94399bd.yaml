@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 4.14, modified – Note 1 to entry has been added.
+    link: https://www.iso.org/standard/32552.html
+    ref: ISO 19134:2007
+  concept: 635fbf6a-ded8-5b6c-bd8c-6b0786f74083
+  definition: medio que pueden elegir los viajeros para su transporte
+  examples: []
+  notes:
+  - En esta norma internacional, el término "modo de transporte" se abrevia de manera
+    frecuente como "modo" por comodidad. El modo de transporte normalmente cubre grupos
+    de vehículos, por ejemplo, los medios de transporte utilizados para el transporte
+    por carretera, ferroviario, marítivo, aéreo y por cable. También se agrega un
+    modo para el transporte fluvial.
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: 42d77b7f-b288-5ccb-b0e9-7d9fe94399bd
+status: valid

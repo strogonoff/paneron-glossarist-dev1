@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: b2444a77-0558-50ec-9741-ac764f6c0423
+  definition: <UML>关联的特殊形式，用以说明聚集(整体)与组成部分之间的整体-部分关系。
+  examples: []
+  notes:
+  - 参见组合。
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: a7a32da1-1589-59c2-b537-44cdd081ce4b
+status: valid

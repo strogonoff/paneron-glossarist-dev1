@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/36760.html
+    ref: ISO 19131
+  concept: e0a58145-11e3-562a-ae83-66a5093bed34
+  definition: description détaillée d'un jeu de données ou d'une série de jeux de
+    données comprenant également des informations supplémentaires permettant leur
+    création, fourniture  et utilisation par une tierce partie
+  examples: []
+  notes: []
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 73db8482-b95c-59d2-b8b2-70710670b9db
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.45
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 7e833142-706c-507a-9ee0-0ea5fab7fbb1
+  definition: geometrisista primitiiveistä koostuva yhdistelmä, jolla ei ole sisäistä
+    rakennetta
+  examples: []
+  notes:
+  - Elementtien välisistä sijaintisuhteista ei voi tehdä oletuksia.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 101df8d9-9ea1-5da4-9be6-9504330003dd
+status: valid

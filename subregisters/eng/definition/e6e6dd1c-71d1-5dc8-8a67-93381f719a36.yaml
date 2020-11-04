@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: 964056e6-1059-593e-a045-78c48d27589c
+  definition: estimate of the value of a property determined through a known observation
+    procedure
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: e6e6dd1c-71d1-5dc8-8a67-93381f719a36
+status: valid

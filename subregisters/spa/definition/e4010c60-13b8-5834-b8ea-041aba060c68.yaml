@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.77'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 91b504c2-3b3f-5a6b-b93f-ab88cb57c156
+  definition: conjunto de frames secuenciales recogidos durante medio ciclo de un
+    escáner mecánico que representa una ruta transversal de un lado del campo al otro
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: e4010c60-13b8-5834-b8ea-041aba060c68
+status: valid

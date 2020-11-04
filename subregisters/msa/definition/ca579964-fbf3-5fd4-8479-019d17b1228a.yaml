@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 7-6
+    link: https://www.iso.org/standard/31892.html
+    ref: ISO 80000-7:2008
+  concept: 08f41803-6b91-50e5-9546-d3724012299f
+  definition: tenaga yang dipancar, pindah atau terima sebagai radiasi
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: ca579964-fbf3-5fd4-8479-019d17b1228a
+status: valid

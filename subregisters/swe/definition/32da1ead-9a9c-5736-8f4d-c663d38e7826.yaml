@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: 964056e6-1059-593e-a045-78c48d27589c
+  definition: uppskattning av värdet för en datauppgift hos ett objekt genom ett känt
+    bestämningsförfarande
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 32da1ead-9a9c-5736-8f4d-c663d38e7826
+status: valid

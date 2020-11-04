@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - null
+  concept: 3193a704-dc47-531e-a7a2-64c79a07a744
+  definition: parameter, associated with the result of measurement, that characterizes
+    the dispersion of values that could reasonably be attributed to the measurand
+  examples: []
+  notes:
+  - When the quality of accuracy or precision of measured values, such as coordinates,
+    is to be characterized quantitatively, the quality parameter is an estimate of
+    the uncertainty of the measurement results. Because accuracy is a qualitative
+    concept, one should not use it quantitatively, that is associate numbers with
+    it; numbers should be associated with measures of uncertainty instead.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: bb41d40c-ac1d-5d97-b620-9d1144063136
+status: valid

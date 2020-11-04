@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 022184d7-568f-53ea-85d3-f94b230eb791
+  definition: forma de agregación que requiere que una instancia componente sea incluida
+    como mucho en un compuesto al mismo tiempo y que el objeto compuesto sea responsable
+    de la creación y destrucción de las partes
+  examples: []
+  notes:
+  - 'Las partes que no tienen una multiplicidad fija deben crearse depués de la composición
+    misma, pero una vez creadas viven y mueren con ella (es decir, comparten ciclos
+    de vida). Dichas partes también pueden eliminarse explicitamente antes de la muerte
+    del compuesto. La composición puede ser recursiva. Sinónimo: agregación composición.'
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: ea1cb861-97e1-5bd5-8b32-8afe6487190e
+status: superseded

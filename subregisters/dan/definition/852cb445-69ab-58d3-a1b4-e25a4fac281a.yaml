@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.37
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: d80e5d2a-5d10-51e8-abc4-6126d53dc2e6
+  definition: forskel mellem universet og den enhed, der betragtes
+  examples: []
+  notes:
+  - Begrebet ydre kan anvendes både på topologiske og geometriske komplekser.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 852cb445-69ab-58d3-a1b4-e25a4fac281a
+status: valid

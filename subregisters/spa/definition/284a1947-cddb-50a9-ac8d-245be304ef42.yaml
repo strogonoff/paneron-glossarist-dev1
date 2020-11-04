@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.4
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 5e1adc3a-f013-5942-aa6d-5b5573b8f04c
+  definition: localización tridimensional del centro de la apertura sintética
+  examples: []
+  notes:
+  - Normalmente se expresa en coordenadas ECEF en metros.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 284a1947-cddb-50a9-ac8d-245be304ef42
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: afc13d27-3d6d-51c7-9bab-0848f3a86970
+  definition: Pelayaran atau proses mencari maklumat dalam tapak web dengan mengklik
+    hiperpautan yang akan membawa pengguna dari satu laman ke satu laman yang lain.
+    Sambil mengemudi, pengguna mungkin berpindah dari satu komputer ke satu komputer
+    lain atau dari satu pelayan ke satu pelayan lain tanpa disedari.
+  examples: []
+  notes:
+  - This is essentially the common term navigation, but the definition decomposes
+    the process in terms used in the packages defined in this International Standard.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 3c56fea0-df2d-5d29-83b6-6561f5d17bf6
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0e2de1e6-e028-530b-ab62-5a9b63d08f24
+  definition: термин, обобщающий геодезические, высотные и местные даты
+  examples: []
+  notes:
+  - Даты определяют положение начала, масштаб и ориентировку осей системы координат
+    по отношению к Земле
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 737a716a-6f9f-5a48-8873-3f4818fea3c9
+status: superseded

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: fbd12ec8-ab4a-53d1-8cbb-c2cd8f4f650f
+  definition: 좌표 체계에서 위치를 기술하는 데 필요한 측정 또는 축의 수
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ddf1202a-c3f3-5c56-9bf9-587076d45b29
+status: superseded

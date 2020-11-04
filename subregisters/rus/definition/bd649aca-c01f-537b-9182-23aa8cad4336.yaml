@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39890.html
+    ref: ISO 19119:2005
+  concept: 39a87300-4583-558b-bf5a-9c10b6d73b03
+  definition: такая последовательность сервISOв, в которой для каждой пары смежных
+    сервISOв  выполнение функций первого из них необходимо для работы следующего
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: bd649aca-c01f-537b-9182-23aa8cad4336
+status: valid

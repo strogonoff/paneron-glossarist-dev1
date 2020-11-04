@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.4
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  concept: e7b3e954-ac34-539e-b6c3-fed2b6e7bacb
+  definition: 시스템에서 객체들 간의 분산 상호 작용을 위해 요구되는 함수와 메카니즘에 초점을 둔 개방형 분산 처리 시스템과 그 환경에
+    대한 관점
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 093f0877-79d2-511f-a9d1-baf590b5984b
+status: valid

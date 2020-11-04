@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.9
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 0f94560c-b653-563d-a44c-8f31858a373d
+  definition: set of files containing identifiers assigned to items with descriptions
+    of the associated items
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: e3509629-31c3-5b82-9a0f-2485445fcaf6
+status: valid

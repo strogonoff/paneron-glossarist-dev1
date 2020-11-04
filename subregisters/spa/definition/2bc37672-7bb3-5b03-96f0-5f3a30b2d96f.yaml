@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.54
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 1b0a9919-a10f-5242-b377-9b2777b3e1b3
+  definition: documento XML que contiene definiciones y declaraciones de los componentes
+    de un esquema
+  examples: []
+  notes:
+  - El esquema XML W3C proporciona un formato de intercambio XML para los esquemas
+    de información. Un único documento de esquema proporciona las descripciones de
+    los componentes asociaciados con un único espacio de nombres XML, sin embargo
+    muchos documentos pueden describir componentes en el mismo esquema, es decir,
+    el mismo espacio de nombres objetivo.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 2bc37672-7bb3-5b03-96f0-5f3a30b2d96f
+status: valid

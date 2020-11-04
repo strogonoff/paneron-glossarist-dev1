@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: c0b71e1c-aeb3-5056-9b55-5faee44b4325
+  definition: Objek yang mempunyai bentuk tetap, pejal dan keras
+  examples: []
+  notes:
+  - A solid is realizable locally as a three parameter set of direct positions. The
+    boundary of a solid is the set of oriented, closed surfaces that comprise the
+    limits of the solid.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 644644d0-5643-5617-ad29-189059d7503b
+status: valid

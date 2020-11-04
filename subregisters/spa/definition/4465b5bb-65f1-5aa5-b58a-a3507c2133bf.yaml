@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 2be003c7-d604-5505-809a-4a87410992ef
+  definition: sistema de coordenadas bidimensional en el que la posición está especificada
+    por la dirección y la distancia desde el origen
+  examples: []
+  notes:
+  - Para el caso tridimensional, véase sistema de coordenadas esféricas (4.44).
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 4465b5bb-65f1-5aa5-b58a-a3507c2133bf
+status: superseded

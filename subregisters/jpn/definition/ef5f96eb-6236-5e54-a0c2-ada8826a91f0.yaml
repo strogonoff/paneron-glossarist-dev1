@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: d8ebd211-773e-566d-bb73-d7ca03e17b61
+  definition: 指定された幾何オブジェクトから与えられた距離以内のすべての直接位置を含む幾何オブジェクト。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ef5f96eb-6236-5e54-a0c2-ada8826a91f0
+status: superseded

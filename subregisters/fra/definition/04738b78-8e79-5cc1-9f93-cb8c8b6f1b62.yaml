@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  concept: d87e20d9-f14c-5956-a79d-50e4b1cf4e26
+  definition: structure habituellement rectangulaire de lignes de balayage parallèles
+    formant ou correspondant à l'affichage sur un tube cathodique
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 04738b78-8e79-5cc1-9f93-cb8c8b6f1b62
+status: valid

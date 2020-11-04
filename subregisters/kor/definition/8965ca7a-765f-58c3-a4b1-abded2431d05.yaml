@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.58
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 7ada0bc8-bc25-562a-ac89-750d172dfdf9
+  definition: XML 문서에서 요소의 범위를 정하는 내용의 마크업
+  examples:
+  - <도로>
+  notes:
+  - 앞쪽에 사선(/) 표시가 없는 꼬리표(예,<도로>)는 시작-꼬리표(또는 오픈 태그)라 하고, 앞쪽에 사선 표시가 되어 있는 꼬리표(예,</도로>)는
+    종료-꼬리표(또는 마감 꼬리표)라 한다.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 8965ca7a-765f-58c3-a4b1-abded2431d05
+status: valid

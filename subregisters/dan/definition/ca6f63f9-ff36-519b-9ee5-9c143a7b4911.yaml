@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  concept: b36c2070-dad5-5e8a-9b21-035ccbc983a0
+  definition: tabel, hvor kolonnerne repræsenterer featureattributter, og rækkerne
+    repræsenterer features
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: ca6f63f9-ff36-519b-9ee5-9c143a7b4911
+status: valid

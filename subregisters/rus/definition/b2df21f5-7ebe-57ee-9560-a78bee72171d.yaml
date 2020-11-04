@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: a986f23a-1e93-584b-837d-b5d11ef0887e
+  definition: путь движущейся точки, описываемый набором точек с одним параметром
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: b2df21f5-7ebe-57ee-9560-a78bee72171d
+status: valid

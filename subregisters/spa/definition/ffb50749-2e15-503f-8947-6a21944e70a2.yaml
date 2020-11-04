@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.20'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 4531647a-c252-5ca2-b4bd-7f14b5d77951
+  definition: descripción del universo de discurso y especificación para establecer
+    la correspondencia entre dicho universo y un conjunto de datos
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: ffb50749-2e15-503f-8947-6a21944e70a2
+status: retired

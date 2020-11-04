@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: edf4e872-3cbc-58a0-8ecc-167fb2f467b3
+  definition: symboliseringsfunktion där symbolvalet styrs av objektets innehåll
+  examples: []
+  notes: []
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 1735b90d-07c9-5e50-a627-1634b4e586cd
+status: valid

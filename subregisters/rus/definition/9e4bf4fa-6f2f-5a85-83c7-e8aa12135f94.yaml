@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    ref: Booch 1999
+  concept: 90a6f76d-eda7-566d-aca8-c99e8b8daad7
+  definition: семантическая связь между классификаторами, один из которых формулирует
+    условия контракта, а другой обязуется его выполнять
+  examples: []
+  notes: []
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 9e4bf4fa-6f2f-5a85-83c7-e8aa12135f94
+status: valid

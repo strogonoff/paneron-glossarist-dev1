@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.33
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 598b17ce-3a28-56e6-bcce-29c05e4b1679
+  definition: kąt dwuścienny między płaszczyzną południka początkowego i płaszczyzną
+    południka danego punktu, liczony od południka początkowego w kierunku wschodnim
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 4fd2a83f-c617-5185-be4a-a42e4d041b26
+status: valid

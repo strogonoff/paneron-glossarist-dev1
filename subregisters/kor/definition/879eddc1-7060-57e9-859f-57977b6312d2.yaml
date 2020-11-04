@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: 2a52f57d-b8fe-5065-9fce-99397c99d2d3
+  definition: 기억 또는 처리를 위해 명명된 레코드 집합의 단위
+  examples: []
+  notes: []
+dateAccepted: 2008-12-19 00:00:00+00:00
+id: 879eddc1-7060-57e9-859f-57977b6312d2
+status: valid

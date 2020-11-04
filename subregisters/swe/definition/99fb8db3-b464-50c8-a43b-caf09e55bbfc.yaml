@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.34
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: d2319c31-60cc-5049-b0a3-29ee624fed2c
+  definition: minsta skillnad mellan sensorindikationer som är möjlig att uppfatta
+  examples: []
+  notes:
+  - For imagery, resolution refers to radiometric, spectral, spatial and temporal
+    resolutions.
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 99fb8db3-b464-50c8-a43b-caf09e55bbfc
+status: valid

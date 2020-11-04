@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.2
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 468fd7b6-b1a3-516f-a326-bce26bc60817
+  definition: tjänst som åstadkommer komprimering
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: d30a3bd7-9c42-5a45-9372-06c8fe24f1fd
+status: valid

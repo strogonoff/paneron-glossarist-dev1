@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 4788e0b6-a971-5c59-b741-608552e0961b
+  definition: information needed at a point along a route in a network that allows
+    that route to be traversed
+  examples: []
+  notes:
+  - To minimize the number of instructions needed to complete a route traversal, a
+    default instruction can be assumed at junctions without specifically associated
+    instructions. This default is called the main-road rule.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 2e8b3ef9-cf13-5c70-a998-5665e302e6d8
+status: valid

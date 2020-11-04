@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UNFAO LCCS 2:2005
+  concept: 01bb6daf-187e-5fe0-b8ef-76ad954ed3b8
+  definition: iakttaget biologiskt-fysiskt täcke på jordens yta
+  examples: []
+  notes:
+  - Land cover is distinct from land use.
+dateAccepted: 2012-07-01 00:00:00+00:00
+id: 390ed263-ddbb-563d-ad5a-67bb5e9036a0
+status: valid

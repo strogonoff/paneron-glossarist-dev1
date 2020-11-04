@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: b15ab49a-febc-5cf0-884b-2225640b06a1
+  definition: 메타데이터를 구성하는 단위
+  examples: []
+  notes:
+  - 메타데이터 요소는 메타데이터 개체 내에서 유일하다
+  - UML 용어에서 속성과 대응되는 용어이다.
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: b1809ac8-0add-5814-bd47-0a577b1b945b
+status: valid

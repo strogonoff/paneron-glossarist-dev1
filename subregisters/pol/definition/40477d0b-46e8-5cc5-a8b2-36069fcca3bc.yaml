@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.6
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 954107c1-b89c-513f-9be1-e48a5a681312
+  definition: zbiór, który reprezentuje ograniczenie obiektu
+  examples: []
+  notes:
+  - 'Granica jest najczęściej używana w kontekście geometrii, gdzie zbiór stanowi
+    kolekcję punktów lub kolekcję obiektów reprezentujących te punkty.
+
+    W innych dziedzinach wyrażenie granica jest stosowane metaforycznie do opisu przejścia
+    między obiektem a resztą rozważanej dziedziny.'
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 40477d0b-46e8-5cc5-a8b2-36069fcca3bc
+status: valid

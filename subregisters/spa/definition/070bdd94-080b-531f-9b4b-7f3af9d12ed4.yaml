@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 6ba4fcd1-9a9d-586c-9a1b-362488ca9871
+  definition: objeto geográfico que actúa como una función que devuelve valores de
+    su rango para cualquier posición directa dentro de su dominio  espacial, temporal
+    o espacio-temporal
+  examples:
+  - Los ejemplos incluyen una imagen ráster, una capa de polígonos o una matriz digital
+    de elevaciones.
+  notes:
+  - En otras palabras, una cobertura es un objeto geográfico que tienen valores múltiples
+    para cada tipo de atributo, donde cada posición directa de la representación geométrica
+    del objeto geográfico tiene un valor único para cada tipo de atributo.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 070bdd94-080b-531f-9b4b-7f3af9d12ed4
+status: valid

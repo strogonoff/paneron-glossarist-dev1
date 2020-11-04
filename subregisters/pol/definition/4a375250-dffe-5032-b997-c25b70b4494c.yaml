@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.21
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 84079d27-6841-5537-afcf-59be952aa897
+  definition: 'odległość w układzie współrzędnych: dodatnia na wschód, a ujemna na
+    zachód od osi północ-południe'
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 4a375250-dffe-5032-b997-c25b70b4494c
+status: valid

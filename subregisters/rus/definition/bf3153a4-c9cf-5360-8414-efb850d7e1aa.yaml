@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: W3C XML
+  concept: 06fab249-f441-59ff-abf9-1b8a01a13944
+  definition: совокупность имен, которые используются в XML-документах как имена элементов
+    и имена атрибутов, идентифицируемая ссылкой на унифицированный идентификатор ресурса
+    (URI)
+  examples: []
+  notes: []
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: bf3153a4-c9cf-5360-8414-efb850d7e1aa
+status: valid

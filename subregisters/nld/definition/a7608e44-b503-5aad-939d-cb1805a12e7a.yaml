@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: e23c40e5-674d-5544-bb6c-c2bf1232f854
+  definition: verhouding van het verschil tussen de halve lange (a) en de halve korte
+    (b) as van een ellipsoïde ten opzichte van de halve lange as; f = (a - b)/a
+  examples: []
+  notes:
+  - Soms wordt de inverse afplatting 1/f = a/(a-b) gegeven; 1/f wordt ook wel de inverse
+    afplatting genoemd.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: a7608e44-b503-5aad-939d-cb1805a12e7a
+status: superseded

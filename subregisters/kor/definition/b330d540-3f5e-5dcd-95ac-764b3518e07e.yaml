@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - ref: IBM Rational System Developer
+  concept: 4ea7044d-1969-5f67-8f45-aacc6f1a2dc6
+  definition: 특정 유형의 모형 요소 그룹의 패턴을 식별 또는 묘사하는 매개변수화된 모형 요소
+  examples: []
+  notes: []
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: b330d540-3f5e-5dcd-95ac-764b3518e07e
+status: valid

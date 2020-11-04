@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 9cf33fc2-b129-5a1a-85bc-3bd1a2f6af3b
+  definition: formell eller informell förpliktelse att utföra viss handling
+  examples:
+  - The responsibility to clean a ditch, to keep a snow-free pavement or to remove
+    icicles from the roof during winter, or to maintain a monument.
+  notes: []
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 9095a4ac-c6e7-58d6-9dd4-92fa1a74b48e
+status: valid

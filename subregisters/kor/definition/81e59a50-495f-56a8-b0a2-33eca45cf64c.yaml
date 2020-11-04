@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.27'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: ec69c8cc-9b35-5125-9c38-3ff579e12280
+  definition: 인간이나 자동화된 시스템 간의 공유 경계
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: 81e59a50-495f-56a8-b0a2-33eca45cf64c
+status: retired

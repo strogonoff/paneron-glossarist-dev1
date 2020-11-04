@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 39f46e42-b479-5376-8e73-18ecb273d9d3
+  definition: relation sémantique entre deux ou plusieurs classificateurs qui spécifient
+    des connections parmi leurs instances
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 655a310c-685b-51ec-8db6-cf2174c65cd1
+status: superseded

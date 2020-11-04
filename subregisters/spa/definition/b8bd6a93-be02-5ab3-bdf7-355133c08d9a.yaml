@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (derived from)
+    link: https://www.iso.org/standard/2517.html
+    ref: 'ISO 12620:1999 '
+  concept: c640b4ce-1d8f-546d-94b1-e8ea25ec1fbc
+  definition: area definida de conocimiento humano a la que se asigna un registro
+    terminológico
+  examples: []
+  notes:
+  - Adaptado de  ISO 12620:1999
+  - Con una base de datos u otra colección terminológica, generalmente se definirán
+    un conjunto de dominios. Puede asociarse más de un dominio a un concepto dado.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: b8bd6a93-be02-5ab3-bdf7-355133c08d9a
+status: superseded

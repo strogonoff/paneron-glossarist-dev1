@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.18
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 62756558-3f87-5110-86a0-3d427f993da4
+  definition: databas för kunskap i ett visst ämne
+  examples: []
+  notes:
+  - The data base contains facts, inferences, and procedures needed for problem solution
+    [Webster Computer]
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 1b46e234-801d-590e-b16b-1e5a039e9a52
+status: valid

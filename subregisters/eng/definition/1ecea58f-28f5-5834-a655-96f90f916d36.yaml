@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 4.18, modified — Note 2 to entry has been added.
+    ref: Implementation Specification — a Draught Information System for the St. Lawrence
+      Seaway
+  concept: 2261b177-48cf-535c-bb28-14d11a4ae2c9
+  definition: effect that causes a vessel moving through water to create an area of
+    lowered pressure under its bottom that increases the effective draught (i.e. lowers
+    the vessel in the water)
+  examples: []
+  notes:
+  - The effect is a result of Bernoulli's principle of fluid dynamics. The squat represents
+    the increase in effective draught.
+  - For a ship underway, the change of level of the bow and stern from the still water
+    condition in response to the elevation and depression of the water level about
+    the hull resulting from the bow and stern wave systems.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 1ecea58f-28f5-5834-a655-96f90f916d36
+status: valid

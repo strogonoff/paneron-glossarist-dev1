@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.25
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 17eb3a74-e8e9-5cfc-aed7-7832b8a706ad
+  definition: положение точки относительно других точек
+  examples: []
+  notes:
+  - Пространственная взаимосвязь одной точки относительно другой может быть одномерной,
+    двумерной или трехмерной
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 84a034fa-9289-5533-979e-aec5aada7829
+status: valid

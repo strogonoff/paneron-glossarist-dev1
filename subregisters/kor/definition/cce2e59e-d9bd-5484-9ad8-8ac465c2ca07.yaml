@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: e5b51cfb-a60b-5536-90b2-ae83cd60c284
+  definition: 관측에 사용되는 샘플링 전략과 관측 절차의 조합
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: cce2e59e-d9bd-5484-9ad8-8ac465c2ca07
+status: valid

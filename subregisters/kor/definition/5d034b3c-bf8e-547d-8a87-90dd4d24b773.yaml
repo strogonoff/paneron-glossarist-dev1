@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: c3b627a5-09ef-5a71-8cd5-e8c87b8cd4b7
+  definition: 데이터 품질 측정 값을 생성하는 데 기준으로 사용되는 일반적인 데이터 품질 척도
+  examples: []
+  notes:
+  - 데이터 품질 기본척도는 추상 데이터 유형으로 데이터의 품질을 보고할 때 직접적으로 사용될 수 없다.
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 5d034b3c-bf8e-547d-8a87-90dd4d24b773
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.2.13
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: cf74f1e2-f24c-552b-a1e0-4c33ade02393
+  definition: 일반 개념 또는 포괄적 개념
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 247de66a-32b3-54e9-8f13-cb12b5673b25
+status: valid

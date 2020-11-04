@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 35b6a36a-31a2-5aa9-b5ef-cd0c59b29e9c
+  definition: система, в которой измеряется время
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 281bea2b-02e2-5cf1-b3e7-b288ed846f51
+status: valid

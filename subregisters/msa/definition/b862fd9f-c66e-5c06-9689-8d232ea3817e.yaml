@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '2.26'
+    link: https://www.iso.org/standard/43738.html
+    ref: ISO 12718:2008
+  concept: 4592fe85-98a0-5120-b6ca-9c2f29fd768e
+  definition: isyarat yang tidak diingini yang boleh mengganggu pengukuran
+  examples: []
+  notes:
+  - Noise is a random fluctuation in a signal disturbing the recognition of a carried
+    information.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: b862fd9f-c66e-5c06-9689-8d232ea3817e
+status: valid

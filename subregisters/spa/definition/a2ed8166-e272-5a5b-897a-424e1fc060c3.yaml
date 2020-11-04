@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: 1076e37e-cd82-5fd5-9573-c9d7734e2747
+  definition: componente cuantitativo que documenta la calidad de un conjunto de datos
+  examples: []
+  notes:
+  - La aplicabilidad de un elemento de la calidad de datos a un conjunto de datos
+    depende tanto del contenido del conjunto de datos como de su especificación de
+    producto; como resultado, todos los elementos de la calidad de datos pueden no
+    ser aplicables a todos los conjuntos de datos.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: a2ed8166-e272-5a5b-897a-424e1fc060c3
+status: retired

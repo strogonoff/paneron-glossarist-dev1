@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.37
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 8590b56c-e3ae-5e0f-8cda-20b65e644fd3
+  definition: schema components in the XML namespace "http://www.opengis.net/gml/3.2"
+    as specified in this document (which is ISO 19136:2020)
+  examples: []
+  notes: []
+dateAccepted: 2020-01-09 00:00:00+00:00
+id: 63ba153e-055e-5414-9b5a-d3c452b5afe3
+status: valid

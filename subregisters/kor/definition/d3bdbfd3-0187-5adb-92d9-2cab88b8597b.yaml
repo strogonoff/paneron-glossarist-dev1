@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: e22d42d5-0e50-5ac7-8dc0-849bc4a6722e
+  definition: 데이터 품질 결과를 보고하는 값의 단위
+  examples:
+  - 미터
+  notes:
+  - 데이터 품질 값 단위는 데이터 품질 결과에 적용 가능할 때만 제공된다.
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: d3bdbfd3-0187-5adb-92d9-2cab88b8597b
+status: retired

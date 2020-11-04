@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.45
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: bd657a2a-bc11-5f5c-bc92-ed8476959f9e
+  definition: система координат, основанная на параметрической привязке
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 682eb5b7-8aab-55ec-bd85-4ee8053ecd0c
+status: valid

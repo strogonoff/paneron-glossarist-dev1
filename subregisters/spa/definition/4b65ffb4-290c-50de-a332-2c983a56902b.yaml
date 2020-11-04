@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: ce57fa66-4d42-5e2d-9d1d-5f3ec16dd5fd
+  definition: secuencia de licencias que trazan una cadena de representaciones, en
+    la que cada licencia está otorgada en cada enlace de la cadena, lo que permite
+    al representante en ese enlace actuar como principal en el siguiente
+  examples: []
+  notes:
+  - Como en la cadena de mediaciones, se puede hablar de esa cadena en un sentido
+    u otro.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 4b65ffb4-290c-50de-a332-2c983a56902b
+status: valid

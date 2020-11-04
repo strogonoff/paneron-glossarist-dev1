@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.45'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: aa6af154-05c4-57ca-a7e8-a7e8f8d6b571
+  definition: 권리가 침해당했을 경우 손실이 발생할 수 있는 값
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: a546b790-adf4-5c7a-93ff-4f4bd986e238
+status: valid

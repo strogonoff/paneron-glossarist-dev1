@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: 4b98af84-f640-55f9-b3b6-890340792ea4
+  definition: 특정 기준시간에 기하 객체의 지역 원점과 지역 종좌표 벡터를 이용한 표현
+  examples: []
+  notes:
+  - A rigid geometric object may undergo translation or rotation, but remains congruent
+    with its base representation.
+  - The local origin and ordinate vectors establish an engineering coordinate reference
+    system (ISO 19111), also called a local frame or a local Euclidean coordinate
+    system.
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 6747a5e6-71eb-59eb-84df-4465adf9d636
+status: valid

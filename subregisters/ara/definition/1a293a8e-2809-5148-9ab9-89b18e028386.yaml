@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.2
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: dea2a089-a1e9-573a-b559-e8390ef7c6ac
+  definition: عوامل النموذج التي يمكن صقلها باستخدام معلومات إضافية متوفره مثل نقاط
+    الضبط الأرضية لتحسين أو تعزيز تصحيحات النموذج.
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 1a293a8e-2809-5148-9ab9-89b18e028386
+status: valid

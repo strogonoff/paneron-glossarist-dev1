@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: fea02f9f-02e3-53ef-ab40-bdfcffbcc486
+  definition: реализация, удовлетворяющая требованиям
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: a58f0876-b7e0-5d6f-bdce-1376364a986a
+status: valid

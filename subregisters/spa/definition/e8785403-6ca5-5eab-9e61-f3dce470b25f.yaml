@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  concept: 3160e588-dba5-508c-8171-0d582f7aad9b
+  definition: correspondencia de un Identificador de lugar (PI) que especifica un
+    sitio con otro  de otro tipo de PI, que identifica al mismo sitio
+  examples: []
+  notes:
+  - Un PI origen se puede corresponder con multiples Identificadores de lugar destino.
+  - La correspondencia de PI se puede hacer por coordenadas, identificadores geográficos
+    y por identificadores del mundo virtual como URI.
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: e8785403-6ca5-5eab-9e61-f3dce470b25f
+status: valid

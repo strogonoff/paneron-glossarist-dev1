@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.25
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: e4edc733-210c-514a-b4b1-10cb6a4eda4e
+  definition: system odniesienia bazujący na inżynieryjnym układzie odniesienia
+  examples:
+  - Lokalna siatka współrzędnych w zagadnieniach inżynieryjnych i architektonicznych
+    (budowlanych). Lokalny układ współrzędnych dla statku lub orbitującego statku
+    kosmicznego.
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: bf835214-7c42-5b6b-b555-2f9b03b1ec5a
+status: valid

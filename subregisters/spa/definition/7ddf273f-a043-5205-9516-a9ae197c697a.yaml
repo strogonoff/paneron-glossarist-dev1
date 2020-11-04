@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 6b49e2eb-9434-5882-8fcb-d9d544ff1285
+  definition: documento, o su representación, que especifica los derechos otorgados
+    a un usuario u organización particular con respecto a un contenido o grupo de
+    contenidos específico
+  examples: []
+  notes:
+  - El concepto central en DRM es el uso de licencias digitales. El consumidor, en
+    lugar de comprar el contenido digital, adquiere una licencia que le otorga ciertos
+    derechos relacionados con el contenido. Una licencia es el mecanimso mediante
+    el cual un propietario de derechos transfiere algunos de ellos a otra parte, como
+    un consumidor o un distribuidor.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 7ddf273f-a043-5205-9516-a9ae197c697a
+status: valid

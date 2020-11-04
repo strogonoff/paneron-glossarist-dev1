@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.38
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: da5d8e9d-b6db-5282-8ae8-6360c7cc7ea3
+  definition: 2-wymiarowy prosty element topologiczny
+  examples: []
+  notes:
+  - Realizacją geometryczną ściany jest powierzchnia.Granicą ściany jest zbiór krawędzi
+    skierowanych należących do tego samego złożonego elementu topologicznego, powiązanych
+    z tą ścianą relacjami granicznymi. Relacje te mogą być zorganizowane jako pierścienie.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 02d7961e-2744-5819-95dd-9590bcaa8319
+status: valid

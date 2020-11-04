@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: Adapted from NISTIR 7117
+  concept: 08c7560f-4170-57b3-b9c9-184ced28e4f1
+  definition: 단일 방출 펄스로부터 회신된 결과치를 전부 모은 수신자의 수집 자료
+  examples: []
+  notes:
+  - A complete 3D data sample of the world produced by a LIDAR taken at a certain
+    time, place, and orientation. A single LIDAR frame is also referred to as a range
+    image.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 8d27aa26-e118-53ce-a60e-8a6b897eaedb
+status: valid

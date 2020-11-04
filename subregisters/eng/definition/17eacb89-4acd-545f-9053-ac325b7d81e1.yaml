@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.30'
+    link: https://www.iso.org/standard/63541.html
+    ref: ISO 19104:2016
+  concept: 4e24a366-8233-5ae0-881e-3799551e25ef
+  definition: subregister in a hierarchical multi-lingual terminology register that
+    contains only terminological entries in a single submitted language
+  examples: []
+  notes: []
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: 17eacb89-4acd-545f-9053-ac325b7d81e1
+status: valid

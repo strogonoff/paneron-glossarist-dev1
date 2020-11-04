@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 2d8f440e-509d-5fd2-9098-f31342a33029
+  definition: méthode de test d'implémentation indépendante de toute procédure de
+    test
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 9f7a0b27-acaf-5fc4-b158-b499adb8f33f
+status: valid

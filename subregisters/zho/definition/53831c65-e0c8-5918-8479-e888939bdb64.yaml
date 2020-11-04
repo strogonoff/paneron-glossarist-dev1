@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/30726.html
+    ref: ISO/IEC TR 10000-1:1998
+  concept: 41762970-0be1-568b-b9bf-f27db80a6ba7
+  definition: 为实现应用、数据或人的互操作性和/或可移植性,由信息技术标准或专用标准规定的接口、服务和支持格式以及用户方面的综合集合。
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 53831c65-e0c8-5918-8479-e888939bdb64
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  concept: 43650201-9bb4-5b77-8f13-67d85e1565f9
+  definition: découpage d'un espace en un ensemble de sous-espaces coïncidents de
+    même dimension que l'espace partitionné
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 190958c9-c5a7-5486-818d-f6adc080ddb7
+status: valid

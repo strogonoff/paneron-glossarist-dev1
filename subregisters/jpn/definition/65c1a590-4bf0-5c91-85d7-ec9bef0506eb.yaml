@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: ae42a97c-c81e-50e8-8c30-ecf598ead803
+  definition: 同じ製品仕様書を使って作成したデータ集合の集まり。
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 65c1a590-4bf0-5c91-85d7-ec9bef0506eb
+status: retired

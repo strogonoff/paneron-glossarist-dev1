@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: 2c5eabf3-9c63-59e5-bf16-d6106edd0316
+  definition: 하나 이상의 지형지물 유형으로서 구체적으로 특정 될 수 있는 개념
+  examples:
+  - The feature concept "road" may be used to specify several different feature types,
+    each with a different set of properties appropriate for a particular application.  For
+    a travel planning application, it might have a limited set of attributes such
+    as name, route number, location and number of lanes, while for a maintenance application
+    it might have an extensive set of attributes detailing the structure and composition
+    of each of the layers of material for which it is composed.
+  notes: []
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: e95ffff7-87dd-55b6-ac1b-cd2b6cf89a9b
+status: valid

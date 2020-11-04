@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: bac69a7a-68a8-5295-bb2a-415f70ba59ae
+  definition: distance of a point from the ellipsoid measured along the perpendicular
+    from the ellipsoid to this point positive if upwards or outside of the ellipsoid
+  examples: []
+  notes:
+  - Only used as part of a three-dimensional ellipsoidal coordinate system and never
+    on its own.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 436b8385-b5f6-54e1-b5fa-6ef1bd1cdd73
+status: superseded

@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 772db77f-e23a-59cf-a32a-a83f971bea15
+  definition: ocurrencia de un valor de atributo o un objeto geográfico a lo largo
+    de otro objeto geográfico
+  examples: []
+  notes:
+  - La localización (4.19) del evento se especifica usando localizaciones referenciadas
+    linealmente (4.16)
+  - Un evento localizado linealmente puede calificarse mediante el instante (4.8)
+    o el periodo (4.20) durante el cual acontece el evento localizado linealmente
+  - La Norma ISO 19108 limita los eventos a un solo instante de tiempo y no incluye
+    la especificación de una localización
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 0681d3fb-eb07-5c68-8776-f5f0975f1254
+status: valid

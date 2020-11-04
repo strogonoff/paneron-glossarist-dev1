@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - ref: Adapted from the Manual of Photogrammetry
+  concept: 3c02ecb5-b2f8-52ac-9d1f-8da6874af3ce
+  definition: extensión angular total sobre la que puede definirse el campo de visión
+    (FOV)
+  examples: []
+  notes:
+  - El campo de observación es el área que es potencialmente visible por un sistema
+    en un instante. Se determina por el FOV del sistema y el rango de direcciones
+    en las que el sistema es capaz de apuntar.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 280b2aa8-6a52-5fbc-a963-53c06b5af394
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0e2de1e6-e028-530b-ab62-5a9b63d08f24
+  definition: parameter of set van parameters voor het definiëren van het nulpunt,
+    de schaal en de oriëntatie van een coördinaatsysteem
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: b65978eb-b4b2-596b-8054-31237718fdb1
+status: superseded

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: a467318f-d3e5-5815-8424-205e3040638b
+  definition: لغة رسمية مبنية على التكوين المفاهيمي  لغرض تمثيل المخططات المفاهيمية(
+    التصورية)
+  examples:
+  - لغة UML , لغة EXPRESS , لغة IDEF 1X.
+  notes:
+  - لغة المخطط التصوري يمكن أن تكون لفظية كما يمكن أن تكون مرسومة أو مصورة ، حيث أن
+    العديد من  المخطط التصوري يمكن أن تعتمد على نفس الشكلية التصورية .
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 5b264162-3c3a-5465-b14d-a4bc71ca4b78
+status: valid

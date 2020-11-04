@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.41
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 24ba2521-05d1-55ce-a95e-f5e042adbd16
+  definition: قيمة توصف باستخدام كمية رقمية بميزان أو باستخدام نظام مرجعي مدرج
+  examples: []
+  notes:
+  - كلمة قياس حينما تستخدم كاسم فإنها تصبح مرادفة لـ " كمية حسية ".
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 972cb17d-4d16-5bdd-99f8-ba76ca7d8059
+status: valid

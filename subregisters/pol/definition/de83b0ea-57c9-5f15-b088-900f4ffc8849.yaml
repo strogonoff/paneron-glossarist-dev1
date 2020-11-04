@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 4.1.10
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 69af39dc-62b1-5ef8-a70c-b2090a8ff59b
+  definition: specyfikacja przekształcenia lub zapytania, którego wykonania można
+    zażądać od obiektu
+  examples:
+  - 'UWAGA 1 Operacja ma swoją nazwę oraz listę parametrów.
+
+
+    UWAGA 2  Omówienie operacji, patrz 7.2.'
+  notes:
+  - Operacja posiada nazwę i liste parametrów.
+  - Zob. p.  7.2 [z ISO 19119] dla omówienia operacji.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: de83b0ea-57c9-5f15-b088-900f4ffc8849
+status: valid

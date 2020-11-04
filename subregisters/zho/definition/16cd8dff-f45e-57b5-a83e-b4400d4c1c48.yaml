@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: e318421f-f2b1-5f57-8893-0422ff872876
+  definition: 除了成本函数最优路径之外，还包含任何可满足路径请求的所有限制条件的路径。
+  examples: []
+  notes:
+  - 导航就是在备选路径中寻找最优化成本函数的过程。
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 16cd8dff-f45e-57b5-a83e-b4400d4c1c48
+status: valid

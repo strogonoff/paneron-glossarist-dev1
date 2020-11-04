@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: e1669710-e900-5d69-b11c-068573990bd8
+  definition: spécification d’un domaine de valeurs et d’opérations autorisées sur
+    les valeurs de ce domaine
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 08e17a2d-b328-566b-9007-6a38308bf92a
+status: valid

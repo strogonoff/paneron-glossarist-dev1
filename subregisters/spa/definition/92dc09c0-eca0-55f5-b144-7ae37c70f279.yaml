@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/1141.html
+    ref: ISO 2859-1
+  concept: 2460e3da-a989-504d-9293-84d6ab426479
+  definition: lo que puede ser descrito o considerado individualmente
+  examples: []
+  notes:
+  - Un ítem puede ser cualquier parte de un conjunto de datos, tal como un objeto
+    geográfico, una relación de objeto geográfico, un atributo de objeto geográfico,
+    o cualquier combinación de éstos.
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 92dc09c0-eca0-55f5-b144-7ae37c70f279
+status: retired

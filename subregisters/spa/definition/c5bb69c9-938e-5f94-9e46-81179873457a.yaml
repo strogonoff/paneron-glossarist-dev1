@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 838acc70-10c8-58b5-af88-383cebeee0fc
+  definition: secuencia que no tiene un principio lógico y en consecuencia es equivalente
+    a cualquier desplazamiento de sí mismo; de ahí que se considere que el último
+    ítem de la secuencia precede al primero
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c5bb69c9-938e-5f94-9e46-81179873457a
+status: retired

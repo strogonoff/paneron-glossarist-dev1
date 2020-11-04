@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: IBM Rational System Developer
+  concept: 4ea7044d-1969-5f67-8f45-aacc6f1a2dc6
+  definition: Параметризованный элемент модели, который описывает или идентифицирует
+    шаблон для группы элементов модели определенного типа
+  examples: []
+  notes: []
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 272d633f-b2db-5aa6-9a65-029e53ee63be
+status: valid

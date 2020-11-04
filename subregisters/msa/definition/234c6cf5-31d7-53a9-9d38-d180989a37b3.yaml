@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.18
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 62756558-3f87-5110-86a0-3d427f993da4
+  definition: Bahagian sistem berasaskan pengetahuan yang mengandungi kumpulan pengetahuan
+    pakar dalam bentuk fakta dan peraturan untuk membolehkan enjin taabir membuat
+    keputusan berdasarkan fakta yang diberikan.
+  examples: []
+  notes:
+  - The data base contains facts, inferences, and procedures needed for problem solution
+    [Webster Computer]
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 234c6cf5-31d7-53a9-9d38-d180989a37b3
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/37796.html
+    ref: ISO 19118:2005
+  concept: 419fa15a-3b22-5657-a0a4-7f5b8c4f3e01
+  definition: 在特定的环境中，认为不能再分的数据单元。
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 58b6dba5-cda5-59a1-9dfb-1be5287a28d4
+status: retired

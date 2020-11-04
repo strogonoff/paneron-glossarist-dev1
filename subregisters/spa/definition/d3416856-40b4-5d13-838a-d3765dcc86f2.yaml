@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  concept: 74625814-5e6c-5d9d-912b-0bbf662e287b
+  definition: conjunto de interfaces de servicio y estructuras de datos utilizadas
+    para la correspondencia de PI
+  examples: []
+  notes: []
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: d3416856-40b4-5d13-838a-d3765dcc86f2
+status: valid

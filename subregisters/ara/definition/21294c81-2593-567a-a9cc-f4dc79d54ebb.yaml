@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: f4caa91b-0957-599e-8994-16a4ac63ee76
+  definition: نوع القيمة الخاصة بالإبلاغ عن نتائج جودة البيانات
+  examples:
+  - '"متغير جبري" , "نسبة مئوية" , "نسبة".'
+  notes:
+  - يتم دائماً الإشارة إلى نوع القيمة الخاصة بجودة البيانات لكل نتيجة من النتائج المتعلقة
+    بجودة البيانات.
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 21294c81-2593-567a-a9cc-f4dc79d54ebb
+status: retired

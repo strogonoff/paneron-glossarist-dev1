@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.29'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 98112b71-e633-5337-bdb1-5f132700e89b
+  definition: 存储模式的表示模型。
+  examples:
+  - 模式仓库的表示模型。
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: a2ab41aa-d3fb-5fc7-b6f0-dd6bb2c20503
+status: valid

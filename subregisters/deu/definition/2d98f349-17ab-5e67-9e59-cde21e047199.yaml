@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.54
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 42ebd917-da08-57fc-901d-6f20ff6a8d3c
+  definition: Durchmesserhälfte der kürzesten Ellipsoidachse
+  examples: []
+  notes:
+  - The shortest axis coincides with the rotation axis of the ellipsoid and therefore
+    contains both poles.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 2d98f349-17ab-5e67-9e59-cde21e047199
+status: valid

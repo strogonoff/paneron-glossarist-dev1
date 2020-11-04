@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.69
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: b92afda8-6f1e-545e-9edd-e36562f1a8f7
+  definition: 零次元の位相プリミティブ。
+  examples: []
+  notes:
+  - ノードの境界は，空集合である。
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 66bdabae-f815-5d2d-86ae-21c9c58842a8
+status: valid

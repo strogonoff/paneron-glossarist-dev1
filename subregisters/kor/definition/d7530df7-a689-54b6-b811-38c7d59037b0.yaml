@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.7.2
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 27fdd81a-a506-532d-8d04-1ec6288ff913
+  definition: 하나 또는 그 이상의 특정 주제 분야의 지정한 것과 정의가 담겨있는 용어 사전
+  examples: []
+  notes:
+  - The vocabulary may be monolingual, bilingual or multilingual.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: d7530df7-a689-54b6-b811-38c7d59037b0
+status: valid

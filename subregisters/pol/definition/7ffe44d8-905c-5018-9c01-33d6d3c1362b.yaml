@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.54
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 42ebd917-da08-57fc-901d-6f20ff6a8d3c
+  definition: połowa krótszej osi elipsoidy
+  examples: []
+  notes:
+  - Krótsza oś pokrywa się z osią obrotu elipsoidy i zawiera oba bieguny.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 7ffe44d8-905c-5018-9c01-33d6d3c1362b
+status: valid

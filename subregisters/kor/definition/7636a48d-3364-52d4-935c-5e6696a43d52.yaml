@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.7.1
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: d266df07-bb2e-5e9d-af31-ee6ad6376222
+  definition: 하나 또는 그 이상의 특정 주제 분야의 지정한 것과 정의와 연관된 정보를 제시하는 용어들의 집합
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 7636a48d-3364-52d4-935c-5e6696a43d52
+status: valid

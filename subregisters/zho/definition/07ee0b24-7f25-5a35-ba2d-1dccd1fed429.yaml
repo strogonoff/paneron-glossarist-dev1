@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 9234ba69-f18f-5aa4-8e2a-1ef25fe9205f
+  definition: 相当于地球自转周期的持续时间的时段。
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 07ee0b24-7f25-5a35-ba2d-1dccd1fed429
+status: valid

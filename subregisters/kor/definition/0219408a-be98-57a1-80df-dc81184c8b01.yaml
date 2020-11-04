@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: '2.15'
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: 2f6fe19d-e84e-5276-bc33-132bd1204042
+  definition: 특정 상황하에 동일 또는 유사한 객체들에 대한 모사 측정으로 획득된 표시 또는 측정량값간의 근접성
+  examples: []
+  notes:
+  - Measurement precision is usually expressed numerically by measures of imprecision,
+    such as standard deviation, variance, or coefficient of variation under the specified
+    conditions of measurement.
+  - The "specified conditions" can be, for example, repeatability conditions of measurement,
+    intermediate precision conditions of measurement, or reproducibility conditions
+    of measurement (see ISO 5725-3).
+  - Measurement precision is used to define measurement repeatability, intermediate
+    measurement precision, and measurement reproducibility.
+  - Sometimes "measurement precision" is erroneously used to mean measurement accuracy.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 0219408a-be98-57a1-80df-dc81184c8b01
+status: valid

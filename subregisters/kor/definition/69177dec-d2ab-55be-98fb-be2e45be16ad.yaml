@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.8
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 96f5ba19-98a9-5044-bae7-963db940e744
+  definition: 코드, 이름, 용어, 분류 체계 등에 대한 규정
+  examples:
+  - 코드 영역은 사전, 대표 기관, 코드 목록 등을 포함
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 69177dec-d2ab-55be-98fb-be2e45be16ad
+status: valid

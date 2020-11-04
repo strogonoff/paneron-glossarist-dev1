@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  concept: 3efd65f1-ee28-5305-9470-c526ba241392
+  definition: sélection d'un ensemble d'objets du domaine d'une couverture basée sur
+    les valeurs d'attributs associées aux objets
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 90e33152-c43b-5c59-9f77-62e181ba1f45
+status: valid

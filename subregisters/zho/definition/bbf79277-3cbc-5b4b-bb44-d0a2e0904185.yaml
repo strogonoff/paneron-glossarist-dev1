@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.99
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 767f0565-3a55-5813-8fbc-537ea051b3c6
+  definition: 表达在连续变换中空间特性保持不变的空间对象。
+  examples: []
+  notes:
+  - 一个拓扑对象是一个拓扑单形、若干拓扑单形的一个集合或一个拓扑复形。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: bbf79277-3cbc-5b4b-bb44-d0a2e0904185
+status: valid

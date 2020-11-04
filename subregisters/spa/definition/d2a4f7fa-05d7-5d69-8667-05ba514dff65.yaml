@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 9ba40ed5-ece8-555e-b4b4-2fefe33c76db
+  definition: proceso de determinación de si una implementación satisface o no los
+    criterios de aceptación y permite al usuario determinar si acepta o no la implementación
+  examples: []
+  notes:
+  - Esto incluye la planificación y ejecución de varias clases de pruebas (por ejemplo
+    funcionales, de volumen, de desempeño) que demues¬tran que la implementación satisface
+    los requisitos de usuario.
+  - No es una parte de la prueba de conformidad.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: d2a4f7fa-05d7-5d69-8667-05ba514dff65
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.27'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: ec69c8cc-9b35-5125-9c38-3ff579e12280
+  definition: palvelujen käyttöön liittyvä sovellusten rajapinta
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: d34986fc-7abe-532f-9427-f6d8530af292
+status: retired

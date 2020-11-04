@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: (1994)
+    ref: 'Jensen et al. '
+  concept: 1ba2df7b-f3bf-50ff-a978-87c262d71703
+  definition: 한 정보가 데이터 베이스 내에 현존하며, 수정될 수 있는 시간
+  examples: []
+  notes: []
+dateAccepted: 2008-12-19 00:00:00+00:00
+id: 52396f7c-1dd0-57fa-a00e-c882bbd01576
+status: valid

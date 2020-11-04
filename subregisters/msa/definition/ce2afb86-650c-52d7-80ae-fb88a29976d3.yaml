@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 17411730-3d0e-5c4e-b284-3a6eedcfaf53
+  definition: titik yang terletak di persimpangan bagi dua atau lebih lengkung dalam
+    grid
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: ce2afb86-650c-52d7-80ae-fb88a29976d3
+status: valid

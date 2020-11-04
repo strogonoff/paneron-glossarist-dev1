@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.4
+    ref: 19161-1:2020
+  concept: 998ef9e3-b111-5bfd-a277-e5745057198f
+  definition: numerical representation of the trajectory of the centre of mass of
+    an Earth orbiting artificial satellite expressed in an Earth centred terrestrial
+    reference frame
+  examples: []
+  notes: []
+dateAccepted: 2020-01-24 00:00:00+00:00
+id: f72d8d3b-adaa-51ad-a663-83347ca0e23e
+status: valid

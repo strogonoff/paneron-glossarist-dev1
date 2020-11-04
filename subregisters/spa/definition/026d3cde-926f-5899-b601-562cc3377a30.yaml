@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.97
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: e97a476d-3176-5e63-a30d-725a0de3e599
+  definition: colección de primitivas topológicas que es cerrada en operaciones de
+    frontera
+  examples: []
+  notes:
+  - Cerrado en operaciones de frontera, significa que si una primitiva topológica
+    pertenece a un complejo topológico, los objetos de su límite también pertenecen
+    a dicho complejo topológico.
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 026d3cde-926f-5899-b601-562cc3377a30
+status: valid

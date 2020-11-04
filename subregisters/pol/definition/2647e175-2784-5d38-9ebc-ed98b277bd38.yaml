@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 17411730-3d0e-5c4e-b284-3a6eedcfaf53
+  definition: punkt znajdujący się na przecięciu dwóch lub więcej krzywych w siatce
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 2647e175-2784-5d38-9ebc-ed98b277bd38
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.22
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 5b5cf100-f3a1-5888-9962-cf6d27e0db6d
+  definition: geometric reference surface embedded in 3D Euclidean space formed by
+    an ellipse that is rotated about a main axis
+  examples: []
+  notes:
+  - For the Earth the ellipsoid is bi-axial with rotation about the polar axis. This
+    results in an oblate ellipsoid with the midpoint of the foci located at the nominal
+    centre of the Earth.
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: 8778971f-bf13-5ca5-a05b-d787c453484b
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: b6266e4b-b919-599c-9144-0064f19ec149
+  definition: dokumen saintifik bercetak atau berdigit yang mengandungi sebahagian
+    atau keseluruhan permukaan bumi berskala dalam bentuk grafik atau fotografi
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 012647d0-872d-5e96-94c3-ea348dea11d2
+status: valid

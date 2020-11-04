@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/37800.html
+    ref: ISO/TS 19103:2005
+  concept: e1669710-e900-5d69-b11c-068573990bd8
+  definition: комплекс характеристик, наличие которых у группы данных позволяет выделить
+    ее из множества других данных
+  examples:
+  - Integer, Real, Boolean, String, Date и SG Point (перевычисление данных в наборы
+    кодов)
+  notes:
+  - Типы данных включают первичные предопределенные типы и типы, определяемые пользователем
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 8affc2d7-85c0-53d2-9a73-7c2a5acd0fe7
+status: valid

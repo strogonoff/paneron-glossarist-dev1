@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.6
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 92eee17a-9534-5597-80d5-c6848471a6ac
+  definition: formele definitie van objecten, attributen, relaties en regels in een
+    bepaald domein
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 81c0b11f-80a4-535d-a255-938ed5b3222c
+status: valid

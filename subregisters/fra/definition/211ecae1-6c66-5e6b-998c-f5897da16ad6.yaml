@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 31d8d96a-b1de-5023-8806-44fae7498ea2
+  definition: caractéristique d'une entité
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 211ecae1-6c66-5e6b-998c-f5897da16ad6
+status: valid

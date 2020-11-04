@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.17
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 87693db6-c647-568b-89e7-8d7f0dd8c5a2
+  definition: distance of a point from a chosen vertical reference surface downward
+    along a line that is perpendicular to that surface
+  examples: []
+  notes:
+  - The line direction may be straight, or be dependent on the Earth's gravity field
+    or other physical phenomena.
+  - A depth above the vertical reference surface will have a negative value.
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: 70b5ae15-78dd-5c99-b29b-fe404fa94e69
+status: valid

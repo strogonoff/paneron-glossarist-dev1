@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.38'
+    link: https://www.iso.org/standard/63541.html
+    ref: ISO 19104:2016
+  concept: 58067916-0a1c-53f4-bfd0-de61e9beba2b
+  definition: identificador lingüísticamente neutro, único e inequívoco asignado a
+    una entrada terminológica
+  examples: []
+  notes: []
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: 916a1f51-019e-5602-a109-57be1e18afc0
+status: valid

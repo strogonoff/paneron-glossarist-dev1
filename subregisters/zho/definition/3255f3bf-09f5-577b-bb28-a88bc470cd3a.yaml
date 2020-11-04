@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.21
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 84079d27-6841-5537-afcf-59be952aa897
+  definition: 在一个坐标系中，从一条南北向参照线向东偏移（正）或向西偏移（负）的距离。
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 3255f3bf-09f5-577b-bb28-a88bc470cd3a
+status: valid

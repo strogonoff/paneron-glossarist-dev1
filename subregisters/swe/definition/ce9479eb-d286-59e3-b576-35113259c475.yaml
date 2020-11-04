@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - ref: ANSI T1.523-2001
+  concept: 517d4d02-cfb9-588a-acda-d7f58e6c4333
+  definition: minskning av antal dataelement, bandviddsbehov, kostnader samt tidsåtgång
+    för generering, överföring och lagring av information genom eliminering av onödig
+    redundans, borttagande av irrelevanta data eller användande av speciell kodning
+  examples: []
+  notes:
+  - Whereas data compaction reduces the amount of data used to represent a given amount
+    of information, data compression does not.
+  - Data compaction can be done through aggregation of like values in adjacent grid
+    cells, tiling schemes or other means of eliminating information that is not relevant.
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: ce9479eb-d286-59e3-b576-35113259c475
+status: valid

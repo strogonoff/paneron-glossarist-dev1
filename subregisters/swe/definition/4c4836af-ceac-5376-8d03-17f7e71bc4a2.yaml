@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.27
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: f5dc2a55-78f4-593f-87e8-d267a8bcd985
+  definition: anordning i en mätkamera som definierar bildens läge i förhållande till
+    objektivet
+  examples: []
+  notes:
+  - When a camera is calibrated the distances between fiducial marks are precisely
+    measured and assigned coordinates that assist in correcting for film distortion.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 4c4836af-ceac-5376-8d03-17f7e71bc4a2
+status: valid

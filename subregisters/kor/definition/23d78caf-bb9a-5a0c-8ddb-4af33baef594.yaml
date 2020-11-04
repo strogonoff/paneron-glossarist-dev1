@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: e52ba84f-684c-56ed-b521-7a36d530245b
+  definition: 분류자를 사용하여 실세계 현상을 추상적으로 표현한 것
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 23d78caf-bb9a-5a0c-8ddb-4af33baef594
+status: valid

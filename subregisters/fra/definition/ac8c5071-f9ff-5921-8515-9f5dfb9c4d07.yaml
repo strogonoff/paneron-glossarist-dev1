@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.33
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: e641aca7-094f-5137-a6a4-03da150104c5
+  definition: propriété d'un objet GML décrivant des aspects géométriques de l'entité
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: ac8c5071-f9ff-5921-8515-9f5dfb9c4d07
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.39
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: e2438fb8-a68f-5474-bf64-07f6eadbd984
+  definition: spetsiga vinkeln mellan en mot en yta infallande vågs utbredningsriktning
+    och ytan
+  examples: []
+  notes:
+  - Kan även uttryckas som infallsvinkelns komplementvinkel.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: cf64dd42-950e-5a71-9278-1f469ba48a76
+status: valid

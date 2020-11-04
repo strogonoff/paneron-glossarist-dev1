@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.2.3
+    ref: OASIS RAF
+  concept: f4434d93-349f-53f5-b189-f1084b8edf37
+  definition: resultado real del uso de un servicio, más allá de la mera capacidad
+    ofrecida por el proveedor del servicio
+  examples: []
+  notes:
+  - Veáse el apartado 8.3 para una discusión sobre el servicio
+dateAccepted: 2016-01-15 00:00:00+00:00
+id: 0a93a142-db9a-5052-82cd-9e3b35284889
+status: valid

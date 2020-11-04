@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.57
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 2f3a1276-dc79-5b4c-b789-4433c17f23f7
+  definition: Winkel zwischen dem Lot und der Messrichtung des Radarstrahls
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 9d5520e1-6fa3-5850-bab3-9dfb1a7e3032
+status: valid

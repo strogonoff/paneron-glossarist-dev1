@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: 8ea4b660-e714-5c57-9147-5dc9ae4cf7e2
+  definition: 能从服务器端调用操作的软件组件。
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 78989bd9-ceb3-5cf2-be87-5a898e935155
+status: valid

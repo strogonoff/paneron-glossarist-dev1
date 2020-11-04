@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: OWL
+  concept: 0675157a-280f-5db9-831f-46971443f884
+  definition: special kind of class description through the definition of constraints
+    on values and cardinalities
+  examples: []
+  notes: []
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 96787688-5002-5dda-bbb8-2eb75cfac289
+status: valid

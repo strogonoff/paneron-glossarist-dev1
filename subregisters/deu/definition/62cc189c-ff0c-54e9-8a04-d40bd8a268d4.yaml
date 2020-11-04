@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/51789.html
+    ref: ISO/TS 19130:2010
+  concept: 62a28fe7-4f20-58a4-8b13-d36dca94ab54
+  definition: mathematische Formulierung des Zusammenhangs zwischen dreidimensionalem
+    Objektraum und zweidimensionaler Bildebene
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 62cc189c-ff0c-54e9-8a04-d40bd8a268d4
+status: superseded

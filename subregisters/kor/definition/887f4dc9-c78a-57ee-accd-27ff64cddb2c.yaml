@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.99
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 767f0565-3a55-5813-8fbc-537ea051b3c6
+  definition: 변형이 계속되어도 변하지 않는 공간적 특성을 나타내는 공간 객체
+  examples: []
+  notes:
+  - 위상 객체는 위상 원시 객체, 위상 원시 객체 모음 또는 위상 복합체이다.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 887f4dc9-c78a-57ee-accd-27ff64cddb2c
+status: valid

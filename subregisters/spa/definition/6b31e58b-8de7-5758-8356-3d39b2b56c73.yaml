@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.2
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: dea2a089-a1e9-573a-b559-e8390ef7c6ac
+  definition: parámetros del modelo que se pueden refinar usando información adicional
+    disponible, tales como los puntos de control en el terreno, para mejorar o perfeccionar
+    las correcciones del modelado
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 6b31e58b-8de7-5758-8356-3d39b2b56c73
+status: valid

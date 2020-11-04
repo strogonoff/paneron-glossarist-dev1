@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40147.html
+    ref: ISO 3534-2
+  concept: 2eb5b571-8095-5968-9309-76accdd38353
+  definition: 고려해야 할 모든 항목
+  examples:
+  - 데이터셋 내의 모든 점
+  - 특정 지역의 모든 도로명
+  notes: []
+dateAccepted: 2009-12-11 00:00:00+00:00
+id: 0f374efc-a1be-5be9-ac2b-9ce88fe5d486
+status: retired

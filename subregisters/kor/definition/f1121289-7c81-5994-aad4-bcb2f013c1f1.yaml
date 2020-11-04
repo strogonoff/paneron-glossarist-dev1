@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.7
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: c1a466a7-3348-560d-a415-fe05bf28c165
+  definition: 각 코드에 따른 허용 값을 제시하는 값 영역
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: f1121289-7c81-5994-aad4-bcb2f013c1f1
+status: valid

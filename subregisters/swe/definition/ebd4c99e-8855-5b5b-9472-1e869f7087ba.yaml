@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.53'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 18a675a5-bdfe-5613-9f67-bd75972047ee
+  definition: antal utsända pulser per tidsenhet, vanligtvis i enheten Hertz (Hz)
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: ebd4c99e-8855-5b5b-9472-1e869f7087ba
+status: valid

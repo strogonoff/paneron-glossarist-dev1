@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/61710.html
+    ref: ISO 19160-1:2015
+  concept: 3343bdb7-274d-50f2-b972-e856d5371c8d
+  definition: addressable object that is addressed relative to another addressable
+    object
+  examples:
+  - An apartment within an apartment building.
+  - In Japan, a jukyo bango (residence number) within a gaiku (block).
+  - A building within a complex of buildings. In Korea, a dong (wing or section of
+    a building) within a group of buildings.
+  notes: []
+dateAccepted: 2015-12-15 00:00:00+00:00
+id: 264a0b09-f8fc-529e-9e89-70700daca3c1
+status: valid

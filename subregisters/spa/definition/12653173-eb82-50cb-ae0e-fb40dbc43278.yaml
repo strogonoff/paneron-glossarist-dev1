@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  concept: 636f0c58-a693-50be-a28d-134d0dac2155
+  definition: amplia franja de ecosonda para su uso en la cartografía y levantamiento
+    de fondos marinos utilizando el principio de haces múltiples
+  examples: []
+  notes:
+  - Las profundidades se miden directamente debajo y en transversal a la trayectora
+    del barco. La anchura de la franja es una función del número de haces y de su
+    apertura.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 12653173-eb82-50cb-ae0e-fb40dbc43278
+status: valid

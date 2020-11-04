@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.18'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: b8aef805-4def-5e9c-9f6b-1078237fc968
+  definition: símbolo que tiene parámetros dinámicos
+  examples: []
+  notes:
+  - Los parámetros dinámicos se corresponden con los valores de los atributos de cada
+    instancia de objeto geográfico que está representándose
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: dcb9cd7c-3540-5e2a-a32d-33dec712b64b
+status: valid

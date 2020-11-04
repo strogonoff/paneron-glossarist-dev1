@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.25'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: fe61ce06-467c-5b09-890b-2f924a96beb5
+  definition: специальный тип функции графического отображения, выраженный повествовательным
+    языком
+  examples: []
+  notes:
+  - Декларативный язык основан на правилах и включает операторы принятия решения и
+    ветвления.
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 96cea760-454c-5190-9623-3d7bba6f9816
+status: valid

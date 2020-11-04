@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: a6092cdf-5efc-5ffa-8efb-642ef1467e3d
+  definition: altura del terreno natural libre de vegetación, así como de edificios
+    y otras estructuras artificiales
+  examples: []
+  notes: []
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: c7cacbd2-1e0e-577e-ad0d-c0e521728428
+status: valid

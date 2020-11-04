@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 230b254c-c1d8-5eca-a965-40f60bbebfbf
+  definition: 클래스를 실현하는 객체
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: acab6d01-5cc3-5119-adf5-6b7dad692967
+status: valid

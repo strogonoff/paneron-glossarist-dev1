@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.4
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 191113d2-1fc9-5403-98a2-507fa683b3f1
+  definition: 주 등록물과 하위 등록물 집합으로 구성되어 있는, 등록물 항목의 영역에 대한 등록물의 구조화된 집합
+  examples:
+  - '''KS X ISO 6523''의 식별 구조는 계층적 등록물과 연관된다. 주 등록물은 기관 식별자 스키마를 포함하고 각 하위 등록물은 단일
+    기관식별자 스키마를 따르는 기관 식별자 집합을 포함한다.'
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 1237fa49-2cea-5df1-96ae-a84c782cfe9c
+status: valid

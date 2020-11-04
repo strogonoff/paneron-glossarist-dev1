@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: modified
+    ref: FindLaw
+  concept: 912eeec6-56b3-5091-b02e-5f84f3eb92e7
+  definition: el que otorga una licencia
+  examples: []
+  notes:
+  - El licenciador es o bien un propietario de contenidos o bien un agente de licencias.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 96554020-60f0-5944-b2cd-8c1ded21f98d
+status: valid

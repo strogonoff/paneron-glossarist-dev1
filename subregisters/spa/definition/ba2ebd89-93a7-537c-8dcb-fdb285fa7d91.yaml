@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 450c0504-23ba-55e6-80aa-8c2857901906
+  definition: frontera representada por un conjunto de primitivas topológicas orientadas
+    de dimensión topológica menor que limitan la extensión de un objeto topológico
+  examples: []
+  notes:
+  - La frontera de un complejo topológico se corresponde con la frontera de la realización
+    geométrica del complejo topológico.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ba2ebd89-93a7-537c-8dcb-fdb285fa7d91
+status: superseded

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.16
+    link: https://www.iso.org/standard/74032.html
+    ref: ISO/TS 19159-3:2018
+  concept: fdeaac10-018e-5485-a7b2-58fe8a1054a4
+  definition: technique exploiting two or more SAR images to generate maps of surface
+    deformation or digital elevation through the differences in the phase of the waves
+    returning to the radar
+  examples: []
+  notes: []
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: 7368a1a8-8351-5889-a978-6b07c4ca0a54
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 29639377-cf86-5299-b8bb-c8511dbdf270
+  definition: простая кривая, являющаяся циклом
+  examples: []
+  notes:
+  - Кольца используют для описания граничных компонентов поверхностей в двумерных
+    и трехмерных системах координат
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b42dd17f-93c2-5255-a496-9337cea16945
+status: retired

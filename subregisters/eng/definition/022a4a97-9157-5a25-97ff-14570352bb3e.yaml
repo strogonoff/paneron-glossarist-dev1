@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.2
+    link: https://www.iso.org/standard/70742.html
+    ref: ISO 19112:2019
+  concept: 6c98a63c-151a-5594-81ab-7e434a8722e7
+  definition: spatial reference in the form of a label or code that identifies a location
+  examples:
+  - '''Spain'' is an example of a country name, ''SW1P 3AD'' is an example of a postcode.'
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: 022a4a97-9157-5a25-97ff-14570352bb3e
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: aa709872-1a2e-575c-a44c-04a40a2c22da
+  definition: system odniesienia utworzony z dwuwymiarowego geodezyjnego systemu odniesienia
+    poprzez zastosowanie odwzorowania
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: acfd4aa8-ec5c-5c25-8df9-58bee89a83cb
+status: valid

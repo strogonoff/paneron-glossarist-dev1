@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.9
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 0f94560c-b653-563d-a44c-8f31858a373d
+  definition: 연관 항목의 설명과 함께 항목에 부여된 식별자를 포함하는 파일의 집합
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: fb4f8a7c-6e2c-5553-b3f7-c22045eb132e
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.60
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 830f91e7-dbc6-5328-9680-a8513557657f
+  definition: lägesbestämd punkt som avbildas av en sensor
+  examples: []
+  notes:
+  - In remote sensing and aerial photogrammetry an object point is a point defined
+    in an Earth-fixed coordinate reference system.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 2e6537e3-b219-580d-9e8e-c8de8a9bf7b5
+status: valid

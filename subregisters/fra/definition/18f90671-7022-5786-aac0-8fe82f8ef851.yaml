@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 699c95c4-91ce-55c5-9a41-cef92f5a2427
+  definition: évaluation d'un sous-élément de qualité des données
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 18f90671-7022-5786-aac0-8fe82f8ef851
+status: retired

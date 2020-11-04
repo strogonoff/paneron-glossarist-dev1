@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: eaa65aba-9adb-5857-b5de-b965869c6980
+  definition: distancia a un punto desde una superficie de referencia elegida, medida
+    a lo largo de una normal a esa superficie
+  examples: []
+  notes:
+  - Una altitud por debajo de la superficie de referencia tendrá valor negativo.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: b41fb9e0-7d4e-5ccf-b25a-a98c8a61c778
+status: superseded

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 8d56b07f-a144-5d49-a9da-a42ddd5178fb
+  definition: 1-wymiarowy obiekt geometryczny stosowany do przedstawienia ciągłego
+    składnika krzywej, za pomocą homogenicznych metod interpolacji i definiowania
+  examples: []
+  notes:
+  - Zbiór geometryczny reprezentowany przez pojedynczy segment krzywej jest równoważny
+    krzywej.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 42734e90-eac3-5e5c-8d8d-5ab0e8d0e156
+status: valid

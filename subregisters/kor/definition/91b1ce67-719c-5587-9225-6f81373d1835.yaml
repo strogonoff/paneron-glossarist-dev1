@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.30
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 421ae5e3-6466-5d3f-bf99-9407353d704e
+  definition: 변의 집합과 그것에 관련한 연결 절점의 집합으로 나타낼 수 있는 위상 복합체 내에 내재된 그래프
+  examples: []
+  notes:
+  - 변-절점 그래프는 그것이 포함된 복합체의 하위 복합체이다.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 91b1ce67-719c-5587-9225-6f81373d1835
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: a5e31b9d-bd5c-5143-bdf8-d7b8fc71198b
+  definition: storhet som har både storlek och riktning
+  examples: []
+  notes:
+  - Termen vektordata avser data som beskriver rumsliga aspekter med hjälp av raklinjesegment
+    där varje sådant utgår från en position och har en längd och en riktning.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: ea00b60e-a6a2-5fda-b9c3-a3469fababae
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.71'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 8af0d780-58f7-5ba8-b607-7b4b682b31f8
+  definition: 소나 센서에 의해 탐지된 객체의 지리위치를 결정하기 위해 소나 신호를 처리하는 시스템
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 1eae7770-2598-51a2-a748-fcf4d607ebe9
+status: valid

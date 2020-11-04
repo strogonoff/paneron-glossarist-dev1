@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.97
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: e97a476d-3176-5e63-a30d-725a0de3e599
+  definition: collection of topological primitives that is closed under the boundary
+    operations
+  examples: []
+  notes:
+  - Closed under the boundary operations means that if a topological primitive is
+    in the topological complex, then its boundary objects are also in the topological
+    complex.
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 91aa6512-130a-5102-ade8-e575b61a042c
+status: valid

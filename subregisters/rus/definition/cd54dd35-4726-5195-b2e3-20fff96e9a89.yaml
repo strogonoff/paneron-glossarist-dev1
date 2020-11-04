@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: eba1913c-c286-518d-aa9d-56f45f6c40ee
+  definition: преобразование одной формы указания местоположения в другую
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: cd54dd35-4726-5195-b2e3-20fff96e9a89
+status: valid

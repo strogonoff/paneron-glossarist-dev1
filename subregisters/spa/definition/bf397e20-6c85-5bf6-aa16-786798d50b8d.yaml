@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.4
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 2bef43d6-dacc-5720-ba9e-f6c4606d70a5
+  definition: servicio que invoca un conversor
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: bf397e20-6c85-5bf6-aa16-786798d50b8d
+status: valid

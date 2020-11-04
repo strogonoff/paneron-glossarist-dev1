@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 6b5f2f1c-1ba3-5f4b-bb8b-3f4dedc3abde
+  definition: wohldefiniertes (Fach-) Gebiet oder bestimmter Wertebereich
+  examples: []
+  notes:
+  - Domains are used to define the domain set and range set of attributes, operators
+    and functions.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: a9375e95-ceb7-5425-b38f-0d51fcec89d7
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 36d98aa3-af1b-50d7-89f8-4b71f9c23894
+  definition: mécanisme décrivant les caractéristiques comportementales et structurelles
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 1959487d-5a0b-5943-8717-d812eb6f12cf
+status: superseded

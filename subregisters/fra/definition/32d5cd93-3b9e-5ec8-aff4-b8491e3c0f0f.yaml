@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132
+  concept: bfa2662a-128e-524d-babd-fcbb4a3e67d1
+  definition: dispositif (étiquette/tag) porté par un véhicule pour lui permettre
+    de déterminer sa localisation ou être capté par des objets externes d'emplacement
+    connu
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 32d5cd93-3b9e-5ec8-aff4-b8491e3c0f0f
+status: valid

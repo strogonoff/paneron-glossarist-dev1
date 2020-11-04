@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: adb193c6-6e6b-5563-888e-ae29cde00be6
+  definition: formale Syntax zum Beschreiben eines Prädikats
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: beab9f97-1b66-54ba-afcd-2ead47094bba
+status: valid

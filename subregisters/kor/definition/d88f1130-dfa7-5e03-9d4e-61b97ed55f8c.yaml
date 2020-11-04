@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: a9c532a7-982e-56ec-bdbe-6d5c01b20ff9
+  definition: 두 개의 거리와 하나의 각도 좌표로 구성된 3차원 좌표 체계
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: d88f1130-dfa7-5e03-9d4e-61b97ed55f8c
+status: superseded

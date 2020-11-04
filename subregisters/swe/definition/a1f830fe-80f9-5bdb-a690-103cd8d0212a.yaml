@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: f1991022-bb14-5018-aac7-330c677baa7a
+  definition: identifierbar plats
+  examples:
+  - '''Eiffel Tower'', ''Madrid'', ''California'''
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: a1f830fe-80f9-5bdb-a690-103cd8d0212a
+status: superseded

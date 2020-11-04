@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: 1e9532ba-1c7f-575e-842e-4569bd7a4afa
+  definition: acción de recuperar un recurso al que se hace referencia y su inserción
+    en un documento de respuesta generado por el servidor
+  examples: []
+  notes:
+  - La inserción puede llevarse a cabo bien reemplazando la referencia en línea con
+    una copia del recurso, bien relocalizando la referencia para que apunte a una
+    copia del recurso que se ha ubicado en el documento de respuesta.
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 423573f7-977f-5426-841d-40e791abeb80
+status: valid

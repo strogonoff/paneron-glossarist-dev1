@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.79
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 64d02227-c4fa-578e-8dbb-af7d33c78eeb
+  definition: curve which crosses meridians of longitude at a constant bearing
+  examples: []
+  notes: []
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 0b45bf38-6971-57de-8d60-3c2901e001e5
+status: valid

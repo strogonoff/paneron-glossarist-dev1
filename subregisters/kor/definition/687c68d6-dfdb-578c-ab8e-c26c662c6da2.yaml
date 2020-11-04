@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: a21e7e79-0cd8-5d20-958d-691e5fb31452
+  definition: 시대순으로 명명된 기간들 중 하나
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 687c68d6-dfdb-578c-ab8e-c26c662c6da2
+status: valid

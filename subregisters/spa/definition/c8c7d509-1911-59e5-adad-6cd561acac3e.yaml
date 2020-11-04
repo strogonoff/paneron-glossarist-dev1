@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.26
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 6d46a20b-9a90-5241-a5f0-cfe057076e4b
+  definition: punto determinado a partir de las marcas fiduciales de la cámara
+  examples: []
+  notes:
+  - Cuando hay cuatro marcas fiduciales, el centro fiducial es la intersección de
+    las dos líneas que conectan los pares de marcas fiduciales opuestas.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: c8c7d509-1911-59e5-adad-6cd561acac3e
+status: valid

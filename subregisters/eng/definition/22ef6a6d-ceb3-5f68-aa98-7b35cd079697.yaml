@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.30
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 4d41afec-8742-5f25-8f01-e6415c3b1f9c
+  definition: angle from the equatorial plane to the direction from the centre of
+    an ellipsoid through a given point, northwards treated as positive
+  examples: []
+  notes: []
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: 22ef6a6d-ceb3-5f68-aa98-7b35cd079697
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.2
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: cb7c0b21-f43f-5c13-944a-f4f2cdbc3471
+  definition: group of technical experts that makes decisions regarding the content
+    of a register
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 8824c9b0-4187-5efe-8a38-51f65bec3952
+status: valid

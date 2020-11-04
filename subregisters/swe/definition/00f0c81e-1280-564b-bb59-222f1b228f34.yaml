@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 4788e0b6-a971-5c59-b741-608552e0961b
+  definition: information som behövs vid en position längs en rutt i ett nätverk och
+    som medverkar till att rutten följs
+  examples: []
+  notes:
+  - To minimize the number of instructions needed to complete a route traversal, a
+    default instruction can be assumed at junctions without specifically associated
+    instructions. This default is called the main-road rule.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 00f0c81e-1280-564b-bb59-222f1b228f34
+status: valid

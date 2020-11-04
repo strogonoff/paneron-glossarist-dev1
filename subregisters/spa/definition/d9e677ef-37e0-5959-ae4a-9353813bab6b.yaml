@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.23'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 42be7cda-8054-5595-b42d-4147a95b148f
+  definition: modelo de representación para almacenamiento de datos de acuerdo a un
+    esquema de aplicación
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: d9e677ef-37e0-5959-ae4a-9353813bab6b
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: d5de3f16-9a8e-5f79-a1ec-cc3cbefb5222
+  definition: 按照空间和时间表达一组直接位置的对象。
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 154d0ecc-a3f9-5ab4-b972-1e83eedcb77b
+status: valid

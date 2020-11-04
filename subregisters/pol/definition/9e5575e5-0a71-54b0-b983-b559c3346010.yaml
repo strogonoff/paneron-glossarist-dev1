@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1.4
+    link: https://www.iso.org/standard/55724.html
+    ref: ISO/IEC 10746-3:2009
+  concept: e7b3e954-ac34-539e-b6c3-fed2b6e7bacb
+  definition: punkt widzenia (4.7) na dany system ODP oraz jego otoczenie, który skupia
+    się na mechanizmach i funkcjach potrzebnych do wsparcia rozproszonej interakcji
+    pomiędzy obiektami systemu
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 9e5575e5-0a71-54b0-b983-b559c3346010
+status: valid

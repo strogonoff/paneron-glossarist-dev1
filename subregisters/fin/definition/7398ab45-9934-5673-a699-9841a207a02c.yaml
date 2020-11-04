@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.1
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 709da622-f6f2-5c45-81de-307ede9797d0
+  definition: euklidisessa avaruudessa oleva koordinaatisto, jossa on suoria, ei välttämättä
+    toisiaan vastaan kohtisuorassa olevia akseleita
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 7398ab45-9934-5673-a699-9841a207a02c
+status: valid

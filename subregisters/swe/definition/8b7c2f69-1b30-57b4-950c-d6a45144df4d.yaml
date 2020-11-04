@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: d6efd593-a9b1-59f7-9968-6d6b9dd9066c
+  definition: uppfyllande av specificerade krav
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 8b7c2f69-1b30-57b4-950c-d6a45144df4d
+status: valid

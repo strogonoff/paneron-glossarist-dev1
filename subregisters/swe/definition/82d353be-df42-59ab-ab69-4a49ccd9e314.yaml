@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: 44502fa2-e6f0-5657-b0ec-b82998bd85eb
+  definition: resultat som erhålls vid tillämpning av klassificering
+  examples: []
+  notes:
+  - The result of a classification process is termed legend class in this part of
+    ISO 19144 in order to avoid confusion with the term "class" as used in UML modelling.
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 82d353be-df42-59ab-ab69-4a49ccd9e314
+status: valid

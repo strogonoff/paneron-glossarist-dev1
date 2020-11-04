@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.26
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: ed517aa5-7c67-5741-b4ba-4755293c9839
+  definition: representación formal de un fenómeno de un universo de discurso con
+    un vocabulario subyacente que incluye las definiciones y axiomas que le dan el
+    significado explícito previsto y que describen el fenómeno y sus interrelaciones
+  examples: []
+  notes: []
+dateAccepted: 2012-11-15 00:00:00+00:00
+id: d17c5e63-ecf1-5949-bdd8-aee75a0c9cf6
+status: valid

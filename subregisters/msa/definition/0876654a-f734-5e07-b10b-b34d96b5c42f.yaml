@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.27'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 1b40ab23-adcb-5653-88d7-3666c2d0f161
+  definition: Penukaran data grafik digital ke dalam bentuk visual.
+  examples:
+  - Generation of an image on a video display.
+  notes: []
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 0876654a-f734-5e07-b10b-b34d96b5c42f
+status: valid

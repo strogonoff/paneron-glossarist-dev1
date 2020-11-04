@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.14
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 8894b795-1954-51b3-aeed-1b21111bf2bf
+  definition: système de positionnement incorporant deux ou plusieurs technologies
+    de positionnement
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 05e1aea5-23fe-5f9e-902a-e5b3527b96ab
+status: valid

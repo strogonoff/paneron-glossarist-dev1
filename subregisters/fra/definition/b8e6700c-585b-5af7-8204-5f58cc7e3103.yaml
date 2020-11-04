@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  concept: a205caf2-60d5-5938-b5b8-36580731cb7a
+  definition: étroitesse de l'accord entre la différence de coordonnées et la valeur
+    vraie ou acceptée dans un système de référence spécifié
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: b8e6700c-585b-5af7-8204-5f58cc7e3103
+status: retired

@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 4.18, modified — Note 2 to entry has been added.
+    ref: Implementation Specification — a Draught Information System for the St. Lawrence
+      Seaway
+  concept: 2261b177-48cf-535c-bb28-14d11a4ae2c9
+  definition: efecto que causa un barco en movimiento a través del agua que crea un
+    área de menor presión su parte inferior que aumenta el calado efectivo (es decir,
+    baja el buque en el agua)
+  examples: []
+  notes:
+  - Este efecto es el resultado del principio de Bernoulli de dináminca de fluidos.
+    El asentamiento representa una crecida efectiva del calado.
+  - Para un buque navegando, el cambio de nivel de la proa y la popa en la condición
+    de aguas tranquilas en respuesta a la elevación y depresión del nivel del agua
+    alrededor del casco, resultante de los sistemas de proa y popa.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 74fff40e-36a6-5495-a78d-65afa267ba2b
+status: valid

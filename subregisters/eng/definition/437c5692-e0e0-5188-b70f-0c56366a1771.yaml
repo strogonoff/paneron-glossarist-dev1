@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.4.24
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 0afe7134-ee29-5e37-811b-7b395cb96c38
+  definition: relation between designations and concepts in a given language in which
+    one designation represents two or more concepts sharing certain characteristics
+  examples: []
+  notes:
+  - 'An example of polysemy is:   bridge   1  "structure to carry traffic over a gap"    2  "part
+    of a string instrument"    3  "dental plate"'
+  - The designation in the relation of polysemy are called polysemes.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 437c5692-e0e0-5188-b70f-0c56366a1771
+status: valid

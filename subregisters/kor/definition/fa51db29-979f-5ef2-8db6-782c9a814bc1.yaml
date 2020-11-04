@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: 3450397c-0dc9-5f47-947e-680cd7b22d2c
+  definition: 데이터를 표현, 구성 또는 제어하기 위해 사용되는 요소 집합의 원소
+  examples: []
+  notes: []
+dateAccepted: 2008-12-19 00:00:00+00:00
+id: fa51db29-979f-5ef2-8db6-782c9a814bc1
+status: valid

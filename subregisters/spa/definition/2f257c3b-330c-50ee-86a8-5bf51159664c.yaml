@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: ea217765-f082-5aa6-9707-994a8c0c9fc0
+  definition: asociación de objetos geográficos caracterizada por una referencia al
+    tiempo o por una restricción temporal
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 2f257c3b-330c-50ee-86a8-5bf51159664c
+status: valid

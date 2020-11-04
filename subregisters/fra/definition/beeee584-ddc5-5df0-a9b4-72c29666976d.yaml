@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  concept: 17411730-3d0e-5c4e-b284-3a6eedcfaf53
+  definition: point situé à l'intersection de deux ou plusieurs courbes dans une grille
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: beeee584-ddc5-5df0-a9b4-72c29666976d
+status: valid

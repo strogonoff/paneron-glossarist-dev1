@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.21
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 53c463c3-610c-52cf-a227-6c77832eade3
+  definition: satu contoh sistem pengukur mudah alih yang terpencil yang dilakukan
+    oleh sasaran tertentu
+  examples: []
+  notes:
+  - In this part of ISO 19115, the measuring system will usually be a remote sensing
+    platform. In a navigation context, the measuring system might be a GPS satellite.
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: f15babc2-b90f-5135-a152-8455413ad902
+status: valid

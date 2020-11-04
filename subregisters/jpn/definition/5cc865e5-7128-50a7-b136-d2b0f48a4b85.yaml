@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.99
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 767f0565-3a55-5813-8fbc-537ea051b3c6
+  definition: 連続した変換のもとでも変わらない空間特性を表す空間オブジェクト。
+  examples: []
+  notes:
+  - 位相オブジェクトは，位相プリミティブ，位相プリミティブの集まり又は位相複体である。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5cc865e5-7128-50a7-b136-d2b0f48a4b85
+status: valid

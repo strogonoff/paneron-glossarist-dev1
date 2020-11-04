@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dd4be28e-95ba-58ca-8065-60b1d86b49f6
+  definition: IUT가 오류를 포함하고 있는 데이터를 얼마나 잘 처리하는지를 결정하는 과정
+  examples: []
+  notes:
+  - 강도 시험은 적합성 시험의 일부가 아니다.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 87bcd95d-64a5-50fa-b9d9-da0c6c35e084
+status: valid

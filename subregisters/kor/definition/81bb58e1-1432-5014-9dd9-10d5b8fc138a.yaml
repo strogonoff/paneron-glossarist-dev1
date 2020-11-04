@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.22'
+    link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  concept: 0c133d79-be57-55e6-a7ef-d3335378e19d
+  definition: 측정치 집합의 재현성에 대한 척도
+  examples: []
+  notes:
+  - 정밀도는 보통 표본 평균값으로부터의 표준 편차처럼 반복 측정에 기초한 통계 값으로 표현된다.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 81bb58e1-1432-5014-9dd9-10d5b8fc138a
+status: superseded

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.38
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 183b226d-dc90-54c1-ae4d-d346dc0737c9
+  definition: отображение реального или гипотетического мира, котрое включает все,
+    что представляет интерес
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: c7472370-4e1f-5c7e-a314-b9357d0fdfbd
+status: valid

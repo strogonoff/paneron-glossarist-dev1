@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/23985.html
+    ref: 'ISO/IEC TR 14252 '
+  concept: 04bfd986-a85d-540c-963b-5a85c2614a2b
+  definition: особая часть функциональности, представляемая некоторой сущностью через
+    интерфейсы
+  examples: []
+  notes:
+  - См. 7.2  ISO 19119 для обсуждения сервисов
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 26c37b51-5c67-5f11-8560-2a30c47af01c
+status: valid

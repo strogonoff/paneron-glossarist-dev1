@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.32
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 4a17046f-2100-5f83-8052-94353b82f5d8
+  definition: zbiór położeń bezpośrednich
+  examples: []
+  notes:
+  - Zbiór ten w większości przypadków jest nieskończony.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: cf6adc98-2508-57c2-9661-17f686c257a0
+status: valid

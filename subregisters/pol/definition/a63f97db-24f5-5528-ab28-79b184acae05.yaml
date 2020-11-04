@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.41
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 97493af5-3463-57ab-a703-1e5c9be92109
+  definition: średni poziom powierzchni morza z uwzględnieniem pływów i zmian sezonowych
+  examples: []
+  notes:
+  - Średni poziom morza w sensie lokalnym na ogół oznacza średni poziom morza w danym
+    regionie  wyznaczany na podstawie obserwacji co najmniej jednego punktu przez
+    określony czas. W sensie globalnym średni poziom morza różni się od geoidy nie
+    więcej niż o 2 m.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: a63f97db-24f5-5528-ab28-79b184acae05
+status: valid

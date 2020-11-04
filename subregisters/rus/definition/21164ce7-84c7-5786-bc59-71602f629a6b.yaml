@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.11
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: c308d8f2-f7c7-53dd-b113-1139eb0b4265
+  definition: набор математических правил, описывающих, как координаты должны быть
+    соотнесены с точками пространства
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 21164ce7-84c7-5786-bc59-71602f629a6b
+status: valid

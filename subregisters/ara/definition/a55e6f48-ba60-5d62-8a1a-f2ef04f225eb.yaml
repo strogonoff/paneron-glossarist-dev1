@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 18e33bf9-af28-58a1-b958-5372c4ba7ace
+  definition: مرجع إسناد هندسي يحدد علاقة نظام للإحداثيات بالصوره
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: a55e6f48-ba60-5d62-8a1a-f2ef04f225eb
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.6
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 954107c1-b89c-513f-9be1-e48a5a681312
+  definition: 実体の広がりの限界を示す集合。
+  examples: []
+  notes:
+  - 境界が最もよく使用されるのは，集合が点の集まり又はこれらの点を表すオブジェクトの集まりであるような幾何に関する記　述においてである。他の分野では，この用語を，実体とその論議領域での余事象との遷移領域を比ゆ（喩）的に記述するために使用する。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: cc9fd542-5780-5960-b80d-903cf0b56a7c
+status: valid

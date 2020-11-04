@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: c091a7e9-97a5-5339-94cf-336864bd5e77
+  definition: 数据的传输、接收和解释。
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 835c7914-88b7-57b2-a7a5-11cfc951adb1
+status: valid

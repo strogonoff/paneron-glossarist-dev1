@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 04bfd986-a85d-540c-963b-5a85c2614a2b
+  definition: 개체의 인터페이스를 통해 제공되는 기능성의 개별 부분
+  examples: []
+  notes:
+  - 서비스에 관한 논의는 KS X ISO 19110의 7.2절을 참조하라.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 84681a82-b009-5721-b5dd-e1a73eb128a6
+status: valid

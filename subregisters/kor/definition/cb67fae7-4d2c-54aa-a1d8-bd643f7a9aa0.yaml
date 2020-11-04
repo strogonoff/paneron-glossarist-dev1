@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  concept: c3963843-a765-51eb-a5b8-9ad4d8fa99c7
+  definition: XML 이름 공간으로 표준에 기술된 "http://www.opengis.net/gml/3.2"를 사용하는 스키마 컴포넌트
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: cb67fae7-4d2c-54aa-a1d8-bd643f7a9aa0
+status: superseded

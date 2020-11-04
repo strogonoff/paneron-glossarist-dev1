@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.10
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 8f2467b3-9571-5d01-8d37-df77a0d9f9ee
+  definition: 공유 경계 표면을 따라 서로 연결된 입방체의 집합
+  examples: []
+  notes:
+  - 직접 위치의 집합으로서의 합성 입방체는 입방체의 모든 특성을 갖는다.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 05c1e78f-1ebe-53d3-8041-18aee46a4d73
+status: valid

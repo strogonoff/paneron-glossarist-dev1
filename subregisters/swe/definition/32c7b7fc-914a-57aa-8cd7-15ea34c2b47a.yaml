@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 676d1d6a-ae13-5ac9-8d9a-726e9ed7c0e4
+  definition: regel för att översätta data enligt en datastruktur till data enligt
+    en annan datastruktur
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 32c7b7fc-914a-57aa-8cd7-15ea34c2b47a
+status: valid

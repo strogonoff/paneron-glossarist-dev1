@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  concept: e1db82b2-91eb-5359-95db-025f53585b6b
+  definition: activity elements of a process
+  examples:
+  - In the case of photogrammetric survey, aerial triangulation can be considered
+    a sub-process.
+  notes:
+  - Sub-processes can be broken down even further as is deemed necessary to control
+    the quality of the process.
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 8c404ab8-bc28-51f8-a371-1b07cf0e534f
+status: valid

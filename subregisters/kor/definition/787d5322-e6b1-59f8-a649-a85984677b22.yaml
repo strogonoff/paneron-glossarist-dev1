@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 66a41f3b-5ab5-5d18-9047-8af3ad82ab8b
+  definition: 하나의 좌표 참조 체계로부터 다른 좌표 참조 체계로의 1대1 관계를 갖는 좌표 변경
+  examples: []
+  notes:
+  - 좌표 변환과 좌표 전환의 상위 유형
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 787d5322-e6b1-59f8-a649-a85984677b22
+status: superseded

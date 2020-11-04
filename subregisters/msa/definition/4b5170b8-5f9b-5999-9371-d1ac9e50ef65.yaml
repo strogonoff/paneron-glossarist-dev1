@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 7d7ad1a8-4cc6-59a7-848e-34d70a51f2ff
+  definition: Aset atau cara yang dapat dikenal pasti untuk memenuhi keperluan.
+  examples:
+  - Dataset, datasetseries, service, document, initiative, software, person or organization.
+  notes: []
+dateAccepted: 2014-04-01 00:00:00+00:00
+id: 4b5170b8-5f9b-5999-9371-d1ac9e50ef65
+status: valid

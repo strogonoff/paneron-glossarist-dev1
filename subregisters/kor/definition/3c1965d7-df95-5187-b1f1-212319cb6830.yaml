@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (1997)
+    ref: 'ITU-R Rec.TF.686-1 '
+  concept: 5b041839-346a-5c73-a1a9-7c475c18c450
+  definition: '제 도량형 협회와 표준시와 표준 주파수를 보급하는 국제 지구 자전 협회(IERS: International Earth Rotation
+    Service)가 유지 관리하는 시간 척도'
+  examples: []
+  notes: []
+dateAccepted: 2008-12-19 00:00:00+00:00
+id: 3c1965d7-df95-5187-b1f1-212319cb6830
+status: valid

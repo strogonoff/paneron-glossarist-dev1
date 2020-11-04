@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.3
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: a07a76fa-b5e4-571b-8438-dd25850babaf
+  definition: koordinaattijärjestelmä, joka koostuu vähintään kahdesta riippumattomasta
+    koordinaattijärjestelmästä
+  examples: []
+  notes:
+  - Kahden koordinaattijärjestelmän katsotaan olevan toisistaan riippumattomia, mikäli
+    yhden järjestelmän koordinaattiarvoja ei voi konvertoida tai muuntaa toisen arvoiksi.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: af1dfacf-2c6b-584e-ad7f-2a1a9ad310aa
+status: valid

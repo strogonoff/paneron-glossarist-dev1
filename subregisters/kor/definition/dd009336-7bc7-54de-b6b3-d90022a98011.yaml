@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.11
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: c308d8f2-f7c7-53dd-b113-1139eb0b4265
+  definition: 점에 어떤 좌표를 부여할지를 규정하기 위한 수학적 규칙의 집합
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: dd009336-7bc7-54de-b6b3-d90022a98011
+status: valid

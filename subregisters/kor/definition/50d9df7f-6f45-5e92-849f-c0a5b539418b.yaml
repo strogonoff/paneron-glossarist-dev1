@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44075.html
+    ref: ISO 19111-2:2009
+  concept: 4ddd84fc-d5ef-5fdd-bd0e-d98d5ab54dc4
+  definition: 하나의 구성 좌표 기준 체계는 매개 좌표 기준 체계이며 다른 하나는 공간 좌표 기준 체계인 복합 좌표 기준 체계
+  examples: []
+  notes:
+  - Normally the spatial component is "horizontal" and the parametric component is
+    "vertical".
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 50d9df7f-6f45-5e92-849f-c0a5b539418b
+status: superseded

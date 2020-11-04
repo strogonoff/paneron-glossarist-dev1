@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: 3450397c-0dc9-5f47-947e-680cd7b22d2c
+  definition: элемент множества, используемого для представления и организации данных,
+    а также управления ими
+  examples: []
+  notes: []
+dateAccepted: 2002-08-16 00:00:00+00:00
+id: 24b597a6-1657-5cb0-9807-152143f8a079
+status: valid

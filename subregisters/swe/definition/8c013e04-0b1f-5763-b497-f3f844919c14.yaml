@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: e5b51cfb-a60b-5536-90b2-ae83cd60c284
+  definition: kombination av en provtagningsstrategi och ett bestämningsförfarande
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 8c013e04-0b1f-5763-b497-f3f844919c14
+status: valid

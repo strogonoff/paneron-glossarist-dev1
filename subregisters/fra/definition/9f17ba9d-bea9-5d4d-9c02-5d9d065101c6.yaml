@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: https://searchcio.techtarget.com/
+  concept: 46bc20ce-ce9a-5565-bb5b-116ad13dc889
+  definition: caractéristique consistant en la capacité à porter un sens ou un usage
+    différent dans différents contextes - spécifiquement, pour permettre à une entité
+    telle qu'une variable, une fonction ou un objet d'avoir plus d'une forme
+  examples: []
+  notes: []
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 9f17ba9d-bea9-5d4d-9c02-5d9d065101c6
+status: valid

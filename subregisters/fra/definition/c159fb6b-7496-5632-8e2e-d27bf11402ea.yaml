@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.23
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 511210c8-5d3d-5ee2-bd10-dca74f7983a8
+  definition: objet topologique orienté représentant une association entre une arête
+    et une de ses orientations
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c159fb6b-7496-5632-8e2e-d27bf11402ea
+status: valid

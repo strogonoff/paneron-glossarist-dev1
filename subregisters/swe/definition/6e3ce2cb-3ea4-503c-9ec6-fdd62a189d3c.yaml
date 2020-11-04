@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 15a4a183-9aec-58a0-9ca0-4b268efc7621
+  definition: namngiven uppsättning operationer som kännetecknar hur något uppför
+    sig
+  examples: []
+  notes:
+  - See 7.2 [of ISO 19119] for a discussion of interface
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 6e3ce2cb-3ea4-503c-9ec6-fdd62a189d3c
+status: valid

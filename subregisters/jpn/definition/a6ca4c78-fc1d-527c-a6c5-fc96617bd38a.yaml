@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: bc70de69-abdc-5299-b358-b042e140cd99
+  definition: 試験対象(IUT:implementation under test)が試験目的の記述どおりに規格の特定の性質に適合するかどうかを決定するための試験。
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: a6ca4c78-fc1d-527c-a6c5-fc96617bd38a
+status: valid

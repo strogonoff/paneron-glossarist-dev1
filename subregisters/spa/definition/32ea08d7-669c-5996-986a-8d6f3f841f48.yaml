@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: aa709872-1a2e-575c-a44c-04a40a2c22da
+  definition: sistema de referencia de coordenadas derivado de un sistema de referencia
+    de coordenadas geodésicas bidimensional aplicando una proyección cartográfica
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 32ea08d7-669c-5996-986a-8d6f3f841f48
+status: superseded

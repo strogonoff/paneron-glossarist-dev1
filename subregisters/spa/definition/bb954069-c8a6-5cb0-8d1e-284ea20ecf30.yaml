@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 15a4a183-9aec-58a0-9ca0-4b268efc7621
+  definition: conjunto nominado de operaciones que caracteriza el comportamiento de
+    una entidad
+  examples: []
+  notes:
+  - Véase el apartado 7.2 para una discusión de servicio.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: bb954069-c8a6-5cb0-8d1e-284ea20ecf30
+status: valid

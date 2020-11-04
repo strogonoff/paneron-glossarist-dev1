@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.18'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 8056c7ed-7a09-586c-804f-24f3a9e629b1
+  definition: licencia relacionada con la geoinformación
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: cbc60a94-9aa8-5ce3-bfc8-785aae01b34f
+status: valid

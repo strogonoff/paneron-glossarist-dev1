@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.15'
+    link: https://www.iso.org/standard/63541.html
+    ref: ISO 19104:2016
+  concept: 32ace015-a07a-52f5-a988-60dd19d4ed37
+  definition: one of two or more words that are pronounced the same but differ in
+    meaning, origin, and sometimes spelling
+  examples:
+  - night and knight.
+  notes: []
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: 3040c3e6-b342-538c-a2f4-087d3a578da8
+status: valid

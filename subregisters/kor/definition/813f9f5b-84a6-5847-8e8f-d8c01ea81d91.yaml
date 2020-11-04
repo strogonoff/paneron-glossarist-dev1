@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 7-6
+    link: https://www.iso.org/standard/31892.html
+    ref: ISO 80000-7:2008
+  concept: 08f41803-6b91-50e5-9546-d3724012299f
+  definition: 복사로서 전달, 전송 또는 발산된 에너지
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 813f9f5b-84a6-5847-8e8f-d8c01ea81d91
+status: valid

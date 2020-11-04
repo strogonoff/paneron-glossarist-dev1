@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.2'
+    link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 6808128f-1768-5f92-a80b-33ec006ecef1
+  definition: Coördinaat systeem wat de positie geeft van punten ten opzichte van
+    loodrecht op elkaar staande assen.
+  examples: []
+  notes:
+  - n is 2 of 3 voor zover het de toepassing binnen deze Internationale Norm betreft.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 17c11cc4-5e21-5c9e-a58b-8a419be21f01
+status: superseded

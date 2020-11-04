@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.26
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: ed517aa5-7c67-5741-b4ba-4755293c9839
+  definition: formell representation av företeelser inom ett intresseområde med hjälp
+    av en underförstådd vokabulär inklusive definitioner och axiom som uttrycker innebörden
+    och beskriver företeelser och deras inbördes förhållanden
+  examples: []
+  notes: []
+dateAccepted: 2012-11-15 00:00:00+00:00
+id: 0549de0b-17ff-5322-86c8-1489cd9f4995
+status: valid

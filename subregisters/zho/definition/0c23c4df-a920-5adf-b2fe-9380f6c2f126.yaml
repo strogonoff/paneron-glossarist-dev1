@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 17411730-3d0e-5c4e-b284-3a6eedcfaf53
+  definition: 在一个格网中，两个或多个曲线相交形成的点。
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 0c23c4df-a920-5adf-b2fe-9380f6c2f126
+status: valid

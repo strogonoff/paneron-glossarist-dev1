@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.8.2, modified — Note 1 to entry has been added.
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: bb9d9240-9399-5f63-ae55-b36adcd78a43
+  definition: часть терминологического сбора данных, которая содержит терминологические
+    данные, относящиеся к одному понятию
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: d6a6083c-69ec-58c4-b0f3-7870def4d535
+status: valid

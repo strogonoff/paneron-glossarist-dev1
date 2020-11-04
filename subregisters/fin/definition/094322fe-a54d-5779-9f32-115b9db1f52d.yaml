@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.26'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 9061048d-8145-556e-818b-51da41c99b39
+  definition: kohteiden esittämiseen käytettävä geneerinen rajapintapalvelu
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 094322fe-a54d-5779-9f32-115b9db1f52d
+status: valid

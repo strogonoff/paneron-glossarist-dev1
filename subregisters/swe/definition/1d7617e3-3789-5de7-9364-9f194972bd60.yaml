@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '3.3'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 9cde52c2-6d33-5a4c-a103-df48884e2e4d
+  definition: samband mellan objekt som kan vara av olika objekttyp eller av samma
+    objekttyp men som inte är objektsarv
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 1d7617e3-3789-5de7-9364-9f194972bd60
+status: valid

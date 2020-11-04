@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.18
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 3c21971e-80d6-58d8-bd59-c6ca8f683dc9
+  definition: 물리적 매개 변수를 수치로 표현한 속성값들로 이루어진 격자 커버리지
+  examples: []
+  notes:
+  - The physical parameters are the result of measurement by a sensor or a prediction
+    from a model
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: b24d6d15-dc68-5b19-9da9-389ed516d70d
+status: valid

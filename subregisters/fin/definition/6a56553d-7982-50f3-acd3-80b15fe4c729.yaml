@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.54
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 1b0a9919-a10f-5242-b377-9b2777b3e1b3
+  definition: XML-asiakirja, joka sisältää skeemakomponenttien määrittelyjä ja julistuksia
+  examples: []
+  notes:
+  - W3C XML Schema -kieli tarjoaa XML-formaatin skeematietojen vaihtoon. Yksittäinen
+    skeemadokumentti sisältää yksittäiseen XML-nimiavaruuteen kuuluvien komponenttien
+    kuvaukset, mutta yhden skeeman eli yhden kohdenimiavaruuden komponenttien kuvauksia
+    voi olla eri dokumenteissa.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 6a56553d-7982-50f3-acd3-80b15fe4c729
+status: valid

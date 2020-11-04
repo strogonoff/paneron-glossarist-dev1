@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.27'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: ec69c8cc-9b35-5125-9c38-3ff579e12280
+  definition: 耦合服务组成的软件架构。
+  examples: []
+  notes:
+  - 当今最常用的SOA是网络服务（使用SOAP, UDDI和WSDL） 、CORBA 和DCOM。
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 1abf7bbe-f92d-527a-a98d-440c641118d3
+status: retired

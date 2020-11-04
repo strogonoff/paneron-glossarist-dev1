@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: fc68b6d8-516a-5076-9e84-29a43c62f331
+  definition: 특정 자원의 원본에 부여된 권리에 반하는 주된 행위
+  examples: []
+  notes:
+  - Infringement of a licence will require the DRM system to be bypassed in some manner.
+    If licences can be infringed without bypassing the DRM system, then the system
+    is not sufficient.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 4531446c-c22c-5b6a-bcd7-02d643b68b62
+status: valid

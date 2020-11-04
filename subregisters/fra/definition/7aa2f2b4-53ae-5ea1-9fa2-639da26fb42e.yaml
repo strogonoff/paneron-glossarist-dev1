@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108
+  concept: e0630195-f838-5fd3-8035-40a5873e759b
+  definition: primitive géométrique de dimension nulle représentant une position dans
+    le temps
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 7aa2f2b4-53ae-5ea1-9fa2-639da26fb42e
+status: valid

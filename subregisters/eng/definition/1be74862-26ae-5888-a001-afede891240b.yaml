@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.66
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 4615a782-3e69-5c71-a1b9-508246b82997
+  definition: convex hull of n+1 points in general position in a space of dimension
+    at least n, or a topologically isomorphic image of such a geometry
+  examples: []
+  notes:
+  - An n-simplex is n-dimensional, and is topological isomorphic to an n-disc. A 0-simplex
+    is a point. A 1-simplex is a curve (usually a line) with two 0-simplexes (points)
+    on its boundary; a 2-simplex is a triangular surface with three 1-simplices on
+    its boundary. In general, an n-simplex boundary will have n (n−1)-simplexes. An
+    n-simplex and an n-disc are topologically isomorphic. The boundary of an n-simplex
+    is isomorphic to an (n−1)-sphere. In all cases, the number prefix represents the
+    topological dimension of the object.
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 1be74862-26ae-5888-a001-afede891240b
+status: valid

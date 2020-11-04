@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.4
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: d1c850af-2a22-57ba-9efd-4af974729263
+  definition: 多个坐标操作的顺序应用组成的坐标操作。
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 35294308-3993-529f-8e97-3483a6868c11
+status: valid

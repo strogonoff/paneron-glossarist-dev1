@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.4
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: d1c850af-2a22-57ba-9efd-4af974729263
+  definition: 다수의 좌표 연산을 순차적으로 수행하는 응용으로 구성된 좌표 연산
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 6856d984-11f1-56d2-867b-648fa085d5c3
+status: valid

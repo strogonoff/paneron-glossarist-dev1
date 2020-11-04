@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.24
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: f516e970-7157-527f-97f1-062cee4d864a
+  definition: restricción de las vibraciones de la radiación, especialmente de la
+    luz, a un único plano
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: e4e2c7a8-c8ad-5d0f-91f0-1f4ef42e26af
+status: valid

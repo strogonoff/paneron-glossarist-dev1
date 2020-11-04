@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.69
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 9de7cac8-a6e9-5f5b-999e-d528e9774ba2
+  definition: element i ett kvantiserat avståndsområde.
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: c95c3795-73a9-52d9-89c6-6746d001b88b
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: 2c33a138-725d-55f4-adf3-4fbd5d5c27cd
+  definition: 매개변수 특정값의 형상
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: b4e8fe56-ce77-5e22-ac9e-499c5442bfff
+status: valid

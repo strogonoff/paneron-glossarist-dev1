@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.34
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: d2319c31-60cc-5049-b0a3-29ee624fed2c
+  definition: diferencia más pequeña que puede distinguirse significativamente entre
+    las indicaciones de un sensor
+  examples: []
+  notes:
+  - Para las imágenes, la resolución se refiere a la resolución radiométrica, espectral,
+    espacial y temporal
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 5755ae6d-1fcc-5570-8513-b145821cc7ff
+status: valid

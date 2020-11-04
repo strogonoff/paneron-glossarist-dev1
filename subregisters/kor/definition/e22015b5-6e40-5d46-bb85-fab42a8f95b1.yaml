@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 6c27dc3f-49d2-56b2-b560-cd5ded8dab31
+  definition: 처리활동의 결과
+  examples: []
+  notes: []
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: e22015b5-6e40-5d46-bb85-fab42a8f95b1
+status: valid

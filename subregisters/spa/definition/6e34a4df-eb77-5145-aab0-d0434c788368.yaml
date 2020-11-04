@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: f65e08b0-46ec-5cca-8896-af6189c231f3
+  definition: resumen de la conformidad con la Norma Internacional así como de todos
+    los detalles de las pruebas que justifican el resumen global incluido
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 6e34a4df-eb77-5145-aab0-d0434c788368
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/36760.html
+    ref: ISO 19131:2007
+  concept: e0a58145-11e3-562a-ae83-66a5093bed34
+  definition: descripción detallada de un conjunto de datos o de una serie de conjuntos
+    de datos junto con la información adicional que permite su creación, suministro
+    y utilización por otras partes
+  examples: []
+  notes:
+  - Unas especificaciones de producto de datos proporcionan una descripción del universo
+    de discurso y unas especificaciones para transformar el universo de discurso en
+    un conjunto de datos. Puede ser utilizada para producción, venta, uso final o
+    para otros propósitos.
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 31933967-bf9c-5390-a28d-73c99115b6bd
+status: valid

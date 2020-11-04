@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: 8a107175-f8d1-5b48-adab-6c4570a2c891
+  definition: relación taxonómica entre un elemento más general y un elemento más
+    específico del mismo tipo de elemento
+  examples: []
+  notes:
+  - 'Una instancia del elemento más específico se puede utilizar cuando lo permita
+    el elemento más general. Véase: herencia.'
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 76a5adc9-8b48-53f7-84aa-85ba230a2165
+status: valid

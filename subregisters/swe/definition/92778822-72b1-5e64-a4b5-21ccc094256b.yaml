@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/30726.html
+    ref: ISO/IEC TR 10000-1:1998
+  concept: 41762970-0be1-568b-b9bf-f27db80a6ba7
+  definition: uppsättning av definitioner för standardiserade tjänster, protokoll
+    och datastrukturer som möjliggör sammankoppling av system
+  examples: []
+  notes:
+  - 'Enligt OSI: system som vid kommunikation följer OSI-standard och därför kan anslutas
+    till andra system som följer samma standard.'
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 92778822-72b1-5e64-a4b5-21ccc094256b
+status: valid

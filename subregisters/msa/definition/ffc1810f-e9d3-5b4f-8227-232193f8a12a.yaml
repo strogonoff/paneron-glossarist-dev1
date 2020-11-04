@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: e7a8407c-5607-5b71-b00e-29753fc8a28e
+  definition: indeks yg menerangkan nama geografi dsb.
+  examples: []
+  notes:
+  - The positional information need not be coordinates, but could be descriptive.
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: ffc1810f-e9d3-5b4f-8227-232193f8a12a
+status: superseded

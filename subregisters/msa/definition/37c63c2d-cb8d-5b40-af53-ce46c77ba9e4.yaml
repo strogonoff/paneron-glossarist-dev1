@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: fe829ed0-6749-576a-9d19-a3730a859ef8
+  definition: '1. Perjaluran: Istilah umum untuk susunan menyatah featur tekstur atau
+    struktur pada sebarang jenis batuan; terutamanya struktur menyatah akibat pemipihan
+    butiran-butiran juzuk batuan anetamorf.'
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 37c63c2d-cb8d-5b40-af53-ce46c77ba9e4
+status: valid

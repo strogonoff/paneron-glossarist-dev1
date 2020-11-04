@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 295b96c2-7d12-5f30-ab71-0887e87646a0
+  definition: مجموعة حالات اختبار تجريدي مرتبطة ببعضها
+  examples: []
+  notes:
+  - الوحدات التكاملية المستقلة للاختبار التجريدي يمكن تعشيشها على نسق تسلسل هرمي
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: e3252afc-e4bf-5c76-9584-2f9bb95a39fe
+status: valid

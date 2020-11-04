@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: e39adb92-4f9f-5adb-8813-3a465ab5892b
+  definition: obiekt geometryczny reprezentujący pojedynczy, spójny i jednorodny element
+    przestrzeni
+  examples: []
+  notes:
+  - Proste elementy geometryczne są obiektami niepodzielnymi, reprezentującymi informację
+    o konfiguracji geometrycznej. Należą do nich punkty, krzywe, powierzchnie i bryły.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: f6afd9cd-5f2d-5381-b93e-b39530ae33a5
+status: valid

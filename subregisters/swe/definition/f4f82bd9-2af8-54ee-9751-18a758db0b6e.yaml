@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 12321a17-f542-5f1f-a338-bd1f970a0864
+  definition: syntaktisk beskrivning av geografisk punkt i ett känt format
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: f4f82bd9-2af8-54ee-9751-18a758db0b6e
+status: valid

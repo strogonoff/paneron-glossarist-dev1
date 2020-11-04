@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: https://searchcio.techtarget.com/
+  concept: 46bc20ce-ce9a-5565-bb5b-116ad13dc889
+  definition: 다른 상황에서 다른 의미 또는 용도로 활용될 수 있는, 특히 변수, 함수 또는 객체 등의 개체와 같이 하나 이상의 형태를
+    가질 수 있는 특성
+  examples: []
+  notes:
+  - 다양한 유형의 다형이 존재한다.
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 85d93082-fba4-5f35-ae9f-dd5e3386428d
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.71'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 8af0d780-58f7-5ba8-b607-7b4b682b31f8
+  definition: sistema que procesa las señales sonar para determinar la posición geográfica
+    de los objetos detectados por los sensores sonar
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: f7d8f1b6-0e33-506a-9f3b-eab6e4a09941
+status: valid

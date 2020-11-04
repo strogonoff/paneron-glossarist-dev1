@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.20
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: fcca8450-4b71-5e0a-bffd-c49c439de658
+  definition: système d'information traitant des informations concernant des phénomènes
+    associés à une localisation relative à la Terre
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 358024c2-cef8-5c30-b49d-13e7123ae788
+status: valid

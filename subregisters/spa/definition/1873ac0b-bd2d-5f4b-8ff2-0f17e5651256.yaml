@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.46
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: aadc2acf-b2cc-506b-ba5e-016ab989c696
+  definition: dispositivo que consiste en un rotor giratorio montado sobre un cardán
+    de manera que su eje de rotación mantiene una orientación fija
+  examples: []
+  notes:
+  - El rotor gira alrededor de un eje fijo mientras que la estructura de alrededor
+    gira o se inclina. En los aviones, el cabeceo y orientación del avión se mide
+    con el giro estable del giróscopo. En el espacio, donde los cuatro puntos cardinales
+    no tienen sentido, el eje de giro del giróscopo se usa como un punto de referencia
+    para la navegación. Un sistema inercial de navegación incluye tres giróscopos
+    montados con sistema cárdan, que se usan para medir el alabeo, cabeceo y guiñada.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 1873ac0b-bd2d-5f4b-8ff2-0f17e5651256
+status: valid

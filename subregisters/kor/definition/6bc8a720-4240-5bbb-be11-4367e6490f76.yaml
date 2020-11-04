@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.25'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: bf860ddf-8731-591a-b4f7-50f18708642b
+  definition: 가치 교환 없이 임차, 임대하는 행위
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 6bc8a720-4240-5bbb-be11-4367e6490f76
+status: valid

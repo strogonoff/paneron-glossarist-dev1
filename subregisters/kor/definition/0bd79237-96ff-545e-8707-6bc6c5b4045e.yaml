@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.29'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 98112b71-e633-5337-bdb1-5f132700e89b
+  definition: 스키마를 저장하기 위한 표현 모델
+  examples:
+  - 스키마 등록소를 위한 표현모델
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: 0bd79237-96ff-545e-8707-6bc6c5b4045e
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/51789.html
+    ref: ISO/TS 19130:2010
+  concept: 62a28fe7-4f20-58a4-8b13-d36dca94ab54
+  definition: 센서에 의해 생성된 연관 영상의 3차원 객체공간과 2차원 평면간의 관계를 수학적으로 묘사한 것
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: a90756e2-f459-50e7-80b7-ff4a9c9ecee0
+status: superseded

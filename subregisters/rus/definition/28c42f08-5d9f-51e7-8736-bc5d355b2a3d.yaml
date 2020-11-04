@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: 492dd18e-e8a4-516e-b7df-e5cf08bb54d8
+  definition: атрибут, значение которого является ссылкой на локальный ресурс или
+    удаленный ресурс
+  examples: []
+  notes:
+  - в XML этот атрибут обычно называется href и содержит ссылку URI на удаленный ресурс
+    (см. W3C XLink)
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 28c42f08-5d9f-51e7-8736-bc5d355b2a3d
+status: valid

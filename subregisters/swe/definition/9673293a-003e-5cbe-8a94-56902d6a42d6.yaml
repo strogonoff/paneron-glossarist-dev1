@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  concept: 74625814-5e6c-5d9d-912b-0bbf662e287b
+  definition: samling tjänstegränssnitt och datastrukturer avsedda för PI-matchning
+  examples: []
+  notes: []
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: 9673293a-003e-5cbe-8a94-56902d6a42d6
+status: valid

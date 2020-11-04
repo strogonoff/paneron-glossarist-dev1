@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.23
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 90ce3360-3ffb-596c-b80c-ecd98e8ddf8e
+  definition: 센서 또는 센서에 필요한 구조
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 27256712-e001-5f29-9aba-73285ddaeede
+status: valid

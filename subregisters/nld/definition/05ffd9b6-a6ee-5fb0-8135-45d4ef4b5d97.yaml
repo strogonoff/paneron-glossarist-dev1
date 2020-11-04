@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: de325c9f-e99f-5756-a5be-38958ef84c09
+  definition: driedimensionaal coördinaatsysteem waarbij één afstand en twee hoeken
+    vanuit de oorsprong worden bepaald, vaak verbonden aan een geodetisch coördinaatreferentiesysteem
+  examples: []
+  notes:
+  - Niet te verwarren met een ellipsoidaal coördinaat systeem gebaseerd op een ellipsoïde
+    die 'gedegenereerd' is in een bol.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 05ffd9b6-a6ee-5fb0-8135-45d4ef4b5d97
+status: superseded

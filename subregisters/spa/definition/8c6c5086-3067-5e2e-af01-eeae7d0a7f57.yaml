@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 3e4a8e5f-69b1-5952-ac89-a4d5cc620bee
+  definition: clase estereotipada que especifica un dominio de objetos junto con las
+    operaciones aplicables a los objetos, sin definir la implementación física de
+    tales objetos
+  examples: []
+  notes:
+  - Un tipo puede tener atributos y asociaciones.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 8c6c5086-3067-5e2e-af01-eeae7d0a7f57
+status: valid

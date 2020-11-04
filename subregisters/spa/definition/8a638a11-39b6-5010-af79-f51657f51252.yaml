@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 6b617081-408d-5cd1-915b-2d469ab25094
+  definition: alguien que actua en nombre de otro
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 8a638a11-39b6-5010-af79-f51657f51252
+status: valid

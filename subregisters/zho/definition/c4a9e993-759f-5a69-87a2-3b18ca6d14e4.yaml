@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: aa0ea69b-b60b-5101-8c8c-6b5a84a79df7
+  definition: 对某项国际标准实现的一致性评价过程。
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: c4a9e993-759f-5a69-87a2-3b18ca6d14e4
+status: valid

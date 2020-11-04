@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 95d7c7bf-8360-5011-bf34-419114dfff98
+  definition: Menge von Elementen mit gemeinsamen Eigenschaften
+  examples: []
+  notes:
+  - Class is used in this context to refer to a set of instances, not the concept
+    abstracted from that set of instances.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 6112e380-bcaa-58cc-86fd-2040187f4df2
+status: valid

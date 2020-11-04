@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39890.html
+    ref: ISO 19119:2005
+  concept: 15a4a183-9aec-58a0-9ca0-4b268efc7621
+  definition: именованный набор операций, характеризующих поведение сущности
+  examples: []
+  notes:
+  - См. 7.2  ISO 19119  для обсуждения интерфейса
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: bac6c96e-036e-5392-aec1-128cc4520292
+status: valid

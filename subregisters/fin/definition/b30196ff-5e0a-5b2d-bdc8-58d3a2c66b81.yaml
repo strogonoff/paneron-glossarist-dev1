@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.38
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 183b226d-dc90-54c1-ae4d-d346dc0737c9
+  definition: näkemys kiinnostuksen kohteena olevasta reaalimaailmasta tai hypoteettisesta
+    maailmasta
+  examples: []
+  notes: []
+dateAccepted: 2013-07-03 00:00:00+00:00
+id: b30196ff-5e0a-5b2d-bdc8-58d3a2c66b81
+status: valid

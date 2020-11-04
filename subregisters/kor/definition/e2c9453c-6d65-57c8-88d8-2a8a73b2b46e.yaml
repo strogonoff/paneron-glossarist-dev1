@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.28
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 934e7be3-14b1-526b-ac92-ee262b4ff74c
+  definition: 속성값이 할당된 디지털 영상의 최소단위의 요소
+  examples: []
+  notes:
+  - This term originated as a contraction of "picture element"
+  - Related to the concept of a grid cell
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: e2c9453c-6d65-57c8-88d8-2a8a73b2b46e
+status: valid

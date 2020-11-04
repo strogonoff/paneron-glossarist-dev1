@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: d6efd593-a9b1-59f7-9968-6d6b9dd9066c
+  definition: выполнение заданных требований
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: b39c36f6-670e-5cda-b53a-d54a47ae6700
+status: valid

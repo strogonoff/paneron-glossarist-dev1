@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.25
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: e4edc733-210c-514a-b4b1-10cb6a4eda4e
+  definition: koordinaattijärjestelmä, joka perustuu erillisdatumiin
+  examples:
+  - Paikalliset rakentamiseen liittyvät koordinaatistot; laivan tai Maata kiertävän
+    avaruusaluksen paikallinen koordinaattijärjestelmä.
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 44e0c455-bb87-5111-85aa-3afb938cac2c
+status: valid

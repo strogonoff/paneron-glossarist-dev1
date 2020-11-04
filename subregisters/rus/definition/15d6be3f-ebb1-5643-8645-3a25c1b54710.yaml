@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 6561fc5a-f0fd-5c27-a348-1f7b6a129248
+  definition: подмножество метаданных, состоящее из совокупности  связанных сущностей
+    метаданных и элементов метаданных
+  examples: []
+  notes:
+  - Соответствует пакету в терминологии UML
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 15d6be3f-ebb1-5643-8645-3a25c1b54710
+status: valid

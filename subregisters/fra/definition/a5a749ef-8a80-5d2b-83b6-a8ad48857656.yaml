@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 3320dfc7-7b80-5984-8526-b02f15bde3c3
+  definition: surface formée par la rotation d'une ellipse autour de son axe principal
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: a5a749ef-8a80-5d2b-83b6-a8ad48857656
+status: superseded

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - ref: Adapted from the Manual of Photogrammetry
+  concept: 3c02ecb5-b2f8-52ac-9d1f-8da6874af3ce
+  definition: общая угловая протяженность, по которой может располагаться поле зрения
+    (FOV)
+  examples: []
+  notes:
+  - Зона обзора -это область, которая потенциально может быть рассмотрена системой
+    в любой момент времени. Она определяется FOV системы и диапазоном направлений,
+    в которых система может указывать.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: a7c49fbb-2442-57be-a2f2-6d57b58f67a5
+status: valid

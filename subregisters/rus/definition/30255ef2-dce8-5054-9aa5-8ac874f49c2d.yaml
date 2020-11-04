@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 3c08bf53-71d4-5964-8d8d-29c8a931922e
+  definition: обозначение, образованное путём исключения слов или букв из более длинной
+    формы и обозначающее  то же самое понятие
+  examples: []
+  notes: []
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 30255ef2-dce8-5054-9aa5-8ac874f49c2d
+status: valid

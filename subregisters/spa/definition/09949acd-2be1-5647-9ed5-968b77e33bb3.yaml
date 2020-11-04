@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '3.13'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  concept: d9fc5e22-0a7d-5ede-91ed-2c294b197e90
+  definition: actividad de las personas para cambiar entre modos de transporte, redes
+    de transporte o medios de transporte
+  examples: []
+  notes: []
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: 09949acd-2be1-5647-9ed5-968b77e33bb3
+status: valid

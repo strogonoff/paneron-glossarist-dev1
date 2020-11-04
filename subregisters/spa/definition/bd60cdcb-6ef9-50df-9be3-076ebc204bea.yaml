@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: 69def501-df77-555c-ae95-c9d1a4a38609
+  definition: característica de comportamiento <UML> de un clasificador que especifica
+    el nombre, tipo, parámetros y restricciones para invocar un comportamiento asociado
+  examples: []
+  notes: []
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: bd60cdcb-6ef9-50df-9be3-076ebc204bea
+status: valid

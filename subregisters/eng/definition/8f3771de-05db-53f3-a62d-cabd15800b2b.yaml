@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: dc123767-e9f4-5c7e-996e-22c8dfae22ec
+  definition: control, management, allocation and tracking of the rights granted to
+    system participants
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 8f3771de-05db-53f3-a62d-cabd15800b2b
+status: valid

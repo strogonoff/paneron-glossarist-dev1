@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/8919.html
+    ref: ISO 3534-1:1993
+  concept: 7372c61f-b1fc-5782-be79-3eb0fbc405b8
+  definition: grad af overensstemmelse mellem et testresultat og den accepterede referenceværdi
+  examples: []
+  notes:
+  - Et testresultat kan være observationer eller målinger.
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 4f8fd25d-e698-5df8-89c0-c366cca25fde
+status: superseded

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 7401305f-b825-5219-ba46-13d487d07173
+  definition: featureerstatning, hvor en tidligere eksisterende feature erstattes
+    af to eller flere særskilte featureinstanser af samme featuretype
+  examples:
+  - En instans af featuretypen  matrikel erstattes af to instanser af samme type,
+    når matriklen udstykkes juridisk.
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: e97b4df8-3bca-54bd-8ba6-0f4ca49239bf
+status: valid

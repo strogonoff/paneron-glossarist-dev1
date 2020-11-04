@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.88
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 696855b3-e083-562d-826b-17dfc70853e1
+  definition: geometrinen toiminto tai prosessi, joka ilmaisee topologisia suhteita
+  examples: []
+  notes:
+  - Sijaintiobjektille suoritettu UML-operaatio luokitellaan spatiaaliseksi operaatioksi,
+    samoin kuin ISO 19107 -standardin kohdassa 8 tarkoitetut kyselyoperaatiot.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: a1c3b4be-cace-53b2-ab08-aeb815b4fa0a
+status: valid

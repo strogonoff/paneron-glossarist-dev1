@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 8a650bfd-dd93-56c0-bbf0-e787d2f68c76
+  definition: data som skapats enligt bestämda regler och som inte kan tolkas direkt
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 9a1a3505-4a70-502e-bef3-d75baa90da0b
+status: valid

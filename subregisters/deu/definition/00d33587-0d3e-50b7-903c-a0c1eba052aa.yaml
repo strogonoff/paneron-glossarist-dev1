@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 45e0ef0b-7f48-5bb0-aedf-c4a5dc013205
+  definition: Netz aus zwei oder mehr Kurvenscharen, wobei die Elemente einer Schar
+    jeweils die Elemente der anderen Scharen auf algorithmische Weise schneiden
+  examples: []
+  notes:
+  - The curves partition a space into grid cells.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 00d33587-0d3e-50b7-903c-a0c1eba052aa
+status: valid

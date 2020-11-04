@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.10
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: e24e8597-01ba-50aa-8c49-1f07591f2757
+  definition: 이미지 위치에 대응하는 지리위치를 결정하기 위해 사용되는 정보
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 889b3f73-1278-5fba-bbba-d59a8c1edeee
+status: valid

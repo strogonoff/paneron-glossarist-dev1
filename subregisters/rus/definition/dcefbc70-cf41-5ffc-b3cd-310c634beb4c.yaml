@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.8
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 96f5ba19-98a9-5044-bae7-963db940e744
+  definition: правило или уполномоченный орган,  определенные для назначения кода,
+    имени, термина или категории
+  examples:
+  - ами пространств кодов являются словари, уполномоченные органы, кодовые списки
+    и т.п.
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: dcefbc70-cf41-5ffc-b3cd-310c634beb4c
+status: valid

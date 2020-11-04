@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 36d98aa3-af1b-50d7-89f8-4b71f9c23894
+  definition: mecanismo que describe objetos geográficos estructurados y con comportamiento
+  examples: []
+  notes:
+  - Los clasificadores incluyen interfaces, clases, tipos de datos y componentes.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: ebe48ac0-937a-5a58-900f-274a4e7dd8d2
+status: superseded

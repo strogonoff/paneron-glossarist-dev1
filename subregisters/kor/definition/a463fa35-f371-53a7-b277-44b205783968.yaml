@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 3a68ce9b-5e07-51d2-baf9-d1f003419039
+  definition: 지구와 중력 높이 또는 깊이와의 관계를 기술하는 데이텀
+  examples: []
+  notes:
+  - 대부분의 경우, 수직 데이텀은 평균 해수면과 관련된다. 타원체고는 측지 원점을 기준으로 하는 3차원 타원체 좌표계와 관련되는 것으로 간주된다.
+    수직 데이텀은 수심 데이텀(수로학적인 목적으로 사용됨)을 포함한다. 이 경우 높이는 음(-)의 높이 또는 깊이가 된다.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: a463fa35-f371-53a7-b277-44b205783968
+status: superseded

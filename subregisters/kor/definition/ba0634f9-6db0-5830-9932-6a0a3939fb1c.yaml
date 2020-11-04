@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 7844e790-2e19-5d2d-9b9b-1dd6bdeb43db
+  definition: 시험 적합 판정
+  examples: []
+  notes: []
+dateAccepted: 2007-06-29 00:00:00+00:00
+id: ba0634f9-6db0-5830-9932-6a0a3939fb1c
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.4, modified – Original Example has been removed. Note 1 to entry has
+      been added.
+    link: https://www.iso.org/standard/39295.html
+    ref: ISO 2859-5:2005
+  concept: d5a2a5a4-672a-50b5-b2b1-1a01b3f3ec6d
+  definition: 개별적으로 묘사되고 고려될 수 있는 모든 것
+  examples: []
+  notes:
+  - An item can be any part of a data set, such as a feature, feature relationship,
+    feature attribute, or combination of these.
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: 7330e8b7-d1e2-5c6c-b419-511118d517da
+status: valid

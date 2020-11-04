@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.78'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: a3222bc8-eabb-5d6e-a7c9-8c3b86a27ab1
+  definition: apparat för omvandling av en energityp till en annan
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 4fae733e-7503-5115-b556-b5971748ada8
+status: valid

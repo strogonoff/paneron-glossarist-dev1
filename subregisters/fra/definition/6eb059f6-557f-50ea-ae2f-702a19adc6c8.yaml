@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  concept: 65cd85d7-f5ab-53fd-97c4-2dbf4288057a
+  definition: couverture qui a un domaine composé de polygones
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 6eb059f6-557f-50ea-ae2f-702a19adc6c8
+status: valid

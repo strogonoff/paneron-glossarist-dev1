@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 3bedecff-1481-5517-83ff-723ced9fd954
+  definition: 외부 지식을 바탕으로 데이터셋의 품질을 평가하는 방법
+  examples: []
+  notes:
+  - 외부 지식의 예로서, 생산 방법 또는 원시 데이터와 같은 데이터셋의 연혁을 들 수 있다.
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: 9c927e38-39f7-5b6d-9029-97193b3bf5bb
+status: valid

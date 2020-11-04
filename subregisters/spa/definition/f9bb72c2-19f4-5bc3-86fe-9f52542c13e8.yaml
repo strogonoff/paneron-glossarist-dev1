@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: d02c5ba2-6268-5a0d-a263-257e652f3d2c
+  definition: instancia particular de un servicio
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: f9bb72c2-19f4-5bc3-86fe-9f52542c13e8
+status: valid

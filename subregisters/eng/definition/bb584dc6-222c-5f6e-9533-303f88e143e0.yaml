@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 16ee326a-ae17-5463-84d7-4e32098ee7fa
+  definition: ability for any instance of a class that is a descendant under inheritance
+    or realization of another class, type or interface to be used in lieu of an instance
+    of its ancestor in any context
+  examples: []
+  notes:
+  - The weaker forms of substitutability make various restrictions on the context
+    of the implied substitution.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: bb584dc6-222c-5f6e-9533-303f88e143e0
+status: retired

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.9
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: b59f7009-0db9-5cf2-a408-07d0ad459306
+  definition: sekwencja krzywych, w której każda krzywa (poza pierwszą) zaczyna się
+    w punkcie końcowym poprzedniej krzywej w sekwencji
+  examples: []
+  notes:
+  - Krzywa kompozytowa, jako zbiór położeń bezpośrednich ma wszystkie właściwości
+    krzywej.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 531818f8-dc7e-5550-85dc-a1eacad78df8
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.63
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 3e4e32dc-5217-5fcb-90b5-8cb8e0949f55
+  definition: 탐지 시스템의 물리적 구성에 기반한 센서 모형
+  examples:
+  - One level with point based spatial units, a second level with line based spatial
+    units, and a third level with polygon based spatial units.
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 36d0bfb6-4913-561d-917f-48acbeb7c05e
+status: valid

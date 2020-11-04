@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: Manual of Photogrammetry
+  concept: 3f3a51ef-0fe8-507c-9dbe-d56bf7c10852
+  definition: region instantánea visible por un sensor, expresada en unidades angulares
+  examples: []
+  notes:
+  - En el caso de sistemas areotransportados, el campo de visión sería el ancho de
+    franja para sistemas lineales, la huella en el terreno  para sistemas matriciales
+    y para un escáner whiskbroom la anchura de la franja.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 0da0e8db-359a-5b91-b555-d636e90cdf6b
+status: valid

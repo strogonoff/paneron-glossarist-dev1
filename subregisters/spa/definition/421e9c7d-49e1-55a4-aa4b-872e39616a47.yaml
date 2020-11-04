@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 3bedecff-1481-5517-83ff-723ced9fd954
+  definition: método de evaluación de la calidad de un conjunto de datos basado en
+    conocimiento externo
+  examples: []
+  notes:
+  - Ejemplo de conocimiento externo es el linaje del conjunto de datos, como pueden
+    ser el método de producción o la fuente de datos.
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 421e9c7d-49e1-55a4-aa4b-872e39616a47
+status: valid

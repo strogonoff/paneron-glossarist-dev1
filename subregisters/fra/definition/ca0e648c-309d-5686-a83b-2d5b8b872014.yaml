@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132
+  concept: c2c74cbe-24e9-58cb-8b01-84fb138b8dee
+  definition: architecture logicielle constituée de services couplés
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: ca0e648c-309d-5686-a83b-2d5b8b872014
+status: valid

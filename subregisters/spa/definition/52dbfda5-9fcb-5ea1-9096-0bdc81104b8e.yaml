@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.29'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 98112b71-e633-5337-bdb1-5f132700e89b
+  definition: modelo de representación para el almacenamiento de esquemas
+  examples:
+  - Modelo de representación para un repositorio de esquemas.
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 52dbfda5-9fcb-5ea1-9096-0bdc81104b8e
+status: valid

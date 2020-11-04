@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 3d81e936-d581-53da-960d-eb3f29ef46c4
+  definition: servicio que puede ser solicitada por un objeto para afectar a su comportamento
+  examples: []
+  notes:
+  - Una operación tiene una especificación (firma) que puede restringir los parámetros
+    que son realmente posibles.
+  - 'Definicón del Manual de Referencia de UML: Una especificación de la transformación
+    o consulta que un objeto puede llamar para ejecutar.'
+  - An operation has a name and a list of parameters. A method is a procedure that
+    implements an operation. It has an algorithm or procedure description.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 263358fc-9f79-5790-b660-902b400d0765
+status: superseded

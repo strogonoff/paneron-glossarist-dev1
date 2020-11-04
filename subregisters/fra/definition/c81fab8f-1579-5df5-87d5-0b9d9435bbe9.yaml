@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.16'
+    link: https://www.iso.org/standard/40395.html
+    ref: ISO 19117:2005
+  concept: 39f25d74-8066-5ad6-a79c-1fffa99cffa5
+  definition: règle appliquée à l'objet pour déterminer quelle spécification de représentation
+    doit être utilisée
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: c81fab8f-1579-5df5-87d5-0b9d9435bbe9
+status: retired

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.25
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: e4edc733-210c-514a-b4b1-10cb6a4eda4e
+  definition: coördinaatreferentiesysteem gebaseerd op een lokaal datum
+  examples:
+  - EN Lokale bouwkundige stramienen, coördinaatreferentiesystemen op een vaartuig
+    of ruimtevaartuig.
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: d9266a1f-31f0-5d1b-8b14-47471573e72d
+status: valid

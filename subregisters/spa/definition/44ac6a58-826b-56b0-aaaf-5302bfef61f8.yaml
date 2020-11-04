@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: a5e31b9d-bd5c-5143-bdf8-d7b8fc71198b
+  definition: cantidad que tiene tanto dirección como magnitud
+  examples: []
+  notes:
+  - Un segmento lineal dirigido representa un vector si la longitud y la dirección
+    del segmento lineal es igual a la magnitud y la dirección del vector. El término
+    datos vectoriales se refiere a los datos que representan la configuración espacial
+    de los objetos geográficos como un conjunto de segmentos lineales dirigidos.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 44ac6a58-826b-56b0-aaaf-5302bfef61f8
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: c466728d-152a-5086-8600-1f817866b132
+  definition: 沿从椭球面到点的法线方向量测的该点到椭球面的距离，向上或向外为正。
+  examples: []
+  notes:
+  - 仅用作三维大地坐标系的一部分，从不单独使用。
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 6ec891ba-4c58-5a73-a75e-d823bc1597b2
+status: superseded

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.26'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 9061048d-8145-556e-818b-51da41c99b39
+  definition: 用于图示表达要素的通用接口。
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 17d34b5c-add2-5ab9-b532-d48bcd6798f6
+status: valid

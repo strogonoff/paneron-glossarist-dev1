@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39242.html
+    ref: ISO 6709:2008
+  concept: ad15e8ad-63ae-5550-ba88-33ad68b96807
+  definition: unit associated with the least significant digit of a coordinate
+  examples: []
+  notes:
+  - Coordinate resolution may have linear or angular units depending on the characteristics
+    of the coordinate system
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: 537e78d4-3297-54b7-b229-dd5c418f4b60
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: d6efd593-a9b1-59f7-9968-6d6b9dd9066c
+  definition: 满足规定的要求。
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 6a1dfa8f-2f71-5f86-a3a3-a09ee0d44795
+status: valid

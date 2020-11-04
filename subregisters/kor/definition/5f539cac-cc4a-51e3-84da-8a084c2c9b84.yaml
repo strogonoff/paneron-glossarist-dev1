@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.47'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 255cc428-9b7b-5ea6-b020-cd7385547c2b
+  definition: 2차 허가증이 부여된 관계자
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 5f539cac-cc4a-51e3-84da-8a084c2c9b84
+status: valid

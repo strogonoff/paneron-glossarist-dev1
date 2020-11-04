@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 17411730-3d0e-5c4e-b284-3a6eedcfaf53
+  definition: 격자에서 두 개 이상 곡선의 교차점에 위치하는 점
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: afefe25f-7b59-5d9a-ac71-ce2bcd406d36
+status: valid

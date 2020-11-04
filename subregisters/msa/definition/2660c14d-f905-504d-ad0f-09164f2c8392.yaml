@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.47
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: d6db41d9-71e7-5966-b9af-0b3a6a1409be
+  definition: Biasanya merujuk kepada bentuk ukuran yang dijalankan berdasarkan titik-titik
+    tertentu yang telah ditetapkan.Unsur geometri yang ditakrifkan mewakili kedudukan
+    dalam bentuk koordinat x, y
+  examples: []
+  notes:
+  - The boundary of a point is the empty set.
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 2660c14d-f905-504d-ad0f-09164f2c8392
+status: valid

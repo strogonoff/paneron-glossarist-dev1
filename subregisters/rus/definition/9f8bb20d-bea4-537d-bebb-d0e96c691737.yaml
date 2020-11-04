@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.29'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 4ef49e71-81b9-5a52-b9cb-b70a7a99ed65
+  definition: атрибут пространственного объекта, описывающий представление этого объекта
+    через координаты, математические функции и/или граничные топологические отношения
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 9f8bb20d-bea4-537d-bebb-d0e96c691737
+status: valid

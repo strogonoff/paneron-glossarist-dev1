@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.27'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 343b5254-6b7e-56d6-91a9-fadf3d0c9568
+  definition: scope or applicability of a licence
+  examples: []
+  notes:
+  - The extent can be described in spatial, temporal. or any other parameter range
+    appropriate to the rights described in the licence.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 78735d8d-45d6-5467-9a66-261c4c435738
+status: valid

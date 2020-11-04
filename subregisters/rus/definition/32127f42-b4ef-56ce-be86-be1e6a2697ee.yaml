@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.33
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: e641aca7-094f-5137-a6a4-03da150104c5
+  definition: свойство пространственного объекта в GML, описывающее его некоторую
+    геометрическую характеристику
+  examples: []
+  notes:
+  - Имя свойства отражает вид геометрической характеристики объекта
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 32127f42-b4ef-56ce-be86-be1e6a2697ee
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.60
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 88ce0f9d-abce-5a92-b8f7-17de82c06e69
+  definition: 값의 순서화된 목록
+  examples: []
+  notes:
+  - 튜플에서의 숫자 값은 불변이다.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: f01cfd21-136d-59be-ac0d-d64f7d9e0200
+status: valid

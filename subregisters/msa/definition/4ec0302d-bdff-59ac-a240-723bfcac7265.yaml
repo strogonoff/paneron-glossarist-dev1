@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - null
+  concept: 0169da6f-7969-51bc-942f-f87477822a21
+  definition: Format piawai untuk memasukkan maklumat bukan teks ke dalam e-mel, seterusnya
+    menyokong penghantaran mesej media bercampur melalui rangkaian TCP/IP. MIME juga
+    piawai penghantaran teks bukan Rumi (contohnya teks Jawi,Cina, Rusia,Kanji) yang
+    tidak boleh diwakilkan dalam kod ASCII. Protokol MIME meliputi pertukaran data
+    dalam bentuk perduaan, audio, video, imej, perisian aplikasi, atau ASCII.
+  examples: []
+  notes: []
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 4ec0302d-bdff-59ac-a240-723bfcac7265
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  concept: c3963843-a765-51eb-a5b8-9ad4d8fa99c7
+  definition: XML-Schema, dessen Komponenten im Namensraum "http://www.opengis.net/gml/3.2"
+    nach diesem internationalen Standard definiert sind
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 3ac8d4e5-2cfa-533f-a1bc-2035d1df19b4
+status: superseded

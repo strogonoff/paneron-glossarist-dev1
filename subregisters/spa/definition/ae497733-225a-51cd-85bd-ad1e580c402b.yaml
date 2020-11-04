@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.39'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: c34f6dcf-26d2-55e1-b815-9011d7de946b
+  definition: efecto visual en la imágenes SAR provocado por ambigüedad entre retornos
+    de alturas dispersas y diferentes, que provienen de un mismo rango de tiempo Doppler
+  examples: []
+  notes:
+  - Este efecto hace solaparse los edificios sobre eL suelo en dirección del vector
+    velocidad del sensor, similar a vistas en perspectiva en imágenes
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: ae497733-225a-51cd-85bd-ad1e580c402b
+status: valid

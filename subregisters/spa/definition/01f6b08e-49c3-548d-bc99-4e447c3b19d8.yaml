@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: f9e5cd51-a353-5bb0-ac69-6cfe5604cd6c
+  definition: modelo que define el lenguaje para expresar otros modelos
+  examples: []
+  notes:
+  - Un modelo es una instancia de un metamodelo, y un metamodelo es una instancia
+    de un meta-metamodelo.
+dateAccepted: 2015-12-01 00:00:00+00:00
+id: 01f6b08e-49c3-548d-bc99-4e447c3b19d8
+status: valid

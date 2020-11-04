@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105
+  concept: 0b65b969-2b41-5184-9751-6b540d096140
+  definition: verdict de test de conformité où ni un verdict de succès ni un verdict
+    d'échec ne s'appliquent
+  examples: []
+  notes: []
+dateAccepted: 2000-11-16 00:00:00+00:00
+id: 9af7e89d-b289-513d-a673-013e713e0a46
+status: valid

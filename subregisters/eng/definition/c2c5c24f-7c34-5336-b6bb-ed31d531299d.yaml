@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: CEOS WGCV
+  concept: 033f38c7-7677-5c1e-8bcb-7ad198efe171
+  definition: process of quantitatively defining a system's responses to known, controlled
+    signal inputs
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: c2c5c24f-7c34-5336-b6bb-ed31d531299d
+status: valid

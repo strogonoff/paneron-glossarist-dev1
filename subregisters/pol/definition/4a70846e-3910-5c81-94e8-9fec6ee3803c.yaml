@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: d50f09f6-0dc9-595f-88bb-17f3e6424fb1
+  definition: sukcesja obiektu, w której co najmniej  istniejące wcześniej instancje
+    pewnego typu obiektu są zastępowane jedną instancją tego samego typu obiektu
+  examples:
+  - Po usunięciu płotu pomiędzy pastwiskami dwie instancje typu obiektu 'pastwisko'
+    zostają zastapione jedną instancją tego samego typu.
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 4a70846e-3910-5c81-94e8-9fec6ee3803c
+status: valid

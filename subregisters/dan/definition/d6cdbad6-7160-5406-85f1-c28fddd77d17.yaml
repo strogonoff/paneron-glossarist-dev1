@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 90fd29a6-f0a0-532b-956b-c648d759337c
+  definition: finit, uordnet samling af beslægtede elementer (objekter eller værdier),
+    som kan gentages
+  examples: []
+  notes:
+  - Logisk set er en samling organiseret i  par <element, antal>
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: d6cdbad6-7160-5406-85f1-c28fddd77d17
+status: retired

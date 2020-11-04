@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 3efd65f1-ee28-5305-9470-c526ba241392
+  definition: (pokrycie) wybór zbioru obiektów z dziedziny pokrycia oparty na wartościach
+    atrybutów obiektów związanych z tymi obiektami
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 509e8c15-d23a-5cde-99a4-7ff34635521a
+status: valid

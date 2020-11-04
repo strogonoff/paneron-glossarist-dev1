@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40147.html
+    ref: ISO 3534-2
+  concept: 2eb5b571-8095-5968-9309-76accdd38353
+  definition: totalité des objets considérés
+  examples: []
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 6dab405b-975a-5215-8fb5-1fdabc8abece
+status: retired

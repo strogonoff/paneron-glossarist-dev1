@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.2.4
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 9e160891-b1b3-5996-bc78-8ebbe1467a91
+  definition: abstracción de una propiedad de un objeto o de un conjunto de objetos
+  examples: []
+  notes:
+  - Las características sirven para definir los conceptos.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: cba9aaf9-1ba5-5e17-ba6d-9173ba1404a0
+status: valid

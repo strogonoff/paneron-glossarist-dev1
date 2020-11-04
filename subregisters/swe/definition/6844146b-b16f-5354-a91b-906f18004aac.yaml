@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 1650a910-a57e-5ed3-af9f-098f9bb59303
+  definition: duglighetstest som görs som första steg för att identifiera uppenbara
+    fall av icke-överensstämmelse
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 6844146b-b16f-5354-a91b-906f18004aac
+status: valid

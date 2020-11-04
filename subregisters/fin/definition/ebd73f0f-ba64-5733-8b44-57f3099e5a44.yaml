@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: db11ab01-3710-5083-9548-0a80eccfdf78
+  definition: tietokoneen tai ohjelman toiselle tietokoneelle tai ohjelmalle palauttama
+    toiminnon tulos
+  examples: []
+  notes: []
+dateAccepted: 2013-07-03 00:00:00+00:00
+id: ebd73f0f-ba64-5733-8b44-57f3099e5a44
+status: valid

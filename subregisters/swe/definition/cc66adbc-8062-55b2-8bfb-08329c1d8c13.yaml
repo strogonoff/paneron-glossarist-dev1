@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.58
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 7ada0bc8-bc25-562a-ac89-750d172dfdf9
+  definition: tecken eller teckenkombination som används för märkning eller klassificering
+    av data
+  examples:
+  - <Road>.
+  notes:
+  - A tag with no forward slash (e.g. <Road> ) is called a start-tag (also opening
+    tag), and one with a forward slash (e.g. </Road> is called an end-tag (also closing
+    tag).
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: cc66adbc-8062-55b2-8bfb-08329c1d8c13
+status: valid

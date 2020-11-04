@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: fe829ed0-6749-576a-9d19-a3730a859ef8
+  definition: однопараметрическое множество геометрий, такое в котором каждая точка
+    в призме множества находится в одной, и только одной траектории, и в одном, и
+    только одном листе.
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 9914ea8f-ee55-59fc-8bde-f3a6f7c72ef1
+status: valid

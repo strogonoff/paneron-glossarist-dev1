@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.31'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 44833273-eb7f-5900-9870-f69df4097515
+  definition: primitiva de representación que puede ser de naturaleza gráfica, audible,
+    táctil o una combinación de ellas
+  examples: []
+  notes: []
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 6fa544f9-12c3-5eec-9813-1f7c2d850f6a
+status: valid

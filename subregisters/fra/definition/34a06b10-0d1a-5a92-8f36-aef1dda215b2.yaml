@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.60
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 88ce0f9d-abce-5a92-b8f7-17de82c06e69
+  definition: liste ordonnée de valeurs
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 34a06b10-0d1a-5a92-8f36-aef1dda215b2
+status: valid

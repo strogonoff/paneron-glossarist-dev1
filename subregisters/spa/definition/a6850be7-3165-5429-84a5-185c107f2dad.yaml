@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 9839cebf-75da-558a-97ee-d3a5072b28aa
+  definition: parte de la gestión de la calidad que se centra en satisfacer requerimientos
+    de calidad
+  examples: []
+  notes: []
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: a6850be7-3165-5429-84a5-185c107f2dad
+status: valid

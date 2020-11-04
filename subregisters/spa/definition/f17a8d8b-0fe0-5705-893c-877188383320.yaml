@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 31d8d96a-b1de-5023-8806-44fae7498ea2
+  definition: característica de un objeto geográfico
+  examples:
+  - Un atributo de objeto geográfico denominado "color" puede tener un valor de atributo
+    "verde" que pertenece al tipo de datos "texto".
+  - Un atributo de objeto geográfico denominado "longitud" puede tener un valor de
+    atributo "82.4", que pertenece al tipo de datos "real".
+  notes:
+  - Un atributo de objeto geográfico tiene un nombre, un tipo de dato y un dominio
+    de valores asociado a él. Un atributo de objeto geográfico de una instancia de
+    objeto geográfico también tiene un valor de atributo tomado del dominio de valores.
+  - En un catálogo de objetos geográficos, un atributo de objeto geográfico puede
+    incluir un dominio de valores pero no especificar valores de atributo para instancias
+    de objetos geográficos.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: f17a8d8b-0fe0-5705-893c-877188383320
+status: valid

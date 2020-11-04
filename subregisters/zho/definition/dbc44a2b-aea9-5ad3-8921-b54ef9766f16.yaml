@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.23'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 42be7cda-8054-5595-b42d-4147a95b148f
+  definition: 表示按照应用模式存储数据的模型。
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: dbc44a2b-aea9-5ad3-8921-b54ef9766f16
+status: valid

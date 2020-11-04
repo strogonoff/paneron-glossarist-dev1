@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.32
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 3061c1bd-39c3-5644-bb56-04dc67baf799
+  definition: 적도면과 주어진 점을 통과하는 타원체 법선이 이루는 각도(ϕ)로써, 북으로 향하는 것을 정(+)으로 함
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: f0899a4b-0aef-5318-a1a5-f56622add7fc
+status: valid

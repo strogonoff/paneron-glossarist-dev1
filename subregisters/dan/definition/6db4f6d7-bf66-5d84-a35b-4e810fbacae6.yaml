@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 7ae2c725-eaa7-5331-8a40-1f1f3b2f10e3
+  definition: udtalelse, der indeholder alle informationer vedrørende IUT og dens
+    tilsvarende SUT, som sætter testlaboratoriet i stand til at gennemføre en egnet
+    testsuite af denne IUT
+  examples: []
+  notes:
+  - IXIT giver typisk detaljer om organisationen og lagringen af begreber i SUT samt
+    om måden man tilgår og ændrer SUT på.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 6db4f6d7-bf66-5d84-a35b-4e810fbacae6
+status: valid

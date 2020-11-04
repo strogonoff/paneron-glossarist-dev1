@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dd89d158-419c-571b-940a-4abf4a6c6efc
+  definition: 仕様を具現化したもの。
+  examples: []
+  notes:
+  - 地理情報規格群の関係では，実装は，地理情報サービスの仕様及びデータ集合の仕様を含む。
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: b5e487de-e8f6-5fc3-8f1e-a6f0ae285ba0
+status: valid

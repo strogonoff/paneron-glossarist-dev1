@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: de325c9f-e99f-5756-a5be-38958ef84c09
+  definition: 由相对于原点的距离和两个角度坐标构成的三维坐标系，一般该坐标系与大地坐标参照系相关。
+  examples: []
+  notes:
+  - 不要将基于椭球退化为球的坐标系统与椭球坐标系相混淆。
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: c0277167-d496-5510-8960-6f304b925bef
+status: superseded

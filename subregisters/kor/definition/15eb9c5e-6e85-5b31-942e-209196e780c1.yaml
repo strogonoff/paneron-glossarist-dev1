@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39242.html
+    ref: ISO 6709:2008
+  concept: ad15e8ad-63ae-5550-ba88-33ad68b96807
+  definition: 좌표내 최하위 숫자와 연관된 단위
+  examples: []
+  notes:
+  - Coordinate resolution may have linear or angular units depending on the characteristics
+    of the coordinate system
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: 15eb9c5e-6e85-5b31-942e-209196e780c1
+status: valid

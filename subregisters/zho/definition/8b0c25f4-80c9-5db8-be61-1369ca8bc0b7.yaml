@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 75004415-4619-50cb-82c0-477bbb17120e
+  definition: 语义条件或限制。
+  examples: []
+  notes:
+  - 某些约束在UML中预先定义，在其他情况下可以是用户定义。约束是UML三种扩展机制之一。
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 8b0c25f4-80c9-5db8-be61-1369ca8bc0b7
+status: superseded

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 9234ba69-f18f-5aa4-8e2a-1ef25fe9205f
+  definition: 지구 자전 주기와 명목상 같은 지속 기간을 갖는 기간
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 04cb4a62-aae0-553f-88d4-230cb08c5f3a
+status: valid

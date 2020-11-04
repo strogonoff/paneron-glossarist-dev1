@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3bac65b8-a515-5229-91ab-f1ad0474193c
+  definition: collection finie et ordonnée d'éléments liés (objets ou valeurs) et
+    qui peuvent être répétés
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 7b00238f-982e-5250-949d-2b48014b8d66
+status: valid

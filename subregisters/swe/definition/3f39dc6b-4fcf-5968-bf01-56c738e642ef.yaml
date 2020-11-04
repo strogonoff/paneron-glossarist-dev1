@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.11
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: e6e4e6b6-bd8b-58d5-b912-b4da33a6a8e7
+  definition: avbildning associerad med en plats relativt jorden
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 3f39dc6b-4fcf-5968-bf01-56c738e642ef
+status: valid

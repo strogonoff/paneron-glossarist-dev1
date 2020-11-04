@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.29'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 98112b71-e633-5337-bdb1-5f132700e89b
+  definition: модель представления для хранения схем
+  examples:
+  - Модель представления для схемы репозитария
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 44d99461-5fba-5732-a076-9a5f9b008988
+status: valid

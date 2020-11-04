@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.45
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 7e833142-706c-507a-9ee0-0ea5fab7fbb1
+  definition: совокупность геометрических объектов, лишенная внутренней структуры
+  examples: []
+  notes:
+  - Никаких преположений относительно пространственных отношений между элементами
+    высказать нельзя
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: cc8a8c94-e6da-5221-86a8-3a9986dec547
+status: valid

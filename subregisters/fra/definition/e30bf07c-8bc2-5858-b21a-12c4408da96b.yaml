@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132
+  concept: ebc56d4b-b7d4-5d65-be1e-d3ee774c981f
+  definition: service fournissant une fonction de base à d'autres services ou applications
+    de façon fonctionnelle
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: e30bf07c-8bc2-5858-b21a-12c4408da96b
+status: valid

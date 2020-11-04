@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 01350d72-b827-5244-bd04-c4e2c7145968
+  definition: مؤسسة أو جهة تقوم بتنفيذ عملية تقييم المطابقة
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: c25dba45-70b3-5f02-a82f-65a9085b7d60
+status: valid

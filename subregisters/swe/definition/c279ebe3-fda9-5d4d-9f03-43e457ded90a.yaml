@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: (1994)
+    ref: 'Jensen et al. '
+  concept: 4fa4b3ee-6229-5130-bc2d-bc7d3e1c5c1e
+  definition: tidsintervall under vilket något är korrekt eller giltigt
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: c279ebe3-fda9-5d4d-9f03-43e457ded90a
+status: valid

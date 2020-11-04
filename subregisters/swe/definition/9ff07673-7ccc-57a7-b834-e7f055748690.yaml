@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.41
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 24ba2521-05d1-55ce-a95e-f5e042adbd16
+  definition: tal som uttrycker det numeriska värdet på en linjär dimension
+  examples: []
+  notes:
+  - When used as a noun, measure is a synonym for physical quantity.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 9ff07673-7ccc-57a7-b834-e7f055748690
+status: valid

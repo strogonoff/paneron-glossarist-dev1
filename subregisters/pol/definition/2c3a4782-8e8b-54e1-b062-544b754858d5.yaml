@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.16
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 8b388673-a23e-54eb-9b5e-d1106ce2a7c8
+  definition: pełna lub częściowa automatyzacja procesu, podczas którego dokumenty,
+    informacje lub zadania są przekazywane między uczestnikami procesu dla zapewnienia
+    działania zgodnego ze zbiorem reguł proceduralnych
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 2c3a4782-8e8b-54e1-b062-544b754858d5
+status: valid

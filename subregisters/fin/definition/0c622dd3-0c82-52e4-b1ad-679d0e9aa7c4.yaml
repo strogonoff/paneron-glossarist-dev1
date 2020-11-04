@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.16
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 8b388673-a23e-54eb-9b5e-d1106ce2a7c8
+  definition: liiketoimintaprosessin täydellinen tai osittainen automatisoiminen,
+    jonka yhteydessä asiakirjoja, informaatiota tai tehtäviä siirretään osallistujalta
+    toiselle toimintaa varten joidenkin menettelysääntöjen mukaisesti
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 0c622dd3-0c82-52e4-b1ad-679d0e9aa7c4
+status: valid

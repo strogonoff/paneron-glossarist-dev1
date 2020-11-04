@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.4
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: d1c850af-2a22-57ba-9efd-4af974729263
+  definition: операция с координатами, состоящая из последовательного применения множества
+    операций с координатами
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 0301c9bd-6cf6-58f1-9a26-70f0f4e1af89
+status: valid

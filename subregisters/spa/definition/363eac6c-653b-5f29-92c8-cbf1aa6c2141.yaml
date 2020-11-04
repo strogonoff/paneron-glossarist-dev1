@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 04bfd986-a85d-540c-963b-5a85c2614a2b
+  definition: parte distinguible de la funcionalidad que una entidad proporciona a
+    través de sus interfaces
+  examples: []
+  notes:
+  - Véase el apartado 7.2 para una discusión de servicio.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 363eac6c-653b-5f29-92c8-cbf1aa6c2141
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 1776de4d-059e-59a8-a134-d2cd997b84b9
+  definition: 几何复形，其几何单形一一对应于拓扑复形的拓扑单形，且这两个复形间的边界关系一致。
+  examples: []
+  notes:
+  - 在这样一个实现中，拓扑单形被认为代表相应的几何单形的内部。组合形都是闭合的。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: e12aeb22-c460-5446-bc3f-dd4211d9aa31
+status: superseded

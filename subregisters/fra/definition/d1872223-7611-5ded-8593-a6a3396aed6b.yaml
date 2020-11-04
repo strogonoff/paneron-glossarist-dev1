@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 3f41e758-940d-5a15-b306-9a2f10fa7d20
+  definition: ensemble d'éléments de métadonnées décrivant le même aspect des données
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: d1872223-7611-5ded-8593-a6a3396aed6b
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: e7a8407c-5607-5b71-b00e-29753fc8a28e
+  definition: 位置に関する何らかの情報を含む地物のクラスのインスタンスの要覧。
+  examples: []
+  notes:
+  - 位置の情報は，必ずしも座標である必要はなく，記述的なものでもよい。
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: cc8659e5-f25a-524b-b8b3-966c10e36002
+status: superseded

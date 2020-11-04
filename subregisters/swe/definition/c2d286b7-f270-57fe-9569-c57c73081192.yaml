@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 450c0504-23ba-55e6-80aa-8c2857901906
+  definition: avgränsning för att begränsa utbredmingen hos ett topologiskt objekt
+    och som representeras av en samling topologiska grundelement av lägre topologisk
+    dimension än det topologika objektet
+  examples: []
+  notes:
+  - The boundary of a topological complex corresponds to the boundary of the geometric
+    realization of the topological complex.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c2d286b7-f270-57fe-9569-c57c73081192
+status: superseded

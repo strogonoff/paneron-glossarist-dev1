@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.32
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 2b302f11-17ab-5e0d-a0fe-f2ba073ae670
+  definition: ángulo que forma el plano ecuatorial con la perpendicular al elipsoide
+    desde un punto dado, se toma positiva hacia el norte
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: b55d89f0-8d72-56b3-a807-8d9edecc3c85
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 6b5f2f1c-1ba3-5f4b-bb8b-3f4dedc3abde
+  definition: 定义明确的集合。
+  examples: []
+  notes:
+  - 域用于定义域的集合以及属性、算子和函数的范围集合。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 1a31918c-5ffa-5a70-9431-a4e3df76571a
+status: valid

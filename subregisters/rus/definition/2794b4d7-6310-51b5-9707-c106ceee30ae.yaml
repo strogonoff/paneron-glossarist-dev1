@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.28'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 79f5cd89-1b2b-565d-8608-88c5f757662b
+  definition: символ, который не является ни составным, ни параметризованным
+  examples: []
+  notes: []
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 2794b4d7-6310-51b5-9707-c106ceee30ae
+status: valid

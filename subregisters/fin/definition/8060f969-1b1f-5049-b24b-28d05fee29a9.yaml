@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32552.html
+    ref: ISO 19134:2007
+  concept: da5858a2-eef4-5be5-bf66-bd13cf4adb29
+  definition: tavat, jotka seurantakohteet voivat valita kulkemiseen
+  examples: []
+  notes: []
+dateAccepted: 2007-02-01 00:00:00+00:00
+id: 8060f969-1b1f-5049-b24b-28d05fee29a9
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.27'
+    link: https://www.iso.org/standard/32572.html
+    ref: ISO 19154:2014
+  concept: 6de0f7c6-eec6-5243-8879-490edc68bdcc
+  definition: modelo universal de objetos geográficos que se especifica sin conocer
+    los modelos de abstracción o estructuras de los usuarios
+  examples: []
+  notes: []
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: 2bad4cfc-1cca-5e5e-bb5d-44b8432d79a5
+status: valid

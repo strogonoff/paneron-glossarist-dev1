@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0de67aa8-fb4a-50af-b739-f72651bc5b37
+  definition: equipotentiaal vlak van het zwaartekrachtveld van de aarde dat overal
+    loodrecht staat op de richting van de zwaartekracht en dat het best aansluit bij
+    het lokale of globale gemiddeld zeeniveau
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 0a144fd5-83e8-591d-8313-3ffcf719d88f
+status: superseded

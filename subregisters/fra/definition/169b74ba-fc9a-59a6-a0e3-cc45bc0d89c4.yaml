@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132
+  concept: b77f1203-fa3f-5bfc-b781-f3d124a5ae71
+  definition: mesure des paires de valeurs d'un type d'attribut fournissant une valeur
+    numérique positive, symétrique et satisfaisant l'inégalité triangulaire
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 169b74ba-fc9a-59a6-a0e3-cc45bc0d89c4
+status: valid

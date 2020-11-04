@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 3f41e758-940d-5a15-b306-9a2f10fa7d20
+  definition: conjunto de elementos de metadatos que describen el mismo aspecto de
+    los datos
+  examples: []
+  notes:
+  - Puede contener una o más entidades de metadatos.
+  -  Equivalente a una clase en terminología UML.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 501224e2-fb92-5aa2-a62f-89a008c49e51
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 295b96c2-7d12-5f30-ab71-0887e87646a0
+  definition: samling av samhörande abstrakta testfall
+  examples: []
+  notes:
+  - Abstract test modules may be nested in a hierarchical way.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 6d50c25f-e773-5792-9be0-6e51b6480e45
+status: valid

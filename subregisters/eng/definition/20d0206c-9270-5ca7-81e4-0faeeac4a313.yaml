@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: fb262300-c91b-5ece-b2ab-d743f7a3d475
+  definition: set of executable test cases
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 20d0206c-9270-5ca7-81e4-0faeeac4a313
+status: valid

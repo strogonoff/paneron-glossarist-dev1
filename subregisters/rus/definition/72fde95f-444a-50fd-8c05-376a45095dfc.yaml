@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: 4779349b-d545-53a6-8048-33777f324c56
+  definition: пространственный объект, временной объект или пространственно-временной
+    объект, назначенный определенному классу легенды
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 72fde95f-444a-50fd-8c05-376a45095dfc
+status: valid

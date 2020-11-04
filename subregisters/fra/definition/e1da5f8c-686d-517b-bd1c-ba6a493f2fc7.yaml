@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 21239131-03d9-5423-84c2-42ae55c9ea88
+  definition: composant d'un élément de qualité des données décrivant un certain aspect
+    de cet élément de qualité des données
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: e1da5f8c-686d-517b-bd1c-ba6a493f2fc7
+status: retired

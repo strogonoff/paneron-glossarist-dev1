@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: 2c33a138-725d-55f4-adf3-4fbd5d5c27cd
+  definition: geometría para un valor particular del parámetro
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: c10bb26d-ed5d-5718-b750-bebe5b905b5c
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 6b617081-408d-5cd1-915b-2d469ab25094
+  definition: тот, кто действует от имени другого
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: a33abf67-7615-5e41-8ea9-d0c60f7221d4
+status: valid

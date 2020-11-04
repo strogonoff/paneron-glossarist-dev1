@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: https://searchcio.techtarget.com/
+  concept: 46bc20ce-ce9a-5565-bb5b-116ad13dc889
+  definition: egenskap att, beroende på sammanhanget, kunna tilldela en annan betydelse
+    eller användning till något
+  examples: []
+  notes:
+  - There are several different kinds of polymorphism
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: f7d6c566-07cc-5d27-aae8-b857e85aed93
+status: valid

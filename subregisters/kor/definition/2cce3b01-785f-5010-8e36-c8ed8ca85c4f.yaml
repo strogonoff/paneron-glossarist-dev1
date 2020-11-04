@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 66ab3795-8ffa-54ba-9ef2-c3f8f7b9fd60
+  definition: 국제적 데이터 생산자나 데이터 사용자 커뮤니티가 현재 사용하고 있는 지리 정보 표준
+  examples: []
+  notes:
+  - GDF, S-57, DIGEST가 사실상 표준의 보기이다.
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: 2cce3b01-785f-5010-8e36-c8ed8ca85c4f
+status: valid

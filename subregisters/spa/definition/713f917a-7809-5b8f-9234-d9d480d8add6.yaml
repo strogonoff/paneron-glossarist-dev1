@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 3320dfc7-7b80-5984-8526-b02f15bde3c3
+  definition: superficie engendrada por la rotación de una elipse alrededor de un
+    eje principal
+  examples: []
+  notes:
+  - En esta norma internacional, los elipsoides son siempre aplanados, lo que significa
+    que el eje de rotación es siempre el eje menor.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 713f917a-7809-5b8f-9234-d9d480d8add6
+status: superseded

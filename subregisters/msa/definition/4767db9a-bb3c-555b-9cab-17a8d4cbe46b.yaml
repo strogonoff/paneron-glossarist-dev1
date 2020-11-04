@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: Manual of Photogrammetry
+  concept: ee965cf6-2df0-5d7f-99aa-31354e7dc04d
+  definition: litupan seketika yang dilihat oleh satu elemen pengesan, diukur dalam
+    ruang sudut
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 4767db9a-bb3c-555b-9cab-17a8d4cbe46b
+status: valid

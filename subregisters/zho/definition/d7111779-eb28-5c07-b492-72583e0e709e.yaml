@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: Fourth Edition, Oxford University Press
+    ref: Dictionary of Computing
+  concept: 8af9a500-87e1-5fe5-9ae2-cf361b61b9eb
+  definition: 一种几何集，在几何集中连接任意两个直接位置的直线段上的任意直接位置都包含在该几何集合中。
+  examples: []
+  notes:
+  - 凸集间是“简单连接”，这意味着他们没有内部孔洞，并且通常可以认为在拓扑上是与适当维数的欧几里德球同构的，所以，球的表面可以被认为是几何凸集。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: d7111779-eb28-5c07-b492-72583e0e709e
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 7844e790-2e19-5d2d-9b9b-1dd6bdeb43db
+  definition: заключение о тестировании, подтверждающее соответствие
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 3cb1a3ad-9474-5c98-b516-bd959cb4969a
+status: valid

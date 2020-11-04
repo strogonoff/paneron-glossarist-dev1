@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 5f3eba9e-0a35-55d4-9be9-590ccb9c3c39
+  definition: совокупность целей, потенциально гетерогенных (каждая цель удовлетворяет
+    своему критерию запроса), попадающих в некоторую малую окрестность
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 554e2459-58ed-51f9-aeb7-05d04f7036fd
+status: valid

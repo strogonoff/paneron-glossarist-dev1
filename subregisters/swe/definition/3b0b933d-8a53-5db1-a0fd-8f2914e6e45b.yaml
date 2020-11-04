@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.53
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 2804d955-5b4b-5723-a90e-789db930b33b
+  definition: plane behind an imaging lens where images of objects within the depth
+    of field of the lens are in focus
+  examples: []
+  notes:
+  - Bildplan definieras av sensorns eller filmens läge. Fokalplanet definieras av
+    objektivets fokus för det aktuella avbildade objektet. De båda planen bör sammanfalla.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 3b0b933d-8a53-5db1-a0fd-8f2914e6e45b
+status: valid

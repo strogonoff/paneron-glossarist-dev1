@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 75004415-4619-50cb-82c0-477bbb17120e
+  definition: 의미론적 조건 또는 제한
+  examples: []
+  notes:
+  - 영역은 속성, 연산자, 함수에 대한 영역 집합 및 범위 집합을 정의하는데 사용된다.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 869ea61b-5658-5af4-a7d8-15e07ab6de17
+status: superseded

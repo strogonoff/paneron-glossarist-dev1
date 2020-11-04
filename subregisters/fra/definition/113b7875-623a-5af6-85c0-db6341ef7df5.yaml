@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  concept: ce8698ba-3737-5647-a92f-3772ec842f0b
+  definition: couverture qui retourne les mêmes valeurs d'attribut d'entité pour toute
+    position directe au sein de tout objet spatial, temporel, ou spatiotemporel à
+    l'intérieur de son domaine
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 113b7875-623a-5af6-85c0-db6341ef7df5
+status: valid

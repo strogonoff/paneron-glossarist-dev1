@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.4
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: d1c850af-2a22-57ba-9efd-4af974729263
+  definition: عملية إحداثية تتكون من تطبيقات متتابعة لعمليات إحداثية متعددة
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 2c11f29c-bf6c-5cb5-933a-da5a6a3860a8
+status: valid

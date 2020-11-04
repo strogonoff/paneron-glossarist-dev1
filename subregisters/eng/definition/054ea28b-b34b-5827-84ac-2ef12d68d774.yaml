@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: '3.18'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  concept: 460986d8-6c75-527b-aa4b-a0bb72b34305
+  definition: physical network infrastructure for mobility of transport means, containing
+    infrastructure and equipment that facilitate traffic management
+  examples: []
+  notes:
+  - A transport network is associated to a specific transport mode and specific types
+    of transport means. The road network, consisting of streets in a city may for
+    example support several transport networks such as transport networks for pedestrians,
+    bicycles and use private cars. The network served by a bus service is also a transport
+    network.
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: 054ea28b-b34b-5827-84ac-2ef12d68d774
+status: valid

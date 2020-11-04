@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: part 5, modified
+    ref: XrML 2.0 specification
+  concept: 6e1ad830-90df-58c3-9797-c858ebb06c0e
+  definition: särskilt tillstånd att utföra eller utöva något
+  examples: []
+  notes:
+  - A licence represents, but is not, a contract that grants a party explicit rights
+    to use Intellectual Property.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 512af37d-0bdf-5ad1-8731-cc65c2bbe428
+status: valid

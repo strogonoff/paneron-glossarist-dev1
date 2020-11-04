@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.97
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: e97a476d-3176-5e63-a30d-725a0de3e599
+  definition: Pengumpulan topologi lama yang mengandungi berbagai bagai ciri yang
+    hampir dengan sempadan operasi
+  examples: []
+  notes:
+  - Closed under the boundary operations means that if a topological primitive is
+    in the topological complex, then its boundary objects are also in the topological
+    complex.
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 7fd0f2f9-acf4-53b2-ab71-40a46e41a3b9
+status: valid

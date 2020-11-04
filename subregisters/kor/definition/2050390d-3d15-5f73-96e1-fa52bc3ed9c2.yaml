@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.11
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 5555c8ed-20df-55f2-8929-be17f63b399c
+  definition: 하나의 좌표 튜플에 의해 묘사된 명확한 지리적 장소
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 2050390d-3d15-5f73-96e1-fa52bc3ed9c2
+status: valid

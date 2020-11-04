@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.57
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: e4004fa9-7f02-5e50-be8f-b1eb87bab797
+  definition: primitiva geométrica bidimensional que localmente representa una imagen
+    continua de una región de un plano
+  examples: []
+  notes:
+  - La frontera de una superficie es el conjunto de curvas orientadas y cerradas que
+    la delimita. Las superficies que son isomorfas a una esfera, o a un toro enesimal
+    (esfera topológica con n asas) no tienen frontera. Esas superficies se denominan
+    ciclos.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ff5b7e82-40a1-561b-8774-7e08ac075e24
+status: valid

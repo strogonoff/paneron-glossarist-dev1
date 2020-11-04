@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.97
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: e97a476d-3176-5e63-a30d-725a0de3e599
+  definition: 경계 연산에 대하여 닫혀진 위상 원시 객체의 모음
+  examples: []
+  notes:
+  - 경계 연산에 대하여 닫혀져 있다는 것은 위상 원시 객체가 위상 복합체 내에 있다면 그것의 경계 객체들도 위상 복합체 내에 있음을 의미한다.
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 782e14d7-d909-5624-a73d-2d3d83ef4743
+status: valid

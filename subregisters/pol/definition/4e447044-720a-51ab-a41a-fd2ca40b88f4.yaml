@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: af830139-81bb-5ae1-aec1-5bfd70facdfc
+  definition: pokrycie, którego dziedzina jest złożona z punktów
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 4e447044-720a-51ab-a41a-fd2ca40b88f4
+status: valid

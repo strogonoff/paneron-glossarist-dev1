@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: 118644b2-f335-52cb-9afc-45473c04299d
+  definition: Словарь, содержащий определения и связанные с ними описательные сведения
+    о понятиях, которые могут быть подробно указаны в каталоге объектов
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: e6fcc104-ad3e-5a42-9283-b3187b26edcc
+status: valid

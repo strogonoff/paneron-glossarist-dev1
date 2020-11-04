@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.34
+    link: https://www.iso.org/standard/57466.html
+    ref: ISO 19150-2:2015
+  concept: 8ba6a028-d7ee-50eb-ab60-93ed7b1a4328
+  definition: documento que contiene la definición original de un recurso
+  examples: []
+  notes: []
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 483f1c79-0233-5fc8-9883-1424886339d0
+status: valid

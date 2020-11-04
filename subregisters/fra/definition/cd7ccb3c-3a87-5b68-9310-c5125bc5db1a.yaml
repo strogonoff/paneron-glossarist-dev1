@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: c0b71e1c-aeb3-5056-9b55-5faee44b4325
+  definition: primitive géométrique tridimensionnelle, représentant l'image continue
+    d'une région dans un espace Euclidien tridimensionnel
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: cd7ccb3c-3a87-5b68-9310-c5125bc5db1a
+status: valid

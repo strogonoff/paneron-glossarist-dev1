@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.25
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 94d80f6e-5691-5c1b-b303-18fabfe1cc85
+  definition: imagen a la cuál se le ha eliminado el desplazamiento de los puntos
+    imagen debido a la orientación del sensor y al relieve del terreno, por medio
+    de una proyección ortogonal a la superficie de referencia
+  examples: []
+  notes:
+  - El valor del desplazamiento depende de la resolución, del nivel de detalle de
+    la información de la elevación y del software de implementación.
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 769d6fd0-2717-58d2-b2d9-4350e77a9886
+status: valid

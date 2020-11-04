@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: c3a5825e-469a-5841-b0af-c277d8c49052
+  definition: tillstånd hos en länk eller sväng som tillåter eller inskränker all
+    trafiks passage, i motsats till en mer detaljerad trafikrestriktion
+  examples: []
+  notes:
+  - 'Traversability is usually a function of physical, cultural, or legal conditions.
+    If traversable is false, then the object cannot be navigated. This effectively
+    removes a link from the usable network. In the case of a node, it effectively
+    removes the node and all associated links from the useable network. In the case
+    of a turn, it simply removes it from any viable route.  Non-traversable entities
+    are not included in maneuvers or routes.
+
+    Framkomlighet är en NVDB-företeelse som beskriver skogsbilvägars framkomlighet
+    för fordonskombinationer (Traversability bör ej översättas till framkomlighet)'
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 7f7fa025-0fcf-57bc-b766-cd93b92c047c
+status: valid

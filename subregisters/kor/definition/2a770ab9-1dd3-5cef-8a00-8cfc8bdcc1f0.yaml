@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/40395.html
+    ref: ISO 19117:2005
+  concept: 8e638124-5a72-59e3-8f13-97d7cc8bbfc9
+  definition: 응용스키마 내부에 포함되지 않는 함수
+  examples: []
+  notes:
+  - 차량 내비게이션 시스템의 전자 지도는 차량의 진행 방향이 항상 지도의 위쪽 방향으로 표시되어야 한다. 지도의 회전을 위하여 차량의 현재 위치는
+    외부 함수를 사용하는 외부 측위 장치를 통해 지속적으로 갱신되어야 한다.
+dateAccepted: 2006-05-01 00:00:00+00:00
+id: 2a770ab9-1dd3-5cef-8a00-8cfc8bdcc1f0
+status: retired

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.45
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: bd657a2a-bc11-5f5c-bc92-ed8476959f9e
+  definition: 매개변수형 자료에 기반한 좌표기준체계
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 6e620d72-a9a3-5656-b6ca-5dc1c5840f88
+status: valid

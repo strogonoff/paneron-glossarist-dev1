@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: c0b71e1c-aeb3-5056-9b55-5faee44b4325
+  definition: primitiva geométrica tridimensional que representa la imagen continua
+    de una región del espacio Euclídeo tridimensional
+  examples: []
+  notes:
+  - Un sólido se puede representar localmente como un conjunto de posiciones directas
+    de 3 parámetros. La frontera de un sólido es el conjunto de superficies orientadas
+    y cerradas que comprenden sus límites.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 8754535e-4163-5ccc-8a0c-e4210666f4df
+status: valid

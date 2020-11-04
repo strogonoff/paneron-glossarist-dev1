@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: https://searchcio.techtarget.com/
+  concept: 46bc20ce-ce9a-5565-bb5b-116ad13dc889
+  definition: خاصية القدرة على إضفاء معنى أواستخدام مختلف للشئ في سياقات مختلفة -
+    وبالأخص السماح لكيان مثل متغير ، أو دالة أو كائن باتخاذ أكثر من شكل واحد
+  examples: []
+  notes:
+  - هناك عدة أنواع مختلفة لتعدد الشكل .
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: 1433dd7d-901a-5dd0-b6fd-a98d4a52ecd1
+status: valid

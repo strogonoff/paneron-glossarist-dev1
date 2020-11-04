@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/32556.html
+    ref: ISO/TS 19138:2006
+  concept: fd9b9c23-f9c8-5f08-84df-b5f7768c01da
+  definition: 与论域的差异。
+  examples: []
+  notes: []
+dateAccepted: 2006-12-01 00:00:00+00:00
+id: 5f6bff93-40fb-52e4-b563-8f86cc3ad291
+status: retired

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: modified – Derived from 7.5.5.1
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: 1e87831a-92c2-5120-afb5-2605906a4c1e
+  definition: referencia a un objeto local accesible directamente  desde un espacio
+    de nombres
+  examples: []
+  notes: []
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 7d998d55-af94-522e-bbcd-c15c68915289
+status: valid

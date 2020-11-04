@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.24'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 1df15419-469b-52af-b70b-51cac6443132
+  definition: membolehkan sumber itu tersedia untuk tempoh masa yang ditetapkan dan
+    kemudiannya dikembalikan
+  examples: []
+  notes:
+  - During this period, the resource is only available to the lessee. Temporal constraints
+    are required for downstream use.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 842d4af7-108f-5f14-b5b8-04b7b5fc9d4f
+status: valid

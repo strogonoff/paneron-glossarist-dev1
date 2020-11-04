@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 4d45572f-4a4e-52d4-8c2f-c33b3cb1a253
+  definition: 格网坐标和外部坐标参照系坐标之间存在仿射变换的格网。
+  examples: []
+  notes:
+  - 如果某个坐标参照系通过基准与地球相关，该格网就是地理校正格网。
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 7d0ebbfd-93c9-59a7-9149-085f28b4b03c
+status: valid

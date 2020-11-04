@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.30
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 421ae5e3-6466-5d3f-bf99-9407353d704e
+  definition: topologiseen kompleksiin upotettu verkko, joka muodostuu kaikista kompleksin
+    sisällä olevista linkeistä ja yhdistävistä solmuista
+  examples: []
+  notes:
+  - HUOM. Linkki-solmupiste-verkko on sen kompleksin alikompleksi, johon se on upotettu.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 990f4507-ef31-5c25-9631-f27fbe49ad6e
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39229.html
+    ref: ISO 19115-2:2009
+  concept: 3f0723dd-8929-5c13-8b4f-b0f6f057f880
+  definition: Kelebaran jalur panjang gelombang yang dideriakan oleh sensor. Semakin
+    kecil lebar jalur gelombang, smakin tinggi resolusi spektrumnya.
+  examples:
+  - Band 1 of Landsat TM lies between 0.45 and 0.52 um in the visible part of the
+    spectrum.
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 04cf615d-c371-548b-aeee-d9672bb0577c
+status: valid

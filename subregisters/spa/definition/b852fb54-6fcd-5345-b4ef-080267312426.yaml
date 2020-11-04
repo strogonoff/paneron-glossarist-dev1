@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: 2c5eabf3-9c63-59e5-bf16-d6106edd0316
+  definition: concepto que puede especificarse en detalle como uno o más tipos de
+    objeto geográfico
+  examples:
+  - El concepto de fenómeno “carretera” se puede utilizar para especificar varios
+    tipos de fenómeno distintos, cada uno de ellos con un conjunto diferente de propiedades
+    apropiado para una aplicación específica. Para una aplicación de planificación
+    de viajes, podría tener un conjunto limitado de atributos como nombre, número
+    de ruta, localización y número de carriles, mientras que para una aplicación de
+    mantenimiento podría tener un extenso conjunto de atributos detallando la estructura
+    y composición de cada una de las capas de material de que ésta está compuesta.
+  notes: []
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: b852fb54-6fcd-5345-b4ef-080267312426
+status: valid

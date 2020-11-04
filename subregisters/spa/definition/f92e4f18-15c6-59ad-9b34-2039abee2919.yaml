@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 022f0802-382f-5be0-89b7-5436b3c184ce
+  definition: estructura abstracta consistente en un conjunto de objetos adimensionales,
+    llamados cruces, y en un conjunto de objetos unidimensionales llamados enlaces
+    que conectan los cruces, y cada enlace lleva asociado un cruce de inicio (origen,
+    fuente) y un cruce fin (destino, sumidero)
+  examples: []
+  notes:
+  - La red es esencialmente el universo del discurso para el problema de la navegación.
+    Las redes son una variedad de complejos topológicos unidimensionales. De esta
+    forma, cruce y nodo topológico son sinónimos, como lo son enlace y arco orientado.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f92e4f18-15c6-59ad-9b34-2039abee2919
+status: valid

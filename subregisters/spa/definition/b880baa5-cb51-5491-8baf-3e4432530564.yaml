@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  concept: 39034bab-2426-5ddc-bbc3-ee29eea7b0bf
+  definition: distancia de un punto a una superficie de referencia escogida a lo largo
+    de una línea perpendicular a esta superficie
+  examples: []
+  notes:
+  - Véase altitud elipsoidal y altitud ligada a la gravedad.
+  - La altitud de un punto, sí es hacia el exterior de la superficie, se considera
+    positiva; la altitud negativa se designa como profundidad.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: b880baa5-cb51-5491-8baf-3e4432530564
+status: superseded

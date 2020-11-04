@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: ce8698ba-3737-5647-a92f-3772ec842f0b
+  definition: pokrycie, które przyjmuje te same wartości atrybutów obiektów dla każdego
+    położenia bezpośredniego wewnątrz dowolnego obiektu przestrzennego, czasowego
+    lub czasoprzestrzennego ze swojej dziedziny
+  examples: []
+  notes:
+  - Dziedzina pokrycia dyskretnego składa się ze skończonego zbioru obiektów przestrzennych,
+    czasowych lub czasoprzestrzennych.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 3f63258e-c515-5244-9c78-b6f813b7b147
+status: valid

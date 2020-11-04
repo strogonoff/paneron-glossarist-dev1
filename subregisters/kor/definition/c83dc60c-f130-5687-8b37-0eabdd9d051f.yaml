@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.62
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 8a19c7e6-cb70-5144-9d08-ab260841ded1
+  definition: 사물점과 영상점 사이의 모든 빛들이 기하학적으로 지나치는 것으로 보이는 3차원내의 점
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: c83dc60c-f130-5687-8b37-0eabdd9d051f
+status: valid

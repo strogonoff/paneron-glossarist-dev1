@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.1.6.48
+    link: https://www.iso.org/standard/53682.html
+    ref: ISO/IEC 9075-2:2011
+  concept: c6e5bed5-5ecf-5569-a43a-14101ee9b630
+  definition: secuencia consecutiva de uno o más caracteres que no tiene signos
+  examples: []
+  notes: []
+dateAccepted: 2015-08-15 00:00:00+00:00
+id: cc4d8da6-b47a-5e23-a8a3-0d062822c03d
+status: superseded

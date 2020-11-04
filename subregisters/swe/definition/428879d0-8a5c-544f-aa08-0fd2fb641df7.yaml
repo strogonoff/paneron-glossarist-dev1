@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 75004415-4619-50cb-82c0-477bbb17120e
+  definition: <i UML> begränsning i beteende för en klass
+  examples: []
+  notes:
+  - 'Certain constraints are predefined in the UML, others may be user defined.  Constraints
+    are one of three extensibility mechanisms in UML. See: tagged value, stereotype.'
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 428879d0-8a5c-544f-aa08-0fd2fb641df7
+status: superseded

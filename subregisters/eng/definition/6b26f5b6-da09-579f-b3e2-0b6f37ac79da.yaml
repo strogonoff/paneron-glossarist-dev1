@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 2b60e0e0-8e94-5752-bcb2-8c8263825263
+  definition: restriction on how a link or turn may be traversed by a vehicle, such
+    as vehicle classification, physical or temporal constraint
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 6b26f5b6-da09-579f-b3e2-0b6f37ac79da
+status: valid

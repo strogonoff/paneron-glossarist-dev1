@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 22e67817-b4b8-571b-96c2-6e6d235be635
+  definition: тестирование продукта с целью определения степени его соответствия установленным
+    требованиям
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 50a2db9f-da70-5976-9664-856229848339
+status: valid

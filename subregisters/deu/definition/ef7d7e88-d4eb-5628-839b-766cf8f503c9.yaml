@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 43344492-9056-500c-9123-861d80a573af
+  definition: eindimensionales Koordinatenreferenzsystem basierend auf einem vertikalen
+    Datum
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: ef7d7e88-d4eb-5628-839b-766cf8f503c9
+status: superseded

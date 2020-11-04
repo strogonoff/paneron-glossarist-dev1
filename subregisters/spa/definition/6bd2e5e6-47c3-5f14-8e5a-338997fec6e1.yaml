@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 6b130458-37bd-5524-9dcb-8afa915328aa
+  definition: cara no limitada de un complejo bidimensional
+  examples: []
+  notes:
+  - La cara universal no suele ser parte de ningún objeto geográfico y se usa para
+    representar la porción ilimitada de un conjunto de datos. Su límite interior (no
+    tiene límite exterior) normalmente se considera que es el límite exterior del
+    mapa representado por el conjunto de datos. Esta Norma Internacional no presta
+    especial atención a la cara universal, sin embargo algunos esquemas de aplicación
+    pueden encontrar práctico el hacerlo.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 6bd2e5e6-47c3-5f14-8e5a-338997fec6e1
+status: retired

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 991f751c-60da-58a7-81cc-721ca56fe489
+  definition: restriktion för hur en länk kan följas eller sväng kan utföras av ett
+    fordon
+  examples: []
+  notes:
+  - Trafikrestriktioner kan exempelvis baseras på fordonsklassifikation, en fysisk
+    begränsning eller en temporal begränsning.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: cb5b21c3-3ab9-5d2a-85d4-8fe943edcd9c
+status: valid

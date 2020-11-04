@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.19
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: ac7bbea0-2b31-513c-bfeb-0abc03f3759c
+  definition: 사용자에게 지리 정보를 변형, 관리, 제공해 주는 서비스
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: d319dfbf-8238-5dce-9768-571ead25e5b4
+status: valid

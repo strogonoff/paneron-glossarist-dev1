@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: Adapted from ASTM E2544
+  concept: afa30253-2072-546c-ab14-c808fa83e05b
+  definition: последний отраженный сигнал, регистрируемый  системой 3D-визуализации
+    по типу времени полёта (TOF)  для заданного положения выборки и заданного испускаемого
+    импульса
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: c5e6b3e7-26b2-56f4-8e4b-ee9310a71234
+status: valid

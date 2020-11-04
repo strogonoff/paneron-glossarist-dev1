@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.14
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 0af79ebf-6489-5f51-bccf-a55cb9a2c604
+  definition: объект данного типа, имеющий определённые значения атрибутов объекта
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: a0ac8a52-d58f-5bd7-a621-8de30bdcbd47
+status: valid

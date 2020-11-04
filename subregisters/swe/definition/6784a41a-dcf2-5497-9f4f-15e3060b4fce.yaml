@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.4.16, modified — the Note 1 to entry has been added.
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: d7566e2e-c7cf-5cd5-b090-c2a3417f8aa4
+  definition: term som bedömts vara lämplig för ett visst begrepp och som används
+    vid sidan av en rekommenderad term
+  examples: []
+  notes: []
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 6784a41a-dcf2-5497-9f4f-15e3060b4fce
+status: valid

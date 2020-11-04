@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 6b130458-37bd-5524-9dcb-8afa915328aa
+  definition: icke avgränsat topologiskt område i ett tvådimensionellt topologiskt
+    komplex
+  examples: []
+  notes:
+  - The universal face is normally not part of any feature, and is used to represent
+    the unbounded portion of the data set. Its interior boundary (it has no exterior
+    boundary) would normally be considered the exterior boundary of the map represented
+    by the data set. This International Standard does not special case the universal
+    face, but application schemas may find it convenient to do so.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b5791065-b17d-5745-9a7a-741b0e856247
+status: retired

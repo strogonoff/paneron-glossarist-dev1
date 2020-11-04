@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: 3450397c-0dc9-5f47-947e-680cd7b22d2c
+  definition: 用于数据的表示、组织或控制的元素集合的成员。
+  examples: []
+  notes: []
+dateAccepted: 2002-08-16 00:00:00+00:00
+id: d3586db7-8ed0-5a57-b950-c6eb67c4af51
+status: valid

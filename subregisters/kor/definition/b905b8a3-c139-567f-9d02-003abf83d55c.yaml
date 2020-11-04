@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 15a4a183-9aec-58a0-9ca0-4b268efc7621
+  definition: 개체의 행태에 대한 특성을 기술하는 명명된 연산 집합
+  examples: []
+  notes:
+  - 인터페이스에 관한 논의는 KS X ISO 19119의 7.2를 참조하라.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: b905b8a3-c139-567f-9d02-003abf83d55c
+status: valid

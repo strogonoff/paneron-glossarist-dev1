@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: modified
+    ref: FindLaw
+  concept: e3da19ff-d9c2-585f-adcb-c5c1f71ad5d2
+  definition: 각 관계자가 업무 이행 및 불이행 의무가 생성되어 타인의 의무에 대해 간섭할 권리 또는 타인의 의무 불이행에 대해 보충할
+    의무가 생기는 두 명 또는 그 이상의 관계자간 맺어진 합의
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 4dec769c-b72a-5afe-bf13-d1266b49901b
+status: valid

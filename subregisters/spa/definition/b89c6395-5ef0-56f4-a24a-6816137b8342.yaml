@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.23'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: d253b2ae-5c00-5d40-85a6-c0dcea54ad4e
+  definition: documento de texto libre que proporciona información completa y detallada
+    sobre las evaluaciones, resultados y medidas de la calidad  de los datos
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: b89c6395-5ef0-56f4-a24a-6816137b8342
+status: valid

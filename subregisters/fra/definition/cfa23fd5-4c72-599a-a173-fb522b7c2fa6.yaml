@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: bc2c9549-d983-5ce2-b580-11b40a4345c1
+  definition: remplacement d'une entrée de registre par une ou plusieurs entrées nouvelles
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: cfa23fd5-4c72-599a-a173-fb522b7c2fa6
+status: superseded

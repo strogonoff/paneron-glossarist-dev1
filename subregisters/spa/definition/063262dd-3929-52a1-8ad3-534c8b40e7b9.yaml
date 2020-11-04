@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39229.html
+    ref: ISO 19115-2:2009
+  concept: 3f0723dd-8929-5c13-8b4f-b0f6f057f880
+  definition: intervalo especifico de longitudes de onda dentro del espectro electromagnético
+  examples:
+  - La banda 1 del Landsat TM se encuentra entre los 0,45 y 0,52 m en la parte visible
+    del espectro
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 063262dd-3929-52a1-8ad3-534c8b40e7b9
+status: valid

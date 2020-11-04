@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: eb493507-32a1-58e4-9990-f85c32bc530a
+  definition: afstand van een punt tot een gekozen referentievlak neerwaarts gemeten
+    langs een lijn welke loodrecht op dat referentievlak staat
+  examples: []
+  notes:
+  - Een diepte boven het referentievlak heeft een negatieve waarde
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: dab83cbf-3cdb-5ba0-8605-c7de7f9767db
+status: superseded

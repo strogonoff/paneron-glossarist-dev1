@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.47'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: da19de76-5216-5bc1-82f1-1499605ef9ff
+  definition: 외부로부터 음파를 수신하지만 전송하지는 않는 수동적 센서의 유형
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: e23582e8-7713-5a39-bebd-d3918cd03bf7
+status: valid

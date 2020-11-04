@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: c466728d-152a-5086-8600-1f817866b132
+  definition: odległość punktu od elipsoidy mierzona wzdłuż normalnej do elipsoidy,
+    dodatnia gdy punkt znajduje się na zewnątrz elipsoidy
+  examples: []
+  notes:
+  - Używana tylko jako część trójwymiarowego geodezyjnego układu współrzędnych, a
+    nigdy osobno.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 65a6dc7e-0a58-5030-81f1-0b54ba97e3ff
+status: valid

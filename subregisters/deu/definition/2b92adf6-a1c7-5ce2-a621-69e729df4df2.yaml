@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: eaa65aba-9adb-5857-b5de-b965869c6980
+  definition: Abstand eines Punktes von einer gewählten Bezugsfläche, nach oben längs
+    einer senkrechten Linie zu dieser Bezugsfläche gemessen
+  examples: []
+  notes:
+  - A height below the reference surface will have a negative value.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 2b92adf6-a1c7-5ce2-a621-69e729df4df2
+status: superseded

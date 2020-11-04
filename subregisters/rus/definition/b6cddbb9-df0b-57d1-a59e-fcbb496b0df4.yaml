@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.54
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 4244de14-9971-59f4-beb4-4ccbe409eaaf
+  definition: точка на изображении, которая однозначно представляет объектную точку
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: b6cddbb9-df0b-57d1-a59e-fcbb496b0df4
+status: valid

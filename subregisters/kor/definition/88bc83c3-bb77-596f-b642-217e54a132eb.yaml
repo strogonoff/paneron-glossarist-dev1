@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 3efd65f1-ee28-5305-9470-c526ba241392
+  definition: 연관된 피처 속성 값에 근거하여 커버리지 영역에서 객체 집합을 선택하는 것
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 88bc83c3-bb77-596f-b642-217e54a132eb
+status: valid

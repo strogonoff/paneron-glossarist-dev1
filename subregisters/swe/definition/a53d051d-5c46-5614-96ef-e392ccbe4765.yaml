@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 95d7c7bf-8360-5011-bf34-419114dfff98
+  definition: uppsättning företeelser med gemensamma egenskaper
+  examples: []
+  notes:
+  - Class is used in this context to refer to a set of instances, not the concept
+    abstracted from that set of instances.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: a53d051d-5c46-5614-96ef-e392ccbe4765
+status: valid

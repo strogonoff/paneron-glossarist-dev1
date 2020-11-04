@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: a9c532a7-982e-56ec-bdbe-6d5c01b20ff9
+  definition: tredimensionellt koordinatsystem med koordinater baserade på två avstånd
+    och en vinkel
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: afc2de2d-cbf2-5873-9c69-61bc025d6e9f
+status: superseded

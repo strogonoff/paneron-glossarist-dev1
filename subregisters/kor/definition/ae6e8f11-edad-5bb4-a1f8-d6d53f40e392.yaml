@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  concept: bc8d71ac-de60-56a6-bfe6-b66d4bca9ec9
+  definition: 함수 f가 자신의 영역에서 가질 수 있는 모든 값들의 집합
+  examples: []
+  notes: []
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: ae6e8f11-edad-5bb4-a1f8-d6d53f40e392
+status: valid

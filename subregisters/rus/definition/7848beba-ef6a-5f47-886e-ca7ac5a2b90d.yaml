@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: ae42a97c-c81e-50e8-8c30-ecf598ead803
+  definition: совокупность наборов данных на основе общей спецификации продукта
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 7848beba-ef6a-5f47-886e-ca7ac5a2b90d
+status: изъятый

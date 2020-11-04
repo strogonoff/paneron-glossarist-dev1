@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.20
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: a3af0631-52bb-52cf-bb8d-794a5b730dd2
+  definition: système de positionnement déterminant la position d'un objet au moyen
+    de propriétés de la lumière
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 83b76431-a832-5a0f-a711-31a2de29cc8a
+status: valid

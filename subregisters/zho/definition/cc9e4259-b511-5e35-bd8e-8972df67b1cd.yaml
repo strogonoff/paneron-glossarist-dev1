@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 9ba40ed5-ece8-555e-b4b4-2fefe33c76db
+  definition: <用户>决定一个实现是否满足验收准则以及用户能否决定接受该实现的过程。
+  examples: []
+  notes:
+  - 这个过程包括几种类型测试（例如：功能、容量、性能测试）的设计和执行，用来表明该实现是否满足的用户要求。
+  - 验收测试不作为一致性测试的组成部分。
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: cc9e4259-b511-5e35-bd8e-8972df67b1cd
+status: valid

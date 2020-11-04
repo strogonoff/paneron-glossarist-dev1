@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.16'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: e3b5ec25-6fc6-521b-9831-d84bc6f5e323
+  definition: GeoDRM 연장 자원 유지 및 GeoDRM 저작권 및 보호권을 규제할 수 있는 상태
+  examples: []
+  notes:
+  - Applied to processing resources.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 7ed87feb-4dc7-51f7-9355-4d347fd4e37c
+status: valid

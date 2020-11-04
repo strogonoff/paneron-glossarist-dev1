@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: afc13d27-3d6d-51c7-9bab-0848f3a86970
+  definition: combinación de enrutamiento, recorrido de ruta y seguimiento
+  examples: []
+  notes:
+  - Este es esencialmente el término común "navegación", pero la definición descompone
+    el proceso en términos usados en los paquetes definidos en esta norma internacional.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 1222290a-9729-54fb-88e7-57a116a3d7e3
+status: valid

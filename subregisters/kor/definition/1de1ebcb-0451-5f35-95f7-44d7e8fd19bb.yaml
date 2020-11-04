@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: dc123767-e9f4-5c7e-996e-22c8dfae22ec
+  definition: 시스템 관계자에게 허가된 권한(B.379)의 제어, 관리, 할당 및 추적
+  examples: []
+  notes: []
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: 1de1ebcb-0451-5f35-95f7-44d7e8fd19bb
+status: valid

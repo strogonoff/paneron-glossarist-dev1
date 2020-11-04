@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '3.1'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  concept: c8036476-0d41-5209-a747-9394cbca271e
+  definition: localización por donde los viajeros pueden entrar y salir de un nodo
+    de transbordo
+  examples: []
+  notes:
+  - Un punto de acceso no tiene por qué ser una parada. Un punto de acceso puede ser,
+    por ejemplo, la entrada a una estación de ferrocarril o la conexión entre un área
+    de estacionamiento y una estación de ferrocarril.
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: 56f24143-79b9-5e9c-93d3-77078c0dd2e5
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: part 5, modified
+    ref: XrML 2.0 specification
+  concept: 6e1ad830-90df-58c3-9797-c858ebb06c0e
+  definition: hak yang diberikan kepada seseorang untuk menggunakan sesuatu sumber
+    tertentu tertakluk kepada syarat-syarat yang ditetapkan
+  examples: []
+  notes:
+  - A licence represents, but is not, a contract that grants a party explicit rights
+    to use Intellectual Property.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: f72d0c99-ae99-536e-9fb3-30e83943f789
+status: valid

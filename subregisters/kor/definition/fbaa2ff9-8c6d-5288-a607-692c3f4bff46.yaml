@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 450c0504-23ba-55e6-80aa-8c2857901906
+  definition: 위상 객체의 범위를 한정하는 보다 작은 위상 차원의 방향성을 갖는 위상 원시 객체 집합을 통해 표현된 경계
+  examples: []
+  notes:
+  - 위상 복합체의 경계는 위상 복합체의 기하 실현의 경계와 일치한다.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: fbaa2ff9-8c6d-5288-a607-692c3f4bff46
+status: superseded

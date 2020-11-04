@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 90fd29a6-f0a0-532b-956b-c648d759337c
+  definition: skończona, nieuporządkowana kolekcja powiązanych pozycji (obiektów lub
+    wartości), które mogą się powtarzać
+  examples: []
+  notes:
+  - W sensie logicznym wielozbiór można uważać za kolekcję par typu <element, krotność
+    tego elementu w kolekcji>.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: f95126cd-2a5f-53ff-9001-f4cdf531f612
+status: valid

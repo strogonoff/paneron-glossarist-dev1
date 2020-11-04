@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.29'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 98112b71-e633-5337-bdb1-5f132700e89b
+  definition: modèle de représentation pour stocker des schémas
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 90fd45d0-c5b4-5e11-a45b-a4b7bd0ed46c
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.43'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 22bae2d8-a030-5b57-a4ea-429764f1cb52
+  definition: 자원에 허가증을 부여할 권리를 소유한 자
+  examples: []
+  notes:
+  - Rights can be by law (copyright), by agreement, or by contract [the licence agreement].
+    In the case of digital commerce, DRM ensures that licences are adhered to, and
+    that rights holders are compensated as appropriate for each transaction. Agents
+    of the original rights holder can also issue licences, but their ability is only
+    under the agency contract to the original principal.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 2400516a-fd66-5dd3-8a8b-6ad32e192a9f
+status: valid

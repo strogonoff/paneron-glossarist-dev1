@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: 2.44, modified — Note 6 has been deleted.
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: f4d923f3-5cd6-50e5-90e0-48753fb55de6
+  definition: provision of objective evidence that a given item fulfils specified
+    requirements
+  examples: []
+  notes:
+  - When applicable, measurement uncertainty should be taken into consideration.
+  - The item may be, e.g. a process, measurement procedure, material, compound, or
+    measuring system.
+  - The specified requirements may be, e.g. that a manufacturer's specifications are
+    met.
+  - Verification should not be confused with calibration. Not every verification is
+    a validation.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: fe41ab6e-e0cc-5aa7-aa71-a29e676937e5
+status: valid

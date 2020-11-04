@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '3.8'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 8248101a-7fd7-526e-bfbb-000a1995fba1
+  definition: language in which feature operations are formally specified
+  examples: []
+  notes:
+  - In a functional language, feature types may be represented as abstract data types.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 8a5ddfe8-5e1a-59fe-bfcc-f25262641939
+status: valid

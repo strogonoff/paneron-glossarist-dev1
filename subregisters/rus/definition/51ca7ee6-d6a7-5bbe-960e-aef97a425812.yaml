@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.2.7
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 6210af28-463f-580e-8c03-a0fda39ec8cf
+  definition: существенная характеристика, используемая для выделения понятия из связанных
+    понятий
+  examples: []
+  notes:
+  - . Для разграничения понятий "табуретка" и "стул"может использоваться ограничительная
+    характерная опора для спинки.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 51ca7ee6-d6a7-5bbe-960e-aef97a425812
+status: valid

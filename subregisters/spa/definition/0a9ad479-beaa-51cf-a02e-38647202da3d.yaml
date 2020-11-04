@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: f960ba0b-f246-5619-94fb-818d184e3091
+  definition: valor (estadístico) esperado de pérdidas
+  examples: []
+  notes:
+  - El riesgo esperado se calcula multiplicando la probabilidad de los tipos de vulneración
+    por el coste de esa vulneración, y sumando el total para todos los tipos de vulneración.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 0a9ad479-beaa-51cf-a02e-38647202da3d
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 4788e0b6-a971-5c59-b741-608552e0961b
+  definition: información necesaria en un punto a lo largo de una ruta en una red
+    que permite recorrer la ruta
+  examples: []
+  notes:
+  - Para minimizar el número de instrucciones necesarias para completar el recorrido
+    de una ruta, se supone una instrucción por defecto en cruces sin instrucciones
+    específicamente asociadas. Esta instrucción por defecto es la llamada regla de
+    la carretera principal.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f2902801-d898-5564-bfcd-88b7e8f94a4e
+status: valid

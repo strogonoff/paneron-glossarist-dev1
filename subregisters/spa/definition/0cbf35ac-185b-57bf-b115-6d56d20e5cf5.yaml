@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.3
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: a07a76fa-b5e4-571b-8438-dd25850babaf
+  definition: sistema de referencia de coordenadas que usa por lo menos dos sistemas
+    de referencia de coordenadas independientes
+  examples: []
+  notes:
+  - Los sistemas de referencia de coordenadas son independientes unos de otros si
+    los valores de las coordenadas en uno de ellos no pueden convertirse o transformarse
+    en los valores de las coordenadas en el otro.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 0cbf35ac-185b-57bf-b115-6d56d20e5cf5
+status: valid

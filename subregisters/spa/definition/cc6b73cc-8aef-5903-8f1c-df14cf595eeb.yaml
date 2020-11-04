@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: dd89d158-419c-571b-940a-4abf4a6c6efc
+  definition: realización de una especificación
+  examples: []
+  notes:
+  - En el contexto de las normas ISO de información geográfica, se incluyen especificaciones
+    de servicios y conjuntos de datos de información geográfica.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: cc6b73cc-8aef-5903-8f1c-df14cf595eeb
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3decb52f-923e-5c15-9d6b-1dc485f4bdea
+  definition: наибольшее число n такое, что каждой точке в пределах данного геометрического
+    множества может быть сопоставлено некоторое подмножество, содержащее внутри данную
+    точку и подобное (изоморфное) Евклидову  n-мерному пространству Rn
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: cc611cfb-a5ad-5243-b326-652081d6be43
+status: superseded

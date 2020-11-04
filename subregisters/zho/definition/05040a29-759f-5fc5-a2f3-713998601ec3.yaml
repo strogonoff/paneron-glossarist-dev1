@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 7a01e6ab-776c-5a42-9eda-311fe7f7f349
+  definition: 基于不同基准的，从一个坐标参照系到另一个坐标参照系一一对应的坐标操作。
+  examples: []
+  notes:
+  - 使用一组在两种坐标参照系中已知坐标的点，通过经验公式推导出参数进行坐标操作。
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 05040a29-759f-5fc5-a2f3-713998601ec3
+status: superseded

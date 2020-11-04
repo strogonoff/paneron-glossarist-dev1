@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.10
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 13937e0e-f077-537c-a172-3b99582ffbd4
+  definition: distance between the perspective centre and the image plane that is
+    the result of balancing positive and negative radial lens distortions during sensor
+    calibration
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 14c5f811-5d23-51e2-890c-af122cb9c004
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/30726.html
+    ref: ISO/IEC TR 10000-1:1998
+  concept: 41762970-0be1-568b-b9bf-f27db80a6ba7
+  definition: 사용자 관점에서 응용, 데이터, 또는 사람에 대한 이식성 및 상호 운용성을 위한 인터페이스, 서비스, 지원 포맷 및 이들의
+    프로파일로 구성된 포괄적 집합
+  examples: []
+  notes: []
+dateAccepted: 2002-08-29 00:00:00+00:00
+id: 310919d1-639d-5982-aab0-9e387812bd61
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: ecd8a842-30cd-5a49-9272-85dd818cbbe1
+  definition: 与地球上的位置直接或间接相关的现象的信息。
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 835bd77e-6c16-59f3-8180-241e817505df
+status: valid

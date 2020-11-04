@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 62e5a5f4-3b25-5f78-8609-dd822cd42a21
+  definition: 기초 행정 단위 사이 또는 공간 단위 사이의 명시적 연관성
+  examples: []
+  notes:
+  - Due to legal aspects, history of data, inaccurate geometries or missing geometries,
+    geospatial overlay techniques may generate invalid, or no relationships between
+    spatial units, which can be introduced by required relationships.
+  - Relationships for spatial units may be defined with ISO 19125-2 types.
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: e5f5d596-1fb5-5ac3-8d6c-ee44707b6cfa
+status: valid

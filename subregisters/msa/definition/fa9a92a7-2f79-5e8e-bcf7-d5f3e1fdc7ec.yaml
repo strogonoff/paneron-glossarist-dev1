@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: bddc7775-973f-56ca-9d11-f9eab6e1ac25
+  definition: Data yang berhubungan dengan data lain. Data ini menerangkan setiap
+    kandungan butiran atau koleksi data yang merangkumi pelbagai kandungan butiran
+    dan peringkat hierarki. Dalam pemprosesan data, metadata menyediakan maklumat
+    dan dokumentasi data terurus dalam satu aplikasi. Metadata boleh juga mengandungi
+    maklumat deskriptif mengenai konteks, kualiti dan keadaan atau ciri data tersebut.
+    Metadata juga digunakan untuk memudahkan pemahaman, mengenali sifat dan menguruskan
+    penggunaan data. Contohnya, dokumen data mengenai elemen data atau atribut (nama,
+    saiz dan jenis) dan data mengenai rekod atau struktur data (medan dan lajur).
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: fa9a92a7-2f79-5e8e-bcf7-d5f3e1fdc7ec
+status: valid

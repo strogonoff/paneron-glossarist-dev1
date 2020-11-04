@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.42'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 72560f9e-815c-519f-bd5d-8d1bf72b80b9
+  definition: вертикальный угол от платформы вниз в направлении наклонной дальности,
+    обычно измеряемый в ARP
+  examples: []
+  notes:
+  - это примерно дополнение угла депрессии.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: a9013a44-57dc-5f1c-a7e8-98c89b67ff3b
+status: valid

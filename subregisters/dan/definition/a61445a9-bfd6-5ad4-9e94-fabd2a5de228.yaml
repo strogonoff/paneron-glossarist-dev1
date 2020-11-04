@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.32
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 2b302f11-17ab-5e0d-a0fe-f2ba073ae670
+  definition: vinkel mellem ækvitorialfladen og normalen på ellipsoiden gennem et
+    givet punkt, hvor nord regnes positiv
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: a61445a9-bfd6-5ad4-9e94-fabd2a5de228
+status: valid

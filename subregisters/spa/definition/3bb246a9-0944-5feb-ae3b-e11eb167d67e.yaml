@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.10
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 13937e0e-f077-537c-a172-3b99582ffbd4
+  definition: distancia entre el centro de perspectiva y el plano de la imagen. Es
+    el resultado de equilibrar las distorsiones radiales positivas y negativas de
+    las lentes durante el proceso de calibración del sensor.
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 3bb246a9-0944-5feb-ae3b-e11eb167d67e
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 5a85d4b9-466e-5587-8bf7-0d97789f8c8a
+  definition: 동일한 피처(공간 객체, 시간 객체, 시공간 객체) 속성값이 영역 내 서로 다른 직접 위치에서 다른 값을 갖는 커버리지
+  examples: []
+  notes:
+  - 연속 커버리지의 영역이 통상적으로 시간 또는 공간 범위의 표현으로 한정될지라도, 이는 무한한 수의 위치로 세분될 수 있다.
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 4f2063f2-d9f2-5066-b3de-76de74365233
+status: valid

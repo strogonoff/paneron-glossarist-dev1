@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: OWL
+  concept: 05e29f5d-4613-5e5d-8784-f36d5dbe39b3
+  definition: elemento utilizado para proporcionar una anotación textual para una
+    ontología, axioma o un IRI
+  examples: []
+  notes: []
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: e725483b-b2f3-515c-b432-d7b697ae9f0d
+status: valid

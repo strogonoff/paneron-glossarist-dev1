@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40147.html
+    ref: ISO 3534-2
+  concept: 2eb5b571-8095-5968-9309-76accdd38353
+  definition: totalidad de ítems bajo consideración
+  examples:
+  - Todos los puntos en un conjunto de datos.
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 17cb0799-7256-565c-90bc-9832ec8f7775
+status: retired

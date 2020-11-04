@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: a9c532a7-982e-56ec-bdbe-6d5c01b20ff9
+  definition: trójwymiarowy układ współrzędnych, w którym występują dwie współrzędne
+    długościowe i jedna kątowa
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 5c05e5ab-e01e-52ae-8169-598c1b7a2c84
+status: valid

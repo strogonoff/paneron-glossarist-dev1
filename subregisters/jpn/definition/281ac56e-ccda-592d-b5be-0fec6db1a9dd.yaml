@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.23
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 511210c8-5d3d-5ee2-bd10-dca74f7983a8
+  definition: エッジとその向きの一つとの間の関連を表す有向位相オブジェクト。
+  examples: []
+  notes:
+  - 有向エッジは，そのエッジと向きが一致しているものは + という向きを，そうでなければ - という向きをもつとする。有向エッジは，位相幾何においては同一のエッジの右側（-）と左側（+）とを区別する場合，同一のエッジの始点ノード（-）と終点ノード（+）とを区別するために，そして計算位相幾何においてはこれらの概念を表現するために用いる。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 281ac56e-ccda-592d-b5be-0fec6db1a9dd
+status: valid

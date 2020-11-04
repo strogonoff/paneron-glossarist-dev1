@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 21ed8515-1c3a-535f-8c2f-23f7be9a2010
+  definition: шкала с условным началом отсчета, которая может быть использована для
+    описания как порядка следования значений, так и расстояний между ними
+  examples: []
+  notes:
+  - Кратность величин, измеренных по интервальной шкале, лишена смысла
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 1dd41f7d-58f7-5f44-b510-8ad46c57c1dc
+status: valid

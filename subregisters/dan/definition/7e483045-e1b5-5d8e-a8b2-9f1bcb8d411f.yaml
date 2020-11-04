@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: bac69a7a-68a8-5295-bb2a-415f70ba59ae
+  definition: et punkts afstand fra ellipsoiden målt langs normalen fra ellipsoiden
+    til dette punkt. Positiv, hvis det ligger over eller uden for ellipsoiden
+  examples: []
+  notes:
+  - Benyttes kun som en del af et 3-dimensionalt geodætisk koordinatsystem og aldrig
+    alene.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 7e483045-e1b5-5d8e-a8b2-9f1bcb8d411f
+status: superseded

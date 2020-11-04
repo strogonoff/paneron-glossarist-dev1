@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: e22d42d5-0e50-5ac7-8dc0-849bc4a6722e
+  definition: unidad empleada para informar sobre un resultado de la calidad de un
+    conjunto de datos
+  examples:
+  - '"metro".'
+  notes:
+  -  Sólo se ha de indicar una unidad cuando sea aplicable.
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 22a9377c-88a9-57eb-8f6a-2963614452ac
+status: retired

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116
+  concept: 39034bab-2426-5ddc-bbc3-ee29eea7b0bf
+  definition: distance d'un point à une surface de référence choisie, selon une ligne
+    perpendiculaire à cette surface
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 596b6576-bfcc-5250-ada1-5d6c9d39ab99
+status: superseded

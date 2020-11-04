@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: dcf5bc5a-27d4-5305-86a2-e871213e10e0
+  definition: 집합의 부분인 점 또는 다각형
+  examples: []
+  notes: []
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: c92aa9b0-ec35-5d76-8325-24d6d5c0febe
+status: valid

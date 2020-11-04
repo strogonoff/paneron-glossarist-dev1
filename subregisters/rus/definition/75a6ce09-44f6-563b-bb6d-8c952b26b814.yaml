@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: (1994)
+    ref: 'Jensen et al. '
+  concept: 1ba2df7b-f3bf-50ff-a978-87c262d71703
+  definition: время, когда некий факт зафиксирован в базе данных
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 75a6ce09-44f6-563b-bb6d-8c952b26b814
+status: valid

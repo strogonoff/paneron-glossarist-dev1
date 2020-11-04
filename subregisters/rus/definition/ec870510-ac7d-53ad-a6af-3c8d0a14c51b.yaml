@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - ref: Adapted from NISTIR 7117
+  concept: 08c7560f-4170-57b3-b9c9-184ced28e4f1
+  definition: Данные, полученные приемником в результате всех возвратов от одного
+    испускаемого импульса
+  examples: []
+  notes:
+  - "A complete 3D data sample of the world produced by a LIDAR taken at a certain\
+    \ time, place, and orientation. A single LIDAR frame is also referred to as a\
+    \ range image.\n полная 3D-выборка данных о мире, полученная LIDAR в определенное\
+    \ время, месте и ориентации. Один кадр лидара также называется изображением диапазона."
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: ec870510-ac7d-53ad-a6af-3c8d0a14c51b
+status: valid

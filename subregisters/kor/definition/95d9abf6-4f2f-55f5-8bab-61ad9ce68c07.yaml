@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 297aced6-b3f5-5bf5-88f2-af7a05954fba
+  definition: 순서 연대의 계층 구조로 구성된 시간 참조 체계
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 95d9abf6-4f2f-55f5-8bab-61ad9ce68c07
+status: valid

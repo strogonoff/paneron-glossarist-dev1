@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: c0b71e1c-aeb3-5056-9b55-5faee44b4325
+  definition: 유클리드 3차원 공간 구역의 연속 영상을 표현하는 3차원 기하 원시 객체
+  examples: []
+  notes:
+  - 입방체는 직접 위치의 세 매개 변수 집합으로 국지적으로 실현될 수 있다. 입방체의 경계는 입방체의 경계를 포함하는 방향성이 있으며 폐합된 표면의
+    집합이다.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 87c833e4-7a5d-5b07-b625-ab4b4e830c5b
+status: valid

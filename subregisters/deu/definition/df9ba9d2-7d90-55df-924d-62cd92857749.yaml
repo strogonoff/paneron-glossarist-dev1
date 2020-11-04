@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 70365e5b-5e7b-5d22-b757-ccce52cb118a
+  definition: Verfahren zur Bewertung der Qualität eines Datensatzes, das auf der
+    Überprüfung der Elemente innerhalb des Datensatzes beruht
+  examples: []
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: df9ba9d2-7d90-55df-924d-62cd92857749
+status: valid

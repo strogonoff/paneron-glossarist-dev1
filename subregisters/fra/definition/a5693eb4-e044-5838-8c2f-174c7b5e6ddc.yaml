@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 9ec67dbe-e23a-5730-bb86-49d63b8006d2
+  definition: hauteur dépendant du champ de pesanteur de la Terre
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: a5693eb4-e044-5838-8c2f-174c7b5e6ddc
+status: superseded

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 90fd29a6-f0a0-532b-956b-c648d759337c
+  definition: 유한하며 순서가 없는, 반복 가능한 항목(객체 또는 값)의 모음
+  examples: []
+  notes:
+  - 논리적으로 다중 집합은 <항목, 수>쌍의 집합이다.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 8c21ef62-8502-51f2-ad71-ceb3f34eafca
+status: retired

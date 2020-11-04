@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.35
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: beb13e7f-d3b0-5c35-ad7d-530e4d6259e0
+  definition: وثيقة بلغة XML تحتوي على عنصر أساسي هو أحد العناصر  معلم مجرد ، معجم  مركب
+    طوبولوجي المحددة في مخطط لغة GML أو أي عنصر لمجموعة استبدال لأي من هذه العناصر
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 3780a296-3e8f-5415-abb2-1e62d0cd201d
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.22'
+    link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  concept: 0c133d79-be57-55e6-a7ef-d3335378e19d
+  definition: mesure de la répétabilité d'un ensemble de mesures
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 90125647-776e-5142-a79c-8de2caae2896
+status: superseded

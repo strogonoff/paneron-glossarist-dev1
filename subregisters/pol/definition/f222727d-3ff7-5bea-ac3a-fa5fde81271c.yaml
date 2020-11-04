@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.9
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: cd1bc0ad-5a39-5d5b-8025-93ffe91dc90f
+  definition: układ współrzędnych powiązany ze światem rzeczywistym poprzez układ
+    odniesienia
+  examples: []
+  notes:
+  - Dla geodezyjnego i pionowego ukladu odniesienia obiektem jezt Ziemia.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: f222727d-3ff7-5bea-ac3a-fa5fde81271c
+status: valid

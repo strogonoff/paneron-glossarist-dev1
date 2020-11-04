@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 8c3af55a-87b6-574f-a845-732fed33b748
+  definition: geometrisk linje som utgör den axel längs vilken linjerelativ lägesbestämning
+    utförs
+  examples:
+  - Feature, such as “road”; curve geometry; directed edge topological primitive.
+  notes:
+  - Also known as curvilinear element.
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: cb7149eb-36c8-5de3-b407-5f968275efec
+status: valid

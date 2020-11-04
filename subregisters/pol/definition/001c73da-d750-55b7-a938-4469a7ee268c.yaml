@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 39a87300-4583-558b-bf5a-9c10b6d73b03
+  definition: sekwencja usług (4.1), w której dla każdej sąsiadującej pary usług wystąpienie
+    pierwszego działania jest konieczne dla wystąpienia następnego działania
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 001c73da-d750-55b7-a938-4469a7ee268c
+status: valid

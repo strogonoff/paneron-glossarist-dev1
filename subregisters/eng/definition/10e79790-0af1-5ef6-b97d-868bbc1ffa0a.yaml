@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/26002.html
+    ref: ISO 19101:2002
+  concept: 5cd21fd0-21d9-5b6e-b1e5-db51d103a3af
+  definition: level containing data describing specific instances
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 10e79790-0af1-5ef6-b97d-868bbc1ffa0a
+status: retired

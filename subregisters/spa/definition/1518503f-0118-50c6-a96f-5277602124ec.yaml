@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.62'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: f3bb5a66-a8ec-5761-8985-3dfaed9daef7
+  definition: señal captada de la emisión de un pulso láser que se ha reflejado sobre
+    una escena de interés iluminada
+  examples: []
+  notes:
+  - Puede haber múltiples retronos para un pulso láser emitido dado
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 1518503f-0118-50c6-a96f-5277602124ec
+status: valid

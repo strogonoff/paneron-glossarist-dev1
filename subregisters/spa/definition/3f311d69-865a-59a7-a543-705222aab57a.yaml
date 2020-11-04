@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.26
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: a261d931-4cde-530b-aad0-f1b02d05ce9b
+  definition: representación de una imagen de entrada bidimensional analógica o digital,
+    en términos de coordenadas espacio-color (o una aproximación de las mismas)
+  examples: []
+  notes:
+  - Las imágenes originales podrían obtenerse a partir de mapas impresos, imágenes
+    impresas de una escena de imágenes geográficas o de dibujos de información geográfica,
+    etc.
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 3f311d69-865a-59a7-a543-705222aab57a
+status: valid

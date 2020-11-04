@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.52
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 73f8516f-0041-5df6-8101-4b3cb2cbe719
+  definition: markerade objekt som kan ses på en bild
+  examples: []
+  notes:
+  - The ground control point may be marked in the image, or the user may be provided
+    with an unambiguous description of the ground control point so that it can be
+    found in the image.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 2b3fa02b-b1bd-513c-a4f6-892a88c99930
+status: valid

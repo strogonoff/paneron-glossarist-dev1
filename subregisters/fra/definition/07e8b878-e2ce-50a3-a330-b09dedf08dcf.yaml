@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105
+  concept: 52ce94bc-5fd3-5548-a7f9-0efbbddfaabc
+  definition: clause définissant ce qui est nécessaire pour satisfaire les exigences
+    de la norme Internationale
+  examples: []
+  notes: []
+dateAccepted: 2000-11-16 00:00:00+00:00
+id: 07e8b878-e2ce-50a3-a330-b09dedf08dcf
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: e71964be-efd9-599e-a87f-f208aa074823
+  definition: conjunto de actividades interrelacionadas o interactuantes que transforman
+    unas entradas en salidas
+  examples: []
+  notes:
+  - El proceso puede ser desglosado en elementos de actividad [subprocesos] con el
+    detalle que sea necesario para controlar la calidad del proceso.
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: aad20bc1-4877-5266-9813-2aacd357d5f4
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: b6266e4b-b919-599c-9144-0064f19ec149
+  definition: tvådimensionell, förminskad, redigerad avbildning av en del av jordens
+    eller annan planets yta i bestämd skala och projektion
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 0ced9e71-c122-56c2-8b9b-a0315f2da222
+status: valid

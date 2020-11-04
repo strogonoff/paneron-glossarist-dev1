@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/3626.html
+    ref: 'ISO 31-2:1992 '
+  concept: d2a2dd44-8a3b-52a6-8269-4fbf686e1e5d
+  definition: durée d'un cycle
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: ad20490a-b192-549d-9531-30130ca937ee
+status: valid

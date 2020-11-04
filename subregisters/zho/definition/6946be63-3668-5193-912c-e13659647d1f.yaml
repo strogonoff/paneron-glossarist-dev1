@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 15a4a183-9aec-58a0-9ca0-4b268efc7621
+  definition: 描述实体行为的命名操作集合。
+  examples: []
+  notes:
+  - 见ISO 19119 中7.2条中对接口的讨论。
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 6946be63-3668-5193-912c-e13659647d1f
+status: valid

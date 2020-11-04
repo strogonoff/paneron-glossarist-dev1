@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: ecd8a842-30cd-5a49-9272-85dd818cbbe1
+  definition: информация об объектах и явлениях, содержащая в явном или неявном виде
+    указание на их местоположение относительно Земли
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: ba92df3c-704b-5225-80aa-227c29b346a7
+status: valid

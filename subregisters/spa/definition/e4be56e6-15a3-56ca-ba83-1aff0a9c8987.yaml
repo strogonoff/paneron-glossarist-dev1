@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/61710.html
+    ref: ISO 19160-1:2015
+  concept: 0bc15309-462e-550e-bb83-aa030bf41423
+  definition: dirección definida en relación con una dirección padre
+  examples: []
+  notes: []
+dateAccepted: 2015-12-15 00:00:00+00:00
+id: e4be56e6-15a3-56ca-ba83-1aff0a9c8987
+status: valid

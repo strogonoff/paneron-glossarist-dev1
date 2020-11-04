@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: d9b22021-6641-538a-a1ac-55472cb8eb65
+  definition: 객체의 상대 위치를 측정하기 위한 기초를 제공하는 척도
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 5cc03789-eb9f-5224-9179-05186a29982f
+status: valid

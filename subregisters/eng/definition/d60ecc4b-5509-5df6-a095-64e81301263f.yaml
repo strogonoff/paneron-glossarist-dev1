@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.33'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: d3230c5f-a61f-5d3c-b926-07b2eb0df7a8
+  definition: coordinates with respect to a Cartesian coordinate system of an image
+  examples: []
+  notes:
+  - The image coordinates can be in pixels or in a measure of length (linear measure).
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: d60ecc4b-5509-5df6-a095-64e81301263f
+status: valid

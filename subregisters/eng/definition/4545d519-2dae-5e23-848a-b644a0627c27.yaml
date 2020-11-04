@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  concept: b5c9e378-237e-5190-8aef-257c51e82a4c
+  definition: rectangular array of numbers
+  examples: []
+  notes:
+  - A matrix is a mathematical term
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 4545d519-2dae-5e23-848a-b644a0627c27
+status: valid

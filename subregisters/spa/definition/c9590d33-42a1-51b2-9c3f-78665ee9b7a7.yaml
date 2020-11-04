@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: b3a7a168-e661-5228-9730-0578a7cab590
+  definition: ángulo vertical desde el plano horizontal de la plataforma hacia la
+    dirección oblicua, normalmente medido en ARP
+  examples: []
+  notes:
+  - Aproximadamente el complemento del ángulo de observación
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: c9590d33-42a1-51b2-9c3f-78665ee9b7a7
+status: valid

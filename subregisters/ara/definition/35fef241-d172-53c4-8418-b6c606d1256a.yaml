@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.6'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 65bbe58e-0393-5049-8f3d-c269b3d1b83e
+  definition: عملية (أو عمليات) تستخدم في تطبيق طرق تقييم الجودة ونتائجها والإبلاغ
+    عن ذلك
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 35fef241-d172-53c4-8418-b6c606d1256a
+status: retired

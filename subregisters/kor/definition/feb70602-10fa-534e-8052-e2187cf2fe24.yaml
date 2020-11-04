@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.42
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: f1cbe5e4-4cba-59e5-a3fa-e8bf01779453
+  definition: 타원체와 그 타원체의 최단 반경을 포함하는 평면 간의 교차선
+  examples: []
+  notes:
+  - 이 용어는 완벽하게 폐합된 지형지물이라기 보다는 극과 극을 연결하는 호로 사용된다.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: feb70602-10fa-534e-8052-e2187cf2fe24
+status: valid

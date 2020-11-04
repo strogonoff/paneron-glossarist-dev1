@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: d8ebd211-773e-566d-bb73-d7ca03e17b61
+  definition: 包含距一个指定几何对象的距离都小于或等于一个给定值的所有直接位置的几何对象。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 050fd0bb-3452-5088-86a1-5c822b4e82fb
+status: superseded

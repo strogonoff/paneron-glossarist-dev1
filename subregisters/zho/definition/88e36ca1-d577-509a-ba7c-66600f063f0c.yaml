@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 8a650bfd-dd93-56c0-bbf0-e787d2f68c76
+  definition: 基于所定义模式的符号表示。
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 88e36ca1-d577-509a-ba7c-66600f063f0c
+status: valid

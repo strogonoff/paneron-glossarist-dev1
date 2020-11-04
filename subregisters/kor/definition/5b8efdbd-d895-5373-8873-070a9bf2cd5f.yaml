@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 8eea23a9-d1ac-54f1-a814-000b277b2c6f
+  definition: 기간의 연속을 표현하는 달력의 유형으로 특정 사건으로부터 계산된 기간 표시
+  examples:
+  - 단기 0000년, 서기 0000년
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 5b8efdbd-d895-5373-8873-070a9bf2cd5f
+status: valid

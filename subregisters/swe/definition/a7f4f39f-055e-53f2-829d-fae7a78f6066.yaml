@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: dcf5bc5a-27d4-5305-86a2-e871213e10e0
+  definition: del av linje eller kropp, avskuren med ett rakt snitt
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: a7f4f39f-055e-53f2-829d-fae7a78f6066
+status: valid

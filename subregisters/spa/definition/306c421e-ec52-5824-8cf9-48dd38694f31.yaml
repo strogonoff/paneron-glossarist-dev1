@@ -1,0 +1,24 @@
+data:
+  authoritative_source:
+  - clause: 1.1, modified — The Notes have been changed.
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: 2bc6e9bc-73ae-500f-b721-4771e385659c
+  definition: propiedad de un fenómeno, cuerpo o sustancia, de tal manera que su magnitud  puede
+    expresarse como un número o una referencia
+  examples: []
+  notes:
+  - La referencia puede ser una unidad de medida, un procedimiento de medida, un material
+    de referencia o una combinación de los anteriores.
+  - Los símbolos de las cantidades se dan en las series de Normas ISO 80000 y IEC
+    80000 de Cantidades y unidades. Los símbolos de las cantidades se escriben en
+    cursiva. Un símbolo puede indicar diferentes cantidades.
+  - una cantidad tal como se define aquí es un escalar. Sin embargo, un vector o un
+    tensor, las componentes que son cantidades , también se consideran que son una
+    cantidad.
+  - El concepto de "cantidad" se puede dividir genéricamente en, por ejemplo, " cantidad
+    física " , "cantidad química " y "cantidad biológica ", o " cantidad de base"
+    y " cantidad derivada ".
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 306c421e-ec52-5824-8cf9-48dd38694f31
+status: valid

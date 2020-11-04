@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: d8ebd211-773e-566d-bb73-d7ca03e17b61
+  definition: obiekt geometryczny zawierający wszystkie położenia bezpośrednie, których
+    odległość od określonego obiektu geometrycznego jest równa danej odległości lub
+    mniejsza
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 6946d607-3747-5db9-90ba-40bf33ce3701
+status: valid

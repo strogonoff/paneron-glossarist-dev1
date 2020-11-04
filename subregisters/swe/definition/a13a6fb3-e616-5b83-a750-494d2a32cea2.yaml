@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 66ab3795-8ffa-54ba-9ef2-c3f8f7b9fd60
+  definition: befintlig geodatastandard, aktivt använd av en internationell gemenskap
+    av producenter och användare av data
+  examples: []
+  notes:
+  - GDF, S-57, and DIGEST are examples of functional standards.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: a13a6fb3-e616-5b83-a750-494d2a32cea2
+status: valid

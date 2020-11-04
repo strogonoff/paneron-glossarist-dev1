@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 3855eb3a-2864-5cd2-8bb3-5be518475ef9
+  definition: '"cobertura" dominio compuesto de objetos espacio-temporales'
+  examples: []
+  notes:
+  - El dominio espacio-temporal de una cobertura continua consta de un conjunto de
+    posiciones directas definidas en relación con una colección de objetos espacio-temporales.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: ecbb7e4e-dd86-5c0f-b746-57393f6d8ab3
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.48
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 50bfd370-eb47-592b-a4ed-3a9e6bf93d56
+  definition: плоская поверхность, определяемая 1 внешней границей и 0 или более внутренних
+    границ
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 8b90e3c7-5894-5011-a176-7e6800f68c5a
+status: valid

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.46
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: aadc2acf-b2cc-506b-ba5e-016ab989c696
+  definition: 회전축이 고정 방향을 유지할 수 있도록 짐벌에 거치된 회전 날개로 구성된 기기
+  examples: []
+  notes:
+  - The rotor spins on a fixed axis while the structure around it rotates or tilts.
+    In airplanes, the pitch and orientation of the airplane is measured against the
+    steady spin of the gyroscope. In space, where the four compass points are meaningless,
+    the gyroscope's axis of rotation is used as a reference point for navigation.
+    An inertial navigation system includes three gimbal-mounted gyroscopes, used to
+    measure roll, pitch, and yaw.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 51bb6d7f-7354-5755-adf1-c0ee16314552
+status: valid

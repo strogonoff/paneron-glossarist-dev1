@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.8
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 96f5ba19-98a9-5044-bae7-963db940e744
+  definition: قانون أو سلطة يستمد منها رمز أو اسم أو مصطلح أو فئة
+  examples:
+  - الأمثلة على حيز الرموز وقوائم الرموز تشمل المعاجم , والمصادر المرجعية الموثوقة
+    وقوائم الرموز وخلافه
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: c749dd17-90af-52f9-9b44-6ec793f9ea15
+status: valid

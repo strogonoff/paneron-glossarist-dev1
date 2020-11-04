@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40611.html
+    ref: ISO/IEC TR 21000-1:2004
+  concept: 1ed7b73b-c034-527a-982c-5579dcec8f35
+  definition: objeto digital estructurado (activo, trabajo, servicio, datos o información)
+    con una representación estándar, una identificación y un marco de metadatos
+  examples: []
+  notes: []
+dateAccepted: 2005-10-17 00:00:00+00:00
+id: 98e6e87f-bb99-5643-9b34-5702d8d68ed9
+status: valid

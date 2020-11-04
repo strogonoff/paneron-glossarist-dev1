@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 3320dfc7-7b80-5984-8526-b02f15bde3c3
+  definition: 'yta som uppstår när en ellips får rotera kring
+
+    en av sina axlar'
+  examples: []
+  notes:
+  - 'In this International Standard, ellipsoids are always oblate, meaning that the
+    axis of rotation is always the minor axis.
+
+    Normalt avses rotationsaxeln sammanfalla med ellipsens lillaxel'
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 58b02e78-dd9d-5c8e-91e3-4ab6f23d5a09
+status: superseded

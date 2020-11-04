@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: e22d42d5-0e50-5ac7-8dc0-849bc4a6722e
+  definition: データ品質評価結果を報告するための値の単位。
+  examples:
+  - 　“メートル”
+  notes:
+  - 　データ品質評価値単位は，データ品質評価結果に適用できるときだけ規定する。
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: afdc45a3-dbe0-5135-8e93-b5c10d6eaded
+status: retired

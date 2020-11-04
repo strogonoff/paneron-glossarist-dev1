@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: f58c7a68-88fc-5431-9f30-644324f0dc08
+  definition: paikkatietoaineisto tai sen osa, joka voidaan pyytää palvelimelta karttana
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 7e3d359b-8db4-5ec2-8f28-b5ca288d31f6
+status: valid

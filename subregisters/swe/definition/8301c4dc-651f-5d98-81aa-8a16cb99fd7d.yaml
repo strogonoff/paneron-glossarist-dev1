@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.32'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 9f3e3447-8d27-5220-b079-0e111edef1fa
+  definition: symbol som utgör en del av en sammansatt symbol
+  examples: []
+  notes: []
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: 8301c4dc-651f-5d98-81aa-8a16cb99fd7d
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  concept: f9328edc-5329-525a-a1e8-a29add824e11
+  definition: vista informativa de un esquema de aplicación
+  examples: []
+  notes:
+  - El término "vista informativa" procede del Modelo de Referencia ISO para el Procesamiento
+    Distribuido Abierto (RM-ODP) tal y como se especifica en la Norma ISO 19101-2.
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 21174ebd-f586-56df-92eb-bdac76c1cffe
+status: valid

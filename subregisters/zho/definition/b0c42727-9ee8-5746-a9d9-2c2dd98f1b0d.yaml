@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: a5e31b9d-bd5c-5143-bdf8-d7b8fc71198b
+  definition: 有方向且有大小的量。
+  examples: []
+  notes:
+  - 如果一条线段的长度和方向等价于一个矢量的大小和方向，则该有向线段可以表示该矢量。术语矢量数据是指把表达要素空间结构的数据看作一个有向线段的集合。
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: b0c42727-9ee8-5746-a9d9-2c2dd98f1b0d
+status: valid

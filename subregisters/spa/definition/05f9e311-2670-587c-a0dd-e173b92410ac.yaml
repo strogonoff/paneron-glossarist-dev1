@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: e93be2a0-04b0-544f-ad5a-7362a2e484f4
+  definition: información sobre la ocurrencia de un objeto geográfico localizado a
+    lo largo de un objeto geográfico de localización
+  examples: []
+  notes:
+  - Un evento de objeto geográfico incluye la localización referenciada linealmente
+    del objeto geográfico localizado a lo largo del objeto geográfico de localización
+  - Un evento de fenómeno se puede calificar por el instante (4.8) o el periodo (4.20)
+    en el que ocurre el evento de fenómeno
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 05f9e311-2670-587c-a0dd-e173b92410ac
+status: valid

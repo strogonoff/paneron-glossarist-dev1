@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: ba20a463-5977-5400-a13b-413565d4ee25
+  definition: مجموعة من العمليات الحسابية تطبق على امثلة بيانية والتي تقيم إلى صح
+    او خطأ
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 3e889082-893d-509a-9eb5-cfe28560ed01
+status: valid

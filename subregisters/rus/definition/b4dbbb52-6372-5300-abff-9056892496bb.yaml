@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.19
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: ac7bbea0-2b31-513c-bfeb-0abc03f3759c
+  definition: сервис преобразования географической информации, управления ею или предоставления
+    пользователю
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: b4dbbb52-6372-5300-abff-9056892496bb
+status: valid

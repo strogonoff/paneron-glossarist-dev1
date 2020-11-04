@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: d4a6ac7f-b909-5833-8b8d-ca6ae328a99d
+  definition: '1) værdi eller sæt af værdier opnået ved at anvende et mål for datakvalitet.
+
+    2) resultatet af at evaluere de(n) opnåede værdi(er) i forhold til et specificeret
+    kvalitetsniveau af overensstemmelse.'
+  examples:
+  - 'Hvis der rapporteres et datakvalitetsresultat på "90" med "procent" som værditype
+    for datakvalitetselementet og dets delelement "fuldstændighed" er det et eksempel
+    på en værdi, der opnås ved at anvende et mål for datakvalitet på dataene specificeret
+    ved et bestemt omfang af datakvalitet.  I forlængelse heraf er datakvalitetsresultatet
+    "sandt" med "Boolean" som værditype for datakvalitet et eksempel på sammenligning
+    af værdien (90) med tærskelværdien 85 som kvalitetsniveau for overensstemmelse,
+    og der kan rapporteres en evaluering: godkendt eller ikke godkendt.'
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: b5011a5f-14ce-52a0-aa78-778a482aa31e
+status: retired

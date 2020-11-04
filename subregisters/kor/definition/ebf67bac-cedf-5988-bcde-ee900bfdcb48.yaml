@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 7427ab28-503d-505e-a936-f50cbdf919a2
+  definition: 사용자 요구 사항의 지원을 위한 데이터의 조작 및 처리
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: ebf67bac-cedf-5988-bcde-ee900bfdcb48
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 77bf2aff-b300-5ad3-b3c0-be3c41eb3e49
+  definition: 由空间对象、时间对象或时空对象和要素属性值记录组成的有序数值对。
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 517ba35d-da16-52d4-8233-1fb52957978b
+status: valid

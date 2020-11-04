@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 6c27dc3f-49d2-56b2-b560-cd5ded8dab31
+  definition: Barangan yang dihasilkan melalui sesuatu proses pengeluaran yang tertentu.,didarabkan.
+  examples: []
+  notes: []
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 4b212c51-287e-5886-9cf1-b6f86d42d877
+status: valid

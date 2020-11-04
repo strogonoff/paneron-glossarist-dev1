@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.39'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 41b0002b-38e9-5740-8667-672e5e1e1352
+  definition: información sobre el lugar y el tiempo del origen o de la derivación
+    de un recurso o de un registro o de una prueba de autenticidad o del propieterio
+    anterior
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 43557587-ded4-5c9a-a01d-1d3582085bdf
+status: valid

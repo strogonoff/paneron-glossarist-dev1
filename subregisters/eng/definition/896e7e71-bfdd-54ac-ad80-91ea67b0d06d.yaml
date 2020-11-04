@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 7427ab28-503d-505e-a936-f50cbdf919a2
+  definition: manipulation and processing of data in support of user requirements
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 896e7e71-bfdd-54ac-ad80-91ea67b0d06d
+status: valid

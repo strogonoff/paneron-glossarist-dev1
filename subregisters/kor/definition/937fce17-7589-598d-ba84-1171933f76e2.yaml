@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 8d56b07f-a144-5d49-a9da-a42ddd5178fb
+  definition: 동일한 보간법 및 정의 방법으로 곡선의 연속적인 컴포넌트의 표현에 사용되는 1차원 기하객체
+  examples: []
+  notes:
+  - 단일 곡선 분절에 의해 표현되는 기하 집합은 곡선과 같다.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 937fce17-7589-598d-ba84-1171933f76e2
+status: retired

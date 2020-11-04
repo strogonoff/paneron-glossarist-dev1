@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.25
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 17eb3a74-e8e9-5cfc-aed7-7832b8a706ad
+  definition: 다른 점의 위치에 대한 관계로 정의되는 특정 점의 위치
+  examples: []
+  notes:
+  - 다른 지점에 상대적인 한 지점의 공간 관계는 1, 2, 3차원일 수 있다.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 6f5a9a44-8292-54e6-bf9a-81ea99f548fb
+status: valid

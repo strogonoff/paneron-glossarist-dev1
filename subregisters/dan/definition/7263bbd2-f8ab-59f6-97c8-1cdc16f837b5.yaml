@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 7110c707-269d-59f3-bcf8-c4ea91bc8d56
+  definition: foreningsmængden af indholdet af og afgrænsningen af et topologisk eller
+    geometrisk objekt
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 7263bbd2-f8ab-59f6-97c8-1cdc16f837b5
+status: superseded

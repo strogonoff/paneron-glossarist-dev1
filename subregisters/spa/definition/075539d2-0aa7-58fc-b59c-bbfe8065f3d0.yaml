@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.23
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 66d7ff22-9413-57b3-a5ba-d480fd5d2dd7
+  definition: ítem básico de información de un documento XML que contiene elementos
+    hijo, atributos y datos carácter
+  examples: []
+  notes:
+  - 'Del Conjunto de Información de XML: "Cada documento XML contiene uno o más elementos,
+    sus límites se delimitan con etiquetas de inicio y de fin, o, para elementos vacios,
+    mediante la etiqueta vacía. Cada elemento tiene un tipo, identificado por un nombre,
+    a veces llamado su ''identificador genérico'' (GI), y puede tener un conjunto
+    de especificaciones de atributo. Cada especificación de atributo tiene un nombre
+    y un valor.'
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 075539d2-0aa7-58fc-b59c-bbfe8065f3d0
+status: valid

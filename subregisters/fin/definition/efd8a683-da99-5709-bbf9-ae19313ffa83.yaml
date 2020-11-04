@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: edc7eadc-38a7-5f10-89e4-38dea1735027
+  definition: paikkatietojakauman arvojen määrittäminen jakaumaan kuuluvassa koordinaattipisteessä
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: efd8a683-da99-5709-bbf9-ae19313ffa83
+status: valid

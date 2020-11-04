@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  concept: 3855eb3a-2864-5cd2-8bb3-5be518475ef9
+  definition: domaine composé d'objets spatio-temporels
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 0c1dbf40-9619-56b7-9968-7e8ec0c6ce0f
+status: valid

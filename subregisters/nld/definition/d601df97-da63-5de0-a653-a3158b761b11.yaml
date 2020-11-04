@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: c466728d-152a-5086-8600-1f817866b132
+  definition: afstand van een punt tot de ellipsoïde gemeten langs een lijn loodrecht
+    op de ellipsoïde positief indien naar boven of naar de buitenzijde van de ellipsoïde
+  examples: []
+  notes:
+  - Wordt alleen gebruikt als deel van een driedimensionaal ellipsoidaal coördinaatsysteem
+    en nooit op zichzelf staand.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: d601df97-da63-5de0-a653-a3158b761b11
+status: superseded

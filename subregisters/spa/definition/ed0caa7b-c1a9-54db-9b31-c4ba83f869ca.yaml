@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.1.4
+    link: https://www.iso.org/standard/40362.html
+    ref: ISO 10241-1:2011
+  concept: 36714f60-b75a-5b68-a2d7-17f4d1bce3da
+  definition: resultado de fijar un tipo específico de datos terminológicos
+  examples: []
+  notes: []
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: ed0caa7b-c1a9-54db-9b31-c4ba83f869ca
+status: valid

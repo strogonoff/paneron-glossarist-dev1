@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: c091a7e9-97a5-5339-94cf-336864bd5e77
+  definition: 데이터의 송수신 및 해석을 위한 처리 과정
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: ed24ea0c-6895-5dca-bee1-2109a77b663d
+status: valid

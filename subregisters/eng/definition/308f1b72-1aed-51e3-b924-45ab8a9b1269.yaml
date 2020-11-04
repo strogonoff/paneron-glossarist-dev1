@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.49
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: a18137f9-588d-5bee-9029-c2047c6f0579
+  definition: two-dimensional coordinate system in Euclidean space in which position
+    is specified by one distance coordinate and one angular coordinate
+  examples: []
+  notes:
+  - For the three-dimensional case, see spherical coordinate system.
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: 308f1b72-1aed-51e3-b924-45ab8a9b1269
+status: valid

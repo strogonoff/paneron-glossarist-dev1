@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.76
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: b663323b-9943-5a8a-adb9-e86e498c3342
+  definition: avbildande radarsystem som simulerar en lång fysisk antenn genom att
+    samla in många reflektioner från varje föremål när dess antenn förs längs en bana
+  examples: []
+  notes:
+  - The electromagnetic radiation is at microwave frequencies and is sent in pulses.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: b6ac6b19-8527-5dba-94e1-80d76c34a0aa
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.74'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 7388bfc0-050f-5fb0-b016-585ae4f169d8
+  definition: режим сканирования, состоящий из шаблона ступенчатой лестницы
+  examples: []
+  notes:
+  - это относится к приемопередатчику HARLIE на основе объемного фазового голографического
+    оптического элемента.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 1559257c-c724-5717-a985-c46e0ffd0bd2
+status: valid

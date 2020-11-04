@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 496ad627-e5b6-5cc2-8e32-6b0ad872fc9d
+  definition: 返回的服务或其他属性与请求服务的客户位置或者其他事物、对象或个人的位置相关。
+  examples: []
+  notes:
+  - 如"寻找最近的餐厅"的提问取决于提问者的位置，属于LBS范畴。
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 2eba45f3-066d-586a-8ae0-2e1bd7f838c5
+status: valid

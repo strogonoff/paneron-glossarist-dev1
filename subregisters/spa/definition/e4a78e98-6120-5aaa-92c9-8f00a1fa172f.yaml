@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.35
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 20ac7351-15d8-5b45-8a1c-09cf16e57b7a
+  definition: web de datos con significado
+  examples: []
+  notes:
+  - La asociación de significado permite a las herramientas automáticas, así como
+    a las personas, entender y procesar los datos y la información
+dateAccepted: 2012-11-15 00:00:00+00:00
+id: e4a78e98-6120-5aaa-92c9-8f00a1fa172f
+status: valid

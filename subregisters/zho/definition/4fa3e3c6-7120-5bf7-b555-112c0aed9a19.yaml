@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.36
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 34a159ac-d539-512c-b042-cce2a4822855
+  definition: GML模式的子集。
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 4fa3e3c6-7120-5bf7-b555-112c0aed9a19
+status: valid

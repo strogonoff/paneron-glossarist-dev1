@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40147.html
+    ref: ISO 3534-2:2006
+  concept: eecb63c4-3332-5741-b22b-684db4abb0d4
+  definition: tietoaineiston ominaisuus, joka ilmentää testituloksen tai mittaustuloksen
+    ja todellisen arvon läheisyyttä
+  examples: []
+  notes: []
+dateAccepted: 2013-07-03 00:00:00+00:00
+id: 7afaf4d6-6231-5829-9d17-d2e00432ce25
+status: valid

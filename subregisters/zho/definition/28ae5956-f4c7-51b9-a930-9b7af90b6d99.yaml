@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 145fe334-2ee5-5f23-bd67-8de257df1699
+  definition: 被导航或被跟踪的人。
+  examples: []
+  notes:
+  - 包括行人。参见ISO 14825 。在本标准中，出行者可被车辆代替而不改变含义。
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 28ae5956-f4c7-51b9-a930-9b7af90b6d99
+status: valid

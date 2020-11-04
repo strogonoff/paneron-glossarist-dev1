@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 66a41f3b-5ab5-5d18-9047-8af3ad82ab8b
+  definition: 从一个坐标参照系到另一个参照坐标系一一对应的坐标改变。
+  examples: []
+  notes:
+  - 坐标变换和坐标转换的父类型。
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 8b91a713-03b6-591b-a25f-2c35e03998a9
+status: superseded

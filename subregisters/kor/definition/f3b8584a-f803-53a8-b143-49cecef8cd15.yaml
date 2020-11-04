@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 496ad627-e5b6-5cc2-8e32-6b0ad872fc9d
+  definition: 서비스를 요구하는 클라이언트, 객체, 사람 등의 위치에 따라 서비스의 응답이나 기타 특성이 결정되는 서비스
+  examples: []
+  notes: []
+dateAccepted: 2006-12-01 00:00:00+00:00
+id: f3b8584a-f803-53a8-b143-49cecef8cd15
+status: valid

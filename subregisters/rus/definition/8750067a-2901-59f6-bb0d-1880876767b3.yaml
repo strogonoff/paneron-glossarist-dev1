@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40147.html
+    ref: ISO 3534-2:2006
+  concept: eecb63c4-3332-5741-b22b-684db4abb0d4
+  definition: близость измеренного значения к истинному значению измеряемой величины
+  examples: []
+  notes:
+  - в данном международном стандарте истинным значением может выступать эталонное
+    значение, принятое за истинное
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: 8750067a-2901-59f6-bb0d-1880876767b3
+status: valid

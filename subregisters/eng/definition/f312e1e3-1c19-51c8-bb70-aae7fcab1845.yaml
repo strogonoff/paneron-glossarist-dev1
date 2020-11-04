@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: 1582e72a-dee4-5b51-ad91-76828b5da49d
+  definition: reference to the source of an item that has been adopted from a source
+    external to the register
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f312e1e3-1c19-51c8-bb70-aae7fcab1845
+status: retired

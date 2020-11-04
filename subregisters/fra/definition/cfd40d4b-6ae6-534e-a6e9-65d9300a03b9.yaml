@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: ecd8a842-30cd-5a49-9272-85dd818cbbe1
+  definition: information concernant un phénomène implicitement ou explicitement associé
+    à une localisation relative à la Terre
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: cfd40d4b-6ae6-534e-a6e9-65d9300a03b9
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/61710.html
+    ref: ISO 19160-1:2015
+  concept: 0bc15309-462e-550e-bb83-aa030bf41423
+  definition: address defined relative to a parent address
+  examples: []
+  notes: []
+dateAccepted: 2015-12-15 00:00:00+00:00
+id: 692f2c84-a184-5835-bbb2-d497a8246565
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '3.8'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 8248101a-7fd7-526e-bfbb-000a1995fba1
+  definition: لغة تحدد فيها عمليات المعالم بشكل رسمي
+  examples: []
+  notes:
+  - في اللغة الوظيفية , يمكن تمثيل أنواع المعالم على صورة أنواع بيانات مجردة.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: c91313ce-6192-5962-beae-e831bb9fb216
+status: valid

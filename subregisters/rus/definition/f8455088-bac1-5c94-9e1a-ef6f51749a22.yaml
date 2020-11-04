@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.10
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: e24e8597-01ba-50aa-8c49-1f07591f2757
+  definition: Информация, используемая для определения географического местоположения,
+    соответствующего местоположению изображения
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: f8455088-bac1-5c94-9e1a-ef6f51749a22
+status: valid

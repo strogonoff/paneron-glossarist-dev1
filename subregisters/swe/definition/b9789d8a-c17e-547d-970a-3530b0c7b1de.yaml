@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 60f1ebd6-56fc-5a3b-8627-ccb87e7a25d9
+  definition: unbounded topological solid in a 3-dimensional complex
+  examples: []
+  notes:
+  - The universal solid is the 3-dimensional counterpart of the universal face, and
+    is also normally not part of any feature.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b9789d8a-c17e-547d-970a-3530b0c7b1de
+status: retired

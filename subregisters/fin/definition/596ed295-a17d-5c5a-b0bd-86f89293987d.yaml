@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.5
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: b978748c-6dce-591e-941a-a63f0ad243cf
+  definition: elementin välitön jälkeläiselementti
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 596ed295-a17d-5c5a-b0bd-86f89293987d
+status: valid

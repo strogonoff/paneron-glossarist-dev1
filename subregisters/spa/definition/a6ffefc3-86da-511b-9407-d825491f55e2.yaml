@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.15
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 5be022c2-f072-526a-8205-5a9baaf1b037
+  definition: secuencia de dos o más números que especifican una posición con respecto
+    a su ubicación en una malla
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: a6ffefc3-86da-511b-9407-d825491f55e2
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: dd8ba9d8-aeba-52c1-a31f-c632e4f18145
+  definition: 등록물 항목에 대한 설명
+  examples: []
+  notes:
+  - 명시는 본질적, 기술적 의미를 바꾸지 않는다. 명시로는 등록물 항목의 등록상태가 변경되지 않는다.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f1bbcd1b-89bd-5e71-b07e-91fdd58805c0
+status: valid

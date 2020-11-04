@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.45
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 554d3b9c-c1a3-5f78-bde5-ae2f6c3ca0e4
+  definition: линейное расстояние между центрами пикселей
+  examples: []
+  notes:
+  - Это определение также применяется к водной поверхности
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 7f36e66f-9123-5cd4-8720-ea71b7184b09
+status: valid

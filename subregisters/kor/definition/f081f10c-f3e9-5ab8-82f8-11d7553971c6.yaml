@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20697.html
+    ref: ISO/IEC 10746-3:1996
+  concept: e56b8d93-73bf-50e5-8abf-c38d5cc5a6f3
+  definition: 시스템을 인터페이스를 통해 상호 작용하는 기능적 객체들로 분해함으로써 분산 처리를 가능하게 하는 개방형 시스템 및 그 환경에
+    대한 관점
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: f081f10c-f3e9-5ab8-82f8-11d7553971c6
+status: superseded

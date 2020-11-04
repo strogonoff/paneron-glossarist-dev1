@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 3efd65f1-ee28-5305-9470-c526ba241392
+  definition: selección de un conjunto de objetos del dominio de una cobertura basada
+    en los valores de los  atributos de objeto geográfico asociados con los objetos
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 5b5f74c4-4b2e-5ed1-8847-c0014a17cae7
+status: valid

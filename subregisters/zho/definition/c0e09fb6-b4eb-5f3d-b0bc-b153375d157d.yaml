@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 63d54d38-10f7-5a5d-b143-9e06f65eaae4
+  definition: 由其它要素组合而成的要素。
+  examples: []
+  notes: []
+dateAccepted: 2005-06-15 00:00:00+00:00
+id: c0e09fb6-b4eb-5f3d-b0bc-b153375d157d
+status: valid

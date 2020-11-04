@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: e318421f-f2b1-5f57-8893-0422ff872876
+  definition: cualquier ruta que satisfaga todas las restricciones de una petición
+    de enrutamiento con la posible excepción de la optimización de la función de costo
+  examples: []
+  notes:
+  - Navegación es el proceso de encontrar la ruta candidata que optimice la función
+    de coste requerida.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 859f6e9f-baee-55cc-bac6-8d09fc66bef2
+status: valid

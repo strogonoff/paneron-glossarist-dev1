@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 7e79ff25-ee02-5034-8437-2736fa15d58c
+  definition: taxonomic relationship between a more general element and a more specific
+    element that is fully consistent with the more general element and contains additional
+    information
+  examples: []
+  notes:
+  - 'An instance of the more specific element may be used where the more general element
+    is allowed. See: inheritance.'
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 85361c8e-1e9d-59ca-a251-d78825cc1d86
+status: superseded

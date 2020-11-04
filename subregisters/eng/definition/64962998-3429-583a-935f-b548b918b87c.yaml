@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 39ace3fc-a409-52bb-8541-3a9972b5bbf1
+  definition: property of a geometric object implying that any two direct positions
+    on the object can be placed on a curve that remains totally within the object
+  examples: []
+  notes:
+  - A topological object is connected if and only if all its geometric realizations
+    are connected. This is not included as a definition because it follows from a
+    theorem of topology.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 64962998-3429-583a-935f-b548b918b87c
+status: superseded

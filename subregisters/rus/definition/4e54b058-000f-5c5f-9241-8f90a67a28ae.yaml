@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '3.3'
+    link: https://www.iso.org/standard/28928.html
+    ref: ISO/TR 19120:2001
+  concept: c8b3c183-1cbd-55cf-816f-32a772ae17ef
+  definition: предопределенный набор элементов в базовом стандарте, который можно
+    использовать для построения профиля
+  examples: []
+  notes: []
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: 4e54b058-000f-5c5f-9241-8f90a67a28ae
+status: valid

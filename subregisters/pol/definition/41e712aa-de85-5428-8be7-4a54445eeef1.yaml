@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: a3454830-25b6-535a-98b2-65590ebaf09a
+  definition: granica reprezentowana przez zbiór prostych elementów geometrycznych
+    o mniejszym wymiarze geometrycznym, który ogranicza zasięg obiektu geometrycznego
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 41e712aa-de85-5428-8be7-4a54445eeef1
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 3a68ce9b-5e07-51d2-baf9-d1f003419039
+  definition: układ odniesienia opisujący związki pomiędzy wysokością fizyczną a Ziemią
+  examples: []
+  notes:
+  - W większości przypadków pionowy układ odniesienia jest powiązany ze średnim poziomem
+    morza. Wysokości elipsoidalne są traktowane jako powiązane z trójwymiarowym elipsoidalnym
+    układem współrzędnych związanym z układem odniesienia. Pojęcie pionowy układ odniesienia
+    obejmuje także układ odniesienia używany w procesie sondowania dla celów hydrograficznych.
+    W tym przypadku wysokości mogą być ujemne lub nazywane głębokościami.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 9c4b1355-1ee5-50bd-886a-765b10eed510
+status: valid

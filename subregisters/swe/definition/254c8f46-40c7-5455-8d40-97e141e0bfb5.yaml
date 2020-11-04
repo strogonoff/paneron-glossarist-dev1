@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 39ace3fc-a409-52bb-8541-3a9972b5bbf1
+  definition: <inom geometri> sådan att en linje genom två  godtyckligt valda punkter
+    hos ett geometriskt objekt befinner sig inom objektet
+  examples: []
+  notes:
+  - A topological object is connected if and only if all its geometric realizations
+    are connected. This is not included as a definition because it follows from a
+    theorem of topology.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 254c8f46-40c7-5455-8d40-97e141e0bfb5
+status: superseded

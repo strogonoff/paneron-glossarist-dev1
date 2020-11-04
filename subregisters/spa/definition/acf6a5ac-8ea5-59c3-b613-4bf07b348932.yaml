@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 66ab3795-8ffa-54ba-9ef2-c3f8f7b9fd60
+  definition: norma existente de información geográfica, en uso activo por una comunidad
+    internacional de productores de datos y usuarios de datos
+  examples: []
+  notes:
+  - GDF, S-57 y DIGEST son ejemplos de normas funcionales.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: acf6a5ac-8ea5-59c3-b613-4bf07b348932
+status: valid

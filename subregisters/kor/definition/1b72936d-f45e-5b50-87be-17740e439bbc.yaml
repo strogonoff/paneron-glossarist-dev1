@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7257.html
+    ref: ISO/IEC 2382-15:1999
+  concept: 8541ba1d-72f8-517c-af8a-824270f51b17
+  definition: 자료 객체들의 기록, 파일, 메시지, 저장 장치, 또는 전송 채널을 문자 형태로 표현을 지정한 언어구조
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 1b72936d-f45e-5b50-87be-17740e439bbc
+status: valid

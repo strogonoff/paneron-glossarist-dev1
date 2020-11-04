@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.33
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 5f0ed27a-2383-5e67-9aeb-35884943eaf7
+  definition: node in the boundary of an edge that corresponds to the end point of
+    that edge
+  examples: []
+  notes: []
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: 829fbcc2-a327-5a92-8e3f-420e91b7f3ce
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.26'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 7d8ca166-5a2c-5b94-b14f-4ff35abdecc1
+  definition: support de stockage ou moyen de transmission des données
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 406d7871-963f-5891-b1ef-bb7d3ab445f9
+status: valid

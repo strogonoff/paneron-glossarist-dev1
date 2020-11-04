@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: 8c7b6055-1074-5f4a-bd3c-962eb8cea173
+  definition: agregación en la que el objeto compuesto (el todo) tiene la responsabilidad
+    de la existencia y el almacenamiento de los objetos componentes (las partes)
+  examples: []
+  notes: []
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: e102ba28-79ea-573a-9552-07b251e16ea2
+status: valid

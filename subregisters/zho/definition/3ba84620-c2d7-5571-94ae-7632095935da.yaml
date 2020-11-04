@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 838acc70-10c8-58b5-af88-383cebeee0fc
+  definition: 没有逻辑起始，因而等同于任何自身循环移位的序列，因此可认为序列的最后一数据项位于该序列的第一项之前。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3ba84620-c2d7-5571-94ae-7632095935da
+status: retired

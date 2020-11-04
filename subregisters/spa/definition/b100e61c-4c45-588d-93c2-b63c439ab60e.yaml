@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 4.1.19
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 4141d5c2-6e41-5876-9676-925f18618018
+  definition: obligación formal o no formalizada de abstenerse de hacer algo
+  examples:
+  - No está permitido construir a menos de 200 metros de una gasolinera; o, una servidumbre
+    o hipoteca es una restricción sobre el derecho de propiedad
+  - Se puede registrar el embargo de una BAUNIT como una restricción
+  notes: []
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: b100e61c-4c45-588d-93c2-b63c439ab60e
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 6ba4fcd1-9a9d-586c-9a1b-362488ca9871
+  definition: 시공간 영역(공간, 시간, 시공간) 내에서 함수처럼 그 범위 내의 특정 직접 위치에 대한 값을 반환하는 피처
+  examples:
+  - 래스터 이미지, 다각형 중첩, DEM
+  notes:
+  - 커버리지는 다른 말로 각각의 속성 유형에 대한 다양한 값을 갖는 피처이며, 피처의 기하학적 표현 내에서 각각의 직접 위치는 각 속성 유형별로
+    하나의 값을 갖는다.
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: ed24369b-3877-5ff4-aa28-2cc6035c90c5
+status: valid

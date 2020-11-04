@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0d4997ad-c2bd-5de2-942e-b79af22736ea
+  definition: 由有顺序的坐标所构成的坐标串。
+  examples: []
+  notes:
+  - 在坐标元组中，坐标个数等同于坐标系的维数；坐标的顺序等同于坐标系轴的顺序。
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: a38aa6ea-614e-52c8-aa27-49ec24cae8d3
+status: superseded

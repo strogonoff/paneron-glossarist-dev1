@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.37
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: d80e5d2a-5d10-51e8-abc4-6126d53dc2e6
+  definition: разность между пространством и замыканием
+  examples: []
+  notes:
+  - Понятие внешней области применимо как к топологическим, так  и геометрическим
+    комплексам
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5726c687-16af-5c3f-8451-2063cefd4bb0
+status: valid

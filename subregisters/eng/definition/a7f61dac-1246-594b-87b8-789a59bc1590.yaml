@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '3.21'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  concept: 52f839c1-e387-5f17-9e42-a8e66425bae0
+  definition: pre-defined path defined by means of two or more transfer nodes and
+    the links and waypoints in between
+  examples: []
+  notes:
+  - Defines a path to be followed by a transport service; also called route.
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: a7f61dac-1246-594b-87b8-789a59bc1590
+status: valid

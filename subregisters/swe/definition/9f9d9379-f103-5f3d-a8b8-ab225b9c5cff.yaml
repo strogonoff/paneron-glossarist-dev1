@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 479c9bdb-349a-5d72-b2db-26cf7d9ad58d
+  definition: markreglerande källhandling som tar upp inblandade parter, deras rättigheter,
+    restriktioner och skyldigheter samt vilka reglerade objekt som berörs
+  examples:
+  - It is the evidence of a party’s right to a basic administrative unit.
+  - A document describing a transaction (a deed), or a judgement of the register holder.
+  notes: []
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 9f9d9379-f103-5f3d-a8b8-ab225b9c5cff
+status: valid

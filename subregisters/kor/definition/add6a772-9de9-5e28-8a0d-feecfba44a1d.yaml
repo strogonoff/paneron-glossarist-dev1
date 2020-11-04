@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.16'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: e370a73a-1464-5b33-bf13-5701e08506ad
+  definition: 선형 참조를 사용하여 명시된 위치
+  examples: []
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: add6a772-9de9-5e28-8a0d-feecfba44a1d
+status: valid

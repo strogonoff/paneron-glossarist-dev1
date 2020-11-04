@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.77
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 7154d158-5ea9-5edb-9666-b6e61aae58c3
+  definition: topologinen kompleksi, jolla on 2-ulotteiseen euklidiseen avaruuteen
+    sisällytettävissä oleva geometrinen ilmentymä
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ac5e3b49-c49b-5779-8286-284748971899
+status: valid

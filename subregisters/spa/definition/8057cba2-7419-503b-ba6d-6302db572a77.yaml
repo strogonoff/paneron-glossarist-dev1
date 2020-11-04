@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: modified
+    ref: FindLaw
+  concept: e3da19ff-d9c2-585f-adcb-c5c1f71ad5d2
+  definition: acuerdo entre dos o más titulares que crea en cada titular la obligación
+    de hacer o no algo y un derecho por el cumplimiento de la obligación del otro
+    o una solución para el incumplimiento de las obligaciones del otro
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 8057cba2-7419-503b-ba6d-6302db572a77
+status: valid

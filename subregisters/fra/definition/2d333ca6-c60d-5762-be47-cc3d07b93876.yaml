@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.33
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 78f755ad-932d-5a16-82a0-eb84a8544d9a
+  definition: angle entre le plan méridien de référence et le plan méridien passant
+    par un point donné, orienté positivement vers l'est
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 2d333ca6-c60d-5762-be47-cc3d07b93876
+status: valid

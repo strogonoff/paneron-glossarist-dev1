@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123
+  concept: 6ba4fcd1-9a9d-586c-9a1b-362488ca9871
+  definition: entité agissant comme une fonction retournant des valeurs de sa gamme
+    de valeurs pour toute position directe dans son domaine spatial, temporel ou spatiotemporel
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: aa198614-dc53-543d-8d1c-718010596b9f
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 1.7.2
+    link: https://www.iso.org/standard/57284.html
+    ref: ISO 14721:2012
+  concept: c6a62377-8165-571d-b16b-0dd40cbbd5ad
+  definition: digital migration where the effect is to replace a media instance with
+    a copy that is sufficiently exact that all archival storage hardware and software
+    continues to run as before
+  examples: []
+  notes: []
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: 476e0e2c-7d2a-5a93-9259-3c72c2b07ae0
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: a247c4b5-3b66-57b4-bf07-a97cce4759c5
+  definition: information system on which a register is maintained
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 9c8ff7f3-e2e6-56f7-99cb-f0d6992a7ec4
+status: valid

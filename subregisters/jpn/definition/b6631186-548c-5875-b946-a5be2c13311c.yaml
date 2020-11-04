@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 58714ced-239c-5a5a-8211-77878d6dab60
+  definition: 規定された要件に，一つ以上適合しないこと。
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: b6631186-548c-5875-b946-a5be2c13311c
+status: valid

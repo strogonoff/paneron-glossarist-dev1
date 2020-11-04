@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105
+  concept: 7844e790-2e19-5d2d-9b9b-1dd6bdeb43db
+  definition: verdict (résultat) de succès de test de conformité
+  examples: []
+  notes: []
+dateAccepted: 2000-11-16 00:00:00+00:00
+id: a29662da-48ed-5068-a0ff-63ec5beda1b1
+status: valid

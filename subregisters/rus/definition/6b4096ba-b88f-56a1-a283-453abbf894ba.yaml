@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: b18b7e9c-6b39-5127-88ea-ac9a670cdaea
+  definition: организация, учреждающая реестр
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 6b4096ba-b88f-56a1-a283-453abbf894ba
+status: valid

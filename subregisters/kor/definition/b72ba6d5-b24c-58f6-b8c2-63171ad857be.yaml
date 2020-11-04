@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  concept: 482a1469-c431-537c-8ca5-b865bb2a108e
+  definition: 공급자들이 적정 품질의 제품을 지속적으로 제공할 수 있는지 여부를 고객이 평가하는 절차
+  examples: []
+  notes:
+  - The assessment procedure is a second-party (customer) conformity assessment activity.
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: b72ba6d5-b24c-58f6-b8c2-63171ad857be
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.28'
+    link: https://www.iso.org/standard/60080.html
+    ref: ISO/TS 19159-1:2014
+  concept: afe40133-cc5c-5f0a-8ea1-627a6043b118
+  definition: 특정 장소 또는 기관에서 수량 측정을 위한 표준값 조정을 위해 지정된 측정 표준
+  examples: []
+  notes: []
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 653b939b-7bd2-5ea1-8f5e-8a4eab685b64
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132
+  concept: 6a4ef526-911f-561b-8d47-8c1851a33adf
+  definition: variation d'une valeur d'attribut permettant de supposer qu'elle a été
+    modifiée sans prendre des valeurs intermédiaires entre deux valeurs connues
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 41ef53e3-8af4-54b8-b19a-5a5b89958512
+status: valid

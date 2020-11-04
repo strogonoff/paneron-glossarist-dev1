@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.50
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 1832370f-d137-5d81-862e-35fc4f2abbbc
+  definition: meridian from which the longitudes of other meridians are quantified
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 7ac5e514-9d41-55cf-99c8-0e254ec18b5a
+status: valid

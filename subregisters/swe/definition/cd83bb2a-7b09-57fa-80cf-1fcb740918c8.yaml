@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.14
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 8bd36c30-db27-5d8f-8ea2-a54a9f5dd8bf
+  definition: samband mellan positioner på marken och i dess avbildning baserat på
+    korrelationen mellan en uppsättning markreferenspunkter och motsvarande bildkoordinater
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: cd83bb2a-7b09-57fa-80cf-1fcb740918c8
+status: valid

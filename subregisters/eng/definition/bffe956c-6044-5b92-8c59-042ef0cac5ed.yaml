@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: OWL
+  concept: 05e29f5d-4613-5e5d-8784-f36d5dbe39b3
+  definition: element used to provide a textual annotation for an ontology, axiom,
+    or an IRI
+  examples: []
+  notes: []
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: bffe956c-6044-5b92-8c59-042ef0cac5ed
+status: valid

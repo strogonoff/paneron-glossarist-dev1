@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: 9e9fa104-a325-5389-be19-cd385f1e6e82
+  definition: 하나 이상의 지형지물 연관 유형으로서 구체적으로 특정 될 수 있는 개념
+  examples:
+  - A "supports" feature association concept describes a relationship between real
+    world phenomena such as "highways" and "bridges" where the role of one feature
+    is that it is supported-by the other feature (whose role is supporter-of).
+  notes: []
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: 652163b8-db21-52ff-9d1d-aa98b0785523
+status: valid

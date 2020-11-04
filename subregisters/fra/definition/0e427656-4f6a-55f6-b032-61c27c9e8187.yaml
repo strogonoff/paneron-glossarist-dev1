@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  concept: 3ddac6e2-0fb2-5693-bbfd-2554819c0538
+  definition: type de données décrivant un point ou une géométrie potentiellement
+    occupée par un objet ou une personne
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 0e427656-4f6a-55f6-b032-61c27c9e8187
+status: valid

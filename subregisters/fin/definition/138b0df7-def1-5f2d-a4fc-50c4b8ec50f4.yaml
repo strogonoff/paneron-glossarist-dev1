@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: d6efd593-a9b1-59f7-9968-6d6b9dd9066c
+  definition: laatuvaatimustason mukaisten vaatimusten täyttyminen
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 138b0df7-def1-5f2d-a4fc-50c4b8ec50f4
+status: valid

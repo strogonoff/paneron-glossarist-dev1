@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.78'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: a3222bc8-eabb-5d6e-a7c9-8c3b86a27ab1
+  definition: устройство, которое преобразует один тип энергии в другой
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: f91e9d72-9334-5d0e-afcd-ffe4db48daec
+status: valid

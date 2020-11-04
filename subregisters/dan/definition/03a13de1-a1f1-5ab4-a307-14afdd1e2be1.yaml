@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 43b00b0d-f426-5227-bfe6-d03bb58c5e37
+  definition: udtalelse om, hvilke dele af  specifikationen der er implementeret
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 03a13de1-a1f1-5ab4-a307-14afdd1e2be1
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritative_source:
+  - clause: '2.16'
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: 2e527136-e9f3-5066-a56c-bf9b523ea132
+  definition: valor de la cantidad medida menos el valor de la cantidad de referencia
+  examples: []
+  notes:
+  - El concepto de " error de medición " se puede utilizar tanto a) cuando hay un
+    único valor de la cantidad de referencia al que referirse, que ocurre si la calibración
+    se realiza por medio de un estándar de medición con un valor de la cantidad medida
+    teniendo una incertidumbre insignificante, o cuando se da un valor convencional
+    a una cantidad, en cuyo caso se conoce el error de medición, y b ) si se supone
+    que el mesurando está representado por un valor verdadero único o un conjunto
+    de valores de la magnitud verdaderos de escala insignificante, en cuyo caso no
+    se conoce el error de medición.
+  - El error de una medición no se debe confundir con un error de producción o fallo.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: d088a39f-c8d0-5f85-84e6-aa8cf1e2f04e
+status: valid

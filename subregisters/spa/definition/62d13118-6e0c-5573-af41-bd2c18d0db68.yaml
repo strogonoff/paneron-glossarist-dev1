@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 1.7.2, modified
+    link: https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma/?c=N0055413
+    ref: UNE-ISO 14721:2015
+  concept: 4f9b7809-f7d8-5df3-941e-eae9860d13ef
+  definition: tipo de software que presenta parte o todo el contenido de información
+    de un objeto de información en formas comprensibles para las personas o los sistemas.
+  examples: []
+  notes: []
+dateAccepted: 2018-11-17
+id: 62d13118-6e0c-5573-af41-bd2c18d0db68
+status: valid

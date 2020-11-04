@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: ce8698ba-3737-5647-a92f-3772ec842f0b
+  definition: domänobjekttyp vars objekt definierar en domän som består av flera rumsliga,
+    temporala eller rumstemporala objekt inom vilka objektets uppgifter inte varierar
+    med positionen
+  examples: []
+  notes:
+  - The domain of a discrete coverage consists of a finite set of spatial, temporal,
+    or spatiotemporal objects.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: bd5efa0a-737c-53fd-b08d-f38f2a15e07d
+status: valid

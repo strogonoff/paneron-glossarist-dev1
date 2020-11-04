@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 98cd99e5-1786-5a1f-a37a-c4c621c4df9b
+  definition: 하나 이상의 피처 인스턴스가 다른 피처 인스턴스로 대체되어, 앞선 피처 인스턴스가 없어짐
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: fa253b8d-d149-51b8-a34f-c11db57fcfc1
+status: valid

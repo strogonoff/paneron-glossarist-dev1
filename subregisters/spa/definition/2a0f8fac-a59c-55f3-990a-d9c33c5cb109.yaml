@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 3.7.2
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 27fdd81a-a506-532d-8d04-1ec6288ff913
+  definition: diccionario terminológico que contiene designaciones y definiciones
+    de uno o varios campos temáticos
+  examples: []
+  notes:
+  - El vocabulario puede ser monolingüe, bilingüe o multilingüe.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 2a0f8fac-a59c-55f3-990a-d9c33c5cb109
+status: valid

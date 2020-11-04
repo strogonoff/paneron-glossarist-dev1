@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: '2.16'
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: f7d3a885-6f9e-5764-9a34-c0ddd280e5c2
+  definition: cantidad medida frente a un valor concreto de referencia
+  examples: []
+  notes:
+  - El concepto de " error de la medida" se puede utilizar tanto a) cuando hay un
+    único valor de la cantidad de referencia al que referirsea , que se produce si
+    la calibración se realiza por medio de un estándar de medición con un valor de
+    cantidad medida teniendo una incertidumbre insignificante, o cuando se le da un
+    valor convencional a la cantidad, en cuyo caso se conoce el error de la medida,
+    y b ) si se supone que el mensurando está representado por un valor verdadero
+    único o un conjunto de valores de la magnitud verdaderos de escala insignificante,
+    en cuyo caso no se conoce el error de la medida.
+  - El error de la medida no se debe confundir con el error de producción o con una
+    equivocación.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 14ed2abd-bef2-5a61-bce9-b64c8c7ddd17
+status: valid

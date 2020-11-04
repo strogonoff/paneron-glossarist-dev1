@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.41
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 97493af5-3463-57ab-a703-1e5c9be92109
+  definition: средний уровень морской поверхности для всех стадий прилива
+  examples: []
+  notes:
+  - Средний уровень моря обычно означает средний уровень для региона, определенный
+    по измерениям на одном или нескольких уровенных постах в заданный период времени
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: c420cb2e-3e93-5da0-9dfe-aec2e38c9f0f
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.1
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 709da622-f6f2-5c45-81de-307ede9797d0
+  definition: układ współrzędnych w przestrzeni euklidesowej z prostymi osiami, które
+    niekoniecznie są wzajemnie prostopadłe
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: bb6bfc73-af56-5375-8f58-ab1307ee568b
+status: valid

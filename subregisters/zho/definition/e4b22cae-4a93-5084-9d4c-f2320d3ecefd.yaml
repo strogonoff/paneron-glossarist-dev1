@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.24
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 57c953e1-b2a1-5199-911e-1d024bcc80c9
+  definition: 用定义为字符串的符号表达语法的语言。
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: e4b22cae-4a93-5084-9d4c-f2320d3ecefd
+status: valid

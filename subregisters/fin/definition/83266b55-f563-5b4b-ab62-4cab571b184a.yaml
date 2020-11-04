@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: 3450397c-0dc9-5f47-947e-680cd7b22d2c
+  definition: tiedon esittämiseen, järjestelyyn tai hallintaan käytetyn elementtijoukon
+    jäsen
+  examples: []
+  notes: []
+dateAccepted: 2002-08-16 00:00:00+00:00
+id: 83266b55-f563-5b4b-ab62-4cab571b184a
+status: valid

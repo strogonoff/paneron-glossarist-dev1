@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: de325c9f-e99f-5756-a5be-38958ef84c09
+  definition: système de coordonnées tridimensionnel avec une distance mesurée à l'origine
+    et deux coordonnées angulaires, généralement associé à un système de référence
+    géodésique
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 413bd718-0c93-5b46-ae27-7493bdf1534d
+status: superseded

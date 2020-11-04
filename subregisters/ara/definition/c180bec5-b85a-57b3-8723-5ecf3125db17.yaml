@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 2e232ba7-2447-5193-9226-1b90722d3851
+  definition: نظام إحداثيات مرجعي مبني على مرجع إسناد صوره
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: c180bec5-b85a-57b3-8723-5ecf3125db17
+status: valid

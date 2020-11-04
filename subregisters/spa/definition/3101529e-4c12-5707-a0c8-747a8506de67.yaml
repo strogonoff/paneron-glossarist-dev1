@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: edd56f96-f0d5-51e5-8ee5-ef71458ca7ec
+  definition: sistema de referencia de coordenadas basado en un datum geodésico
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 3101529e-4c12-5707-a0c8-747a8506de67
+status: superseded

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 3bedecff-1481-5517-83ff-723ced9fd954
+  definition: 基于外部知识的数据集质量评价方法。
+  examples: []
+  notes:
+  - 外部知识的例子是数据集志，诸如数据生产方法或数据源等。
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 23c9147d-3d3f-5790-8228-198ca5c1e519
+status: valid

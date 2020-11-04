@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: 4b98af84-f640-55f9-b3b6-890340792ea4
+  definition: representación de un objeto geométrico en un tiempo de referencia dado,
+    usando un origen local y vectores ordinales locales
+  examples: []
+  notes:
+  - Un objeto geométrico rígido puede sufrir traslaciones o rotaciones pero continua
+    siendo congruente con su representación base.
+  - El origen local y los vectores ordinales establecen un sistema de referencia de
+    coordenadas de ingeniería (Norma ISO 19111), también llamado marco local o sistema
+    de coordenadas euclidiano local.
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 85d2f06f-4a42-51ad-88cf-41a3e565505c
+status: valid

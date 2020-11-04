@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 3a68ce9b-5e07-51d2-baf9-d1f003419039
+  definition: sebarang permukaan aras sebenar, di mana kepadanya segalau kuran-ukuran
+    tinggi bagi titik-titik di atas permukaan bumi boleh dirujuk.
+  examples: []
+  notes:
+  - In most cases, the vertical datum will be related to mean sea level. Ellipsoidal
+    heights are treated as related to a three-dimensional ellipsoidal coordinate system
+    referenced to a geodetic datum. Vertical datums include sounding datums (used
+    for hydrographic purposes), in which case the heights may be negative heights
+    or depths.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: ce3af2ed-35ab-56a4-b23a-92c00b97b20a
+status: superseded

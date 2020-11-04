@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: modified
+    ref: FindLaw
+  concept: 472dc454-2689-5c84-8a3a-b7d6eb5d0864
+  definition: 콘텐츠 관계 및 지배권 소유자로서, 다음에 해당. 1)법적 소유권자 2)콘텐츠를 독점적으로 사용, 통제 및 소유할 권리를
+    가진 자 3)계약상에 따라 실제 콘텐츠를 구매한 자
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 84efcc90-b744-52be-b7f7-9d7c3bca1154
+status: valid

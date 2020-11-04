@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: ce8698ba-3737-5647-a92f-3772ec842f0b
+  definition: 동일한 피처(공간 객체, 시간 객체, 시공간 객체) 속성(B.175)의 값이 영역 내 모든 직접 위치에서 동일한 값을 갖는
+    커버리지
+  examples: []
+  notes:
+  - 불연속 커버리지의 영역은 유한한 집합공간, 시간 또는 시공간 객체로 이루어진다.
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 17d25cf1-f1ee-50ca-8143-9f5ea3603a3f
+status: valid

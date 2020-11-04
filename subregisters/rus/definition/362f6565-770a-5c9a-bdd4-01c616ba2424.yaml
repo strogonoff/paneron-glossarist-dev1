@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.15
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 5be022c2-f072-526a-8205-5a9baaf1b037
+  definition: последовательность двух или больше чисел, определяющих некую позицию
+    относительно ее местоположения на сетке
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 362f6565-770a-5c9a-bdd4-01c616ba2424
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 9a63c2c9-cf35-5484-8bb7-9c2ec5ae27da
+  definition: 内部が等方的（すべての点が同形な近傍をもつ。）で，したがって，至るところ適切な次元のユークリッド座標空間の開部分集合に局所的に同形である，という幾何オブジェクトの特性。
+  examples: []
+  notes:
+  - これは，内部の直接位置がいかなる種類の自己交差にも関与しないことを意味する。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: bbdd1b3a-3819-5704-9fe1-5bc92141e47f
+status: superseded

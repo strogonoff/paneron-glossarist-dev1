@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 145fe334-2ee5-5f23-bd67-8de257df1699
+  definition: navigoinnin tai seurannan kohteena oleva henkilö
+  examples: []
+  notes:
+  - Englanninkielinen termi traveller viittaa käsitteeseen, johon sisältyvät myös
+    jalankulkijat. Katso ISO 14825 -standardi. Tässä kansainvälisessä standardissa
+    englanninkielisiä termejä traveller ja vehicle voidaan käyttää toistensa sijaan
+    ilman, että merkitys muuttuu.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: fc553437-964e-51a9-9926-094f7d69a03b
+status: valid

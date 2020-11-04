@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.1
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 709da622-f6f2-5c45-81de-307ede9797d0
+  definition: نظام إحداثيات في مجال "إقليدس" له محاور مستقيمة لكنها ليست بالضرورة
+    متعامدة مع بعضها البعض.
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 218afea2-1ce2-5cca-9e7a-8c1c90abf2cd
+status: valid

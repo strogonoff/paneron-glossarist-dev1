@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  concept: e1db82b2-91eb-5359-95db-025f53585b6b
+  definition: aktivitet som utgör del av process
+  examples:
+  - In the case of photogrammetric survey, aerial triangulation can be considered
+    a sub-process.
+  notes:
+  - Sub-processes can be broken down even further as is deemed necessary to control
+    the quality of the process.
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 5c1296f9-b460-566d-9e33-82c5ca92a623
+status: valid

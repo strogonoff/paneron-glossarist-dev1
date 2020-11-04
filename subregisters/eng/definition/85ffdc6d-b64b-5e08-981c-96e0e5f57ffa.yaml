@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: 70dcc484-dec4-539d-b2e4-84bf8faff4fd
+  definition: digital elevation model (DEM) that incorporates the elevation of important
+    topographic features on the land.
+  examples: []
+  notes:
+  - DTMs are comprised of mass points and breaklines that are irregularly spaced to
+    better characterize the true shape of the bare-earth terrain. The net result of
+    DTMs is that the distinctive terrain features are more clearly defined and precisely
+    located, and contours generated from DTMs more closely approximate the real shape
+    of the terrain.
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: 85ffdc6d-b64b-5e08-981c-96e0e5f57ffa
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '1.1'
+    ref: VIM:1993
+  concept: e8b9303b-9503-5412-a811-1b10a23baaf8
+  definition: признак явления, тела или вещества, который можно выделить качественно
+    и определить количественно
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 038fe956-bf9c-510f-ab85-a4daff9ace21
+status: valid

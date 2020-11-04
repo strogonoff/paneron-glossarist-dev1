@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.21
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: e1da8a45-43f8-5a60-9a5e-bf13be3e1ad6
+  definition: 表示达到的性能水平的定位系统内部参数。
+  examples: []
+  notes:
+  - 性能指标能被用作定位系统和/或定位方案的质量控制的证据。内部质量控制可包括这些因素，如接受的无线电信号的强度（信噪比（SNR))、由于电波探测器探测系统中的几何限制引起的精度衰减因子（DOP)等数据，以及系统的最优值（FOM)。
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: dd90c804-8372-52e9-be7a-91b0413f7316
+status: valid

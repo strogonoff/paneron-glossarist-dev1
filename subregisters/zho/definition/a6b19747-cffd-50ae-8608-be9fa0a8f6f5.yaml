@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.32
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 2b302f11-17ab-5e0d-a0fe-f2ba073ae670
+  definition: 从赤道平面与通过给定点的椭球法线间的夹角，向北为正。
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: a6b19747-cffd-50ae-8608-be9fa0a8f6f5
+status: valid

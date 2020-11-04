@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.40
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 2757c073-5cb0-59a2-ab06-2a1ceb58bcda
+  definition: linje bestående av sammanhängande räta linjer
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 68cd4dd3-f2c2-55a9-a155-f24075203aae
+status: valid

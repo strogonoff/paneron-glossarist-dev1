@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.24
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 57c953e1-b2a1-5199-911e-1d024bcc80c9
+  definition: langage dont la syntaxe est exprimée en termes de symboles définis comme
+    des chaînes de caractères
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 6bbc59fa-4c77-5f35-a6fb-c34ba4ecf7fa
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 35b6a36a-31a2-5aa9-b5ef-cd0c59b29e9c
+  definition: 時間の測定に対応する参照系。
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 0009f6b8-d967-5f18-9136-ce2a8d9ad2ec
+status: valid

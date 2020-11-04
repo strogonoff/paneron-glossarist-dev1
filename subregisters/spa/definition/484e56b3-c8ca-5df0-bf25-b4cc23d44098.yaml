@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: ISO 14721:2012, 1.7.2, modified — Supporting content has been relocated
+      to Note 1 to entry.
+    link: https://www.une.org/encuentra-tu-norma/busca-tu-norma/norma/?c=N0055413
+    ref: UNE-ISO 14721:2015
+  concept: 49e34505-bd63-5a6d-9f31-a7bb5e455798
+  definition: información que identifica las restricciones de acceso a la información
+    de contenido, incluye el marco legal, los términos de las licencias y el control
+    de acceso.
+  examples: []
+  notes:
+  - 'NOTA: La información de los derechos de acceso contiene las condiciones de acceso
+    y consulta establecidos en el convenio de transferencia, relacionados tanto con
+    la conservación (por OAIS) y con el uso final (por el Usuario). También se incluyen
+    las especificaciones para la aplicación de las medidas de cumplimiento de los
+    derechos.'
+dateAccepted: 2018-11-17
+id: 484e56b3-c8ca-5df0-bf25-b4cc23d44098
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.23
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 511210c8-5d3d-5ee2-bd10-dca74f7983a8
+  definition: orienterad topologiskt objekt som anger sambandet mellan en länk och
+    en av dess orienteringar
+  examples: []
+  notes:
+  - När en orienterad länk är orienterad som den länk den förknippas med sägs den
+    ha en positiv orientering.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3b9e38b6-6c62-5513-8b9f-bc760258c3a1
+status: valid

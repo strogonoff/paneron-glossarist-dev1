@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: d1759516-028d-5fe8-b04d-b40eaa98bddc
+  definition: 在它的内部包含有指定的直接位置,并且包含距所指定直接位置距离都在一个给定的距离之内的所有直接位置的几何集。
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5584da27-742c-5dfd-acb0-efaeed500dbb
+status: valid

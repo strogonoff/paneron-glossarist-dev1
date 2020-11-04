@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 889d8014-856f-57ac-ad27-5d2b723ed07e
+  definition: نموذج اختبار تجريدي يحدد جميع المتطلبات اللازم تحقيقها للتطابق
+  examples: []
+  notes:
+  - توصف مجموعات الاختبار التجريدي في فقرة للمطابقة
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 7bf7230b-091c-5bf0-b101-0ad127f07ee6
+status: valid

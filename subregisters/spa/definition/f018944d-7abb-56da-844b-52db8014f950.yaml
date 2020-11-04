@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: modified – Derived from 7.5.2.1
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: 8ac14380-6b2a-5591-90b8-4ee9ca689a74
+  definition: dominio en el que los nombres, expresados como cadenas de caracteres,
+    se pueden asignar a unos objetos
+  examples: []
+  notes:
+  - Los nombres pueden estar sujetos a restricciones locales impuestas por el espacio
+    de nombres.
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: f018944d-7abb-56da-844b-52db8014f950
+status: valid

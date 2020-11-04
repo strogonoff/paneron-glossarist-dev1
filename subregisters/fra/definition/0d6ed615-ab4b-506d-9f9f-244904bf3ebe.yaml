@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 621183d7-70d7-5ec1-88f8-63fdc2e6b6ec
+  definition: nouveau type d'élément de modélisation qui étend la sémantique du métamodèle
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 0d6ed615-ab4b-506d-9f9f-244904bf3ebe
+status: superseded

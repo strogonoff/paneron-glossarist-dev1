@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: da3fe6fa-c166-522c-bbc7-f7c0cc89971d
+  definition: 시간 좌표계에 근거하여 사용되는 간격 척도의 원점으로부터의 거리
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 5a509833-4246-527c-ac46-424c742812fa
+status: valid

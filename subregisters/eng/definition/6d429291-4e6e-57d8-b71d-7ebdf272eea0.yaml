@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: a41f4f9d-9faa-5156-9e11-73f6977bff43
+  definition: set of two or more object instances that satisfy a filter that includes
+    join predicates
+  examples: []
+  notes:
+  - In this International Standard, the object instances will be feature instances.
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 6d429291-4e6e-57d8-b71d-7ebdf272eea0
+status: valid

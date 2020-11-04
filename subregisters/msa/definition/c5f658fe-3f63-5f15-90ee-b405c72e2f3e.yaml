@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: d6efd593-a9b1-59f7-9968-6d6b9dd9066c
+  definition: memenuhi keperluan spesifikasi yang ditetapkan
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: c5f658fe-3f63-5f15-90ee-b405c72e2f3e
+status: valid

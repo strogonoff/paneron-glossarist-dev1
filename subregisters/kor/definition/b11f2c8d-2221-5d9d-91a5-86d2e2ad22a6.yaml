@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.5
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: ab255dd9-ef9a-516b-9bcb-e8acee09703d
+  definition: 2차원 좌표체계에 알고리즘적으로 할당된 높이값의 데이터셋
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: b11f2c8d-2221-5d9d-91a5-86d2e2ad22a6
+status: valid

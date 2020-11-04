@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40114.html
+    ref: ISO 19125-1:2004
+  concept: e4ea65ec-49e6-50f2-bebc-8b0a1db8d8f4
+  definition: objeto geográfico restringido a una geometría 2D con inerpolación lineal
+    entre vértices, que tiene tanto atributos espaciales como no espaciales
+  examples: []
+  notes: []
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: af33fc1d-5ad4-5a95-b246-bbf20c88627a
+status: valid

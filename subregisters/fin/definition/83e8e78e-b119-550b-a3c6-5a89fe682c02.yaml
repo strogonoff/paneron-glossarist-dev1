@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: dc7fbe0c-ad16-52f8-bd38-1d3444fcf51e
+  definition: datumi, joka kuvaa kaksi- tai kolmiulotteisen koordinaatiston suhdetta
+    Maahan
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 83e8e78e-b119-550b-a3c6-5a89fe682c02
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  concept: e548554c-adcf-593b-baba-3000c0b025f1
+  definition: fonction qui associe une mesure (coût) à un itinéraire
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: b342211f-e759-53ef-bb66-2118edf33f3b
+status: valid

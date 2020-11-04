@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.24
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: f516e970-7157-527f-97f1-062cee4d864a
+  definition: ограничение излучения, особенно светового, вибрациями в одной плоскости
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: a381610d-12f8-5656-b316-cf582b379036
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: 9e9fa104-a325-5389-be19-cd385f1e6e82
+  definition: concepto que se puede especificar en detalle como uno o más tipos de
+    asociación de objetos geográficos
+  examples:
+  - El concepto de asociación de fenómenos "sostiene" describe una relación entre
+    entes del mundo real como "autopistas" y "puentes", donde el rol de un fenómeno
+    es que es sostenido por el otro fenómeno (cuyo rol es ser soporte de).
+  notes: []
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: 6624f5f9-7e12-5a9f-97e5-bbae7a64282c
+status: valid

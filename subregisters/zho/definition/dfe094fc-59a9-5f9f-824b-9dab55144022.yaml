@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: b6266e4b-b919-599c-9144-0064f19ec149
+  definition: 适合在计算机屏幕上显示的数字图像文件的地理信息的图示表达。
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: dfe094fc-59a9-5f9f-824b-9dab55144022
+status: valid

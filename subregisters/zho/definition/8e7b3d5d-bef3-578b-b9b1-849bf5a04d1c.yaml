@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 39f46e42-b479-5376-8e73-18ecb273d9d3
+  definition: <UML>两个或两个以上类之间的语义关系，定义了类中实例间的连接。
+  examples: []
+  notes:
+  - 二元关联确指两个类元之间的关联（包括一个类元与其本身的关联）
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 8e7b3d5d-bef3-578b-b9b1-849bf5a04d1c
+status: superseded

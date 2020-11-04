@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: b578e6e4-25f4-549e-ac83-5f4dd1ac301c
+  definition: метаданные, закодированные в XML, которые описывают, какие логические
+    условия , определенные в этом Международном стандарте, система реализует
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 0e95d9f1-7f8f-5bf0-b71c-e42c68e7099e
+status: valid

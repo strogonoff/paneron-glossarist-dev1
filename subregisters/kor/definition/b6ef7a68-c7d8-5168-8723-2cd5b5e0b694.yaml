@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0e2de1e6-e028-530b-ab62-5a9b63d08f24
+  definition: 좌표 체계의 기점, 축척, 방향을 정의하는 매개 변수 또는 매개 변수의 집합
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: b6ef7a68-c7d8-5168-8723-2cd5b5e0b694
+status: superseded

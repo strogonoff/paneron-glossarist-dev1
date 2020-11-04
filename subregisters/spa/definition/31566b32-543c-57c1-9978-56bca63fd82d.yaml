@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.14
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: a9a415c5-2999-5341-9f1c-a0c7b0e2a925
+  definition: parte registrada e identificada como constituyente de una parte colectiva
+  examples: []
+  notes: []
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 31566b32-543c-57c1-9978-56bca63fd82d
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 2812f1b3-d22b-5209-920b-8a20c3c312e1
+  definition: monikulmio, joka rajaa tasolla sijaitsevista pisteistä yhden pisteen
+    siten, että monikulmio kattaa kaikki ne suorat sijainnit, jotka sijaitsevat lähempänä
+    kyseistä pistettä kuin joukon muita pisteitä
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 66741d82-3187-571c-a60a-dc698ddb334e
+status: valid

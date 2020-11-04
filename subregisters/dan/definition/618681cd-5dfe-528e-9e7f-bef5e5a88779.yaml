@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 9ec67dbe-e23a-5730-bb86-49d63b8006d2
+  definition: højde afhængig af jordens tyngdefelt
+  examples: []
+  notes:
+  - Især ortometrisk højde eller normal højde, der begge er tilnærmelser af et punkts
+    afstand over middelvandstanden.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 618681cd-5dfe-528e-9e7f-bef5e5a88779
+status: superseded

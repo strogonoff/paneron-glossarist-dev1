@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.79'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 0e18be31-e6e2-5e85-96b7-954c4a6338c5
+  definition: 전자적 임펄스를 음파로 변환하여 수중으로 파장을 보내는 소나의 구성 요소
+  examples: []
+  notes:
+  - Transmitter is also called projector in multibeam echosounding.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: a47d14b3-b38d-5721-9e3e-1d67de0d2458
+status: valid

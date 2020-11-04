@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 23f6cc83-1107-565f-8081-549d4b7171bc
+  definition: 품질에 대한 요구사항이 달성되리라는 신뢰를 제공하는데 초점을 맞춘 품질 관리의 일부
+  examples: []
+  notes: []
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 111deb2e-f6a1-58eb-aba5-fa1c241215f4
+status: valid

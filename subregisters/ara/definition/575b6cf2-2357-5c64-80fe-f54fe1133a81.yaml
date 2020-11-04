@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39242.html
+    ref: ISO 6709:2008
+  concept: 03f169c4-2867-5b34-b036-a6af58a9a63a
+  definition: الارتفاع عند ما يكون سطح الإسناد المرجعي هو متوسط منسوب سطح البحر
+  examples: []
+  notes: []
+dateAccepted: 2008-07-15 00:00:00+00:00
+id: 575b6cf2-2357-5c64-80fe-f54fe1133a81
+status: valid

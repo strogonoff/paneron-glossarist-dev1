@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: 997200da-4d12-5959-97be-a12f5c54c6e1
+  definition: 서버에서 활용할 수 있는 연산과 지리 정보를 기술하는 메타데이터
+  examples: []
+  notes: []
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: 478854e5-13e5-5ede-a686-b3f7bc7361e4
+status: valid

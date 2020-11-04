@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.87
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: be9409da-ccfb-5cc2-9497-367ec9a1cfc5
+  definition: objet utilisé pour représenter une caractéristique spatiale d'une entité
+    géographique
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 334a21f3-bf33-50a0-8ae6-3c84cd37bdf1
+status: valid

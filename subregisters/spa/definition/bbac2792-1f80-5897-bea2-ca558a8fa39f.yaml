@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: CEOS WGCV
+  concept: 033f38c7-7677-5c1e-8bcb-7ad198efe171
+  definition: proceso por el que se definen cuantitativamente las respuestas de un
+    sistema a señales entrantes conocidas y controladas
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: bbac2792-1f80-5897-bea2-ca558a8fa39f
+status: valid

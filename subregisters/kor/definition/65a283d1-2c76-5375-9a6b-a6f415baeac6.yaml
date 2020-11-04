@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - ref: CEOS WGCV
+  concept: 0e0add3a-b6ce-50ae-8caa-1f5d63f5061e
+  definition: 시스템 출력으로부터 도출된 자료 결과물의 질을 독립적 수단으로 평가하는 과정
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 65a283d1-2c76-5375-9a6b-a6f415baeac6
+status: valid

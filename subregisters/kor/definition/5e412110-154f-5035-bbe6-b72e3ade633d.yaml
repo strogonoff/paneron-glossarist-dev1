@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.2.15, modified — Note 1 to entry has been added.
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: fdd8e00f-6ee5-5166-9a83-6d2b42f7831d
+  definition: 좁은 의미를 가진 일반적 개념
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 5e412110-154f-5035-bbe6-b72e3ade633d
+status: valid

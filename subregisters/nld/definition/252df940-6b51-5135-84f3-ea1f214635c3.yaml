@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.1
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 709da622-f6f2-5c45-81de-307ede9797d0
+  definition: coördinaat systeem in de Euclidische ruimte met rechte assen die niet
+    noodzakelijkerwijs loodrecht op elkaar staan
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 252df940-6b51-5135-84f3-ea1f214635c3
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 917ac226-7f47-54e6-921f-b564266c7d30
+  definition: uppsättning regler för hur identifierare skapas
+  examples: []
+  notes: []
+dateAccepted: 2011-10-15 00:00:00+00:00
+id: ee01fafa-9060-503f-9659-8aac8247bdd2
+status: valid

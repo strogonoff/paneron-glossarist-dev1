@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: dd8ba9d8-aeba-52c1-a31f-c632e4f18145
+  definition: ändring av data vilket inte påverkar dess betydelse
+  examples: []
+  notes:
+  - Exempel på detta är rättelse av ett stavfel.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 6903d22b-d553-567f-a74a-5b54ddeee2a8
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: d02c5ba2-6268-5a0d-a263-257e652f3d2c
+  definition: 服务的特定实例。
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 061d5c63-212d-5257-849d-faa8a19b06e8
+status: valid

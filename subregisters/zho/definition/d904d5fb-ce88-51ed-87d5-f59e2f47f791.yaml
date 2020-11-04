@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40147.html
+    ref: ISO 3534-2
+  concept: 2eb5b571-8095-5968-9309-76accdd38353
+  definition: 被考虑的数据项的全体。
+  examples:
+  - 数据集中的所有的点。
+  - 在一个确定地理范围内所有道路的名称。
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: d904d5fb-ce88-51ed-87d5-f59e2f47f791
+status: retired

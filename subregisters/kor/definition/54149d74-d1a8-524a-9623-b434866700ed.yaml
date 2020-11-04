@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.12
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 9903de21-55d9-5ed9-b023-b1b0011c92e2
+  definition: 초기의 참조점으로부터의 점 또는 객체의 좌표를 구하기 위해 가속도계, 자이로스코프 및 컴퓨터를 컴포넌트로 통합 사용해 상대
+    위치를 구하는 측위 시스템
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 54149d74-d1a8-524a-9623-b434866700ed
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: ad82e2f9-8991-51eb-8c37-ba7aeb49d96d
+  definition: datamängd som ett system saknar direkt kontroll över
+  examples: []
+  notes:
+  - In this International Standard, the system is a web feature service. The resource
+    is not held in any data store that is directly controlled by that service and
+    thus cannot be directly retreived by the service.
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 21d4a8cf-a485-5f54-9e17-0940c534de8d
+status: valid

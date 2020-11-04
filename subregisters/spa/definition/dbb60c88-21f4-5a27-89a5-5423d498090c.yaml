@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 5c5ed878-4e09-51ca-a79e-4f447e88d63b
+  definition: sistema de referencia temporal característico, que constituye una base
+    para definir la posición temporal con una resolución de un día
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: dbb60c88-21f4-5a27-89a5-5423d498090c
+status: valid

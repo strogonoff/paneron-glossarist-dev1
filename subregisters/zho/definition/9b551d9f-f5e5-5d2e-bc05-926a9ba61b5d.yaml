@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/1141.html
+    ref: ISO 2859-1
+  concept: 2460e3da-a989-504d-9293-84d6ab426479
+  definition: 可单独描述或考察的事物。
+  examples: []
+  notes:
+  - 数据项可以是数据集的任何一部分，如要素、要素关系、要素属性或它们的组合。
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 9b551d9f-f5e5-5d2e-bc05-926a9ba61b5d
+status: retired

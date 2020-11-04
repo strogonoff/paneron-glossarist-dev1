@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 12321a17-f542-5f1f-a338-bd1f970a0864
+  definition: descripción sintáctica de una localización geográfica puntual en un
+    formato conocido
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: ba7eb89c-9745-5503-993f-e42ab3c56d2c
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 58714ced-239c-5a5a-8211-77878d6dab60
+  definition: невозможность удовлетворить одно или несколько установленных требований
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 18a249d9-3fe3-5ef2-9783-be62b6feb6b5
+status: valid

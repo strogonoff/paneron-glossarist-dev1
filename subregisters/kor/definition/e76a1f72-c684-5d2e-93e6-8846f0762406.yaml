@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.74'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 7388bfc0-050f-5fb0-b016-585ae4f169d8
+  definition: 계단형 패턴으로 구성된 스캐닝 모드
+  examples: []
+  notes:
+  - This applies to a HARLIE transceiver, based on a volume phase holographic optical
+    element.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: e76a1f72-c684-5d2e-93e6-8846f0762406
+status: valid

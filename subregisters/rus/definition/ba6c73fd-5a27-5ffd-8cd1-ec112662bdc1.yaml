@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.32'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 18ad1614-73d3-5b57-bedf-ac75e1a6db46
+  definition: совокупность данных для цели передачи данных
+  examples: []
+  notes:
+  - Блок передачи не обязательно должен идентифицироваться как набор данных.
+dateAccepted: 2011-10-15 00:00:00+00:00
+id: ba6c73fd-5a27-5ffd-8cd1-ec112662bdc1
+status: valid

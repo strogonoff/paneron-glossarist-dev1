@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: d87e20d9-f14c-5956-a79d-50e4b1cf4e26
+  definition: patrón, normalmente rectangular, de líneas de barrido paralelas que
+    forman o se corresponden a la visualización sobre un tubo de rayos catódicos
+  examples: []
+  notes:
+  - Una matriz es un tipo de malla.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: defac19f-ea28-5a97-bfa0-4e5a02c848f9
+status: valid

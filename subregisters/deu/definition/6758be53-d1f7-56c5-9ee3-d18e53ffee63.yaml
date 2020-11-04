@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 9ec67dbe-e23a-5730-bb86-49d63b8006d2
+  definition: vom Erdschwerefeld abhängige Höhe
+  examples: []
+  notes:
+  - This refers to in particular orthometric height or normal height, which are both
+    approximations of the distance of a point above the mean sea level.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 6758be53-d1f7-56c5-9ee3-d18e53ffee63
+status: superseded

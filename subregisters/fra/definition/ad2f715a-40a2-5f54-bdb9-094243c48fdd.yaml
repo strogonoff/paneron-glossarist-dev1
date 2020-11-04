@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: f8fa59c7-a9f0-569a-8779-a3ccdf926984
+  definition: cadre culturel et linguistique applicable à l'interprétation d'une chaîne
+    de caractères
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: ad2f715a-40a2-5f54-bdb9-094243c48fdd
+status: retired

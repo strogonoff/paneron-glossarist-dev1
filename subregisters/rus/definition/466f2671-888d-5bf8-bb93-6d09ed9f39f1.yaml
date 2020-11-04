@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: b0302a1a-5bab-51fa-9bfb-a5dd692e8496
+  definition: последовательность дуг и/или неполных дуг, описывающих путь, обычно
+    между двумя точками в некоторой сети
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 466f2671-888d-5bf8-bb93-6d09ed9f39f1
+status: valid

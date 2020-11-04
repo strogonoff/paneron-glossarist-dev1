@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.32
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 2b302f11-17ab-5e0d-a0fe-f2ba073ae670
+  definition: hoek vanaf het equatoriale vlak van de ellipsoïde door een gegeven punt,
+    noordwaarts wordt als positief genomen
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: d26f343c-6c59-5ce2-ad8e-399c12664286
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.71
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 7dfdbc73-7801-5e36-8187-c72ab4c6b07c
+  definition: одномерная система координат, используемая для измерений высоты или
+    глубины, связанных с гравитационным полем (Земли)
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 74e6b258-8d1e-52b5-a694-083955001fe3
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 52ce94bc-5fd3-5548-a7f9-0efbbddfaabc
+  definition: 規格の要件を満たすために必要なことを示した箇条。
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: f76d6da4-e80f-5e8d-9886-c0b172432c92
+status: valid

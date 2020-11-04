@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 8d56b07f-a144-5d49-a9da-a42ddd5178fb
+  definition: linje som ingår i en samling av linjer som tillsammans, och vanligen
+    genom homogen interpolation, representerar en linje
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c6559cd1-1d06-59f4-a42f-06bd70b15633
+status: retired

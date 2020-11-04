@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.18
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 3c21971e-80d6-58d8-bd59-c6ca8f683dc9
+  definition: تغطية شبكية تكون قيمها الوصفية تمثيل رقمي لمتغير مادي
+  examples: []
+  notes:
+  - المتغيرات العينية تكون ناتجة عن قياس يتم بواسطة جهاز استشعار أو توقع مبني على
+    نموذج
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: b3119ba7-012e-583c-90ca-d438c06ae656
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: https://searchcio.techtarget.com/
+  concept: 46bc20ce-ce9a-5565-bb5b-116ad13dc889
+  definition: characteristic of being able to assign a different meaning or usage
+    to something in different contexts - specifically, to allow an entity such as
+    a variable, a function, or an object to have more than one form
+  examples: []
+  notes:
+  - There are several different kinds of polymorphism
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: e90743d4-bd08-5f60-97af-1c362c98a6a5
+status: valid

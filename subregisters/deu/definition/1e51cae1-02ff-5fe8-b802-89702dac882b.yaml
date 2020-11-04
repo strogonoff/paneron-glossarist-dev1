@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.69
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 0abbc036-0b35-5970-abd2-c0d951c52865
+  definition: definierte Größe, durch die Parameter mit Dimensionen ausgedrückt werden
+  examples: []
+  notes:
+  - In this International Standard, the subtypes of units are length units, angular
+    units, time units, scale units and pixel spacing units.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 1e51cae1-02ff-5fe8-b802-89702dac882b
+status: valid

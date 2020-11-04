@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.6
+    link: https://www.iso.org/standard/74032.html
+    ref: ISO/TS 19159-3:2018
+  concept: 6826d13f-b4e7-5686-95a8-65f1fd720229
+  definition: average radar cross section per unit area
+  examples: []
+  notes:
+  - 'If the radar return from the illuminated area is contributed by a number of independent
+    scattering elements, it is described by the backscattering coefficient instead
+    of radar cross section used for the point target. It is calculated as `sigma^0
+    = sigma/A` Where `sigma` is the total radar cross section of an area `A`. `sigma^0`
+    is a dimesionless parameter and is usually expressed in decibels (dB) as follows:
+    `sigma_(dB)^0 = 10 log_(10) sigma^0`'
+  - “Backscattering coefficient” is sometimes called “normalized radar cross section”.
+dateAccepted: 2018-05-01 00:00:00+00:00
+id: 78a0ca53-11be-5a9a-8cb8-3234d4bf345d
+status: valid

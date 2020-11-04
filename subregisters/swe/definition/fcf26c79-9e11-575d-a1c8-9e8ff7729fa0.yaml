@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 9234ba69-f18f-5aa4-8e2a-1ef25fe9205f
+  definition: den tid jorden behöver för att rotera ett varv kring sin axel
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: fcf26c79-9e11-575d-a1c8-9e8ff7729fa0
+status: valid

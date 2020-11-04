@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.2.11
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 956dad17-d9d6-5e1e-8815-2abac2119db7
+  definition: مجموعة من المفاهيم بنيت وفقا للعلاقات القائمة بينها
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 08e5da21-5b95-5afa-93b4-2e469ea079e9
+status: valid

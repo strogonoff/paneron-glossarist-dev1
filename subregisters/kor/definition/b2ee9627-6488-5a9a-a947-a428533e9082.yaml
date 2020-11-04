@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: e7a81596-a7fe-5092-876e-17ca55979774
+  definition: 사용자가 기능적 구성 단위들의 고유 특성을 알지 못해도, 다양한 구성 단위 간의 데이터 전송, 프로그램을 실행, 의사소통
+  examples: []
+  notes:
+  - '''상호 운용성'' 참고'
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: b2ee9627-6488-5a9a-a947-a428533e9082
+status: valid

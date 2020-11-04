@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3bac65b8-a515-5229-91ab-f1ad0474193c
+  definition: colección finita y ordenada de ítems relacionados (objetos o valores)
+    que pueden repetirse
+  examples: []
+  notes:
+  - Lógicamente, una secuencia es un conjunto de pares <item,offset>. LISP syntax
+    se utiliza en esta norma internacional, delimita las secuencias con paréntesis
+    y separa sus elementos con comas.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5f37ddd0-bd7b-5baa-99ae-85f2534ca16d
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.69
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 0abbc036-0b35-5970-abd2-c0d951c52865
+  definition: bepaalde hoeveelheid waarin een gemeten parameter wordt uitgedrukt
+  examples: []
+  notes:
+  - In deze Internationale Standaard zijn de subtypen van eenheden de lengte-eenheden,
+    hoekeenheden, tijdeenheden, schaaleenheden en pixelafstandeenheden.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: f8807c59-022c-51f3-8134-84b3f0c55763
+status: valid

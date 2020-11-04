@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.62
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 89c91135-bf3e-5953-85c8-35aa02e387cd
+  definition: eindeutiger Identifikator für eine Ressource, der in Übereinstimmung
+    mit IETF RFC 2396 aufgebaut ist
+  examples: []
+  notes:
+  - The general syntax is <scheme>::<scheme-specific-part>. The hierarchical syntax
+    with a namespace is <scheme>://<authority><path>?<query> - see RFC 2396.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 5f12c258-e00f-507f-b8c2-7766037dd3de
+status: valid

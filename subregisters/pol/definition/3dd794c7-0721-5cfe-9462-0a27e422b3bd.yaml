@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.18'
+    link: https://www.iso.org/standard/40395.html
+    ref: ISO 19117:2005
+  concept: 4fb20d84-7b8d-5ace-9a96-b2a7b11eb981
+  definition: kolekcja operacji stosowanych do instancji obiektu w celu przedstawienia
+    jej
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 3dd794c7-0721-5cfe-9462-0a27e422b3bd
+status: valid

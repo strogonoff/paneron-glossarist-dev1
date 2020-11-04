@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/32573.html
+    ref: ISO 19155:2012
+  concept: 74625814-5e6c-5d9d-912b-0bbf662e287b
+  definition: Группа сервисных интерфейсов и структур данных, используемых для сопоставления
+    ИМ (PI)
+  examples: []
+  notes: []
+dateAccepted: 2012-11-01 00:00:00+00:00
+id: e6323587-c108-5216-bb1e-0ca837f53a03
+status: valid

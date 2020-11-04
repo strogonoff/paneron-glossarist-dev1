@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/26019.html
+    ref: ISO 19114:2003
+  concept: ac7509ae-90e6-5a98-be86-193ab6179b27
+  definition: 认可的代表论域的数据，用于作为直接外部质量评价方法的参照。
+  examples: []
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: a1616c9e-e183-5b5d-b3d9-e973993d53ad
+status: retired

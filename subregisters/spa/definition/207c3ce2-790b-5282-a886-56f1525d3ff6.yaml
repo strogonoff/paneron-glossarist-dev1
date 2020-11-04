@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: ae29390e-0230-5dfd-bf43-5ef8518c7652
+  definition: cualquier número de partes que juntos forman una entidad distinta, con
+    cada parte registrada
+  examples:
+  - Una asociación (con cada socio registrado como parte), o dos tribus (con cada
+    tribu registrada como una parte)
+  notes:
+  - Una parte colectiva puede ser una parte miembro de otra parte colectiva
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 207c3ce2-790b-5282-a886-56f1525d3ff6
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.42
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: f1cbe5e4-4cba-59e5-a3fa-e8bf01779453
+  definition: przekrój elipsoidy płaszczyzną zawierającą małą półoś elipsoidy
+  examples: []
+  notes:
+  - Pojęcie to jest częściej używane dla łuku łączącego bieguny niż dla całej figury
+    (elipsy).
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: c8f29b2e-616e-5b5c-933d-aa6ca4550bdd
+status: valid

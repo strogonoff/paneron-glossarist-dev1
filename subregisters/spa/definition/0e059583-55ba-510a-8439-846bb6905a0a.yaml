@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.14
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 8894b795-1954-51b3-aeed-1b21111bf2bf
+  definition: sistema de posicionamiento que incorpora dos o más tecnologías de posicionamiento
+  examples: []
+  notes:
+  - Las medidas generadas por cada tecnología de posicionamiento en un sistema integrado
+    pueden ser de cualquier posición, movimiento, u orienta¬ción. Pueden existir medidas
+    redundantes. Una vez combinadas, una posición, movimiento, u orientación unificadas
+    serán determinadas.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 0e059583-55ba-510a-8439-846bb6905a0a
+status: valid

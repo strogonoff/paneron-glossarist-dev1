@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 04bfd986-a85d-540c-963b-5a85c2614a2b
+  definition: 实体通过接口提供的功能的可区分部分。
+  examples: []
+  notes:
+  - 见 ISO 19119 的7.2条对服务的讨论。
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 41b82d28-d24b-5fe2-b10d-107f9b2fd4b5
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (derived from)
+    link: https://www.iso.org/standard/2517.html
+    ref: 'ISO 12620:1999 '
+  concept: a2c2b0c3-ad9b-5fa3-bb23-385828e2e7c2
+  definition: sistema de conceptos basado en relaciones asociativas, es decir, temáticas
+    o pragmáticas
+  examples: []
+  notes:
+  - Adaptado de  ISO 12620:1999.
+  - Una relación asociativa  existe entre los conceptos "educación" y "enseñanza",
+    "cocción" y "cocido".
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 4f3713b0-ea29-5be3-a98d-b060a4daa5b0
+status: superseded

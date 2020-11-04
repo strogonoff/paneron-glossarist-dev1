@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: fc68b6d8-516a-5076-9e84-29a43c62f331
+  definition: act of a principal contrary to rights granted to that principal on a
+    resource
+  examples: []
+  notes:
+  - Infringement of a licence will require the DRM system to be bypassed in some manner.
+    If licences can be infringed without bypassing the DRM system, then the system
+    is not sufficient.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 10b16ae0-337a-559c-bf2c-8f921aa5e793
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 5604967e-60d3-5bcf-885d-9ec4d51ee0f5
+  definition: 자료 제품 명세 또는 사용자 필요조건에 세워진 기준에 데이터셋이 얼마나 적합한지를 결정하기 위해 사용된 자료 품질 결과에
+    대한 역치값 또는 역치값 집합
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: d4df9c04-e7b9-5e39-b2b4-300fe62e14df
+status: valid

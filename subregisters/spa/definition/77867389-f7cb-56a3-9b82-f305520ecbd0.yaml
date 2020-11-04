@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.45
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 22851d22-d8a0-50e9-af24-fb25e344145a
+  definition: tipo de datos que indica la cantidad física resultante de una observación
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 77867389-f7cb-56a3-9b82-f305520ecbd0
+status: valid

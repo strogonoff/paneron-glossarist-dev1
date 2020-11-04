@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.39
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 68698ab2-aa02-5171-b6c7-9e477e83fe96
+  definition: set semua kedudukan langsung yang berada pada objek geometri tetapi
+    tidak berada di atas sempadannya
+  examples: []
+  notes:
+  - The interior of a topological object is the homomorphic image of the interior
+    of any of its geometric realizations. This is not included as a definition because
+    it follows from a theorem of topology.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 72c847f0-5636-5e30-9736-b56d4dc2f1ee
+status: valid

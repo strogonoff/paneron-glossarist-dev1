@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/59193.html
+    ref: ISO 19109:2015
+  concept: 337e3766-b2fe-5d6f-bcbb-5f8864eea080
+  definition: tieto kohteista, joiden paikka Maan suhteen tunnetaan
+  examples: []
+  notes:
+  - Englannin kielessä paikkatiedosta käytetään myös termiä geographic information.
+dateAccepted: 2005-06-15 00:00:00+00:00
+id: 18263357-9946-545c-ad3b-37aaeb1416c1
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: 6737b4e7-dea5-552e-998b-bc587a6ba573
+  definition: 이동 개체에 대한 기저 표현이 상술 되었을 시 공학 좌표 기준 체계
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: c3a9e692-7d58-569c-a35f-b3976e3805aa
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: 95d7c7bf-8360-5011-bf34-419114dfff98
+  definition: множество элементов с общими свойствами
+  examples: []
+  notes:
+  - В данном контексте понятие «класс» используется по отношению к набору экземпляров,
+    а не в абстрактном по отношению к нему понятии
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: e94cb2b4-9500-5784-861b-93a4ae81ed37
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: 8ea4b660-e714-5c57-9147-5dc9ae4cf7e2
+  definition: program som kan begära en tjänst från en server
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 32c0ddac-590a-5809-ae9a-edef3ceb1003
+status: valid

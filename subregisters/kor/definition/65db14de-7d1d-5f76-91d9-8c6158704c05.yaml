@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: 964056e6-1059-593e-a045-78c48d27589c
+  definition: 인지된 관측 절차를 통해 추정 속성값을 결정하는 것
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: 65db14de-7d1d-5f76-91d9-8c6158704c05
+status: valid

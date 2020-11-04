@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7257.html
+    ref: ISO/IEC 2382-15:1999
+  concept: 8541ba1d-72f8-517c-af8a-824270f51b17
+  definition: språklig konstruktion som specificerar representationen, i teckenform,
+    hos dataobjekt i en post, fil, meddelande, lagringsenhet eller överföringskanal
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: ef315a2f-cbe7-50e8-918a-5ce49c711b02
+status: valid

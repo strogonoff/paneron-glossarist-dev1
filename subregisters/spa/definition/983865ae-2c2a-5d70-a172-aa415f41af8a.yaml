@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: LLP; (FindLaw)
+    ref: Derived from Palmer & Dodge
+  concept: 709a7bc3-f78c-5375-9db0-9315ac797048
+  definition: licencia otorgada por el licenciatario original a un tercero bajo las
+    concesiones y condiciones de la licencia original otorgada
+  examples: []
+  notes:
+  - Esto es esencialmente el derecho a prestar la licencia de uno a otro principal.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 983865ae-2c2a-5d70-a172-aa415f41af8a
+status: valid

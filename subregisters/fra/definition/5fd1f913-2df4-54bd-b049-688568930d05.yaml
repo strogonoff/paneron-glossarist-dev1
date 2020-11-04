@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108
+  concept: 35b6a36a-31a2-5aa9-b5ef-cd0c59b29e9c
+  definition: référentiel vis-à-vis duquel le temps est mesuré
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 5fd1f913-2df4-54bd-b049-688568930d05
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 4788e0b6-a971-5c59-b741-608552e0961b
+  definition: 在允许路径遍历的网络中，沿路径的点继续行进所需要的信息。
+  examples: []
+  notes:
+  - 为了尽量减少完成路径遍历所需要的指令数量，把缺省的指令认定为是一组没有特殊关联指令的连接点。这个缺省指令被称为主路规则。
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 32fd4146-7947-5415-9a16-39c578dfd7ad
+status: valid

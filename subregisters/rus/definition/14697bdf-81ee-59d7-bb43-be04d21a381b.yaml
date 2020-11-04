@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.56
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 1bcd3f49-d210-5d30-890e-32350e1e8b45
+  definition: полоса возврата,  произведенного малым точечным рефлектором, которая
+    приравнивается к самому малому расстоянию между 2 точечными рефлекторами, которые
+    можно различить как 2 предмета
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 14697bdf-81ee-59d7-bb43-be04d21a381b
+status: valid

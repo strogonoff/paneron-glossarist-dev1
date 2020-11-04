@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 917038ce-c219-59d4-a53f-a6a96fd343c2
+  definition: 개념들 중 하나가 전체를 구성하고 타 개념은 전체의 일부를 이루는 두 개념간의 관계
+  examples: []
+  notes:
+  - A partitive relation exists between the concepts "week" and "day", "molecule"
+    and "atom".
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: a2fd323e-371a-5f1d-8b35-7133d0e33009
+status: retired

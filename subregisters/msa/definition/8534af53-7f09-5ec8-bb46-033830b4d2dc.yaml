@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.17
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 7979460e-e8e0-52c9-ba9c-a207c18cd2aa
+  definition: sesuatu yg bentuknya melengkung
+  examples: []
+  notes:
+  - The boundary of a curve is the set of points at either end of the curve. If the
+    curve is a cycle, the two ends are identical, and the curve (if topologically
+    closed) is considered to not have a boundary. The first point is called the start
+    point, and the last is the end point. Connectivity of the curve is guaranteed
+    by the "continuous image of a line" clause. A topological theorem states that
+    a continuous image of a connected set is connected.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 8534af53-7f09-5ec8-bb46-033830b4d2dc
+status: valid

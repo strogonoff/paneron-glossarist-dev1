@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: S-32, Fifth Edition
+    ref: IHO Hydrographic Dictionary
+  concept: e6c8191c-26e1-54c3-8c7e-f12737a77758
+  definition: 선체내 해수면에서 용골바닥까지의 수직 거리
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 0d7757cb-1a6c-5592-8bad-cee5fab15f73
+status: valid

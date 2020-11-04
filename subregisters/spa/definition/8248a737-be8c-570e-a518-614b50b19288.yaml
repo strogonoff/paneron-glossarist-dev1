@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.24
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: b8a46146-7b56-513c-81d1-2cf41d0cf3a4
+  definition: sistema de componentes instrumentales y computacionales para determinar
+    la posición
+  examples: []
+  notes:
+  - Los ejemplos de estos sistemas de posicionamiento incluyen sistemas inerciales,
+    integrados, lineales y sistemas ópticos y de satélites de posicionamiento.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 8248a737-be8c-570e-a518-614b50b19288
+status: valid

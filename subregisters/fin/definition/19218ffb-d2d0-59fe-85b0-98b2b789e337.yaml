@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.4
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: d1c850af-2a22-57ba-9efd-4af974729263
+  definition: koordinaatteihin liittyvä laskentaoperaatio, joka koostuu useiden laskentaoperaatioiden
+    peräkkäisestä suorittamisesta
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 19218ffb-d2d0-59fe-85b0-98b2b789e337
+status: valid

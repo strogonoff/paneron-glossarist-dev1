@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.5
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: ab255dd9-ef9a-516b-9bcb-e8acee09703d
+  definition: набор данных значений высоты, которые алгоритмически присваиваются двумерным
+    координатам
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 6ef8d346-8af9-5f97-9408-0db7a864e40d
+status: valid

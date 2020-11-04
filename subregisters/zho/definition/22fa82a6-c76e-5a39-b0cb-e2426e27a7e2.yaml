@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 90fd29a6-f0a0-532b-956b-c648d759337c
+  definition: 可以重复的相关项（对象或值）的有限、无序的集合。
+  examples: []
+  notes:
+  - 逻辑上，包是<项,数目>对的集合。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 22fa82a6-c76e-5a39-b0cb-e2426e27a7e2
+status: retired

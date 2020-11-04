@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.13
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 6f675b33-7dba-5916-b818-d5a246a43672
+  definition: tuple composed of coordinates
+  examples: []
+  notes:
+  - The number of coordinates in the coordinate tuple equals the dimension of the
+    coordinate system; the order of coordinates in the coordinate tuple is identical
+    to the order of the axes of the coordinate system.
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: fdd9aba4-cc5c-5303-87f7-b484ad378f61
+status: valid

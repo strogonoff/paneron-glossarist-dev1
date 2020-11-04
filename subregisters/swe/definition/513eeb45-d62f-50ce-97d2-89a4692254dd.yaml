@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: 118644b2-f335-52cb-9afc-45473c04299d
+  definition: ordlista som innehåller definitioner av, och relaterad beskrivande information
+    om, begrepp som kan specificeras i detalj i en objekttypskatalog
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 513eeb45-d62f-50ce-97d2-89a4692254dd
+status: valid

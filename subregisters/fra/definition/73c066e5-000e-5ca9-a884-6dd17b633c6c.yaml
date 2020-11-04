@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 3bedecff-1481-5517-83ff-723ced9fd954
+  definition: méthode d'évaluation de la qualité d'un jeu de données basée sur une
+    connaissance externe (à ce jeu de données)
+  examples: []
+  notes: []
+dateAccepted: 2003-08-15 00:00:00+00:00
+id: 73c066e5-000e-5ca9-a884-6dd17b633c6c
+status: valid

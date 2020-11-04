@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32554.html
+    ref: ISO 19136:2007
+  concept: 26610618-5e0f-55d0-befb-65880d5f21aa
+  definition: esquema de aplicación escrito en un esquema XML de acuerdo a las reglas
+    especificadas en esta Norma Internacional
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: ee453cfe-c6f0-5b1b-93f1-dae5e6dc7c3f
+status: superseded

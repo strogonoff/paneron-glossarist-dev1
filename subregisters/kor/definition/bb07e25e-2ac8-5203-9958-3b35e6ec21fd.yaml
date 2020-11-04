@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.21'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 917ac226-7f47-54e6-921f-b564266c7d30
+  definition: 식별자를 만드는데 필요한 규칙의 집합
+  examples: []
+  notes: []
+dateAccepted: 2011-10-15 00:00:00+00:00
+id: bb07e25e-2ac8-5203-9958-3b35e6ec21fd
+status: valid

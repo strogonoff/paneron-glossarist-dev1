@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 8d56b07f-a144-5d49-a9da-a42ddd5178fb
+  definition: objet géométrique à une dimension utilisé pour représenter un composant
+    continu d'une courbe utilisant des méthodes de définition et une interpolation
+    homogènes
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: f1841330-cc26-522e-aa8c-97e25365bf82
+status: retired

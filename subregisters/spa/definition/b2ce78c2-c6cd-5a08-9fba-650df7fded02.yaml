@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.15
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: dc70b0b7-0552-502a-9f6f-42d7a2c85526
+  definition: sistema de posicionamiento que mide la distancia desde un punto de referencia
+    a lo largo de una ruta
+  examples:
+  - Un odómetro usado en conjunción con un punto origen predefinido de millas o kilómetros
+    a lo largo de una ruta proporciona una refe¬rencia lineal a una posición.
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: b2ce78c2-c6cd-5a08-9fba-650df7fded02
+status: valid

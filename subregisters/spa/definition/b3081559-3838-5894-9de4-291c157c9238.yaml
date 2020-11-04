@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: bac69a7a-68a8-5295-bb2a-415f70ba59ae
+  definition: distancia a un punto desde el elipsoide medida a lo largo de la normal
+    al elipsoide por este punto, positiva si es hacia arriba o hacia fuera del elipsoide
+  examples: []
+  notes:
+  - Sólo se usa como parte de un sistema de coordenadas elipsoidales tridimensional
+    y nunca sola.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: b3081559-3838-5894-9de4-291c157c9238
+status: superseded

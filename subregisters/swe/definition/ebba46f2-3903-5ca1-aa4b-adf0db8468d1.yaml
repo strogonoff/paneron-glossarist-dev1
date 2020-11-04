@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: e7a8407c-5607-5b71-b00e-29753fc8a28e
+  definition: förteckning över poster som beskriver vissa objekttyper där lägesinformation
+    ingår i beskrivningen
+  examples: []
+  notes:
+  - The positional information need not be coordinates, but could be descriptive.
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: ebba46f2-3903-5ca1-aa4b-adf0db8468d1
+status: superseded

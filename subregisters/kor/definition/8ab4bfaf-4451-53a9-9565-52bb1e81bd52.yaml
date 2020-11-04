@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41445.html
+    ref: ISO 19141:2008
+  concept: a986f23a-1e93-584b-837d-b5d11ef0887e
+  definition: 일련의 점 매개변수 집합에 의해 묘사된 이동점들의 경로
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 8ab4bfaf-4451-53a9-9565-52bb1e81bd52
+status: valid

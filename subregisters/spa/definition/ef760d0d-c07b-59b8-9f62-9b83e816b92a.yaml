@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '3.4'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  concept: 9b481e62-f1b2-5252-b6b0-08f3dd6cc956
+  definition: divergencia respecto de un plan o de la situación normal
+  examples: []
+  notes:
+  - Éstas pueden ser desviaciones con respecto al horario o el cumplimiento del transporte
+    o desviaciones con respecto a servicios o instalaciones proporcionadas.
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: ef760d0d-c07b-59b8-9f62-9b83e816b92a
+status: valid

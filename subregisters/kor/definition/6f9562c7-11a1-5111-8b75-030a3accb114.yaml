@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: b578e6e4-25f4-549e-ac83-5f4dd1ac301c
+  definition: 시스템의 국제 표준에 정의된 조건자들을 묘사한 XML내 부호화된 메타자료
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 6f9562c7-11a1-5111-8b75-030a3accb114
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 2812f1b3-d22b-5209-920b-8a20c3c312e1
+  definition: 包围平面上点集中的一个点的多边形，它包括了距离这个点比距离点集中其他点都近的所有直接位置。
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: e53286c5-d0c1-5b4d-bfca-cd34831f0bd9
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: ae42a97c-c81e-50e8-8c30-ecf598ead803
+  definition: collection de jeux de données partageant la même spécification de produit
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 43e2257c-72fc-5325-84b0-f0778c048fd5
+status: retired

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: c0b71e1c-aeb3-5056-9b55-5faee44b4325
+  definition: 三次元ユークリッド空間のある領域の連続な像を表す三次元の幾何プリミティブ。
+  examples: []
+  notes:
+  - 立体は，直接位置の三つのパラメタをもつ集合によって局所的に実現することができる。立体の境界は，その立体の限界を包含する，向きをもつ閉曲面の集合である。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 1752fbda-fa8e-53aa-92d6-2bfa19c2b16b
+status: valid

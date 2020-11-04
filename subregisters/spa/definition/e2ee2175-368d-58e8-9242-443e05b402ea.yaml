@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.2.10
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: adc9c16f-04cd-5ec0-bbde-f7a180c7fbaf
+  definition: conjunto sin estructura de conceptos relacionados temáticamente
+  examples: []
+  notes: []
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: e2ee2175-368d-58e8-9242-443e05b402ea
+status: valid

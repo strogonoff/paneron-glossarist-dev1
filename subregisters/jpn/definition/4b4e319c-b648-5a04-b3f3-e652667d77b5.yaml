@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: 5c5ed878-4e09-51ca-a79e-4f447e88d63b
+  definition: 一日をその分解能とする時間位置を定義するための基礎となる離散的な時間参照系の一つ。
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 4b4e319c-b648-5a04-b3f3-e652667d77b5
+status: valid

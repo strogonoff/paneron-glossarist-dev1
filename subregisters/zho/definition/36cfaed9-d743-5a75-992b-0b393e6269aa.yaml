@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.6
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 954107c1-b89c-513f-9be1-e48a5a681312
+  definition: 表示一个实体的界限的集合。
+  examples: []
+  notes:
+  - 边界通常用在几何结构中，这里的几何是点的集合或代表这些点的对象的集合。在别的场合，这个术语通常隐喻在实体与论域其余部分间的跃迁。
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 36cfaed9-d743-5a75-992b-0b393e6269aa
+status: valid

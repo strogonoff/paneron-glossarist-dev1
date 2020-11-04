@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.10
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 8f2467b3-9571-5d01-8d37-df77a0d9f9ee
+  definition: samling kroppar där varje kropp delar gränsyta med minst en av de övriga
+    kropparna
+  examples: []
+  notes:
+  - A composite solid, as a set of direct positions, has all the properties of a solid.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 21957c38-0c5b-52e3-9830-e2406d446774
+status: valid

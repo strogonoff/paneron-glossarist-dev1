@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: Web Services Glossary
+    ref: W3C
+  concept: 3f00ff3d-aca0-5a03-bb8f-4c60a14c60f8
+  definition: mekanism för att motverka syftet hos ett underordnat system genom att
+    undvika dess uppväckande
+  examples: []
+  notes:
+  - Security systems are bypassed usually by using security faults in the operating
+    system. Such infringements are more an aspect of the operating system than of
+    the security system. To correct this, the relationship between the security system
+    and the operating system shall be modified to prevent bypass mechanisms.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 93b60b43-a276-5deb-91f2-81b5e2cfaff8
+status: valid

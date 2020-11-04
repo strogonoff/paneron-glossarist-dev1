@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '3.7'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 5494a0c6-e28a-5a73-8db7-2cfbcae1b7eb
+  definition: operacja, którą może wykonać dowolna instancja typu obiektu (4.1)
+  examples:
+  - Operacją obiektu na obiekcie 'tama' jest podniesienie tamy. Wynikiem tej operacji
+    jest wzrost wysokości 'tamy' oraz wzrost poziomu wody w 'zbiorniku wodnym'.
+  notes:
+  - W niektórych przypadkach operacje obiektów mogą dawać podstawę do definiowania
+    typów obiektów.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 9882ea5d-d810-5c5f-8432-885e0dafd861
+status: valid

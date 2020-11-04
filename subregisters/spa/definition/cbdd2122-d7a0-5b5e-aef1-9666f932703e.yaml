@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - ref: Adapted from NISTIR 7117
+  concept: 08c7560f-4170-57b3-b9c9-184ced28e4f1
+  definition: datos recogidos por el receptor como resultado de todos los retornos
+    de un pulso simple emitido
+  examples: []
+  notes:
+  - Un muestreo de datos completo 3D del mundo producido por un lidar, captado en
+    cierto momento, lugar y orientación. Un marco simple lidar se refiere también
+    a un rango de imágenes.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: cbdd2122-d7a0-5b5e-aef1-9666f932703e
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 60f1ebd6-56fc-5a3b-8627-ccb87e7a25d9
+  definition: nieograniczona bryła topologiczna w 3-wymiarowym elemencie złożonym
+  examples: []
+  notes:
+  - Bryła uniwersalna jest 3-wymiarowym odpowiednikiem uniwersalnej ściany i zwykle
+    również nie jest częścią żadnego obiektu.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 21d0f83d-439d-5116-abe0-3fb6ca409edb
+status: valid

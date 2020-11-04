@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: 70dcc484-dec4-539d-b2e4-84bf8faff4fd
+  definition: modelo digital de elevaciones (MDE) que incorpora la elevación de los
+    objetos topográficos importantes sobre el terreno.
+  examples: []
+  notes:
+  - Los MDT se componen de un gran número puntos y líneas de quiebre que están espaciados
+    irregularmente para caracterizar mejor la forma real del terreno desnudo. El resultado
+    neto de los MDT es tal que los rasgos distintivos del terreno están más claramente
+    definioas y precisamente localizados, y las curvas de nivel generadas a partir
+    de los MDT se aproximan más a la forma real del terreno.
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: 38abeebb-a7d0-5be3-aed0-4cd76097ae36
+status: valid

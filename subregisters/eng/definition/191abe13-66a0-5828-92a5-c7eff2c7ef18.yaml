@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.7
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 64af0e17-5a3e-5b0c-bc46-fd162d4820f5
+  definition: epoch to which coordinates in a dynamic coordinate reference system
+    are referenced
+  examples: []
+  notes: []
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: 191abe13-66a0-5828-92a5-c7eff2c7ef18
+status: valid

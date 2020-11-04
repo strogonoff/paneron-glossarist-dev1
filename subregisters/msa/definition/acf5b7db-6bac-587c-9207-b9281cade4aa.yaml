@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 7427ab28-503d-505e-a936-f50cbdf919a2
+  definition: ist atur cara atau program komputer yg direka khusus utk kegunaan tertentu
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: acf5b7db-6bac-587c-9207-b9281cade4aa
+status: valid

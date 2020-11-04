@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: e39adb92-4f9f-5adb-8813-3a465ab5892b
+  definition: geometrinen objekti, joka vastaa yksittäistä, jatkuvaa ja yhtenäistä
+    avaruuden osaa
+  examples: []
+  notes:
+  - Geometriset primitiivit ovat jakamattomia objekteja, jotka kuvaavat geometrista
+    rakennetta. Geometrisia primitiivejä ovat muun muassa pisteet, käyrät, pinnat
+    ja kappaleet.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 49448c60-ece2-5732-8eac-67e89b27ae64
+status: superseded

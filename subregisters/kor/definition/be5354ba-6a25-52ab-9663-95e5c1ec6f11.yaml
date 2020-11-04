@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.3
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: a07a76fa-b5e4-571b-8438-dd25850babaf
+  definition: 최소 두 개의 독립된 좌표 참조 체계를 사용하는 좌표 참조 체계
+  examples: []
+  notes:
+  - 하나의 좌표 참조 체계의 좌표 값이 다른 좌표 참조 체계의 좌표 값으로 전환될 수 없다면, 이들 좌표 참조 체계는 서로 독립적이다.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: be5354ba-6a25-52ab-9663-95e5c1ec6f11
+status: valid

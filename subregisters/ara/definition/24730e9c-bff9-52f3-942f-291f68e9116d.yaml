@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 52f9e8cc-1a92-53ba-87be-ffa55f406c71
+  definition: عملية السير على المسار
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 24730e9c-bff9-52f3-942f-291f68e9116d
+status: valid

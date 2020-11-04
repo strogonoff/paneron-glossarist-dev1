@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.26'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 9061048d-8145-556e-818b-51da41c99b39
+  definition: базовый интерфейс, используемый для отображения моделей объектов
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 5eb7a33e-f71a-5102-b042-8c5abae9dc06
+status: valid

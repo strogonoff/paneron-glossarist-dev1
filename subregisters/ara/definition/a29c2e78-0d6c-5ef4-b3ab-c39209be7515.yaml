@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.8
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 8a1d749f-9bdc-5c1f-b533-81c451ebf8ab
+  definition: سجل يحتوي على وصف لكل من السجلات الفرعية الواقعة ضمن سجل هرمي
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: a29c2e78-0d6c-5ef4-b3ab-c39209be7515
+status: valid

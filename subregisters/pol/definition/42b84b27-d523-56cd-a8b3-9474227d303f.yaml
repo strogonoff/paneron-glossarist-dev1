@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: d87e20d9-f14c-5956-a79d-50e4b1cf4e26
+  definition: najczęściej prostokątny wzór równoległych linii skaningowych, tworzących
+    obraz lub odpowiadających obrazowi na lampie katodowej
+  examples: []
+  notes:
+  - Raster jest typem siatki.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 42b84b27-d523-56cd-a8b3-9474227d303f
+status: valid

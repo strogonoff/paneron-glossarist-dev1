@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.61
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 1650b683-2946-53df-b01c-8998af5b6ce3
+  definition: schéma d'application écrit en UML conformément à ISO 19109
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 4c6d5db9-ce48-5129-b980-b810c9c5c77a
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.6'
+    link: https://www.iso.org/standard/61710.html
+    ref: ISO 19160-1:2015
+  concept: c1819de1-6415-5e0d-84fc-bd6513dd7b2a
+  definition: activities involving addresses
+  examples: []
+  notes: []
+dateAccepted: 2015-12-15 00:00:00+00:00
+id: abf58596-d92f-598e-8598-ac7b42e68310
+status: valid

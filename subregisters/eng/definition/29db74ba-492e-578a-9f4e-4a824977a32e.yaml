@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '3.3'
+    link: https://www.iso.org/standard/28928.html
+    ref: ISO/TR 19120:2001
+  concept: c8b3c183-1cbd-55cf-816f-32a772ae17ef
+  definition: predefined set of elements in a base standard that can be used to construct
+    a profile
+  examples: []
+  notes: []
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: 29db74ba-492e-578a-9f4e-4a824977a32e
+status: valid

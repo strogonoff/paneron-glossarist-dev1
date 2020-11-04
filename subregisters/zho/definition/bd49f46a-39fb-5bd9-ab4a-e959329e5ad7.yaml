@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.16
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 33f7d335-25d2-5eea-a8ad-789eaf5f578b
+  definition: 分级注册表的一部分，包含某一部分信息域的注册项。
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: bd49f46a-39fb-5bd9-ab4a-e959329e5ad7
+status: valid

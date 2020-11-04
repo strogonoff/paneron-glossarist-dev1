@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: 5604967e-60d3-5bcf-885d-9ec4d51ee0f5
+  definition: valor umbral, o conjunto de valores umbral, para los resultados de la
+    calidad de datos, empleado para determinar en qué grado un conjunto de datos se
+    adecua a los criterios expuestos en sus especificaciones de producto de datos
+    o en los requerimientos de usuario.
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: 93348e59-6dc1-51b1-9837-a3f8dce78727
+status: valid

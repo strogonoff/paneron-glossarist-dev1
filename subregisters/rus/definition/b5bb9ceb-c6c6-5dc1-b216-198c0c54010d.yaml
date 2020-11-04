@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.13
+    link: https://www.iso.org/standard/72217.html
+    ref: ISO 19146:2018
+  concept: 40a40061-e4a7-5dc1-9168-fa412530d8d3
+  definition: концепция, связанная с определенным доменом
+  examples: []
+  notes:
+  - Понятие может быть связано с несколькими доменами и отдельно определяться как
+    понятие домена в отношении каждого из них
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: b5bb9ceb-c6c6-5dc1-b216-198c0c54010d
+status: valid

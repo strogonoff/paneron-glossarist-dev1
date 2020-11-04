@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/40395.html
+    ref: ISO 19117:2005
+  concept: 8e638124-5a72-59e3-8f13-97d7cc8bbfc9
+  definition: funkcja nie będąca częścią schematu aplikacyjnego
+  examples: []
+  notes:
+  - Mapa elektroniczna w systemie nawigacji samochodowej powinna być wyświetlana w
+    taki sposób, aby górna ramka mapy była zawsze zgodna z kierunkiem poruszania się
+    samochodu. Aby można było określić kąt obrotu mapy, bieżąca pozycja samochodu
+    powinna być pobierana - w sposób ciągły - z zewnętrznego urządzenia pozycjonującego
+    przy użyciu funkcji zewnętrznej.
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: aa4dd950-f785-5ab7-a302-0e04fc86ae41
+status: valid

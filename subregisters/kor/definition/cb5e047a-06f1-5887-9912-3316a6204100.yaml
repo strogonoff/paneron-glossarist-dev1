@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/56734.html
+    ref: ISO 19103:2015
+  concept: e1669710-e900-5d69-b11c-068573990bd8
+  definition: 영역 내의 값을 바탕으로 연산을 통해 나올 수 있는 허용된 값 영역의 사양
+  examples:
+  - 정수, 실수, 부린, 문자열, 날짜, SG point(데이터를 코드로 전환하는 것)
+  notes:
+  - 데이터 유형은 미리 정의된 유형과 사용자 정의 유형을 포함한다.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: cb5e047a-06f1-5887-9912-3316a6204100
+status: valid

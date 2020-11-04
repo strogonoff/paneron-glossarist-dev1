@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 4d45572f-4a4e-52d4-8c2f-c33b3cb1a253
+  definition: hila, jolle on olemassa affiininen muunnos hilan koordinaattien ja ulkoisen
+    koordinaattijärjestelmän koordinaattien välillä
+  examples: []
+  notes:
+  - Jos koordinaattijärjestelmä on datumin avulla liitetty Maahan, kyseessä on geo-oikaistu
+    hila.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 7e54a24f-1b41-502d-b56e-8ced3cd33b16
+status: valid

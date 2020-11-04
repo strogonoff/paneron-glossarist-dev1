@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/45020.html
+    ref: ISO/TS 19104:2008
+  concept: 83f5694f-45ee-51f8-a8ff-c70181b06239
+  definition: классификация, определяющая статус термина
+  examples: []
+  notes: []
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: b92b8f7c-ae06-5967-983b-1de93d66daa3
+status: valid

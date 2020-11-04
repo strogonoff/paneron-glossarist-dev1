@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 66a41f3b-5ab5-5d18-9047-8af3ad82ab8b
+  definition: omräkning av punkters koordinatvärden,  baserad på ett ett-till-ett-förhållande,
+    från ett koordinatbaserat referenssystem till ett annat
+  examples: []
+  notes:
+  - Supertype of coordinate transformation and coordinate conversion.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 0f0b79ee-510b-53dc-ab66-db87dc53e5d6
+status: superseded

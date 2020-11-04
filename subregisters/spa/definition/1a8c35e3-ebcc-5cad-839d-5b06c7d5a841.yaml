@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  concept: de353212-6ed2-530d-96d2-6f7ed081bda5
+  definition: descenso en el calado de un buque en marcha con respecto al que tendría
+    el buque en caso de que permaneciese inmóvil. Esta reducción se debe a la depresión
+    local de la superficie del agua por la que navega el buque.
+  examples: []
+  notes:
+  - el asiento no eleva el desplazamiento
+  - El asiento se mide como una inclinación angular sobre el centro de gravedad del
+    buque.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 1a8c35e3-ebcc-5cad-839d-5b06c7d5a841
+status: valid

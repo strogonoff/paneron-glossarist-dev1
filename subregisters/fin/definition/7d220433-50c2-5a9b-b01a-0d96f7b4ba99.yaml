@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 1491d0d6-9aaa-539b-9b30-68a114f68ca0
+  definition: testi, jonka tarkoituksena on löytää toteutuksen virheet
+  examples: []
+  notes:
+  - Jos virheitä löydetään, voidaan päätellä, ettei toteutus ole kansainvälisen standardin
+    mukainen. Se, ettei virheitä löydy, ei kuitenkaan välttämättä riitä osoittamaan,
+    että toteutus olisi vaatimuksenmukainen. Kumoamistestillä voidaan osoittaa ainoastaan,
+    etteivät tietyt vaatimukset täyty.
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 7d220433-50c2-5a9b-b01a-0d96f7b4ba99
+status: valid

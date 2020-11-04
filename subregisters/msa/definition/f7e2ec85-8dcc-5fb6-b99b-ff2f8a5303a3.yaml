@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: d53e71e2-6818-581a-8722-e9c50a9c4473
+  definition: Kadar perubahan ketinggian berkenaan dengan panjang lengkung
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f7e2ec85-8dcc-5fb6-b99b-ff2f8a5303a3
+status: valid

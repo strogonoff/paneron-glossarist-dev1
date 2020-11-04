@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 8ce91f63-2c22-5ea2-8a3a-e308c1b9c551
+  definition: objeto topológico orientado que representa una asociación entre un objeto
+    topológico y una de sus orientaciones
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: d1bf7bdc-bd0e-5395-9b30-9a9afce82659
+status: retired

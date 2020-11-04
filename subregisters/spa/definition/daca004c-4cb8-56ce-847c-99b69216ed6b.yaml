@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: fa7bdad4-ba97-57c5-a5dc-abdb01c54453
+  definition: veredicto de prueba de no-conformidad
+  examples: []
+  notes:
+  - La no-conformidad puede ser o bien respecto al propósito de la prueba o bien respecto
+    al menos a uno de los requisitos de conformidad de la(s) norma(s) relevante(s).
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: daca004c-4cb8-56ce-847c-99b69216ed6b
+status: valid

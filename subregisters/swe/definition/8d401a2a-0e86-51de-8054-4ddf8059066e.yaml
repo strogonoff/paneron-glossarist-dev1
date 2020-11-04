@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 23f6cc83-1107-565f-8081-549d4b7171bc
+  definition: del av kvalitetsledning inriktad mot att ge tilltro till att kvalitetskrav
+    kommer att uppfyllas
+  examples: []
+  notes: []
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 8d401a2a-0e86-51de-8054-4ddf8059066e
+status: valid

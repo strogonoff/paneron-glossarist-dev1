@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.43'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: 18d8bfd7-4a14-5cbd-be82-9c281a79c1ae
+  definition: measure of the positional accuracy of a dataset with respect to a specified
+    vertical datum
+  examples: []
+  notes: []
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: b8bb7ab6-9a80-5723-82be-b380e6a40f33
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 1776de4d-059e-59a8-a134-d2cd997b84b9
+  definition: kompleks geometri yang mana primitif geometri berada dalam padanan 1:1
+    dengan primitif topologi bagi suatu kompleks topologi supaya hubungan kesepadanan
+    berlaku di antara kedua-dua kompleks
+  examples: []
+  notes:
+  - In such a realization the topological primitives are considered to represent the
+    interiors of the corresponding geometric primitives. Composites are closed.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 003d9151-e565-57a3-8601-f7e6791294e6
+status: superseded

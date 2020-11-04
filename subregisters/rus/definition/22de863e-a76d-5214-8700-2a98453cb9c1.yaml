@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.45'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: aa6af154-05c4-57ca-a7e8-a7e8f8d6b571
+  definition: цена того, что может быть потеряно, если происходит нарушение
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 22de863e-a76d-5214-8700-2a98453cb9c1
+status: valid

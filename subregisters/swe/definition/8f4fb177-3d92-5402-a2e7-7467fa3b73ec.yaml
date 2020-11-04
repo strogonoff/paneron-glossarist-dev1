@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  concept: a205caf2-60d5-5938-b5b8-36580731cb7a
+  definition: lägesnoggrannhet hos ett objekt i förhållande till ett begränsat antal
+    andra lägesbestämda objekt i den närmaste omgivningen
+  examples: []
+  notes:
+  - Closely related terms such as local accuracy are employed in various countries,
+    agencies and application groups.  Where such terms are utilized, it is necessary
+    to provide a description of the term.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 8f4fb177-3d92-5402-a2e7-7467fa3b73ec
+status: retired

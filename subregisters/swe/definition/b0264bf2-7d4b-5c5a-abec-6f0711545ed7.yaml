@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/46226.html
+    ref: ISO 19117:2012
+  concept: 94b42ab0-6d65-5654-8f71-ae1eefe99fe2
+  definition: symboliseringsfunktion där symboliseringen resulterar i en parameterstyrd
+    symbol
+  examples: []
+  notes:
+  - A parameterized feature portrayal function passes the relevant attribute values
+    from the feature instance for use as input to the parameterized symbol.
+dateAccepted: 2012-12-15 00:00:00+00:00
+id: b0264bf2-7d4b-5c5a-abec-6f0711545ed7
+status: valid

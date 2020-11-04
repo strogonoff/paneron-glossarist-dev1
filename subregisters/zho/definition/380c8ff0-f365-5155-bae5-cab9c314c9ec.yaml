@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 3a68ce9b-5e07-51d2-baf9-d1f003419039
+  definition: 描述重力高或深度与地球的关系的基准。
+  examples: []
+  notes:
+  - 在多数情况下，高程基准与平均海平面相关。椭球面高与参照大地基准的三维椭球面坐标系相关。高程基准包括测深（sounding)基准（用于水道测量目的），在这种情况下，高度可以为负高或深度。
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 380c8ff0-f365-5155-bae5-cab9c314c9ec
+status: superseded

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: modified
+    ref: FindLaw
+  concept: 912eeec6-56b3-5091-b02e-5f84f3eb92e7
+  definition: 허가증 발행인
+  examples: []
+  notes:
+  - The licensor is a content owner or a licensing agent.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 40192cb4-9b8b-534a-a979-b2704e2e00fa
+status: valid

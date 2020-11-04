@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.49
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: f33afb57-26db-50be-b768-d24246e192f3
+  definition: elemento hijo de un objeto GML
+  examples: []
+  notes:
+  - Se corresponde con el rol atributo de objeto geográfico y asociación de objeto
+    geográfico en la Norma ISO 19109.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 25b9dc17-a757-555b-ba70-174a4fb4deed
+status: valid

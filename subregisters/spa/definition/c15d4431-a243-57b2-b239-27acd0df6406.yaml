@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.6'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 65bbe58e-0393-5049-8f3d-c269b3d1b83e
+  definition: operación(es) utilizada(s) en la aplicación y difusión de los métodos
+    de evaluación de la calidad y de sus resultados
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: c15d4431-a243-57b2-b239-27acd0df6406
+status: retired

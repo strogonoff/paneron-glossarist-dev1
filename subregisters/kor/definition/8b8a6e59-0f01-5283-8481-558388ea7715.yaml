@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '3.3'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 9cde52c2-6d33-5a4c-a103-df48884e2e4d
+  definition: 동일하거나 혹은 서로 다른 피처 유형을 갖는 인스턴스들 간의 연관 관계
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 8b8a6e59-0f01-5283-8481-558388ea7715
+status: valid

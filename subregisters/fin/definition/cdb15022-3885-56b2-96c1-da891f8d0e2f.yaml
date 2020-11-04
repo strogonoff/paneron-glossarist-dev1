@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.18
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: ecd8a842-30cd-5a49-9272-85dd818cbbe1
+  definition: tieto ilmiöistä, joiden paikka Maan suhteen tunnetaan
+  examples: []
+  notes: []
+dateAccepted: 2013-07-03 00:00:00+00:00
+id: cdb15022-3885-56b2-96c1-da891f8d0e2f
+status: valid

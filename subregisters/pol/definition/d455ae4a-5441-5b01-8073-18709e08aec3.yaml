@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: a5e31b9d-bd5c-5143-bdf8-d7b8fc71198b
+  definition: wielkość mająca zarówno kierunek, jak i wielkość
+  examples: []
+  notes:
+  - Skierowany odcinek linii reprezentuje wektor, jeśli długość i kierunek tego odcinka
+    linii są równe wielkości i kierunkowi danego wektora. Termin dane wektorowe odnosi
+    się do danych, które reprezentują przestrzenną konfigurację obiektów w postaci
+    zbioru skierowanych odcinków linii.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: d455ae4a-5441-5b01-8073-18709e08aec3
+status: valid

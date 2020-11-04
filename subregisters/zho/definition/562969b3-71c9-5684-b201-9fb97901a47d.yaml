@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.16'
+    link: https://www.iso.org/standard/40395.html
+    ref: ISO 19117:2005
+  concept: 39f25d74-8066-5ad6-a79c-1fffa99cffa5
+  definition: 确定使用要素图示表达规范的规则。
+  examples: []
+  notes: []
+dateAccepted: 2005-06-01 00:00:00+00:00
+id: 562969b3-71c9-5684-b201-9fb97901a47d
+status: retired

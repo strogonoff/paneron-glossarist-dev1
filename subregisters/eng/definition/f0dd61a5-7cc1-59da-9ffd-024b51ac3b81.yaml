@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.22
+    link: https://www.iso.org/standard/72177.html
+    ref: ISO 19150-4:2019
+  concept: 3da4d4fc-39fc-5185-9971-a532f86a1100
+  definition: restriction to constrain the class of objects which participate in a
+    subject-predicate-object triple
+  examples: []
+  notes:
+  - A range restriction can be thought of as a type constraint on the value of a function
+    or range of a relation.
+dateAccepted: 2019-05-22 00:00:00+00:00
+id: f0dd61a5-7cc1-59da-9ffd-024b51ac3b81
+status: valid

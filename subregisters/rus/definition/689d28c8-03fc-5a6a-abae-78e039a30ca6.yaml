@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.62'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: f3bb5a66-a8ec-5761-8985-3dfaed9daef7
+  definition: принятый сигнал от испускаемого лазерного импульса, который отражается
+    от освещенной сцены, представляющей интерес
+  examples: []
+  notes:
+  - может быть несколько возвратов для данного испускаемого лазерного импульса.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 689d28c8-03fc-5a6a-abae-78e039a30ca6
+status: valid

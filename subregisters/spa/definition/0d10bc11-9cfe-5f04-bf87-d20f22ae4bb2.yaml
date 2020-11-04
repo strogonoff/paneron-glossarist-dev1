@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/44342.html
+    ref: ISO 19144-2:2012
+  concept: fe5c6b64-d160-5379-8b3b-05bf1af5c02f
+  definition: aspecto de un objeto o terreno sin hacer referencia a su origen  o características
+    científicas
+  examples: []
+  notes: []
+dateAccepted: 2012-07-01 00:00:00+00:00
+id: 0d10bc11-9cfe-5f04-bf87-d20f22ae4bb2
+status: valid

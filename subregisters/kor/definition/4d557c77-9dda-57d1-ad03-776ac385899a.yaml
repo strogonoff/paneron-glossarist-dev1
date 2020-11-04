@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 1ddde5ff-023d-5628-a1c1-b58edd071d82
+  definition: 시스템 관계자가 관련 자원을 운용하거나 사용할 수 있는 행위, 활동 또는 행위의 클래스
+  examples: []
+  notes: []
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: 4d557c77-9dda-57d1-ad03-776ac385899a
+status: valid

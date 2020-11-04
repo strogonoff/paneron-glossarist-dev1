@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.18'
+    link: https://www.iso.org/standard/32572.html
+    ref: ISO 19154:2014
+  concept: 76e26834-fd1b-5dec-99aa-37fed29ac4b9
+  definition: acceso abierto a  fuentes de información y/o servicios tanto para usuarios
+    públicos en general, como para usuarios profesionales
+  examples: []
+  notes: []
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: b82686ce-b0fb-5fb4-9867-43017064729f
+status: valid

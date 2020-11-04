@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.69
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: b92afda8-6f1e-545e-9edd-e36562f1a8f7
+  definition: Istilah topologi bagi suatu titik penghabisan atau persilangan pada
+    suatu sistem jaringan.
+  examples: []
+  notes:
+  - The boundary of a node is the empty set.
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: d784bb65-98b2-58dd-bff5-09ddecf274e2
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 3.8.1
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 0e6ed565-f0ef-5dee-9531-6605950e54ba
+  definition: información relativa a los conceptos o a sus designaciones
+  examples: []
+  notes:
+  - La información terminológica suele incluir la entrada, la definición, la nota,
+    la marca gramatical, la marca temática, el identificador de lengua, el identificador
+    de país y el identificador de fuente.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 310c9f94-f02c-56d0-ac20-d3c3149f00e3
+status: valid

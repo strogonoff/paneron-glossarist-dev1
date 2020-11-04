@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 71236915-e5fd-5c87-982d-7947514d407d
+  definition: 'testning vars syfte är att utvärdera ett
+
+    systems uppfyllande'
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 69113c7e-2d07-53a5-a453-120eaff93077
+status: valid

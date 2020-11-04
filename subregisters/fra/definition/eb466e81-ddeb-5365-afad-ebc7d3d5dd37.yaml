@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 40fe3c8e-f748-5d18-b8c0-e199853b5f8b
+  definition: matériel informatique, logiciel et réseau de communication exigés pour
+    supporter une implémentation soumise à test
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: eb466e81-ddeb-5365-afad-ebc7d3d5dd37
+status: valid

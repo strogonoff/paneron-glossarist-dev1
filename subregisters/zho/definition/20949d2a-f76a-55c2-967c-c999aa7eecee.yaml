@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: (1994)
+    ref: 'Jensen et al. '
+  concept: 4fa4b3ee-6229-5130-bc2d-bc7d3e1c5c1e
+  definition: 在抽象世界中，事实为“真”的时间。
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 20949d2a-f76a-55c2-967c-c999aa7eecee
+status: valid

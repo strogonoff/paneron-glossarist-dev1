@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: 44502fa2-e6f0-5657-b0ec-b82998bd85eb
+  definition: класс, полученный в результате применения процесса классификации
+  examples: []
+  notes:
+  - в этой части ISO 19144 результат процесса классификации называется классом легенды
+    во избежание путаницы с термином "класс", используемым в моделировании UML.
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 4d066dfc-f036-5e57-9808-d72e7cddf7a3
+status: valid

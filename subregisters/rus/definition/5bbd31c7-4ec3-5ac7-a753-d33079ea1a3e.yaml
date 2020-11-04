@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 8a650bfd-dd93-56c0-bbf0-e787d2f68c76
+  definition: представление строки символов в соответствии со специфицированной схемой
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 5bbd31c7-4ec3-5ac7-a753-d33079ea1a3e
+status: valid

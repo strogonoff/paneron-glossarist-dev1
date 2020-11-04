@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 219cf47a-e0ae-50bd-9595-ebf6075d539d
+  definition: 특정 사용자 요구 사항에 대하여 하위 수준의 서비스를 결합하거나 제공하는 응용
+  examples: []
+  notes: []
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: 6221ae57-c2dc-524c-9999-f9d7a7487147
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '3.2'
+    link: https://www.iso.org/standard/44874.html
+    ref: ISO 19147:2015
+  concept: 46a5a8e8-ca91-57a1-96fb-29ef17ac8bee
+  definition: ability to access and benefit from the functionality provided by a service
+    or a facility
+  examples: []
+  notes:
+  - Accessibility is often associated with disabilities. According to the concept
+    of universal design, accessibility is, however, a matter that permanently or temporarily
+    is relevant to all of us, e.g. people with heavy luggage, people with broken legs,
+    people with small children, elderly people, etc.
+dateAccepted: 2015-06-15 00:00:00+00:00
+id: 9005b567-bd51-5827-a9a8-3640981812e3
+status: valid

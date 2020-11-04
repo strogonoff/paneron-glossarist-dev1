@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: e7a8407c-5607-5b71-b00e-29753fc8a28e
+  definition: catálogo de instancias de una o más clases de objetos geográficos que
+    contienen cierta información sobre su posición
+  examples: []
+  notes:
+  - La información de posición no tiene por qué ser en forma de coordenadas, también
+    puede ser descriptiva.
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: 40c0cb15-0eda-5762-aa02-94b88e9d2f74
+status: superseded

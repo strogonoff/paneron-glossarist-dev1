@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 3.8.1
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 0e6ed565-f0ef-5dee-9531-6605950e54ba
+  definition: data related to concepts or their designations
+  examples: []
+  notes:
+  - The more common terminological data include entry term, definition, note, grammatical
+    label, subject label, language identifier, country identifier and source identifier.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: c78e717b-14bd-512d-ab3c-a2db5e9f791b
+status: valid

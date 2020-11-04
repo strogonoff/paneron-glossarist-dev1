@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128
+  concept: 8ea4b660-e714-5c57-9147-5dc9ae4cf7e2
+  definition: composant logiciel pouvant invoquer une opération d'un serveur
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: b92293ef-79b3-5920-8a7c-7eb445873bfc
+status: valid

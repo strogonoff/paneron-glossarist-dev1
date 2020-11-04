@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0de67aa8-fb4a-50af-b739-f72651bc5b37
+  definition: superficie equipotencial del campo de gravedad de la Tierra, que es
+    en todas partes perpendicular a la dirección del vector gravedad, y que mejor
+    ajusta el nivel medio del mar tanto local como globalmente
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 8e9d28f9-ad96-5c90-bd74-b820e4e1b4b5
+status: superseded

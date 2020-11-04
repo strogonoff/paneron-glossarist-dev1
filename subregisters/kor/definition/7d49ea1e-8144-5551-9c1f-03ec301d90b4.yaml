@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: dfa5a731-f5db-5042-8917-04381b494d18
+  definition: 좌표로 기술된 커버리지의 시공간적 영역에 대한 구성
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 7d49ea1e-8144-5551-9c1f-03ec301d90b4
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: b8a4dc2b-3188-5127-9e38-370e78ef7d0c
+  definition: concepto que se puede especificar en detalle como uno o más tipos de
+    atributo de objeto geográfico
+  examples:
+  - El concepto de atributo de fenómeno “altura” describe la longitud en dirección
+    vertical como una característica que puede ser compartida por entes del mundo
+    real como “humano”, “árbol” y “edificio”.
+  notes: []
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: 7e4d68ec-5ae1-52d4-a912-5c712b83c133
+status: valid

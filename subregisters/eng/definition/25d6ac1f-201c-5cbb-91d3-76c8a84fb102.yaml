@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.28'
+    link: https://www.iso.org/standard/60080.html
+    ref: ISO/TS 19159-1:2014
+  concept: afe40133-cc5c-5f0a-8ea1-627a6043b118
+  definition: measurement standard designated for the calibration of other measurement
+    standards for quantities of a given kind in a given organization or at a given
+    location
+  examples: []
+  notes: []
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 25d6ac1f-201c-5cbb-91d3-76c8a84fb102
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: 3b11e1ef-4c00-5db6-b50c-382e5310ce7c
+  definition: condition or restriction expressed in natural language text or in a
+    machine readable language for the purpose of declaring some of the semantics of
+    an element
+  examples: []
+  notes: []
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: 0ff82d85-61ad-5150-94c5-8fec1b5d8577
+status: valid

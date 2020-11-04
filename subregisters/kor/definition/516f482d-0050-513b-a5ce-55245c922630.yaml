@@ -1,0 +1,19 @@
+data:
+  authoritative_source:
+  - clause: 2.44, modified — Note 6 has been deleted.
+    link: https://www.iso.org/standard/45324.html
+    ref: ISO/IEC Guide 99:2007
+  concept: f4d923f3-5cd6-50e5-90e0-48753fb55de6
+  definition: 특정 항목이 특정 조건을 충족할 수 있다는 객관적인 증명 항목
+  examples: []
+  notes:
+  - When applicable, measurement uncertainty should be taken into consideration.
+  - The item may be, e.g. a process, measurement procedure, material, compound, or
+    measuring system.
+  - The specified requirements may be, e.g. that a manufacturer's specifications are
+    met.
+  - Verification should not be confused with calibration. Not every verification is
+    a validation.
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 516f482d-0050-513b-a5ce-55245c922630
+status: valid

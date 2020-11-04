@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 5514534e-edd9-5bb0-8c16-b5a08ceacc54
+  definition: сервис, наличие которого зависит от местоположения клиента
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 582bcfba-c709-59e9-b911-2af5efc537e1
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.13
+    link: https://www.iso.org/standard/59221.html
+    ref: ISO 19119:2016
+  concept: 39a87300-4583-558b-bf5a-9c10b6d73b03
+  definition: sequence of services where, for each adjacent pair of services, occurrence
+    of the first action is necessary for the occurrence of the second action
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 60838478-5316-5710-b06f-818f27d53e5e
+status: valid

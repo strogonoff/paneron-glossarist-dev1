@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 52ce94bc-5fd3-5548-a7f9-0efbbddfaabc
+  definition: clause defining what is necessary in order to meet the requirements
+    of the International Standard
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: ed1af21a-f2c4-5a03-9ef9-f06b6c7d6a27
+status: valid

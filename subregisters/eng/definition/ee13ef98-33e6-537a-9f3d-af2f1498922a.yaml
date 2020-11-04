@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 1824ee60-6aeb-5360-9870-763f6a76ed60
+  definition: position within a network on a link defined by some strictly monotonic
+    measure associated with that link
+  examples: []
+  notes:
+  - Link positions are often associated with a target feature that is not part of
+    the network. The most common link measures used for this are the distance from
+    start node or address. The most common use of a link position is to geolocate
+    an "address."
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: ee13ef98-33e6-537a-9f3d-af2f1498922a
+status: valid

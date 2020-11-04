@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: d50f09f6-0dc9-595f-88bb-17f3e6424fb1
+  definition: 直前に存在した，同じ地物型の二つ以上のインスタンスが，同じ地物型の一つのインスタンスに置き換わる地物継起。
+  examples:
+  - 　地物型“牧場”の二つのインスタンスは，各々を隔てるフェンスが取り除かれたときに一つのインスタンスに置き換わる。
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: c4b39869-3c67-56b7-82f7-6b1919958001
+status: valid

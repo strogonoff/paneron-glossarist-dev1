@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.7
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: c1a466a7-3348-560d-a415-fe05bf28c165
+  definition: область значений,  содержащая код для каждого допустимого значения
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: e1a7d0f7-8ecc-5f87-a860-c2907c8229ed
+status: valid

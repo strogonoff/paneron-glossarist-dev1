@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42136.html
+    ref: ISO 19142:2010
+  concept: 5563e0b7-492a-51e0-8489-abdbc0a65dfc
+  definition: 시스템의 직접적 통제하에 있는 자원
+  examples: []
+  notes:
+  - In this International Standard, the system is a web feature service and the resource
+    is held in a data store that is directly controlled by that service.
+dateAccepted: 2010-12-15 00:00:00+00:00
+id: 056e1c8d-ca47-5fde-9f4f-440f7e5dd5e0
+status: valid

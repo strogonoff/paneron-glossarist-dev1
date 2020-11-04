@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.27
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: c684de6d-55b4-5f29-a71c-ae45126b2652
+  definition: 명시된 현실 또는 가상의 출력 기기와 조망의 특성과 밀접하게 연관되어 있고 적합한 색-공간 좌표에서 나타낸 영상 자료의 표현
+  examples: []
+  notes:
+  - Picture portrayals are geared for visual display whether in hardcopy or softcopy.
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: e1305b82-2a69-5592-8c6c-e96c99410a4a
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/39890.html
+    ref: ISO 19119:2005
+  concept: 8b388673-a23e-54eb-9b5e-d1106ce2a7c8
+  definition: полная или частичная автоматизация  деловых процессов, при которой документы,
+    информация или задания передаются от одного участника к другому для обработки
+    согласно своду процедурных правил
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 01fe4d53-98c2-5f2b-bda7-8a2bfad5ad5d
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.12
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 9903de21-55d9-5ed9-b023-b1b0011c92e2
+  definition: positioneringssystem som baseras på tröghetsteknik
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: b713772e-ccec-5f60-8c0f-77606a28832f
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    ref: Booch 1999
+  concept: 90a6f76d-eda7-566d-aca8-c99e8b8daad7
+  definition: relation sémantique entre classificateurs, où un classificateur spécifie
+    un contrat qu'un autre classificateur garantit d'exécuter
+  examples: []
+  notes: []
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: f215d5f4-035a-5227-9cad-af71cd54d53a
+status: valid

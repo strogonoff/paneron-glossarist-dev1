@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  concept: de353212-6ed2-530d-96d2-6f7ed081bda5
+  definition: 선박 이동 방향의 해수면에서 일어나는 부분적 패임/저기압 현상으로 인해 선박의 높이가 정지된 선박보다 해수면에서 낮아지는  현상
+  examples: []
+  notes:
+  - Settlement is not an increase in displacement.
+  - Settlement is measured as an angular tilt about the centre of gravity of the vessel.
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: af6d4cb3-80e3-55c2-a4c3-ab256ed55479
+status: valid

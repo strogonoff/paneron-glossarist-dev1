@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32562.html
+    ref: ISO 19144-1:2009
+  concept: e52ba84f-684c-56ed-b521-7a36d530245b
+  definition: تمثيل تجريدي للظواهر الطبيعية باستخدام المصنِّفات
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: d85085ca-927a-53e4-953c-1465e0d78f3d
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 6c27dc3f-49d2-56b2-b560-cd5ded8dab31
+  definition: результат процесса
+  examples: []
+  notes: []
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 8048e7e3-185b-581b-89ad-b4bc53303e6e
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 4.1.10
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 91414012-383d-5972-8715-f2bbc24dc036
+  definition: proceso de determinación, registro y difusión de información sobre la
+    relación entre las personas y la tierra
+  examples: []
+  notes:
+  - En muchos países la información de administración del territorio se determina,
+    registra y difunde bajo el paraguas del catastro o del registro de la propiedad.
+    Ambas instituciones se pueden unificar en una única organización (oficial)
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 4f6aa64b-9c62-5094-9281-07e2df3e171a
+status: valid

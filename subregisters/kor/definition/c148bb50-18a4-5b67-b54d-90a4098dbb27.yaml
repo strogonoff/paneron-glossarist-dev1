@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40114.html
+    ref: ISO 19125-1:2004
+  concept: e4ea65ec-49e6-50f2-bebc-8b0a1db8d8f4
+  definition: 공간 속성, 비공간 속성을 모두 갖는 정점들 간의 선형 보간에 의해 2차원 기하로 제한된 피처
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: c148bb50-18a4-5b67-b54d-90a4098dbb27
+status: valid

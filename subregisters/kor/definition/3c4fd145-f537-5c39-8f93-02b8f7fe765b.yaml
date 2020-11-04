@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: b6266e4b-b919-599c-9144-0064f19ec149
+  definition: 지리 정보를 컴퓨터 화면에 표시하기 적합한 수치 영상 파일로 묘화한 것
+  examples: []
+  notes: []
+dateAccepted: 2009-12-29 00:00:00+00:00
+id: 3c4fd145-f537-5c39-8f93-02b8f7fe765b
+status: valid

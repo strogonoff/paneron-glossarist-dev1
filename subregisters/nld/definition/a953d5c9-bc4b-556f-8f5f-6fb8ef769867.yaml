@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.26
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 1ddd77e9-308f-5258-903c-cd9387bef60c
+  definition: datum waarmee de relatie tussen een coördinaatsysteem en een lokale
+    referentie wordt beschreven
+  examples:
+  - Een systeem voor het identificeren van relatieve posities binnen een paar kilometer
+    van een referentiepunt.
+  notes:
+  - Een lokaal datum is nooit een geodetisch of verticaal datum.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: a953d5c9-bc4b-556f-8f5f-6fb8ef769867
+status: valid

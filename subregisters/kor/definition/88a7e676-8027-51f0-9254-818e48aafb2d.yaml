@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32552.html
+    ref: ISO 19134:2007
+  concept: da5858a2-eef4-5be5-bf66-bd13cf4adb29
+  definition: 여행자가 교통을 위해 선택 가능한 수단
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 88a7e676-8027-51f0-9254-818e48aafb2d
+status: valid

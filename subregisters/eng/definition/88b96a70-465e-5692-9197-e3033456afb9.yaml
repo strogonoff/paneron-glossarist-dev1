@@ -1,0 +1,20 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.9
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 917fd6f2-faff-5d23-bc64-fedc67a78ce2
+  definition: set of topological primitives of higher topological dimension associated
+    with a particular topological object, such that this topological object is in
+    each of their boundaries
+  examples: []
+  notes:
+  - If a node is on the boundary of an edge, that edge is on the coboundary of that
+    node. Any orientation parameter associated to one of these relations would also
+    be associated to the other. So that if the node is the end node of the edge (defined
+    as the end of the positive directed edge), then the positive orientation of the
+    node (defined as the positive directed node) would have the edge on its coboundary,
+    see ISO 19107 Figure 35.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 88b96a70-465e-5692-9197-e3033456afb9
+status: valid

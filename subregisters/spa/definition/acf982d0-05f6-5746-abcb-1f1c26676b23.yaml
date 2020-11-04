@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 90fd29a6-f0a0-532b-956b-c648d759337c
+  definition: colección finita y desordenada de ítems relacionados (objetos o valores)
+    que pueden estar repetidos
+  examples: []
+  notes:
+  - Lógicamente, una bolsa es un conjunto de pares <item, contador>
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: acf982d0-05f6-5746-abcb-1f1c26676b23
+status: retired

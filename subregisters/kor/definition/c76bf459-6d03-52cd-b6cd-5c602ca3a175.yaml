@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 864fdb12-92f3-5e7a-b4d5-f722f525b103
+  definition: 관련 자료의 본래적 표현(원형)만을 지정하는 메시지 본문 자료의 미디어 유형과 그 하위유형
+  examples: []
+  notes:
+  - An alternative to specifying a location as a two- or three- dimensional spatial
+    position.
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: c76bf459-6d03-52cd-b6cd-5c602ca3a175
+status: valid

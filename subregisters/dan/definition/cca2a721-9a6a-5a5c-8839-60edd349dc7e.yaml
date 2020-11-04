@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 496d7ef8-0f46-5dcf-bfeb-97add1189d3e
+  definition: beskrivelse af en mængde af objekter med samme attributter, operationer,
+    metoder, relationer og semantik
+  examples: []
+  notes:
+  - 'En klasse kan benytte et sæt af grænseflader til at specificere samlinger af
+    operationer, den stiller til rådighed for sine omgivelser. Se: grænseflade.'
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: cca2a721-9a6a-5a5c-8839-60edd349dc7e
+status: valid

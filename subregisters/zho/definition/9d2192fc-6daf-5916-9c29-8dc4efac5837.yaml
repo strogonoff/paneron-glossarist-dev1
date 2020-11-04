@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: be46792d-05d5-527d-91b0-1269595f584b
+  definition: 通过函数，与数据覆盖域内的元素关联的要素属性值的集合。
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 9d2192fc-6daf-5916-9c29-8dc4efac5837
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.18
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: cd134c80-984f-541c-a87d-97757e283fc8
+  definition: variation de la position d'un objet dans le temps, représentée par un
+    changement de valeurs de coordonnées par rapport à un cadre de référence particulier
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 66a686f0-8e79-5a90-a2bb-b729b1f708af
+status: valid

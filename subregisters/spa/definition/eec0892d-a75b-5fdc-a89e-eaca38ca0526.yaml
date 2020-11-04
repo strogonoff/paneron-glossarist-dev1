@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44875.html
+    ref: ISO 19126:2009
+  concept: d4bf30fb-a5cf-5d15-9174-c631f21b5e26
+  definition: sistema de registro que contiene múltiples registros que comparten las
+    mismas clases de ítems y la gestión coordinada de una característica común
+  examples: []
+  notes:
+  - La característica común puede ser un espacio de nombres compartido para la asignación
+    de nombres o de códigos
+dateAccepted: 2009-11-01 00:00:00+00:00
+id: eec0892d-a75b-5fdc-a89e-eaca38ca0526
+status: valid

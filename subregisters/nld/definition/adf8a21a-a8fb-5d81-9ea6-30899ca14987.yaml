@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0d4997ad-c2bd-5de2-942e-b79af22736ea
+  definition: tupel bestaande uit een serie coördinaten
+  examples: []
+  notes:
+  - Het aantal coördinaten in een coördinaattupel is gelijk aan de dimensie van het
+    coördinaatsysteem; de volgorde van de coördinaten in een coördinaattupel is gelijk
+    aan de volgorde van de assen van het coördinaatsysteem.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: adf8a21a-a8fb-5d81-9ea6-30899ca14987
+status: superseded

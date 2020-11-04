@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 16ee326a-ae17-5463-84d7-4e32098ee7fa
+  definition: 클래스의 특정 인스턴스를 위한 능력으로, 이는 상속을 통한 자손이거나, 특정 상황에서 그것의 조상의 인스턴스 대신 사용되는
+    다른 클래스, 유형 또는 인터페이스의 실현을 의미
+  examples: []
+  notes:
+  - 보다 약한 유형의 대체성은 함축된 대용의 상황에서 다양한 제한을 만든다.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: f70ab7b4-ab2a-56b0-88d5-7603b8e93695
+status: retired

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/32556.html
+    ref: ISO/TS 19138:2006
+  concept: fd9b9c23-f9c8-5f08-84df-b5f7768c01da
+  definition: mitatun arvon poikkeama oikeana pidetystä arvosta
+  examples: []
+  notes: []
+dateAccepted: 2013-07-03 00:00:00+00:00
+id: fdd26524-7d40-52bf-851c-1491f356e6b8
+status: retired

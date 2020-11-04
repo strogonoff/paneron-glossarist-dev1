@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.21
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 84079d27-6841-5537-afcf-59be952aa897
+  definition: afstand in een coördinaatsysteem, oostwaarts (positief) of westwaarts
+    (negatief) vanaf een noord-zuid georiënteerde referentielijn
+  examples: []
+  notes:
+  - 'Soms wordt ook de afkorting vertaald: O'
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 99c37d75-4385-542d-8688-f4519f316c9b
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 1650a910-a57e-5ed3-af9f-098f9bb59303
+  definition: начальный тест на функциональное соответствие,  предназначенный для
+    выявления очевидных случаев несоответствия
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 07fda35e-a28d-5285-8cc1-73b70bfa5a3f
+status: valid

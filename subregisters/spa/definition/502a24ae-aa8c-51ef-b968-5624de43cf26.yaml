@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: modified
+    link: https://www.iso.org/standard/36095.html
+    ref: ISO 21000-5
+  concept: e7393215-af96-5a7e-93d3-741fdd584720
+  definition: permiso para actuar que hace que una parte tenga derecho a actuar respecto
+    a todo o parte de un recurso específico bajo los términos de una licencia
+  examples: []
+  notes:
+  - Un derecho especifica una acción (o actividad) o clase de acciones que un principal
+    puede ejecutar sobre o usando el recurso asociado. Un derecho es esencial un derecho
+    reconocido legalmente para hacer algo a o con el contenido de un recurso..
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 502a24ae-aa8c-51ef-b968-5624de43cf26
+status: valid

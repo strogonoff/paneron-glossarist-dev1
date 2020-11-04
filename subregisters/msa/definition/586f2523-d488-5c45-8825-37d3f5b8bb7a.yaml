@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 610fb9da-f587-5fdc-8737-0868117ac73b
+  definition: represantasi suatu konsep oleh suatu tanda yang mewakilinya
+  examples: []
+  notes:
+  - 'In terminology work, three types of designations are distinguished: symbols,
+    appellations and terms.'
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: 586f2523-d488-5c45-8825-37d3f5b8bb7a
+status: valid

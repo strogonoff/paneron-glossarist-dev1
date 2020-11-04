@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: e71964be-efd9-599e-a87f-f208aa074823
+  definition: Sistem atau siri tindakan yang berlaku dengan berterusan atau berkala,
+    dengan cara yang telah ditentukan atau dirancangkan.
+  examples: []
+  notes:
+  - The process may be broken down further into elemental activities [sub process]as
+    is deemed necessary to control the quality of the process.
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: c272d49a-e5e2-5fc0-bca9-5e593a226733
+status: valid

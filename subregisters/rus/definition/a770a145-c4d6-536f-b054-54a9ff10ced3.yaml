@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.28
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 521bf8a1-d0c3-59f3-8fee-9df780fdf89d
+  definition: Датчик, который обнаруживает и собирает все данные для изображения (кадра
+    / прямоугольника) в момент времени
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: a770a145-c4d6-536f-b054-54a9ff10ced3
+status: valid

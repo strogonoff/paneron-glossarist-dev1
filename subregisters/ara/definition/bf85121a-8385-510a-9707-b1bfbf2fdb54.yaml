@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: 52eeaad6-31a4-57a6-a236-e8880fc24696
+  definition: آلية للأغراض العامة لتنظيم العناصر في مجموعات
+  examples: []
+  notes:
+  - الحزم قابلة للتعشيش (أي التداخل) ضمن حزم أخرى. ويمكن لكل من عناصر النماذج والرسومات
+    أن تظهر في الحزمة.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: bf85121a-8385-510a-9707-b1bfbf2fdb54
+status: valid

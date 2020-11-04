@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.14
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 0af79ebf-6489-5f51-bccf-a55cb9a2c604
+  definition: 특정 지형지물 속성값을 가진 개별 지형지물 유형
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: 3d02f0e0-b7db-518b-b908-78d9c9802a11
+status: valid

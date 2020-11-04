@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 6c5d69ed-76aa-5388-a5c3-91754b0e25a1
+  definition: omfattande konvertering av en större mängd data
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 3d9dc688-dff5-5097-b1ed-65f9df1d5f34
+status: valid

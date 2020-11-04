@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 699c95c4-91ce-55c5-9a41-cef92f5a2427
+  definition: evaluación de un subelemento de calidad de datos
+  examples:
+  - El porcentaje de los valores de un atributo que son correctos.
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: c74d7d08-c19b-5a04-986a-d7829a5f86dd
+status: retired

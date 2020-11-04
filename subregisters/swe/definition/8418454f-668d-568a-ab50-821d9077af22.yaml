@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44873.html
+    ref: ISO 19146:2010
+  concept: 5089d082-0888-5e0d-ae68-2ed57b8b90b0
+  definition: jämförelse av termposter från olika områden för att avgöra deras betydelsemässiga
+    likhet
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 8418454f-668d-568a-ab50-821d9077af22
+status: superseded

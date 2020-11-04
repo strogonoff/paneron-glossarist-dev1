@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: Derived from FindLaw for “agent”
+  concept: 6ba91311-ae9d-58c5-a783-f02d63342707
+  definition: titular autorizado para actuar en beneficio y en nombre de otro para
+    tratar con terceros a la hora de conseguir licencias para unos recursos concretos
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: ea7bac1a-f0c5-5063-9334-f239827c5ccc
+status: valid

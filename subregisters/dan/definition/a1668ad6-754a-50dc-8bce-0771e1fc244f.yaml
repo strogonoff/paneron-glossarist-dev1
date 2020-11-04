@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 45e0ef0b-7f48-5bb0-aedf-c4a5dc013205
+  definition: netværk bestående af to eller flere mængder af kurver, hvori elementerne
+    i hver mængde krydser elementerne i de andre mængder på en algoritmisk måde
+  examples: []
+  notes:
+  - Kurverne inddeler et rum i grid-celler.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: a1668ad6-754a-50dc-8bce-0771e1fc244f
+status: valid

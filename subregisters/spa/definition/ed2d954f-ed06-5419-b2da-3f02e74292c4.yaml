@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132
+  concept: ebc56d4b-b7d4-5d65-be1e-d3ee774c981f
+  definition: servicio que proporciona una función básica a otros servicios o aplicaciones
+    de un modo funcional
+  examples: []
+  notes:
+  - compárese con interoperar (4.18).Los servicios básicos carecen tanto de cualquier
+    persistencia como de información de estado específica del usuario entre las invocaciones,
+    y no están pensados para que los usuarios accedan a ellos directamente. Debido
+    a que actúan de una manera funcional, son fácilmente reemplazables en tiempo de
+    ejecución por otros servicios que utilicen las mismas interfaces.
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: ed2d954f-ed06-5419-b2da-3f02e74292c4
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.32
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 2b302f11-17ab-5e0d-a0fe-f2ba073ae670
+  definition: الزاوية من مستوى خط الاستواء إلى الخط المتعامد مع القطع الناقص عبر نقطة
+    معينة باتجاه الشمال حيث تعتبر موجبة
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: af23053e-a572-5fcf-b7c0-815f69db7a97
+status: valid

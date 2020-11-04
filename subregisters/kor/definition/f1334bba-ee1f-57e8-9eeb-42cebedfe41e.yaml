@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 95d7c7bf-8360-5011-bf34-419114dfff98
+  definition: 공통의 특성을 갖는 항목의 집합
+  examples: []
+  notes:
+  - 여기서 클래스는 인스턴스 집합의 추상화된 개념이 아닌, 인스턴스 집합을 언급하기 위해 사용된다.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: f1334bba-ee1f-57e8-9eeb-42cebedfe41e
+status: valid

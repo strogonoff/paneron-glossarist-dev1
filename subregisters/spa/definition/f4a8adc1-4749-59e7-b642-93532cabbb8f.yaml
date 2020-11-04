@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.27'
+    link: https://www.iso.org/standard/63541.html
+    ref: ISO 19104:2016
+  concept: 10ac8808-1857-501f-8585-0601d8bf912a
+  definition: registro que contiene ítems de una sola clase
+  examples:
+  - Un registro que contiene entradas terminológicas en un único idioma específicado.
+  notes: []
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: f4a8adc1-4749-59e7-b642-93532cabbb8f
+status: valid

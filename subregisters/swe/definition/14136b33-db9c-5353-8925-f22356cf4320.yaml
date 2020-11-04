@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: d87e20d9-f14c-5956-a79d-50e4b1cf4e26
+  definition: fysisk eller logisk tvådimensionell struktur där elementen ordnas i
+    rader och kolumner
+  examples: []
+  notes:
+  - En bildskärm är uppbyggd för att visa bilder i form av ett raster.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 14136b33-db9c-5353-8925-f22356cf4320
+status: valid

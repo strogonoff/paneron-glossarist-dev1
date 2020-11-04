@@ -1,0 +1,25 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: 63ec2261-fbe1-54ad-b9f2-f76af200eb1d
+  definition: objeto geográfico lineal que describe un cambio en la suavidad o continuidad
+    de una superficie
+  examples: []
+  notes:
+  - Una línea de quiebre suave garantiza que sobre un objeto geografíco lineal se
+    mantengan los valores conocidos de z (por ejemplo, elevaciones a lo largo de una
+    tubería, el eje de una carretera o una acequia de drenaje), y asegura que los
+    objetos geográficos lineales y los bordes de los polígonos se mantengan en un
+    modelo de superficie de Red Irregular de Triángulos (TIN), por medio de forzar
+    las lineas de quiebre como bordes del TIN. En general, son sinónimo de las líneas
+    de quiebre tridimensionales porque se representan con series de coordenadas x/y/z.
+    De cierto modo, las crestas redondeadas o las depresiones de drenaje se pueden
+    capturar utilizando lineas de quiebre suaves.
+  - Una línea de quiebre fuerte define interrupciones enla suavidad de la superficie
+    por ejemplo, para definir cauces, líneas de costa, represas, crestas, plantas
+    de edificios y otras ubicaciones con cambios abruptos en la superficie.
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: e22de510-85aa-50b3-998d-8b893c960ed4
+status: valid

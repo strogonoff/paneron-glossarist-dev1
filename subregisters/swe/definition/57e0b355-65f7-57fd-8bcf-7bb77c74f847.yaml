@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.13
+    link: https://www.iso.org/standard/72217.html
+    ref: ISO 19146:2018
+  concept: 40a40061-e4a7-5dc1-9168-fa412530d8d3
+  definition: begrepp som associeras med ett visst fackområde
+  examples: []
+  notes:
+  - A concept may be associated with several domains and separately identified as
+    a domain concept in relation to each.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 57e0b355-65f7-57fd-8bcf-7bb77c74f847
+status: valid

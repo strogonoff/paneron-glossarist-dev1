@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/32556.html
+    ref: ISO/TS 19138:2006
+  concept: fd9b9c23-f9c8-5f08-84df-b5f7768c01da
+  definition: 논의의 영역과의 불일치
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 4bd53771-293a-5a70-99eb-8e0bdc4e8d03
+status: retired

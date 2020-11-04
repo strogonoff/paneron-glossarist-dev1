@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/7229.html
+    ref: ISO/IEC 2382-1:1993
+  concept: a7278adc-c7f8-55f5-8542-aa6302330664
+  definition: знание об объектах, например, о фактах, событиях, предметах, процессах
+    или представлениях, в том числе, понятия, которые в определенном контексте имеют
+    конкретный смысл
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 972dcdde-25c4-5fc8-928a-ec4abba67c26
+status: valid

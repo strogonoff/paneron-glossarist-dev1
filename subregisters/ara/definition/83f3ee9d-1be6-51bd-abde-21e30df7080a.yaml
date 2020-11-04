@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: 997200da-4d12-5959-97be-a12f5c54c6e1
+  definition: بيانات وصفية تصف العمليات والمعلومات الجغرافية المتوفرة على خادم معيَّن
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 83f3ee9d-1be6-51bd-abde-21e30df7080a
+status: valid

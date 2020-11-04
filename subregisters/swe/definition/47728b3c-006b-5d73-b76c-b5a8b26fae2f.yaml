@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: bac69a7a-68a8-5295-bb2a-415f70ba59ae
+  definition: avstånd från en punkt till en referensellipsoid, mätt längs ellipsoidnormalen,
+    positiv om punkten ligger utanför ellipsoiden
+  examples: []
+  notes:
+  - 'Only used as part of a three-dimensional ellipsoidal coordinate system and never
+    on its own.
+
+    Används endast som en del i ett geodetiskt koordinatsystem aldrig självständigt.'
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 47728b3c-006b-5d73-b76c-b5a8b26fae2f
+status: superseded

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 53ce0f2f-c91e-534c-a9e2-9291255878a6
+  definition: مجموعة من العقد بعضها موصله بالحواف
+  examples: []
+  notes:
+  - في المعلومات الجغرافية , يمكن للرسم البياني أن يشتمل على أكثر من حافة واحدة تربط
+    بين عقدتين , كما يمكن أن يشتمل على حافة لها نفس العقدة على الطرفين .
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 16046062-88f5-516a-a340-27c615f16fc5
+status: retired

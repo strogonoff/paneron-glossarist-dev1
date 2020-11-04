@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 987db750-08f7-5e09-9716-dab50180014c
+  definition: unidad espacial en el umbral entre las representaciones 2D y 3D
+  examples: []
+  notes: []
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 6435a9bb-ddeb-5bd2-9d56-329b2849ae9d
+status: valid

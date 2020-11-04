@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.3
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: d4ab0042-f943-51c2-a49b-1f6b28205500
+  definition: 물체의 좌표 체계 축과 외부 좌표 체계 축 사이의 각도를 통해 기술되는 물체의 방향
+  examples: []
+  notes:
+  - 측위 서비스의 경우, 보통 항공기, 배, 자동차 등 사용자 플랫폼의 방향을 의미한다.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: b9c42c3c-7936-51a0-97ca-e40cfb5afa90
+status: valid

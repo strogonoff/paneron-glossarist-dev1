@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: 4.1.7
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: 95d7c7bf-8360-5011-bf34-419114dfff98
+  definition: zbiór pozycji mających wspólne właściwości
+  examples: []
+  notes:
+  - Klasa jest użyta w tym kontekście jako odnośnik do zbioru instancji, a nie jako
+    pojęcie wyabstrahowane z tego zbioru instancji.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: e436a27e-4177-5de1-990a-d96813eb0d55
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.1
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 7427ab28-503d-505e-a936-f50cbdf919a2
+  definition: манипулирование данными и их обработка с целью удовлетворения потребностей
+    пользователя
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 4e2b1c60-4587-5c0e-8fe7-3dcc33cf8928
+status: valid

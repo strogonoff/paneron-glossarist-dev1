@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: 1fb6461b-ad52-5ba6-8594-c135bf1401c2
+  definition: تعبير افتراضي مشفر باستخام  XML
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 2094c922-8c4a-5411-830d-3d43c6dfa846
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 3bac65b8-a515-5229-91ab-f1ad0474193c
+  definition: 유한하며 순서를 갖는, 서로 관련성이 있는 반복될 수 있는 항목(객체 또는 값)의 모음
+  examples: []
+  notes:
+  - 논리적으로 연속은 <항목, 오프셋>쌍의 집합이다. 본 표준에서는 괄호로 연속을 구분하고, 연속 내 요소는 콤마로 분리하는 LISP의 문법이
+    사용된다.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 92772a93-0937-53b9-9ff7-1aec08699848
+status: valid

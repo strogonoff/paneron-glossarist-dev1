@@ -1,0 +1,28 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.58
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: a99ecefd-1c5d-54ab-a990-4bd3b91a4c03
+  definition: sellainen kahden joukon (esimerkiksi kahden kompleksin) välinen suhde,
+    jota kuvaavat funktiot säilyttävät rakenteen kummastakin joukosta toiseen 1:1-suhteessa
+    ja näiden kahden funktion yhdistelmä, kummassa järjestyksessä hyvänsä, on vastaava
+    identiteettifunktio
+  examples: []
+  notes:
+  - 'Provisional translation:  19107:2019, 3.58 -- Note 1 to entry
+
+    $$
+
+    ''HUOM. Geometrinen kompleksi on isomorfinen topologisen kompleksin kanssa, jos
+    niiden alkiot ovat toisiinsa ulottuvuuden ja rajauksen säilyttävässä 1:1-suhteessa.
+
+    $$
+
+    A geometric complex is isomorphic to a topological complex if their elements are
+    in a 1-to-1, dimension- and boundary-preserving correspondence to one another.
+    \[[A,B \textit{ isomorphic}] \Leftrightarrow [\exists f : A \rightarrow B, g :
+    B \rightarrow A \backepsilon f \circ g = Id_A, g \circ f = Id_B]\]'
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 9fb31483-f731-5302-ba8e-9b7976f506d4
+status: valid

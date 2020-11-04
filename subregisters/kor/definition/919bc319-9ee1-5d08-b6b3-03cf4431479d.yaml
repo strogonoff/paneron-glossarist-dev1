@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 3.2.4
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 9e160891-b1b3-5996-bc78-8ebbe1467a91
+  definition: 개체 집합 또는 개체의 속성에 대한 추상화
+  examples: []
+  notes:
+  - Characteristics are used for describing concepts.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 919bc319-9ee1-5d08-b6b3-03cf4431479d
+status: valid

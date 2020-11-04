@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.76
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: b663323b-9943-5a8a-adb9-e86e498c3342
+  definition: imaging radar system that simulates the use of a long physical antenna
+    by collecting multiple returns from each target as the actual antenna moves along
+    the track
+  examples: []
+  notes:
+  - The electromagnetic radiation is at microwave frequencies and is sent in pulses.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: e30a046d-c173-537d-9ef4-d58d6d560861
+status: valid

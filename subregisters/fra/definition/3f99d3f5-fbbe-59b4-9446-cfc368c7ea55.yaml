@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.3
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 8b97b2cf-c95a-511a-81f9-b2aa05dbf489
+  definition: paire de nom-valeur contenue dans un élément
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 3f99d3f5-fbbe-59b4-9446-cfc368c7ea55
+status: valid

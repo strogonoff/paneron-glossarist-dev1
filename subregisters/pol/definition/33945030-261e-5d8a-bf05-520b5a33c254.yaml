@@ -1,0 +1,26 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.47
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 17c8de22-4938-5ce3-b12a-5c9bb24ae1e7
+  definition: zbiór rozłącznych prostych elementów geometrycznych, w którym granica
+    każdego prostego elementu geometrycznego może być reprezentowana jako suma innych
+    prostych elementów geometrycznych o mniejszym wymiarze, należących do tego samego
+    zbioru
+  examples: []
+  notes:
+  - Proste elementy geometryczne w zbiorze są rozłączne w tym sensie, że żadne położenie
+    bezpośrednie nie należy do wnętrza więcej niż jednego prostego elementu geometrycznego.
+    Zbiór jest domknięty w ujęciu operacji na granicach to znaczy dla każdego elementu
+    w złożonym elemencie geometrycznym istnieje kolekcja (będąca również złożonym
+    elementem geometrycznym) prostych elementów geometrycznych, które reprezentują
+    granicę tego elementu. Należy pamiętać, że granica punktu (jedyny w geometrii
+    typ 0-wymiarowy prostego elementu geometrycznego) jest pusta. Dlatego też, jeżeli
+    prostym elementem geometrycznym o największym wymiarze w zbiorze jest bryła (obiekt
+    3-wymiarowy), to złożenie operatora granicznego w tej definicji kończy się co
+    najwyżej po trzech krokach. Dotyczy to również przypadku, gdy granicą dowolnego
+    obiektu jest cykl
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 33945030-261e-5d8a-bf05-520b5a33c254
+status: valid

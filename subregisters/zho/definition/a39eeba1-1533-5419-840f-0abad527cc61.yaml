@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: e7a8407c-5607-5b71-b00e-29753fc8a28e
+  definition: 包含有关位置信息的一类或几类要素实例的目录。
+  examples: []
+  notes:
+  - 位置信息不一定是坐标，可以是描述性的。
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: a39eeba1-1533-5419-840f-0abad527cc61
+status: superseded

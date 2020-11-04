@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 3f41e758-940d-5a15-b306-9a2f10fa7d20
+  definition: zbiór elementów metadanych opisujących ten sam aspekt danych
+  examples: []
+  notes:
+  - Może zawierać co najmniej jedną encję metadanych.
+  - Odpowiednik klasy w terminologii UML.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: fe3698ea-4cfb-5732-a5c3-342dd9d0962a
+status: valid

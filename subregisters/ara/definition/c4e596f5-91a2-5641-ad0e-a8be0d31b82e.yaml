@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 145fe334-2ee5-5f23-bd67-8de257df1699
+  definition: شخص معرض لان يكون هدفا للملاحة أو المتابعة والرصد
+  examples: []
+  notes:
+  - يشمل المشاة. أنظر المقياس آيزو 14825. في هذا المقياس الدولي , يمكن استبدال مصطلح
+    "متنقل" بمصطلح "مركبة" دون أن يؤدي ذلك إلى تغيير المعنى.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: c4e596f5-91a2-5641-ad0e-a8be0d31b82e
+status: valid

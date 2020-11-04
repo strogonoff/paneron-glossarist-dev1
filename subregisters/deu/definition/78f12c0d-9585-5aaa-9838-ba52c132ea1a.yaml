@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.84
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 4f7bd705-47c2-5434-b86b-35840982a9e2
+  definition: Tiefenwinkel zwischen der Horizontalebene und dem  Messrichtungsvektor
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 78f12c0d-9585-5aaa-9838-ba52c132ea1a
+status: valid

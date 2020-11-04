@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  concept: e9e8bd57-8911-51e6-b922-4925302a4d61
+  definition: التسلسل  الذي  تعد فيه خلايا الشبكة
+  examples: []
+  notes: []
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 78b4e20f-c8b3-536e-898b-41ddd18e3208
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: b0302a1a-5bab-51fa-9bfb-a5dd692e8496
+  definition: secuencia de enlaces y/o enlaces parciales que describen un camino,
+    habitualmente entre dos posiciones, en una red
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 6a9c67f8-12dd-5e09-bd00-73f494941227
+status: valid

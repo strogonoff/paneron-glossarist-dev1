@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.34
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: ffba2295-ee70-531f-be2f-2b58095499e8
+  definition: último punto de una curva
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2702cc54-4a79-5e30-b8dc-14d360f03995
+status: valid

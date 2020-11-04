@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.46
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 05e6ba33-6fd3-5d76-b8f9-641257e7f264
+  definition: одномерная система координат, в которой единицами измерения по оси являются
+    значения параметра, не являющегося по своей сути пространственным
+  examples: []
+  notes: []
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 56195dcb-3f20-57b9-9896-cfe580f17219
+status: valid

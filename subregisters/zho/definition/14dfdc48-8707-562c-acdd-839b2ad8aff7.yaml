@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 583769ac-8270-5f90-a6fe-7d4cec9a5194
+  definition: 具有惟一标识且可对其执行一组操作的实体和存储操作结果的说明。
+  examples: []
+  notes:
+  - 参见：对象<UML>。
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 14dfdc48-8707-562c-acdd-839b2ad8aff7
+status: superseded

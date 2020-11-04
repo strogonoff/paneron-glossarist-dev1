@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 3a4f108c-d572-5b2c-ab9d-78ab3fe714e4
+  definition: 他と識別可能なデータの集まり。
+  examples: []
+  notes:
+  - 空間範囲又は地物型のような制約によって区切るとしても，データ集合は，より大きいデータ集合の中に位置する，より小さいデータのグループであってもよい。理論的には，データ集合は，より大きなデータ集合に含まれる一つの地物又は地物属性のように小さくてもよい。ハードコピーの地図又は図表は，データ集合と考えてよい。
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: 23b9c277-aa65-5b43-95a2-a9ce2e21c80a
+status: valid

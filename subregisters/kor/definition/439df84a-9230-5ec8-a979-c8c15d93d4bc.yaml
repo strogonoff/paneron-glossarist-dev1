@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: 4.1.19
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 4141d5c2-6e41-5876-9676-925f18618018
+  definition: 특정 업무 수행을 자제해야 할 공식적 또는 비공식적 의무
+  examples:
+  - It is not allowed to build within 200 metres of a fuel station; or, a servitude
+    or mortgage as a restriction to the ownership right.
+  - Sequestration can be registered for baunit as a restriction.
+  notes: []
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 439df84a-9230-5ec8-a979-c8c15d93d4bc
+status: valid

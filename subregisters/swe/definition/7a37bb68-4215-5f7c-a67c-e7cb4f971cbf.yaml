@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 022f0802-382f-5be0-89b7-5436b3c184ce
+  definition: '<i modellsammanhang> sammanhängande
+
+    system av noder och länkar'
+  examples: []
+  notes:
+  - The network is essentially the universe of discourse for the navigation problem.  Networks
+    are a variety of 1-dimensional topological complex. In this light, junction and
+    topological node are synonyms, as are link and directed edge.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 7a37bb68-4215-5f7c-a67c-e7cb4f971cbf
+status: valid

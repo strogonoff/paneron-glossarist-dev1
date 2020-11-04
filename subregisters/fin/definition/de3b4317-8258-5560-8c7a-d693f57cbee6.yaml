@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: b7159c46-daf0-55a5-a3aa-68a999c47519
+  definition: malli, joka määrittelee mallin ilmaisemiseen käytettävän kielen
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: de3b4317-8258-5560-8c7a-d693f57cbee6
+status: superseded

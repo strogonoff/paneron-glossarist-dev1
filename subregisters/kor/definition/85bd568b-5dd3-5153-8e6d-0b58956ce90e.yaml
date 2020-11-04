@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.28
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 521bf8a1-d0c3-59f3-8fee-9df780fdf89d
+  definition: 순간적으로 영상(프레임/직사각형)에 대한 자료 전부를 탐지 및 수집하는 센서
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 85bd568b-5dd3-5153-8e6d-0b58956ce90e
+status: valid

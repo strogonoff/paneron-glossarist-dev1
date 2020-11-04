@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.24'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 1df15419-469b-52af-b70b-51cac6443132
+  definition: 정해진 기간 동안 자원을 사용할 수 있도록 허가해 주고 추후 회수 받는 행위
+  examples: []
+  notes:
+  - During this period, the resource is only available to the lessee. Temporal constraints
+    are required for downstream use.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 3eadd878-ceb6-5105-81ed-97cd0f1bc1ab
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 4e2333ac-28e6-5694-8cc5-39db3801abf0
+  definition: организация или лицо, которое получает продукт
+  examples: []
+  notes:
+  - Заказчик может быть внутренним или внешним по отношению к организации поставщика.
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: d886699a-2ebd-55d1-ac53-2807c827cada
+status: valid

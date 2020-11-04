@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: S-32, Fifth Edition
+    ref: IHO Hydrographic Dictionary
+  concept: e6c8191c-26e1-54c3-8c7e-f12737a77758
+  definition: 'distancia vertical, medida en cualquier parte del buque, desde la superficie
+    del agua
+
+    hasta el fondo de la quilla'
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: c3eb567f-8fc6-5488-b60d-9a0703032843
+status: valid

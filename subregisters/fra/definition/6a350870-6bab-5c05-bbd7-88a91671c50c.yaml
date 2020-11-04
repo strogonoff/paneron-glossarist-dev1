@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 3e4a8e5f-69b1-5952-ac89-a4d5cc620bee
+  definition: classe stéréotypée qui spécifie un domaine d'objets avec les opérations
+    applicables aux objets, sans définir l'implémentation physique de ces objets
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 6a350870-6bab-5c05-bbd7-88a91671c50c
+status: valid

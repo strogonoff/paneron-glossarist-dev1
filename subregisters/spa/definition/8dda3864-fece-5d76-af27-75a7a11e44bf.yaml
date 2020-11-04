@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/61710.html
+    ref: ISO 19160-1:2015
+  concept: d3d943ba-3c64-5ffd-82bb-e9b79f9d43a5
+  definition: descripción de un conjunto de direcciones que comparten los mismos componentes
+    de dirección, operaciones, métodos, relaciones y semántica
+  examples:
+  - '"25 Blue Avenue Hatfield 0028" y "384 Green Street Motherville 2093" son de la
+    misma clase de dirección'
+  - '"PO Box 765 Goodwood 33948" y "PO Box 567 Grayville 98373" son de la misma clase
+    de dirección.'
+  notes: []
+dateAccepted: 2015-12-15 00:00:00+00:00
+id: 8dda3864-fece-5d76-af27-75a7a11e44bf
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: bddc7775-973f-56ca-9d11-f9eab6e1ac25
+  definition: 자원에 관한 정보
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: e7b3fd89-7415-5708-8d3b-301dd4974876
+status: valid

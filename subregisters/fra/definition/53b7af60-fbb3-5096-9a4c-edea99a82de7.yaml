@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  concept: 4788e0b6-a971-5c59-b741-608552e0961b
+  definition: informations nécessaires en un point le long de l'itinéraire dans un
+    réseau permettant à l'itinéraire d'être parcouru
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 53b7af60-fbb3-5096-9a4c-edea99a82de7
+status: valid

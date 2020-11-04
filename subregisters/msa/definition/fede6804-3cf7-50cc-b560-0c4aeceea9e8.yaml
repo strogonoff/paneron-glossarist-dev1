@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 3.4.24
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 0afe7134-ee29-5e37-811b-7b395cb96c38
+  definition: hubungan antara perancangan dan konsep dalam bahasa tertentu di mana
+    satu pernyataan mewakili dua atau lebih konsep berkongsi ciri-ciri tertentu
+  examples: []
+  notes:
+  - 'An example of polysemy is:   bridge   1  "structure to carry traffic over a gap"    2  "part
+    of a string instrument"    3  "dental plate"'
+  - The designation in the relation of polysemy are called polysemes.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: fede6804-3cf7-50cc-b560-0c4aeceea9e8
+status: valid

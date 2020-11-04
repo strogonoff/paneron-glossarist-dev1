@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 16ee326a-ae17-5463-84d7-4e32098ee7fa
+  definition: egenskap hos en instans att utan restriktioner kunna ersätta en instans
+    från sin basklass
+  examples: []
+  notes:
+  - The weaker forms of substitutability make various restrictions on the context
+    of the implied substitution.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 53be8432-9566-51f4-ab8a-c590b97b71f9
+status: retired

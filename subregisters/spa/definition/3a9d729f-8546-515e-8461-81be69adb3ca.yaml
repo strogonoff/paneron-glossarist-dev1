@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: db11ab01-3710-5083-9548-0a80eccfdf78
+  definition: resultado de una operación devuelta por un servidor a un cliente
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 3a9d729f-8546-515e-8461-81be69adb3ca
+status: valid

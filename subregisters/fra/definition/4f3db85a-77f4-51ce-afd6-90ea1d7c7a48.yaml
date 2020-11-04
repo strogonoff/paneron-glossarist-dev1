@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105
+  concept: 58714ced-239c-5a5a-8211-77878d6dab60
+  definition: échec de l'accomplissement d'une ou plusieurs exigences spécifiées
+  examples: []
+  notes: []
+dateAccepted: 2000-11-16 00:00:00+00:00
+id: 4f3db85a-77f4-51ce-afd6-90ea1d7c7a48
+status: valid

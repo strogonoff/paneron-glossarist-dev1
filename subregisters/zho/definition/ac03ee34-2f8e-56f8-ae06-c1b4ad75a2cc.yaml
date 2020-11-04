@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: https://searchcio.techtarget.com/
+  concept: 46bc20ce-ce9a-5565-bb5b-116ad13dc889
+  definition: 在不同上下文环境中可以对同一事物赋予不同含义或用途的特性，确切地说，某一实体如变量、函数或对象可以具有1个以上的形态的特性。
+  examples: []
+  notes:
+  - 有多种不同类型的多态性。
+dateAccepted: 2007-04-15 00:00:00+00:00
+id: ac03ee34-2f8e-56f8-ae06-c1b4ad75a2cc
+status: valid

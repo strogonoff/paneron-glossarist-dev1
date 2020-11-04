@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.8'
+    link: https://www.iso.org/standard/32576.html
+    ref: ISO/TS 19158:2012
+  concept: 7122752a-a5f3-5767-b9b4-144756f8c820
+  definition: assurance level achieved is an outcome of the quality assessment procedure
+  examples: []
+  notes:
+  - 'Three quality assurance levels can be achieved as part of the quality assurance
+    framework: basic, operational and full.'
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: bf8172cb-760d-55ae-a5c1-bb2a29c01afa
+status: valid

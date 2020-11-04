@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 022184d7-568f-53ea-85d3-f94b230eb791
+  definition: 부분 인스턴스는 동시에 하나의 합성에 포함되며, 합성 객체가 부분들의 생성, 제거에 대한 책임을 갖는 집합 연관의 형태
+  examples: []
+  notes:
+  - '합성 이후 정해지지 않은 다중성이 추가 생성될 수 있지만, 한번 생성된 부분들은 합성과 생명 주기를 같이한다. 물론 이러한 부분들은 합성
+    연관이 해체되기 전, 명시적으로 제거할 수 있다. 합성은 순환적일 수 있다. 동의어: 합성 연관'
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 76200728-4aad-53bb-a122-2f960fb07f41
+status: superseded

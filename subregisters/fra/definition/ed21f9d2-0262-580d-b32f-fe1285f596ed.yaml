@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133
+  concept: eba1913c-c286-518d-aa9d-56f45f6c40ee
+  definition: conversion d'une forme de localisation en une autre
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: ed21f9d2-0262-580d-b32f-fe1285f596ed
+status: valid

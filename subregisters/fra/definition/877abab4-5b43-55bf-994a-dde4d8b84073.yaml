@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111
+  concept: ceae7964-9639-54d8-953d-778411018218
+  definition: méridien à partir duquel les longitudes des autres méridiens sont mesurées
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 877abab4-5b43-55bf-994a-dde4d8b84073
+status: valid

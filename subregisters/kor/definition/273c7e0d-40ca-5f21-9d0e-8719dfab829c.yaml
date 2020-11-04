@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.23'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: d253b2ae-5c00-5d40-85a6-c0dcea54ad4e
+  definition: 자료 품질 평가, 결과, 사용 측정에 관한 완전한 정보를 제공하는 자유형 텍스트 문서
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: 273c7e0d-40ca-5f21-9d0e-8719dfab829c
+status: valid

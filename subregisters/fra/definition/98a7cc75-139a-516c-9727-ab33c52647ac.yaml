@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26017.html
+    ref: ISO 19112:2003
+  concept: e7a8407c-5607-5b71-b00e-29753fc8a28e
+  definition: répertoire des instances d'une classe ou de classes d'entités contenant
+    des informations relatives à la position
+  examples: []
+  notes: []
+dateAccepted: 2003-10-15 00:00:00+00:00
+id: 98a7cc75-139a-516c-9727-ab33c52647ac
+status: superseded

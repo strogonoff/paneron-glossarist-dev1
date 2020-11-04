@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: d87e20d9-f14c-5956-a79d-50e4b1cf4e26
+  definition: прямоугольная, как правило, решетка [сетка] параллельных линий сканирования,  формирующая
+    изображение на электронно-лучевой трубке или соответствующая такому изображению
+  examples: []
+  notes:
+  - Растр является типом сетки
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 0372c37c-b6ef-5cb9-825a-e00cd88784ea
+status: valid

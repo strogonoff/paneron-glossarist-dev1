@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 482f5a0f-5835-5fd1-9519-10b6dbef5394
+  definition: conexión topológica dirigida entre dos nodos (cruces) que consta de
+    un arco y una dirección
+  examples: []
+  notes:
+  - Enlace es un sobrenombre de arco orientado.
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 1fbcf2c6-5a5f-592d-9dfe-cec5a6af4d57
+status: valid

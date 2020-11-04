@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.41
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: f9633ee2-d3e7-544b-bd6c-cebcf73b57e5
+  definition: rule that associates each element from a domain ("source domain," or
+    "domain" of the function) to a unique element in another domain ("target domain,"
+    "co-domain," or "range" of the function)
+  examples: []
+  notes: []
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: a6c178dc-f5ae-5e33-ae34-deae13808e94
+status: valid

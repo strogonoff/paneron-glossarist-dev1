@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: fc247d31-5f67-565e-bfb0-4b77b48ac1d1
+  definition: producto de primer nivel producido procesando los datos de la historia
+    de fase de un Radar de Apertura Sintética (SAR)
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 5912cddc-d4a9-5c47-9c9a-94bd5afdc019
+status: valid

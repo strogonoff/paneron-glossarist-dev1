@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: b1489653-9925-5652-894e-8206f9e33e0d
+  definition: part of a linear feature that is distinguished from the remainder of
+    that feature by a subset of attributes, each having a single value for the entire
+    part
+  examples: []
+  notes:
+  - A linear segment is a one-dimensional object without explicit geometry.
+  - The implicit geometry of the linear segment can be derived from the geometry of
+    the parent feature.
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: f25e859e-a375-5625-95d9-c45582ce877d
+status: valid

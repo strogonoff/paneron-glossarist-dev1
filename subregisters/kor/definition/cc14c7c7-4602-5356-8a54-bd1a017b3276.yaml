@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 403a43ef-6178-5e64-95da-a4201e6bcf17
+  definition: 유한적인 관련 항목(객체 또는 값)의 명명된 모음
+  examples: []
+  notes:
+  - 논리적으로 레코드는 <이름, 항목> 쌍의 집합이다.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: cc14c7c7-4602-5356-8a54-bd1a017b3276
+status: valid

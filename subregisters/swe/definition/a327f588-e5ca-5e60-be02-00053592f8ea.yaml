@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 5514534e-edd9-5bb0-8c16-b5a08ceacc54
+  definition: tjänst som endast är tillgänglig från en viss position eller ett visst
+    område
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: a327f588-e5ca-5e60-be02-00053592f8ea
+status: valid

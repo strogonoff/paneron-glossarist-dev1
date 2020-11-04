@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.41'
+    link: https://www.iso.org/standard/32571.html
+    ref: ISO 19153:2014
+  concept: 84bcdf21-9f4a-5d4f-8dfb-37dc4e311ffe
+  definition: 결함 또는 결점을 수정하는 처리 과정
+  examples: []
+  notes:
+  - Remediation allows more trust because it lowers expected risk. The first act in
+    a remediation sequence is detection of the fault.
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 5b53d385-43e7-520b-b8a4-d070404a6f7e
+status: valid

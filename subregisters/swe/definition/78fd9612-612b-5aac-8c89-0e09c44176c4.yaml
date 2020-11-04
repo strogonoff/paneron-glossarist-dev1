@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 43650201-9bb4-5b77-8f13-67d85e1565f9
+  definition: uppdelning av ett plan eller ett rum i sammanhängande delar
+  examples:
+  - Graphic examples of tessellations may be found in Figures 11, 13, 20 and 22 of
+    this International Standard
+  notes:
+  - A tessellation composed of congruent regular polygons or polyhedra is a regular
+    tessellation. One composed of regular, but non-congruent polygons or polyhedra
+    is a semi-regular tessellation. Otherwise the tessellation is irregular.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 78fd9612-612b-5aac-8c89-0e09c44176c4
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.61
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 1650b683-2946-53df-b01c-8998af5b6ce3
+  definition: схема приложения на UML, разработанная в соответствии с ISO 19109
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: dd10ed9f-f123-52c7-b8cf-c1d0e5eba173
+status: valid

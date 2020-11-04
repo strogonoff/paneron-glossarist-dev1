@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - ref: Derived from FindLaw for “agent”
+  concept: 6ba91311-ae9d-58c5-a783-f02d63342707
+  definition: 특정 자원에 대한 허가증 발행시 제3자와 관련 문제를 다룰 수 있도록 본인을 대신하거나 본인의 통제하에 업무를 수행하는 관계자
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: ece3355f-7e94-58ff-ad7b-289c3745e0d2
+status: valid

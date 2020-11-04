@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  concept: b36c2070-dad5-5e8a-9b21-035ccbc983a0
+  definition: tabell för en objekttyp utformad så att kolumnerna avser dess attribut
+    och raderna motsvarar olika dataförekomster
+  examples: []
+  notes: []
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: 6522be5c-8850-52c0-8535-50b77e13e65e
+status: valid

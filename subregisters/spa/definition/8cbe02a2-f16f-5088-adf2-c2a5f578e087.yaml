@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.43
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: e0698e74-9335-52ac-b998-6fe6884a0d2b
+  definition: magnitud del vector alcance proyectado en el terreno
+  examples: []
+  notes:
+  - El rango terrestre de una imagen se representa mediante la distancia entre el
+    punto nadiral de la antena y un punto de la escena. Normalmente se mide en el
+    plano horizontal, pero también se puede medir como distancia verdadera sobre el
+    terreno, MDE, geoide o superficie elipsoidal.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 8cbe02a2-f16f-5088-adf2-c2a5f578e087
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.10'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 66e14a20-d3b3-5b78-9351-4c1edf1192ce
+  definition: mouvement de donnée d'un point à un autre via un media
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 5a55b9c7-55ac-5380-9c34-b4bee3dc41dc
+status: valid

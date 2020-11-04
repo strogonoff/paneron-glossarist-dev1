@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.12
+    link: https://www.iso.org/standard/32563.html
+    ref: ISO 19145:2013
+  concept: 12321a17-f542-5f1f-a338-bd1f970a0864
+  definition: 공지된 형식내 지리점 위치를 구문적 서술한 것
+  examples: []
+  notes: []
+dateAccepted: 2013-02-15 00:00:00+00:00
+id: 1830c54c-210d-5dc7-b8df-6ea91278021f
+status: valid

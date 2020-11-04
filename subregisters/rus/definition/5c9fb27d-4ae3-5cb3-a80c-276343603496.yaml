@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44459.html
+    ref: ISO 19110:2005/Amd 1:2011
+  concept: 09078ab2-ec39-5447-8b92-7469b1b44d60
+  definition: механизм, с помощью которого более конкретные объекты включают структуру
+    и поведение более общих объектов, связанных поведением
+  examples: []
+  notes: []
+dateAccepted: 2011-06-15 00:00:00+00:00
+id: 5c9fb27d-4ae3-5cb3-a80c-276343603496
+status: valid

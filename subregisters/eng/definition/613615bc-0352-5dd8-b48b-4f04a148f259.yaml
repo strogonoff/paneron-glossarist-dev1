@@ -1,0 +1,17 @@
+data:
+  authoritative_source:
+  - clause: 3.4.1.4
+    link: https://www.iso.org/standard/40362.html
+    ref: ISO 10241-1:2011
+  concept: b4c076c4-f4a1-5e30-b7bd-00c7b7ea4a2f
+  definition: designation having the same written form as another designation representing
+    a different concept
+  examples:
+  - The homographic term “die” as a noun represents different concepts in the domains
+    of manufacturing, integrated circuits and table-top games.
+  - The homographic graphical symbol (e.g. in an airport or train station) may mean
+    “up” (e.g. an escalator) or “straight ahead” depending on the location’s surroundings.
+  notes: []
+dateAccepted: 2016-10-01 00:00:00+00:00
+id: 613615bc-0352-5dd8-b48b-4f04a148f259
+status: valid

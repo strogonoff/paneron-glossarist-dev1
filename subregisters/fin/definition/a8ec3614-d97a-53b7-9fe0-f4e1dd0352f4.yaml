@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.32
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 2b302f11-17ab-5e0d-a0fe-f2ba073ae670
+  definition: pisteen kautta kulkevan ellipsoidin normaalin ja päiväntasaajatason
+    välinen kulma; positiivinen pohjoisella pallonpuoliskolla
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: a8ec3614-d97a-53b7-9fe0-f4e1dd0352f4
+status: valid

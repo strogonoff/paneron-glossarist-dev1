@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.15
+    link: https://www.iso.org/standard/54721.html
+    ref: ISO 19135-1:2015
+  concept: a730d9c7-aa91-5acc-8e63-86938a7212a6
+  definition: organizacja mająca autoryzację właściciela rejestru do proponowania
+    zmian zawartości rejestru
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 6c2312c4-fe82-5309-93fd-9ede204a4e58
+status: valid

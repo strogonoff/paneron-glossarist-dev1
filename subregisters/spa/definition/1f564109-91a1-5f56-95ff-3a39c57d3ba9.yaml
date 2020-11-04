@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.28
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 22e18a63-d42c-5424-b56c-385fcaae07bd
+  definition: razón de la diferencia entre el semieje mayor (a) y el semieje menor
+    (b) de un elipsoide con el semieje mayor; f = (a - b) / a
+  examples: []
+  notes:
+  - a veces en su lugar se da la inversa del achatamiento 1/f = a/(a-b); 1/f también
+    se conoce como el recíproco del achatamiento.
+dateAccepted: 2015-08-15 00:00:00+00:00
+id: 1f564109-91a1-5f56-95ff-3a39c57d3ba9
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.3'
+    link: https://www.iso.org/standard/53798.html
+    ref: ISO 19115-1:2014
+  concept: 3a4f108c-d572-5b2c-ab9d-78ab3fe714e4
+  definition: collection identifiable de données
+  examples: []
+  notes:
+  - il y a une ambiguïté avec le vocabulaire INSPIRE, qui a traduit dataset par série
+    de données.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: dd970ae2-35c7-5448-bdcf-c1467eef1319
+status: valid

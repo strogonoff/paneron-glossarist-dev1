@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: ea217765-f082-5aa6-9707-994a8c0c9fc0
+  definition: objektsamband som avser tidsaspekt
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 13571920-f4c7-5d0a-adfe-a997c99cc95e
+status: valid

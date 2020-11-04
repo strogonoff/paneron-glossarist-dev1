@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.97
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: e97a476d-3176-5e63-a30d-725a0de3e599
+  definition: 在边界操作中闭合的拓扑单形的集合。
+  examples: []
+  notes:
+  - 在边界操作中闭合，意味着如果一个拓扑单形在该拓扑复形中，则它的边界对象也在该拓扑复形中。
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: cfce32ff-aef6-5b68-85f9-0cf8751a5e09
+status: valid

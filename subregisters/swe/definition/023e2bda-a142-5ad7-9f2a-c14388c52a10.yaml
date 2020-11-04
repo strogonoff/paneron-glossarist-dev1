@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  concept: f9328edc-5329-525a-a1e8-a29add824e11
+  definition: informationsperspektiv på ett applikationsschema
+  examples: []
+  notes:
+  - The term "information view" comes from the ISO Reference Model for Open Distributed
+    Processing (RM-ODP) as specified in 19101-2.
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 023e2bda-a142-5ad7-9f2a-c14388c52a10
+status: valid

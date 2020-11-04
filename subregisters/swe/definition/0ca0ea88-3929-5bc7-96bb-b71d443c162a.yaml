@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.56
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 1bcd3f49-d210-5d30-890e-32350e1e8b45
+  definition: bredden hos reflektionen från en liten punktreflektor, tillika minsta
+    avståndet mellan två punktreflektorer som kan urskiljas som två objekt
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 0ca0ea88-3929-5bc7-96bb-b71d443c162a
+status: valid

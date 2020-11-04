@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: b8b15aa5-ebee-5508-a48c-60c66c0cb1b8
+  definition: relation mellem to domæner (som fx to komplekser), således at der er
+    en strukturbevarende funktion fra den ene til den anden
+  examples: []
+  notes:
+  - Homomorfismer adskiller sig fra isomorfismer ved, at der ikke kræves en omvendt
+    funktion. I en isomorfisme er der grundlæggende to homomorfismer, som er funktionsmæssigt
+    omvendte af hinanden. Kontinuerte funktioner er topologiske homomorfismer, da
+    de bevarer "topologiske karakteristika". Mapning af topologiske komplekser til
+    deres geometriske realiseringer bevarer princippet om afgrænsning og er derfor
+    en homomorfisme.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b29b1354-83d3-5985-963d-677e894f3561
+status: superseded

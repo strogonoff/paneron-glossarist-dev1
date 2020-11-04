@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.70
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: aa510b85-da5b-57e2-9475-f4fa1a6a74dd
+  definition: направление вектора дальности
+  examples: []
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: aa77e055-1f3d-569a-958d-340c312a72ca
+status: valid

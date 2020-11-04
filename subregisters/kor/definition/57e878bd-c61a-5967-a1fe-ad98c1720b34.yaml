@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: be46792d-05d5-527d-91b0-1269595f584b
+  definition: 커버리지 영역 내의 함수와 함수 요소에 연관된 피처 속성 값의 집합
+  examples: []
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 57e878bd-c61a-5967-a1fe-ad98c1720b34
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 43344492-9056-500c-9123-861d80a573af
+  definition: 수직 데이텀을 바탕으로한 1차원 좌표 참조 체계
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: a7ac1228-4060-5a5a-8450-229d95bd5803
+status: superseded

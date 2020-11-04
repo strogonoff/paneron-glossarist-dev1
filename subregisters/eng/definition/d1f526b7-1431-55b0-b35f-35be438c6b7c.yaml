@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '3.7'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 5494a0c6-e28a-5a73-8db7-2cfbcae1b7eb
+  definition: operation that every instance of a feature type may perform
+  examples:
+  - A feature operation upon a 'dam' is to raise the dam.  The results of this operation
+    are to raise the height of the 'dam' and the level of water in a 'reservoir'.
+  notes:
+  - Sometimes feature operations provide a basis for feature type definition.
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: d1f526b7-1431-55b0-b35f-35be438c6b7c
+status: valid

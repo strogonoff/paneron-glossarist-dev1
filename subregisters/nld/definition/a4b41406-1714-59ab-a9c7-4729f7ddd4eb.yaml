@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 9ec67dbe-e23a-5730-bb86-49d63b8006d2
+  definition: hoogte die gerelateerd is aan het zwaartekrachtveld van de aarde
+  examples: []
+  notes:
+  - Dit slaat in het bijzonder op orthometrische hoogten en normaal hoogten welke
+    beide benaderingen zijn van de hoogte van een punt boven gemiddeld zeeniveau.
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: a4b41406-1714-59ab-a9c7-4729f7ddd4eb
+status: superseded

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.20
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 487018fd-38a1-5a76-a34a-02f3470b6246
+  definition: reference frame in which the defining parameters include time evolution
+  examples: []
+  notes:
+  - The defining parameters that have time evolution are usually a coordinate set.
+dateAccepted: 2019-01-31 00:00:00+00:00
+id: a0c98fcd-8749-5f57-862e-09ff9a337518
+status: valid

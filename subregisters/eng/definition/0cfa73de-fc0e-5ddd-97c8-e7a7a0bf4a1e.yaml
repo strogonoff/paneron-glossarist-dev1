@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/44075.html
+    ref: ISO 19111-2:2009
+  concept: 4ddd84fc-d5ef-5fdd-bd0e-d98d5ab54dc4
+  definition: compound coordinate reference system in which one constituent coordinate
+    reference system is a parametric coordinate reference system and one is a spatial
+    coordinate reference system.
+  examples: []
+  notes:
+  - Normally the spatial component is "horizontal" and the parametric component is
+    "vertical".
+dateAccepted: 2009-08-15 00:00:00+00:00
+id: 0cfa73de-fc0e-5ddd-97c8-e7a7a0bf4a1e
+status: superseded

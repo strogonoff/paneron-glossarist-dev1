@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 561d7293-8f8a-5107-af9f-a70e6521b759
+  definition: nät av trianglar där varje triangel är ur utformad så att en cirkel
+    som omskriver triangeln endast innehåller den egna triangelns hörn
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: dd6e3033-778d-5e64-a673-3976347323c8
+status: valid

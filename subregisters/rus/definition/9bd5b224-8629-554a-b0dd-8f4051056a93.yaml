@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  concept: f9328edc-5329-525a-a1e8-a29add824e11
+  definition: информационное представление схем приложений
+  examples: []
+  notes:
+  - Термин “представление информации” взят из ISO Reference Model for Open Distributed
+    Processing (RM-ODP)согласно определению в 19101-2.
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 9bd5b224-8629-554a-b0dd-8f4051056a93
+status: valid

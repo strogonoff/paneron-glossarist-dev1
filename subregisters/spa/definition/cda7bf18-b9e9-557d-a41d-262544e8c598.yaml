@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: 7d9cad17-491f-59ce-b732-971808bec4db
+  definition: datos acerca de los datos
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: cda7bf18-b9e9-557d-a41d-262544e8c598
+status: superseded

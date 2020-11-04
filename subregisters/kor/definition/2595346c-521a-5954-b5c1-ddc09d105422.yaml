@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: b3a7a168-e661-5228-9730-0578a7cab590
+  definition: 일반적으로 ARP에서 측정되는 플랫폼 수평면에서 사선거리방향으로의 수직각
+  examples: []
+  notes:
+  - Approximately the complement of the look angle
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 2595346c-521a-5954-b5c1-ddc09d105422
+status: valid

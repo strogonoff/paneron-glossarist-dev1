@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 7-15
+    link: https://www.iso.org/standard/31892.html
+    ref: ISO 80000-7:2008
+  concept: c38d2719-5fed-57e9-930f-d95e1b0a4e2f
+  definition: 특정 방향에서 표면점에서 표면 물질의 복사 강도를 이 수직면 물질의 영역으로 나눈 것
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 5659b6be-05b9-5811-aefb-58250da17317
+status: valid

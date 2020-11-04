@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.4
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: d1c850af-2a22-57ba-9efd-4af974729263
+  definition: opération sur une coordonnée consistant en l'application successive
+    d'opérations multiples sur la coordonnée
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 4ac2258d-6d8e-545d-8710-05da267bdb73
+status: valid

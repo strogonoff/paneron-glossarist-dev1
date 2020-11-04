@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 564d1bb1-6321-5934-89c7-58b5aaa7b69e
+  definition: number of elements in a set
+  examples: []
+  notes:
+  - 'Contrast: multiplicity.'
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: ff352906-a2af-5e5c-9d86-148e3adb8b99
+status: valid

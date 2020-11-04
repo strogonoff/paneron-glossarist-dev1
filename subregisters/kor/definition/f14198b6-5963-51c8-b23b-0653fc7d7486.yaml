@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.61
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: d8fa61ce-daf7-5efb-8365-584a0aadc5f8
+  definition: 독립적 출처로부터 에너지를 탐지하고 수집하는 센서
+  examples:
+  - Many optical sensors collect reflected solar energy.
+  notes: []
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: f14198b6-5963-51c8-b23b-0653fc7d7486
+status: valid

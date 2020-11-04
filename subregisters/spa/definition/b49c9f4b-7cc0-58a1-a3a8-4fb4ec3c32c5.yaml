@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '3.9'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 45559767-0999-57b4-8431-07416cca9f18
+  definition: cadena de texto que especifica el nombre y los parámetros requeridos
+    para invocar una operación
+  examples: []
+  notes:
+  - Puede contener parámetros opcionales de retorno. Esta signatura normalmente se
+    deriva de la definición formal. Es el equivalente a una firma UML.
+dateAccepted: 2016-12-01 00:00:00+00:00
+id: b49c9f4b-7cc0-58a1-a3a8-4fb4ec3c32c5
+status: valid

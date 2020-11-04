@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 8d56b07f-a144-5d49-a9da-a42ddd5178fb
+  definition: objeto geométrico unidimensional que se utiliza para representar una
+    componente continua de una curva que usa métodos de interpolación y definición
+    homogéneos
+  examples: []
+  notes:
+  - El conjunto geométrico representado por un único segmento de curva es equivalente
+    a una curva.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 5f9c77a2-5826-534f-9ab7-509e0ef9c0b0
+status: retired

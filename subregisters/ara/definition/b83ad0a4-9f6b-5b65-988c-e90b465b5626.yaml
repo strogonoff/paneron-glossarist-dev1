@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.43
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: fd5323bb-2f2d-55aa-8bc7-d27f9a6b6e7c
+  definition: مسافة في نظام للإحداثيات ، باتجاه الشمال ( موجبة ) أو باتجاه الجنوب
+    (سالبة) مُقاسةً من خط مرجعي ممتد شرقا وغربا
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: b83ad0a4-9f6b-5b65-988c-e90b465b5626
+status: valid

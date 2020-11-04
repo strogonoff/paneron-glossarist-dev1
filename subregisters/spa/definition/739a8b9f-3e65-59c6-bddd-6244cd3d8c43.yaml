@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.20
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 68ab9c97-d1a3-5e72-b195-016fd40fd8bb
+  definition: cambio en la longitud de onda debido al movimiento relativo entre el
+    objeto y el detector
+  examples: []
+  notes:
+  - En el contexto SAR, es el cambio de frecuencia que sufre una señal radar debido
+    al movimiento relativo entre el transmisor y el objeto irradiado
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 739a8b9f-3e65-59c6-bddd-6244cd3d8c43
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 022184d7-568f-53ea-85d3-f94b230eb791
+  definition: forme d'agrégation exigeant qu'une instance composante soit incluse
+    dans au plus un composite à la fois, et que l'objet composite soit responsable
+    de la création et de la destruction des instances composantes
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 19d70065-dfad-5a37-b655-07026a148feb
+status: superseded

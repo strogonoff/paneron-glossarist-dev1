@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '3.8'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 8248101a-7fd7-526e-bfbb-000a1995fba1
+  definition: język w którym formalnie określane są operacje obiektów
+  examples: []
+  notes:
+  - W języku funkcyjnym typy obiektów mogą być reprezentowane przez abstrakcyjne typy
+    danych.
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 371c4723-59cd-549c-a3d9-2a2026fe0df7
+status: valid

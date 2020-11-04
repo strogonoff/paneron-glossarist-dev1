@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.53
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 88a1736d-e209-52c5-92a0-d23f40c226a1
+  definition: 타원체의 최장 반지름
+  examples: []
+  notes:
+  - 지구 타원체의 장반경은 적도 반경이다.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 365311ad-1cc2-5d5b-b3b0-4ea429b77f1b
+status: valid

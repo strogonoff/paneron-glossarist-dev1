@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: Fifth Edition
+    ref: IHO Hydrographic Dictionary S-32
+  concept: 3861ccfc-30d7-5521-81b2-49b4cc03ad1a
+  definition: ascenso y descenso oscilatorio de un barco al ser levantado su casco  por
+    la fuerza del mar
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: b23d1f37-9230-512a-9f48-2c568da92c7d
+status: valid

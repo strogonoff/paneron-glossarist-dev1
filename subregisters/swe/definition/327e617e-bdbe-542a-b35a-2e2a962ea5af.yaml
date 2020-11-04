@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/51206.html
+    ref: ISO 19152:2012
+  concept: 62e5a5f4-3b25-5f78-8609-dd822cd42a21
+  definition: angivet samband mellan gränssatta områden eller mellan reglerade objekt
+  examples: []
+  notes:
+  - Due to legal aspects, history of data, inaccurate geometries or missing geometries,
+    geospatial overlay techniques may generate invalid, or no relationships between
+    spatial units, which can be introduced by required relationships.
+  - Relationships for spatial units may be defined with ISO 19125-2 types.
+dateAccepted: 2012-12-01 00:00:00+00:00
+id: 327e617e-bdbe-542a-b35a-2e2a962ea5af
+status: valid

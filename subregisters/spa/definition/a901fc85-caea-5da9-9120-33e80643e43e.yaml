@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.9'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 8c3af55a-87b6-574f-a845-732fed33b748
+  definition: objeto unidimensional que sirve como eje a lo largo del cual se realiza
+    la referencia lineal
+  examples:
+  - 'S Fenómeno (4.4), tal como "carretera": geometría curva; primitiva topológica
+    de arcos dirigidos'
+  notes:
+  - También conocido como elemento curvilíneo
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: a901fc85-caea-5da9-9120-33e80643e43e
+status: valid

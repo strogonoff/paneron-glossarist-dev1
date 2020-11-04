@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 676d1d6a-ae13-5ac9-8d9a-726e9ed7c0e4
+  definition: правило преобразования экземпляров во входных структурах данных в экземпляры  выходных  структур
+    данных
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: a9e00ad7-08a9-55a4-9b90-9eff295f5dcf
+status: valid

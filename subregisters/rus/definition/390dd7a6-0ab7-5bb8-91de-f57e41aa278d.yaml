@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: d8ebd211-773e-566d-bb73-d7ca03e17b61
+  definition: геометрический объект, содержащий все точки, расстояния от которых до
+    заданного геометрического объекта меньше или равны заданной величине
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 390dd7a6-0ab7-5bb8-91de-f57e41aa278d
+status: superseded

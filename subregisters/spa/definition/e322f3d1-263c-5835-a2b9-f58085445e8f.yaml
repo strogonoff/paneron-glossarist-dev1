@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.6'
+    link: https://www.iso.org/standard/32581.html
+    ref: ISO/TS 19163-1:2016
+  concept: 5e9002cc-d996-582c-97f9-a84df8b5aad2
+  definition: imagen producida al fusionar imágenes de múltiples fuentes
+  examples: []
+  notes: []
+dateAccepted: 2016-01-15 00:00:00+00:00
+id: e322f3d1-263c-5835-a2b9-f58085445e8f
+status: valid

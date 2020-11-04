@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 9ba40ed5-ece8-555e-b4b4-2fefe33c76db
+  definition: 구현된 결과가 검수 기준을 만족하는지에 대한 결정 과정
+  examples: []
+  notes:
+  - 사용자 요구 사항에 맞게 구현되는지를 시연하는 여러 종류의 시험(기능 시험, 용량 시험, 성능 시험 등)을 기획하고 실행하는 것이 검수 시험에
+    포함된다.
+  - 검수 시험은 적합성 시험의 일부가 아니다.
+dateAccepted: 2007-06-29 00:00:00+00:00
+id: 4c4e57f5-242f-5805-8544-e54db7aa2334
+status: valid

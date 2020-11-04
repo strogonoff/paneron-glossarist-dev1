@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.25
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: 94d80f6e-5691-5c1b-b303-18fabfe1cc85
+  definition: 표고시차가 제거되고 센서 방향 변위로 인해 영상점이 이동하고 기준해수면에 직교 투영된 영상
+  examples: []
+  notes:
+  - The amount of displacement depends on the resolution and the level of detail of
+    the elevation information and on the software implementation.
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: cebdd5f7-e08b-5dbc-867f-15dd69f960cc
+status: valid

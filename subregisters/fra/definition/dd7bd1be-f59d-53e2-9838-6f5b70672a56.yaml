@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128
+  concept: d02c5ba2-6268-5a0d-a263-257e652f3d2c
+  definition: une instance particulière d'un service
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: dd7bd1be-f59d-53e2-9838-6f5b70672a56
+status: valid

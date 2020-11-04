@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0de67aa8-fb4a-50af-b739-f72651bc5b37
+  definition: 어디에서나 중력 방향에 수직이며, 국지적 또는 전지구적으로 평균 해수면에 가장 근접하는 지구 중력 등위 표면
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 533d5632-7168-5330-a210-46b1011902e7
+status: superseded

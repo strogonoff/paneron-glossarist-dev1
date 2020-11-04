@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: UML 1
+  concept: 496d7ef8-0f46-5dcf-bfeb-97add1189d3e
+  definition: descripción de un conjunto de objetos que comparten los mismos atributos,
+    operaciones, métodos, relaciones y semántica
+  examples: []
+  notes:
+  - Una clase puede utilizar un conjunto de interfaces para especificar colecciones
+    de operaciones que se proporcionan para su entorno.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 3d379fb7-e3e6-519d-8094-f99c5df40595
+status: valid

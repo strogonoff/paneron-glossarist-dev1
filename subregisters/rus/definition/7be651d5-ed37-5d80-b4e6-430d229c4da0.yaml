@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/43041.html
+    ref: ISO/TS 19129:2009
+  concept: b5c9e378-237e-5190-8aef-257c51e82a4c
+  definition: прямоугольный массив чисел
+  examples: []
+  notes:
+  - матрица - математический термин
+dateAccepted: 2009-04-01 00:00:00+00:00
+id: 7be651d5-ed37-5d80-b4e6-430d229c4da0
+status: valid

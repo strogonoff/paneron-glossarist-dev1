@@ -1,0 +1,22 @@
+data:
+  authoritative_source:
+  - clause: 4.1, modified – The preferred term is "measurement accuracy" rather than
+      "accuracy" and Notes 1 to 3 have been added.
+    link: https://www.iso.org/standard/39242.html
+    ref: ISO 6709:2008
+  concept: 7f7042d6-e117-51b5-b45d-ec2a4746f353
+  definition: grado de cercanía entre el resultado de una prueba o una medición y
+    el valor verdadero
+  examples: []
+  notes:
+  - El concepto "exactitud de una medición" no es una cantidad y no se da como un
+    valor numérico. Se dice que una medición es más exacta cuanto tiene un error menor
+    de medición.
+  - El término "exactitud de una medición" no se debe utilizar para veracidad de la
+    medición y el término precisión de la medición no se debe usar para "exactitud
+    de la medición", que, sin embargo, está relacionado con ambos conceptos.
+  - '"Exactitud de la medición" a veces se entiende como el grado de concordancia
+    entre las cantidades medidas que se han atribuido a un mensurando.'
+dateAccepted: 2014-07-15 00:00:00+00:00
+id: 5100c723-11bb-51cd-a2ce-4e67a66c493e
+status: valid

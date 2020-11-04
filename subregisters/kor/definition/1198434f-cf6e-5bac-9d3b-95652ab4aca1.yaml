@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 699c95c4-91ce-55c5-9a41-cef92f5a2427
+  definition: 데이터 품질 하위 요소의 산출
+  examples:
+  - 백분율로 표현된 속성 값
+  notes: []
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 1198434f-cf6e-5bac-9d3b-95652ab4aca1
+status: retired

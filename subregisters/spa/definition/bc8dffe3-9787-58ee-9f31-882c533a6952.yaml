@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 8bffaf55-5e60-5e4f-b36d-73126661a5e0
+  definition: colección de tuplas de coordenadas relacionadas con el mismo sistema
+    de referencia de coordenadas
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: bc8dffe3-9787-58ee-9f31-882c533a6952
+status: superseded

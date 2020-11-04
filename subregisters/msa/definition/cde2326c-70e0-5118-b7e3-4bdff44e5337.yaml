@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.12
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 9903de21-55d9-5ed9-b023-b1b0011c92e2
+  definition: sistem kedudukan yang menggunakan akselerometer, giroskop, dan komputer
+    sebagai komponen penting untuk menentukan koordinat titik atau objek relatif kepada
+    titik rujukan awal yang diketahui
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: cde2326c-70e0-5118-b7e3-4bdff44e5337
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 2e232ba7-2447-5193-9226-1b90722d3851
+  definition: 基于影像基准的坐标参照系。
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: e2665618-a76d-5206-aa2a-0c8d165813fc
+status: valid

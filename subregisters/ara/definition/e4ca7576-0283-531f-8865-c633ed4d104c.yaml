@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.8.8
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: e1a9e4f7-54c0-5663-9f29-fc68ce6a73a5
+  definition: معلومات في سجل المصطلحات تشير إلى اسم اللغة
+  examples: []
+  notes: []
+dateAccepted: 2008-11-15 00:00:00+00:00
+id: e4ca7576-0283-531f-8865-c633ed4d104c
+status: valid

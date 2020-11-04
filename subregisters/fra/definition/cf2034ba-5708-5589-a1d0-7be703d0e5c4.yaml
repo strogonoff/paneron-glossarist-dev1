@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.2'
+    link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 6808128f-1768-5f92-a80b-33ec006ecef1
+  definition: système de coordonnées donnant la position des points relativement à
+    n axes perpendiculaires deux à deux
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: cf2034ba-5708-5589-a1d0-7be703d0e5c4
+status: superseded

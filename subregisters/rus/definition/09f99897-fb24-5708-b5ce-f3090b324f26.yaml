@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (Adapted from)
+    link: https://www.iso.org/standard/32620.html
+    ref: 'ISO/IEC 19501:2005 '
+  concept: 496d7ef8-0f46-5dcf-bfeb-97add1189d3e
+  definition: описание множества объектов, обладающих общими атрибутами, операциями,
+    методами,  отношениями и семантикой
+  examples: []
+  notes:
+  - Класс может использовать множество интерфейсов для определения набора операций,
+    которые он обеспечивает для своей среды. См. термин «интерфейс»
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 09f99897-fb24-5708-b5ce-f3090b324f26
+status: valid

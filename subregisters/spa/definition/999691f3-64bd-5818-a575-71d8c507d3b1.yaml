@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '3.3'
+    link: https://www.iso.org/standard/57303.html
+    ref: ISO 19110:2016
+  concept: 9cde52c2-6d33-5a4c-a103-df48884e2e4d
+  definition: relación que une instancias de un tipo de objeto geográfico con instancias
+    del mismo o diferente tipo de objeto geográfico
+  examples: []
+  notes: []
+dateAccepted: 2005-02-15 00:00:00+00:00
+id: 999691f3-64bd-5818-a575-71d8c507d3b1
+status: valid

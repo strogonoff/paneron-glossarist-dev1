@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (derived from)
+    link: https://www.iso.org/standard/2517.html
+    ref: 'ISO 12620:1999 '
+  concept: a2c2b0c3-ad9b-5fa3-bb23-385828e2e7c2
+  definition: система понятий, основанная на ассоциативных, т.е. тематических или
+    прагматических отношениях
+  examples: []
+  notes:
+  - Адаптировано из  ISO 12620:1999.
+  - существует ассоциативная связь между понятиями "образование" и "обучение", "выпечка"и
+    " печь".
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 94603226-2aa6-53dc-919a-eaaf71f5b0a0
+status: superseded

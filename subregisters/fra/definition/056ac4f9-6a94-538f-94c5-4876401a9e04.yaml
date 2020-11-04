@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105
+  concept: 9ba40ed5-ece8-555e-b4b4-2fefe33c76db
+  definition: processus déterminant si une implémentation satisfait un critère d'acceptation
+    et permet à l'utilisateur de déterminer s'il accepte l'implémentation
+  examples: []
+  notes: []
+dateAccepted: 2000-11-16 00:00:00+00:00
+id: 056ac4f9-6a94-538f-94c5-4876401a9e04
+status: valid

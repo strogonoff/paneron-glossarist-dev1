@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.12'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: f4caa91b-0957-599e-8994-16a4ac63ee76
+  definition: 데이터 품질 결과를 보고하는 값의 유형
+  examples:
+  - 부울린 변수, 백분율, 비율
+  notes:
+  - 데이터 품질 값 유형은 항상 데이터 품질 결과를 규정한다.
+dateAccepted: 2007-11-01 00:00:00+00:00
+id: 7214641b-efc4-5938-bb57-591656c102ed
+status: retired

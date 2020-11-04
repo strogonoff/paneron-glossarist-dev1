@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.60
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 830f91e7-dbc6-5328-9680-a8513557657f
+  definition: punto en el espacio del objeto que es capturado por un sensor
+  examples: []
+  notes:
+  - En teledetección y en fotogrametría aérea un punto objeto es un punto definido
+    en un sistema de referencia de coordenadas fijo en la Tierra.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 2386de5a-d665-5aaf-af78-63cfc9dc1b79
+status: valid

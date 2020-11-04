@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.25
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: 17eb3a74-e8e9-5cfc-aed7-7832b8a706ad
+  definition: position d'un point relative aux positions d'autres points
+  examples: []
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: b38f6052-20c1-5586-b7ac-9dc05ebc17c4
+status: valid

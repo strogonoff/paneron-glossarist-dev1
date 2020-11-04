@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: d02c5ba2-6268-5a0d-a263-257e652f3d2c
+  definition: конкретный экземпляр сервиса
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 19f2e2da-ab1d-587f-9abf-961b0c25e927
+status: valid

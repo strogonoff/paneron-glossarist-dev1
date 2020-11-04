@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: c246a9b3-727d-5cf0-b6b3-e72d6354fc30
+  definition: verkostossa oleva sijaintipiste, jolla on vaikutusta valittaessa reittiehdotuksia,
+    jotka mahdollisesti vastaavat reitinhakupyyntöä
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: c1f6f385-bac9-576b-99fa-ed645fc0e391
+status: valid

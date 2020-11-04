@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.11
+    link: https://www.iso.org/standard/69325.html
+    ref: ISO 19101-2:2018
+  concept: e6e4e6b6-bd8b-58d5-b912-b4da33a6a8e7
+  definition: 지구의 위치와 연관된 영상
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: a3ce1ef5-1e1a-5ddb-9be4-84cb8f91a1e3
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: 98afed8a-8c6b-5591-b794-d6ea2a981a14
+  definition: sen ajan arvo, jona objektin tila mitataan ja tiedot tallennetaan muistiin
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 54ac9bfe-6ce0-5200-83b0-41ccc46312f7
+status: valid

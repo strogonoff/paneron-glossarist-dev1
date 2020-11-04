@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132:2007
+  concept: d0e5ebfa-7dde-5e8e-af70-577c1a6ee5b2
+  definition: 取值为正的、对称的且满足三角不等式的属性类值对的度量。
+  examples: []
+  notes:
+  - 如果对任意的x,y而言，都能使d(x,y)>0,则度量"d"是正的, 其中x/= y和d( x , x )= 0。如果对任意的x,y而言，都能使d(x,y)=d(y,x),
+    则度量"d"是对称。如果对任意的a,x,y而言，都能使d(x,y)<=d(x,a)+d(a,y),则度量"d"满足三角形不等式。所有数值或向量属性都有这样的度量,最常见的欧几里德度量基于在每一维上正方形的差异的平方根总和。其他非欧几里德度量可考虑'空间的曲率(如沿球体的表面)。
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: c7365a7a-800d-5253-8565-318e70b093f6
+status: valid

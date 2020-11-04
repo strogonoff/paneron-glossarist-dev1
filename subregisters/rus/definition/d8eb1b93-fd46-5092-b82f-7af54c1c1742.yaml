@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.49
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: f33afb57-26db-50be-b768-d24246e192f3
+  definition: дочерний элемент   объекта в  GML
+  examples: []
+  notes:
+  - Соответствует атрибуту объекта и роли ассоциации объекта в ISO 19109.  Если свойство
+    объекта в GML имеет атрибут xlink:href,  который относится к объекту, то свойство
+    представляет роль ассоциации объекта
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: d8eb1b93-fd46-5092-b82f-7af54c1c1742
+status: valid

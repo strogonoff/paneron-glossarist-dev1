@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.11'
+    link: https://www.iso.org/standard/32574.html
+    ref: ISO 19156:2011
+  concept: 0126e62f-744c-57dd-90c9-15e84348fa5f
+  definition: 측정 행위 또는 속성값을 결정하는 행위
+  examples: []
+  notes: []
+dateAccepted: 2011-12-15 00:00:00+00:00
+id: cc1891c8-d2bb-5c36-9ed4-c5515604523e
+status: valid

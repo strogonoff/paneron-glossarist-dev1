@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: 496ad627-e5b6-5cc2-8e32-6b0ad872fc9d
+  definition: positionsbaserad tjänst
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 825841b0-d0eb-53c6-b4c6-ad64c35ebe23
+status: valid

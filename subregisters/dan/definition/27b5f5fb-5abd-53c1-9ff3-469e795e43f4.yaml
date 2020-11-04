@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 0e2de1e6-e028-530b-ab62-5a9b63d08f24
+  definition: parameter eller sæt af parametre, der tjener som reference eller grundlag
+    for beregning af andre parametre
+  examples: []
+  notes:
+  - Et datum definerer positionen af nulpunkt, målestok og orientering af akserne
+    i et koordinatsystem.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 27b5f5fb-5abd-53c1-9ff3-469e795e43f4
+status: superseded

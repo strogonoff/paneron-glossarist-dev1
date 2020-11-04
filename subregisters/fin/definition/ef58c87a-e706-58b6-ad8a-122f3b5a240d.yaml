@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.58
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 7ada0bc8-bc25-562a-ac89-750d172dfdf9
+  definition: XML-dokumentissa oleva merkintä, joka rajaa elementin sisällön
+  examples:
+  - <Road>.
+  notes:
+  - Tunnistetta, jossa ei ole kauttaviivaa (esim. <Road>) kutsutaan alkutunnisteeksi
+    ja sellaista, jossa on kauttaviiva, (esim. </Road>) lopputunnisteeksi.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: ef58c87a-e706-58b6-ad8a-122f3b5a240d
+status: valid

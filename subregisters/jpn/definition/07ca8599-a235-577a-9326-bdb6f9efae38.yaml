@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 699c95c4-91ce-55c5-9a41-cef92f5a2427
+  definition: データ品質副要素の評価尺度。
+  examples:
+  - 　属性値が正しいものの百分率。
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 07ca8599-a235-577a-9326-bdb6f9efae38
+status: retired

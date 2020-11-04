@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.17'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: 6fa8741a-197e-5a37-b1e9-c2fbcd6e6ad5
+  definition: объект, линейно расположенный вдоль связанного (размещающего) объекта
+  examples:
+  - Объект “мост” может быть позиционируемым объектом вдоль объекта “железная дорога”
+    [размещающий объект (4.18)]
+  notes: []
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 77ca4833-3940-53e4-bdc1-f0ec22fb54a9
+status: valid

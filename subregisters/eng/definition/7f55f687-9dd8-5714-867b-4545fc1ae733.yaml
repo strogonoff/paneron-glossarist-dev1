@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: 22344b11-73a8-5c14-8ea8-63a74b0c1027
+  definition: grid associated with a transformation that can be used to convert grid
+    coordinate values to values of coordinates referenced to an external coordinate
+    reference system
+  examples: []
+  notes:
+  - If the coordinate reference system is related to the earth by a datum, the grid
+    is a georeferenceable grid.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 7f55f687-9dd8-5714-867b-4545fc1ae733
+status: valid

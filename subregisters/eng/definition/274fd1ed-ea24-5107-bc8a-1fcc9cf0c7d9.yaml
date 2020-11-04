@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26013.html
+    ref: ISO 19108:2002
+  concept: fc23bcb2-e5f2-5016-8e75-4472a684f81e
+  definition: number of days elapsed since Greenwich mean noon on 1 January 4713 BC,
+    Julian proleptic calendar
+  examples: []
+  notes: []
+dateAccepted: 2002-09-01 00:00:00+00:00
+id: 274fd1ed-ea24-5107-bc8a-1fcc9cf0c7d9
+status: valid

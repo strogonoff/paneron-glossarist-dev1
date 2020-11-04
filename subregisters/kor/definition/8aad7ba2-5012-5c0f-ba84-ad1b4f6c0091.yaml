@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 4e2333ac-28e6-5694-8cc5-39db3801abf0
+  definition: 제품을 수령하는 기관 또는 개인
+  examples: []
+  notes:
+  - The customer can be internal or external to the supplier organisation.
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 8aad7ba2-5012-5c0f-ba84-ad1b4f6c0091
+status: valid

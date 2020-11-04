@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 1776de4d-059e-59a8-a134-d2cd997b84b9
+  definition: geometriskt komplex vars geometriska grundelement har ett ett-till-ettförhållande
+    till topologiska grundelement i ett topologiskt komplex, på ett sätt så att avgränsningsförhållandena
+    i de två komplexen stämmer överens
+  examples: []
+  notes:
+  - In such a realization the topological primitives are considered to represent the
+    interiors of the corresponding geometric primitives. Composites are closed.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: ab05e990-081f-56a1-89ef-d6c64ec6c10c
+status: superseded

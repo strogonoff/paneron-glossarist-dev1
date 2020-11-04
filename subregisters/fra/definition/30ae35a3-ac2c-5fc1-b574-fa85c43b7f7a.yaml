@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 8bffaf55-5e60-5e4f-b36d-73126661a5e0
+  definition: collection de n-uplets de coordonnées dans le même système de coordonnées
+    de référence
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 30ae35a3-ac2c-5fc1-b574-fa85c43b7f7a
+status: superseded

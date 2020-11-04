@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 7844e790-2e19-5d2d-9b9b-1dd6bdeb43db
+  definition: "<vid test> resultat som anger överensstämmelse\n med angivna krav"
+  examples: []
+  notes: []
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 3c7750e4-6275-550c-a90b-6c0424de4dcc
+status: valid

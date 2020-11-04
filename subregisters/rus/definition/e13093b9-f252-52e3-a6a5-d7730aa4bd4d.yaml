@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: '4.1'
+    link: https://www.iso.org/standard/26019.html
+    ref: ISO 19114:2003
+  concept: 9108eb4e-0bce-5596-b8c0-d56b51b82727
+  definition: пороговое значение или набор пороговых значений для  оценки качества
+    данных, по которым определяют степень соответствия  спецификации продукта или
+    потребностям пользователя
+  examples: []
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: e13093b9-f252-52e3-a6a5-d7730aa4bd4d
+status: retired

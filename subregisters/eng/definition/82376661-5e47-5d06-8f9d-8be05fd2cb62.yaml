@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - ref: UML 2
+  concept: 2774ceba-927d-5a39-a294-f0db64514ff8
+  definition: relationship that signifies that a single or a set of model elements
+    requires other model elements for their specification or implementation
+  examples: []
+  notes:
+  - This means that the complete semantics of the depending elements is either semantically
+    or structurally dependent on the definition of the supplier element(s).
+dateAccepted: 2015-12-01 00:00:00+00:00
+id: 82376661-5e47-5d06-8f9d-8be05fd2cb62
+status: valid

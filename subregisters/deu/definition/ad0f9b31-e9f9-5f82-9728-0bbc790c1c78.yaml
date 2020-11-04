@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.41
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 24ba2521-05d1-55ce-a95e-f5e042adbd16
+  definition: Wert, der durch eine Zahl mit einer Einheit oder durch Anwendung eines
+    skalierten Referenzsystems beschrieben wird
+  examples: []
+  notes:
+  - When used as a noun, measure is a synonym for physical quantity.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: ad0f9b31-e9f9-5f82-9728-0bbc790c1c78
+status: valid

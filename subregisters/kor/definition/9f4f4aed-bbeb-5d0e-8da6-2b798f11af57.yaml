@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/26020.html
+    ref: ISO 19115:2003
+  concept: 7d9cad17-491f-59ce-b732-971808bec4db
+  definition: 데이터에 관한 데이터
+  examples: []
+  notes: []
+dateAccepted: 2008-12-30 00:00:00+00:00
+id: 9f4f4aed-bbeb-5d0e-8da6-2b798f11af57
+status: superseded

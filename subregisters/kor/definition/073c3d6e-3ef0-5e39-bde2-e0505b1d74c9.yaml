@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.15
+    link: https://www.iso.org/standard/67039.html
+    ref: ISO 19115-2:2019
+  concept: 5be022c2-f072-526a-8205-5a9baaf1b037
+  definition: 격자의 위치에 대한 위치를 지정하는 두 개 또는 그 이상의 연속된 숫자
+  examples: []
+  notes: []
+dateAccepted: 2009-02-15 00:00:00+00:00
+id: 073c3d6e-3ef0-5e39-bde2-e0505b1d74c9
+status: valid

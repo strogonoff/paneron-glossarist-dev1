@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.3
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 8b97b2cf-c95a-511a-81f9-b2aa05dbf489
+  definition: namn-värdepar i ett XML-element
+  examples: []
+  notes:
+  - In this document an attribute is an XML attribute unless otherwise specified.
+    The syntax of an XML attribute is  "Attribute::= Name = AttValue". An attribute
+    typically acts as an XML element modifier (e.g.  <Road gml:id = "r1" />; here
+    gml:id is an attribute.
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: dfece8e1-da86-528d-ba53-6c9e684af536
+status: valid

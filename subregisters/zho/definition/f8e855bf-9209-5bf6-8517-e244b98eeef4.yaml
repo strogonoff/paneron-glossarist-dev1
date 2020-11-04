@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: 4.1.17
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: 66ab3795-8ffa-54ba-9ef2-c3f8f7b9fd60
+  definition: 数据生产者和数据用户国际团体正在使用的现存地理信息标准。
+  examples: []
+  notes:
+  - GDF、S-57和DIGEST是现行实用标准的实例。
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: f8e855bf-9209-5bf6-8517-e244b98eeef4
+status: valid

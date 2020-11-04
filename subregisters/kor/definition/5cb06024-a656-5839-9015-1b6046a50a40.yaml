@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: '2.6'
+    ref: VIM:1993
+  concept: 7b23afbd-42a9-5484-8150-cbf5465a6056
+  definition: 측정에 따라 얻어진 특정량
+  examples: []
+  notes: []
+dateAccepted: 2006-12-01 00:00:00+00:00
+id: 5cb06024-a656-5839-9015-1b6046a50a40
+status: valid

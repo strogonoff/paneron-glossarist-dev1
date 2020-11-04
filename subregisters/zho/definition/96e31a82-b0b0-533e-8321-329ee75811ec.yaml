@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/41126.html
+    ref: ISO 19111:2007
+  concept: 8bffaf55-5e60-5e4f-b36d-73126661a5e0
+  definition: 相对于同一坐标系的坐标元组的集合。
+  examples: []
+  notes: []
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 96e31a82-b0b0-533e-8321-329ee75811ec
+status: superseded

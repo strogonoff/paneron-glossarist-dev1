@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: c246a9b3-727d-5cf0-b6b3-e72d6354fc30
+  definition: localización en la red que desempeña un papel en la selección de rutas
+    candidatas que potencialmente cumplen los requisitos de enrutado
+  examples: []
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 2120db4e-94c6-5d76-94f9-299ab3cbab63
+status: valid

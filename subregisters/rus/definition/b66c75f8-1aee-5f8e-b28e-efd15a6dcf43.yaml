@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.30
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 421ae5e3-6466-5d3f-bf99-9407353d704e
+  definition: граф, встроенный в топологический комплекс и состоящий из всех ребер
+    и связанных узлов  этого комплекса
+  examples: []
+  notes:
+  - Линейно-узловой граф представляет собой подкомплекс комплекса, в который он вложен
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: b66c75f8-1aee-5f8e-b28e-efd15a6dcf43
+status: valid

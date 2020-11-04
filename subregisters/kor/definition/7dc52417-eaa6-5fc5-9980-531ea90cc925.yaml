@@ -1,0 +1,10 @@
+data:
+  authoritative_source:
+  - ref: CEOS WGCV
+  concept: 033f38c7-7677-5c1e-8bcb-7ad198efe171
+  definition: 인지 및 통제하고 있는 신호 입력에 대한 시스템의 반응을 정량적으로 정의하는 과정
+  examples: []
+  notes: []
+dateAccepted: 2008-06-01 00:00:00+00:00
+id: 7dc52417-eaa6-5fc5-9980-531ea90cc925
+status: valid

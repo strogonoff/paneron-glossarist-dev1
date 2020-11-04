@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.22'
+    link: https://www.iso.org/standard/37805.html
+    ref: ISO 19116:2004
+  concept: 0c133d79-be57-55e6-a7ef-d3335378e19d
+  definition: a)Ukuran ketepatan data berbanding dengan nilai sebenar b)Keupayaan
+    untuk mengukur sesuatu kuantiti secara konsisten.(menengah atas)
+  examples: []
+  notes:
+  - Precision is usually expressed as a statistical value based upon a set of repeated
+    measurements such as the standard deviation from the sample mean.
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 0093f2c5-1968-5c97-9ae6-03eabc268191
+status: valid

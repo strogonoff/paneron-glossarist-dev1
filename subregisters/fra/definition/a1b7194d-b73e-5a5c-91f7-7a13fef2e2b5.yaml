@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 450c0504-23ba-55e6-80aa-8c2857901906
+  definition: frontière représentée par un ensemble de primitives topologiques orientées
+    de dimension topologique inférieure, délimitant l'étendue d'un objet topologique
+  examples: []
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: a1b7194d-b73e-5a5c-91f7-7a13fef2e2b5
+status: superseded

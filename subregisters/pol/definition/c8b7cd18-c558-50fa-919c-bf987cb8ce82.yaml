@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40115.html
+    ref: ISO 19125-2:2004
+  concept: e2a8c291-076a-5aeb-9d8e-9e05388f4de6
+  definition: reprezentacja zjawiska występującego w świecie rzeczywistym, powiązanego
+    z pozycją względem  Ziemi.
+  examples: []
+  notes: []
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: c8b7cd18-c558-50fa-919c-bf987cb8ce82
+status: valid

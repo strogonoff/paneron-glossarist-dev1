@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.14'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 99e33134-c01b-5198-85ce-35210d95024c
+  definition: identifierbar samling översättningsregler som definierar kodningen av
+    en viss datastruktur
+  examples:
+  - XML, ISO 10303-21, ISO/IEC 8211.
+  notes:
+  - An encoding rule specifies the types of data to be converted as well as the syntax,
+    structure and codes used in the resulting data structure.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: 234342d1-f923-511a-b5f0-5f95ffe18706
+status: valid

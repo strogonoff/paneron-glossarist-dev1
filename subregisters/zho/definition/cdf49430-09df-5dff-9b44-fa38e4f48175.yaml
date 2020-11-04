@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: 201cb065-095c-5e2f-b4be-d5fa1a318148
+  definition: 几何表达式的处理与计算，用于几何操作的实现。
+  examples:
+  - 计算几何操作包括对几何包容或相交的测试、凸壳或缓冲区的计算、几何对象间最短路径的寻找。
+  notes: []
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: cdf49430-09df-5dff-9b44-fa38e4f48175
+status: retired

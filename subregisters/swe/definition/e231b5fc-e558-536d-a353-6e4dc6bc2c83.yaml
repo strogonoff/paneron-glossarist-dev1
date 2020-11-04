@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.23'
+    link: https://www.iso.org/standard/32575.html
+    ref: ISO 19157:2013
+  concept: d253b2ae-5c00-5d40-85a6-c0dcea54ad4e
+  definition: självständigt dokument som i fritext detaljerat informerar om valda
+    datakvalitetsmått och motsvarande datakvalitetsutfall
+  examples: []
+  notes: []
+dateAccepted: 2013-12-15 00:00:00+00:00
+id: e231b5fc-e558-536d-a353-6e4dc6bc2c83
+status: valid

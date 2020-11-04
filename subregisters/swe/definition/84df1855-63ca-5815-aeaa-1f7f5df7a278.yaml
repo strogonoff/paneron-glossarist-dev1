@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: e22d42d5-0e50-5ac7-8dc0-849bc4a6722e
+  definition: måttenhet som används för att ange ett datakvalitetsresultat
+  examples:
+  - '"metre"'
+  notes:
+  - A data quality value unit is provided only when applicable for a data quality
+    result.
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 84df1855-63ca-5815-aeaa-1f7f5df7a278
+status: retired

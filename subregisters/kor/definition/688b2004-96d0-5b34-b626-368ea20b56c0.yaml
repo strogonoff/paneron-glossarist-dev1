@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.37
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: d80e5d2a-5d10-51e8-abc4-6126d53dc2e6
+  definition: 전체 집합으로부터 경계 및 내부를 제거한 차집합
+  examples: []
+  notes:
+  - 외부의 개념은 위상 복합체와 기하 복합체 모두에 적용 가능하다.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 688b2004-96d0-5b34-b626-368ea20b56c0
+status: valid

@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: af830139-81bb-5ae1-aec1-5bfd70facdfc
+  definition: покрытие, область  определения которого составлена из точек
+  examples: []
+  notes: []
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 82295007-91a0-5e7e-b34b-7684a90e8236
+status: valid

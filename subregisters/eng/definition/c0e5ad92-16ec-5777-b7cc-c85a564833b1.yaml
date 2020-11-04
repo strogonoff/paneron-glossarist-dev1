@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.100
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 124d381d-594e-5680-aae0-039564d524a0
+  definition: topological object that represents a single, homogeneous, non-decomposable
+    element
+  examples: []
+  notes:
+  - A topological primitive corresponds to the interior of a geometric primitive of
+    the same dimension in a geometric realization.
+dateAccepted: 2019-12-02 00:00:00+00:00
+id: c0e5ad92-16ec-5777-b7cc-c85a564833b1
+status: valid

@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.18
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: cd134c80-984f-541c-a87d-97757e283fc8
+  definition: ändring av ett objekts läge i rummet
+  examples:
+  - This may be motion of the position sensor mounted on a vehicle or other platform
+    or motion of an object being tracked by a positioning system.
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 296cb3d0-5f56-5701-a0e2-8eeb3493da8d
+status: valid

@@ -1,0 +1,18 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26012.html
+    ref: ISO 19107:2003
+  concept: b8b15aa5-ebee-5508-a48c-60c66c0cb1b8
+  definition: hubungan antara dua domain (seperti dua kompleks) supaya terdapat fungsi
+    pemeliharaan struktur dari satu ke yang lain
+  examples: []
+  notes:
+  - Homomorphisms are distinct from isomorphisms in that no inverse function is required.
+    In an isomorphism, there are essentially two homomorphisms that are functional
+    inverses of one another. Continuous functions are topological homomorphisms because
+    they preserve "topological characteristics." The mapping of topological complexes
+    to their geometric realizations preserves the concept of boundary and is therefore
+    a homomorphism.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 7b6cd06c-fcf4-54f5-a96f-fcf14b0302d9
+status: superseded

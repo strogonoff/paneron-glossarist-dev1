@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: f58c7a68-88fc-5431-9f30-644324f0dc08
+  definition: основная единица географической информации, которая может быть получена
+    в виде карты по запросу с сервера
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: f7afd05c-dd24-5083-8586-0ac5ed213268
+status: valid

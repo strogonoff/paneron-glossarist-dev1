@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.18
+    link: https://www.iso.org/standard/70882.html
+    ref: ISO 19116:2019
+  concept: cd134c80-984f-541c-a87d-97757e283fc8
+  definition: cambio en la posición de un objeto a lo largo del tiempo, representado
+    mediante el cambio de los valores de sus coordenadas con respecto a un marco de
+    referencia particular
+  examples:
+  - Puede ser el movimiento de un sensor de posición montado en un vehículo u otra
+    plataforma o el movimiento de un objeto que es segui¬do por un sistema de posicionamiento.
+  notes: []
+dateAccepted: 2004-07-01 00:00:00+00:00
+id: 08e44ef6-ea50-5319-a755-bf81e80004ff
+status: valid

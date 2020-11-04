@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.11
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 946c702e-dfad-5a47-ae83-dc6ceb81ee2f
+  definition: samling ytor där varje yta delar gränslinje med minst en av de övriga
+    ytorna
+  examples: []
+  notes:
+  - A composite surface, as a set of direct positions, has all the properties of a
+    surface.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 59ec5ccd-642d-53c0-b8df-8bf22f4a8169
+status: valid

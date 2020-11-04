@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: d02c5ba2-6268-5a0d-a263-257e652f3d2c
+  definition: bestimmte Instanz eines Dienstes
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 57199c43-2a82-53eb-9b93-4e1485e355cc
+status: valid

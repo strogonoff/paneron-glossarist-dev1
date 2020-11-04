@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: '4.5'
+    link: https://www.iso.org/standard/32566.html
+    ref: ISO 19148:2012
+  concept: e93be2a0-04b0-544f-ad5a-7362a2e484f4
+  definition: 로케이팅 지형지물을 따라 위치한 지형지물의 발생에 관한 정보
+  examples: []
+  notes:
+  - A feature event includes the linearly referenced location of the located feature
+    along the locating feature.
+  - A feature event may be qualified by the instant in which, or period during which,
+    the feature event occurred.
+dateAccepted: 2012-02-15 00:00:00+00:00
+id: 5c0dd84f-cf16-5009-8086-fe8ba6f77509
+status: valid

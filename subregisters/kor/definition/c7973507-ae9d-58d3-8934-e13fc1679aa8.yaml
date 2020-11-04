@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.23
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: 511210c8-5d3d-5ee2-bd10-dca74f7983a8
+  definition: 하나의 변과 그 변이 갖는 방향성 간의 연관으로 표현된 방향성 위상 객체
+  examples: []
+  notes:
+  - 방향성 변은 그 변의 방향과 일치하면 + 방향을, 그렇지 않으면 - 방향을 가진다. 방향성 변은 계산 위상에서 동일한 변의 오른편(-)인지
+    왼편(+)인지를 구분하기 위해 사용되며, 동일한 변의 시작 절점(-)과 끝 절점(+)을 구분하여 컴퓨터를 이용하는 위상학이 이러한 개념을 표현할
+    수 있도록 한다.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: c7973507-ae9d-58d3-8934-e13fc1679aa8
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.23
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: 2b00e7f7-51fa-5223-9f90-fd48787c5267
+  definition: 측지 위도 및 측지 경도(3차원의 경우는 타원체고)에 의해서 위치를 기술하는 좌표 체계
+  examples: []
+  notes: []
+dateAccepted: 2003-02-15 00:00:00+00:00
+id: 44d5df96-dc1d-5763-85ed-71875e377ad8
+status: valid

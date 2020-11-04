@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.35
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: beb13e7f-d3b0-5c35-ad7d-530e4d6259e0
+  definition: XML document with a root element that is one of the elements AbstractFeature,
+    Dictionary or TopoComplex specified in the GML schema or any element of a substitution
+    group of any of these elements.
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 41043c74-4a1d-5aba-bc76-9395365ba577
+status: valid

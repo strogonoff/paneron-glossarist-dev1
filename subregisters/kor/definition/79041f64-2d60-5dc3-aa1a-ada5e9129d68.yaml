@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: modified
+    ref: Web Service Glossary
+  concept: fd4cfb7d-300f-574b-8270-f747a2c6a821
+  definition: 행위들이 단위단위로 성공 또는 실패하는 동일 작업단위로 합치된 행위 집합
+  examples: []
+  notes: []
+dateAccepted: 2014-02-15 00:00:00+00:00
+id: 79041f64-2d60-5dc3-aa1a-ada5e9129d68
+status: valid

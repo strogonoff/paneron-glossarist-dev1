@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: Adapted from ASTM E2544
+  concept: 02a438ed-508f-5120-9476-8b80e2d8374a
+  definition: multiple signals returned and detected for a given emitted pulse, such
+    as when a laser beam hitting multiple objects separated in range is split
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: 28870c9a-ffd6-5aef-ac8e-3a9ddd224ab7
+status: valid

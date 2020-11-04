@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128:2005
+  concept: b6266e4b-b919-599c-9144-0064f19ec149
+  definition: representación de información geográfica como un fichero de imagen digital
+    apropiado para mostrarse en una pantalla de ordenador
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: bc872c21-09ff-5728-ac71-44d285d94caa
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.58
+    link: https://www.iso.org/standard/75676.html
+    ref: ISO 19136-1:2020
+  concept: 7ada0bc8-bc25-562a-ac89-750d172dfdf9
+  definition: balise dans un document XML délimitant le contenu d'un élément
+  examples: []
+  notes: []
+dateAccepted: 2007-09-01 00:00:00+00:00
+id: 7b7005d4-8b4e-54b8-a960-5d09ff3b917a
+status: valid

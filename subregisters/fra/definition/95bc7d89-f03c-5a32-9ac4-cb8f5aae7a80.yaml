@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40601.html
+    ref: ISO 19132
+  concept: e7a81596-a7fe-5092-876e-17ca55979774
+  definition: communiquer, exécuter des programmes, ou transférer des données entre
+    des unités fonctionnelles diverses, d'une façon n'exigeant de l'utilisateur que
+    peu ou pas de connaissance des caractéristiques spécifiques de ces unités
+  examples: []
+  notes: []
+dateAccepted: 2007-10-15 00:00:00+00:00
+id: 95bc7d89-f03c-5a32-9ac4-cb8f5aae7a80
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32553.html
+    ref: ISO 19135:2005
+  concept: 191113d2-1fc9-5403-98a2-507fa683b3f1
+  definition: struktureret sæt af registre for et domæne af registerelementer, bestående
+    af et hovedregister og et sæt af delregistre
+  examples:
+  - ISO 6523 er associeret med et hierarkisk register. Hovedregisteret indeholder
+    skemaer for identifikation af organisation -  og hvert delregister indeholder
+    et sæt af organisationsidentifikatorer, der er i overensstemmelse med et enkelt
+    skema for identifikation af organisation.
+  notes: []
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: 2417e644-e461-57c6-b45c-6a4778b2063c
+status: valid

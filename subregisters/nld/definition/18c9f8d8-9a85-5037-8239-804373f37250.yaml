@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.42
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: f1cbe5e4-4cba-59e5-a3fa-e8bf01779453
+  definition: doorsnijding van een ellipsoïde door een vlak welke de kortste as van
+    de ellipsoïde bevat
+  examples: []
+  notes:
+  - Deze term wordt vaak gebruikt voor de pool tot pool boog in plaats van de volledige,
+    gesloten omtrek.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 18c9f8d8-9a85-5037-8239-804373f37250
+status: valid

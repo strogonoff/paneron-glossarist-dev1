@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32620.html
+    ref: ISO/IEC 19501
+  concept: 9999cdbf-bde0-58a2-811f-c3cb64e9e576
+  definition: modulær, umiddelbart brugbar og udskiftelig del af et system, der sammenfatter
+    implementering og som passer til  og realiserer et sæt grænseflader
+  examples: []
+  notes:
+  - En komponent repræsenterer en fysisk del af implementeringen af et system, inkl.
+    softwarekode (kilde, binær eller eksekverbar) eller tilsvarende såsom scripts
+    eller kommandofiler.
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: ee6aaf9e-3710-5203-bb2e-b08b0a926343
+status: superseded

@@ -1,0 +1,16 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.38
+    link: https://www.iso.org/standard/66175.html
+    ref: ISO 19107:2019
+  concept: da5d8e9d-b6db-5282-8ae8-6360c7cc7ea3
+  definition: 2-dimensional topologisk grundform
+  examples: []
+  notes:
+  - Den geometriske realisering af et areal er en flade. Afgrænsningen af en flade
+    er lig med mængden af retningsbestemte kanter (inden for samme topologiske kompleks),
+    som er forbundet med fladen via grænserelationerne. Disse kan være organiseret
+    som ringe.
+dateAccepted: 2003-05-01 00:00:00+00:00
+id: 2854dc99-0cd8-5f52-9774-2d6be4f36bff
+status: valid

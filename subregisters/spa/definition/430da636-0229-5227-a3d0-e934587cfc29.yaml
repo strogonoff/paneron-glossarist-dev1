@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.43'
+    link: https://www.iso.org/standard/64768.html
+    ref: ISO/TS 19159-2:2016
+  concept: 18d8bfd7-4a14-5cbd-be82-9c281a79c1ae
+  definition: medida de la exactitud posicional de un conjunto de datos con respecto
+    a un datum vertical especificado
+  examples: []
+  notes: []
+dateAccepted: 2016-04-15 00:00:00+00:00
+id: 430da636-0229-5227-a3d0-e934587cfc29
+status: valid

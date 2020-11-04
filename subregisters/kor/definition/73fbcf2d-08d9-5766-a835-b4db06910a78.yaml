@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - clause: (1994)
+    ref: 'Jensen et al. '
+  concept: 4fa4b3ee-6229-5130-bc2d-bc7d3e1c5c1e
+  definition: 한 정보가 추상화된 현실 속에서 "참"이 되는 시간
+  examples: []
+  notes: []
+dateAccepted: 2008-12-19 00:00:00+00:00
+id: 73fbcf2d-08d9-5766-a835-b4db06910a78
+status: valid

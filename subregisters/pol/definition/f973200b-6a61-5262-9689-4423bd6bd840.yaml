@@ -1,0 +1,15 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.3
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: a07a76fa-b5e4-571b-8438-dd25850babaf
+  definition: system odniesienia wykorzystujący do opisu położenia co najmniej dwa
+    niezależne systemy odniesienia
+  examples: []
+  notes:
+  - Systemy odniesienia są niezależne od siebie, gdy wartości współrzędnych w jednym
+    z nich nie mogą być ani konwertowane, ani transformowane do drugiego.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: f973200b-6a61-5262-9689-4423bd6bd840
+status: valid

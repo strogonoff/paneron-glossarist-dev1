@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 4.1.21
+    link: https://www.iso.org/standard/59164.html
+    ref: ISO 19101-1:2014
+  concept: a22a92db-f56b-51a4-908f-c7a9d3fc42b5
+  definition: 用图形符号表达语法的语言。
+  examples: []
+  notes: []
+dateAccepted: 2002-07-01 00:00:00+00:00
+id: fda89daa-d285-55a7-9422-0a1aa29d9370
+status: valid

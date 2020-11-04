@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.7'
+    link: https://www.iso.org/standard/26018.html
+    ref: ISO 19113:2002
+  concept: 699c95c4-91ce-55c5-9a41-cef92f5a2427
+  definition: ocena elementu podrzędnego jakości danych
+  examples:
+  - Procent poprawnych wartości atrybutu.
+  notes: []
+dateAccepted: 2002-12-01 00:00:00+00:00
+id: 6fa6e90b-d140-5486-8a67-f33c7c63d3ab
+status: valid

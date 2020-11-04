@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - ref: OWL
+  concept: 7d15fa72-52f1-55b9-899e-254f8534e186
+  definition: Restricción de la cardinalidad que se aplica a literales o individuos
+    que están conectados mediante una propiedad de datos o una propiedad de objeto
+    y son instancia de un rango calificado [tipo de datos o clase]
+  examples: []
+  notes: []
+dateAccepted: 2015-07-01 00:00:00+00:00
+id: c11e8ede-fe6e-5854-bddb-9c4faf108000
+status: valid

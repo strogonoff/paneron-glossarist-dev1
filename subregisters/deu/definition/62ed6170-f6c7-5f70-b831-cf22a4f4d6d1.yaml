@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42137.html
+    ref: ISO 19143:2010
+  concept: ba20a463-5977-5400-a13b-413565d4ee25
+  definition: Menge von Operationen, die - auf eine Dateninstanz angewandt - den Wert
+    wahr oder falsch ergeben
+  examples: []
+  notes: []
+dateAccepted: 2010-10-15 00:00:00+00:00
+id: 62ed6170-f6c7-5f70-b831-cf22a4f4d6d1
+status: valid

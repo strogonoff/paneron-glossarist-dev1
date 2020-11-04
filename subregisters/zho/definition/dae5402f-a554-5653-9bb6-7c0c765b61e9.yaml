@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40114.html
+    ref: ISO 19125-1:2004
+  concept: e4ea65ec-49e6-50f2-bebc-8b0a1db8d8f4
+  definition: 限制于可在顶点间进行线性插值的二维几何要素，同时具有空间和非空间属性。
+  examples: []
+  notes: []
+dateAccepted: 2004-08-01 00:00:00+00:00
+id: dae5402f-a554-5653-9bb6-7c0c765b61e9
+status: valid

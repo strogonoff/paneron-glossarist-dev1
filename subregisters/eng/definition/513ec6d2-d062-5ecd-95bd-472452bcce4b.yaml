@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: '4.4'
+    link: https://www.iso.org/standard/32572.html
+    ref: ISO 19154:2014
+  concept: 32c64f4f-dcbf-57ac-a170-76a78f1dbb3f
+  definition: aspects or properties of an entity that affect the behaviour or expectations
+    of that entity in any given situation
+  examples: []
+  notes: []
+dateAccepted: 2014-11-01 00:00:00+00:00
+id: 513ec6d2-d062-5ecd-95bd-472452bcce4b
+status: valid

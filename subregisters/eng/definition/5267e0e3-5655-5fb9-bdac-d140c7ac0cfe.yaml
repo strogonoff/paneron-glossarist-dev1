@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.20
+    link: https://www.iso.org/standard/66847.html
+    ref: ISO 19130-1:2018
+  concept: 68ab9c97-d1a3-5e72-b195-016fd40fd8bb
+  definition: wavelength change resulting from relative motion of source and detector
+  examples: []
+  notes:
+  - In the SAR context, it is the frequency shift imposed on a radar signal due to
+    relative motion between the transmitter and the object being illuminated.
+dateAccepted: 2010-06-15 00:00:00+00:00
+id: 5267e0e3-5655-5fb9-bdac-d140c7ac0cfe
+status: valid

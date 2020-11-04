@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/26010.html
+    ref: ISO 19105:2000
+  concept: 625c0bf1-92b1-58cc-84f0-550664b3cc99
+  definition: 为满足特定要求，对实现所进行的专门测试。
+  examples: []
+  notes:
+  - 带有值的抽象测试用例的实例化。
+dateAccepted: 2000-12-15 00:00:00+00:00
+id: 3ea40acc-529f-5c1d-b3de-d489be4a1183
+status: valid

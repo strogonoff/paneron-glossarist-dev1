@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/42180.html
+    ref: ISO 9000:2005
+  concept: 986615a6-4564-5ae0-8d50-685d2bf24825
+  definition: organización o persona que proporciona un producto
+  examples: []
+  notes:
+  - El suministrador puede ser interno o externo a la organización del cliente.
+  - En el contexto de esta Especificación Técnica, el suministrador ha proporcionado
+    un producto vía un proceso que puede tener algún impacto en su calidad.
+dateAccepted: 2012-10-15 00:00:00+00:00
+id: 81a48423-d5d2-5499-a96a-53aca94a8acf
+status: valid

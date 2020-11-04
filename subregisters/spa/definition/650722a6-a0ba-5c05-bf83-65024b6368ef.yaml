@@ -1,0 +1,14 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.13
+    link: https://www.iso.org/standard/72217.html
+    ref: ISO 19146:2018
+  concept: 40a40061-e4a7-5dc1-9168-fa412530d8d3
+  definition: concepto que se asocia a un dominio específico
+  examples: []
+  notes:
+  - Un concepto puede asociarse con varios dominios y ser identificado separadamente
+    como un concepto de un dominio en relación con cada uno de ellos.
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 650722a6-a0ba-5c05-bf83-65024b6368ef
+status: valid

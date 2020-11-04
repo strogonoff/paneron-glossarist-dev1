@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - ref: UNFAO LCCS 2:2005
+  concept: 01bb6daf-187e-5fe0-b8ef-76ad954ed3b8
+  definition: cerapan litupan (bio) fizikal di permukaan bumi
+  examples: []
+  notes:
+  - Land cover is distinct from land use.
+dateAccepted: 2012-07-01 00:00:00+00:00
+id: 8baf9cf7-4e76-5ce3-86c7-16f0f5987de0
+status: valid

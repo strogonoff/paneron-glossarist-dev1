@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.72'
+    link: https://www.iso.org/standard/56113.html
+    ref: ISO/TS 19130-2:2014
+  concept: 61933915-3c1d-5725-8ae9-0f2719cdacbc
+  definition: 수중탐지에 수중음파탐지기를 사용하는 센서
+  examples: []
+  notes: []
+dateAccepted: 2014-01-15 00:00:00+00:00
+id: efc06fac-36d6-5e88-a53a-bc47eedcbfdf
+status: valid

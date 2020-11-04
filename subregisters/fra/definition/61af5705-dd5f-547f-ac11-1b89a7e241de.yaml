@@ -1,0 +1,11 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32546.html
+    ref: ISO 19128
+  concept: a9a87c6f-fda4-5664-9f60-327004bc75dd
+  definition: appel d'une opération par un client
+  examples: []
+  notes: []
+dateAccepted: 2005-12-01 00:00:00+00:00
+id: 61af5705-dd5f-547f-ac11-1b89a7e241de
+status: valid

@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: '4.13'
+    link: https://www.iso.org/standard/44212.html
+    ref: ISO 19118:2011
+  concept: 40848065-e794-5fce-b7e6-a20a27d12316
+  definition: преобразование данных в последовательность кодов
+  examples: []
+  notes: []
+dateAccepted: 2005-07-15 00:00:00+00:00
+id: d45bd3ec-5f49-5b0f-b1d8-5fc0e7773909
+status: valid

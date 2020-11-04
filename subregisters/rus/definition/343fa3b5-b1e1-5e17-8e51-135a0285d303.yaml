@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - clause: 3.2.6
+    link: https://www.iso.org/standard/20057.html
+    ref: ISO 1087-1:2000
+  concept: 70040933-0bf0-5f80-8970-4dbc22a5c652
+  definition: характеристика, необходимая для понимания понятия
+  examples: []
+  notes: []
+dateAccepted: 2010-11-01 00:00:00+00:00
+id: 343fa3b5-b1e1-5e17-8e51-135a0285d303
+status: valid

@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - clause: (E), 3.1.9
+    link: https://www.iso.org/standard/74039.html
+    ref: ISO 19111:2019
+  concept: cd1bc0ad-5a39-5d5b-8025-93ffe91dc90f
+  definition: Koordinatensystem, das durch ein Datum auf ein Objekt bezogen ist
+  examples: []
+  notes:
+  - For geodetic and vertical datums, the object will be the Earth.
+dateAccepted: 2007-07-01 00:00:00+00:00
+id: 7e783497-6789-5535-99d6-f6bb67b18c5c
+status: valid

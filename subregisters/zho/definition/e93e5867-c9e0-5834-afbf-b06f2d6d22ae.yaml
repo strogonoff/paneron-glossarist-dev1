@@ -1,0 +1,13 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/32551.html
+    ref: ISO 19133:2005
+  concept: f800b94d-fbfc-5021-878e-662897db2217
+  definition: 在组合路径中所使用的有关有向路段和转向的集合。
+  examples: []
+  notes:
+  - 行进策略用于将多个转向分解为方便的合法组合。它们可以简单为只是一个单一转向或是快速转向组合（在美国中西部"jogs”由一个转向紧跟一个反方向转向组成），也可能是由入口、出口和连接车道构成的非常复杂的组合（在英国称为"magic
+    roundabouts")。
+dateAccepted: 2005-10-15 00:00:00+00:00
+id: e93e5867-c9e0-5834-afbf-b06f2d6d22ae
+status: valid

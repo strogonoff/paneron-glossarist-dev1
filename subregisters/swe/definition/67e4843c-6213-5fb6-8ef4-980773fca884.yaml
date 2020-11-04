@@ -1,0 +1,12 @@
+data:
+  authoritative_source:
+  - link: https://www.iso.org/standard/40121.html
+    ref: ISO 19123:2005
+  concept: af830139-81bb-5ae1-aec1-5bfd70facdfc
+  definition: domänobjekttyp vars domän beskrivs av punkter
+  examples: []
+  notes:
+  - Domänen kan exempelvis vara ett punktraster.
+dateAccepted: 2005-08-15 00:00:00+00:00
+id: 67e4843c-6213-5fb6-8ef4-980773fca884
+status: valid
